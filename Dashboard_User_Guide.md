@@ -1,52 +1,72 @@
-This dashboard is designed to monitor the **MBF RAN Project - Phase 1** rollout progress across North, Middle, and South regions, with a specific focus on preventing **"插花" (Scattered Insertion)**.
+# Mobifone Regional Rollout Dashboard - User Guide (v1.0.0)
 
-### What is "插花"?
-In telecom engineering, **"插花"** refers to scattered, mixed, or non-continuous deployment (deploying "here and there" like flower arrangement). This dashboard uses **Polygon Clustering** to visualize site density and ensure deployment remains continuous and efficient.
-
-## 1. How to Update Data
-
-Whenever the **Master Site List** Excel file is updated, follow these steps to refresh the dashboard:
-
-1.  Ensure the new Excel file is saved in the directory: `E:\MBF Rollout Dashboard\`
-    - *Note: The script automatically picks up the latest file starting with "MBF RAN Project - Phase 1 PO - Master Site List -".*
-2.  Run the data generation script:
-    - Open a terminal/command prompt.
-    - Run: `python "E:\MBF Rollout Dashboard\generate_rollout_data.py"`
-3.  The script will process the Excel file and update `rollout_data.js`.
-4.  **Refresh your browser** (or press `Ctrl + F5`) to see the new data.
+Welcome to the **Mobifone Rollout Dashboard**. This tool is designed to provide real-time spatial monitoring of site delivery, planning, and cluster management for North, Middle, and South regions.
 
 ---
 
-## 2. Status Definitions
+## 1. Key Features
 
-The dashboard categorizes sites into three statuses based on specific columns in the Excel sheets:
+### 🗺️ Interactive Map
+- **Marker Clustering**: 10,000+ sites are clustered for optimal performance. Zoom in to see individual sites.
+- **Site Information**: Hover or click any site to view a detailed information card including:
+  - **PO & Region**
+  - **Existing eNodeB ID** (Formatted as clean integers)
+  - **Location**: Province, District, and precise Lat/Long.
+  - **Scenario & Site Type**: (e.g., Macro, IBC, CRAN).
+  - **Timeline**: The scheduled rollout week (Delivery plan W).
+  - **VIP Status**: High-priority sites (SVIP, VVIP, VIP) are highlighted with a gold border and larger radius.
 
-### ✅ READY (Green)
-- **Definition**: The site is technically finalized and ready for the rollout phase.
-- **Requirement**: The column **`Site configure Lock Date`** must contain a valid date/value.
+### 🔍 Advanced Filtering (2-Column Grid)
+The sidebar includes a compact filter grid to narrow down your view:
+- **Region**: Filter by North, Middle, or South.
+- **Site Status**:
+  - **Ready (Green)**: `Site configure Lock Date` is present.
+  - **Approved (Blue)**: `RF Approved` or `CDD Approved` is present.
+  - **Pending (Grey)**: No approval/lock date yet.
+- **Week Filter**: Filter by specific rollout weeks (W1, W2, etc.).
+- **Site Type**: Filter by physical deployment type (Macro, IBC, etc.).
+- **VIP Filter**: Isolate high-priority sites (SVIP, VVIP, VIP).
 
-### 🔵 APPROVED / NOT READY (Blue)
-- **Definition**: The site design has been approved, but it is not yet locked for configuration.
-- **Requirement**: The **`Site configure Lock Date`** is empty, BUT either **`RF Approved`** or **`CDD Approved`** columns contain a valid date/value.
+### 📏 Engineering Tools
+- **Distance Ruler (Pencil Icon)**: Click the pencil to activate. Click two points on the map to measure the exact distance (meters/kilometers) between them. Right-click to clear.
+- **Dark Mode (Moon Icon)**: Toggle between high-visibility light mode and premium dark mode.
+- **Reset View**: Quickly zoom out to see the full country view.
 
-### ⚪ PENDING (Grey)
-- **Definition**: The site is still in the planning or early design phase.
-- **Requirement**: All three columns (**`Site configure Lock Date`**, **`RF Approved`**, and **`CDD Approved`**) are empty or "None".
+### 💠 Official Regional Polygons
+The dashed lines on the map represent the **Official Planning Clusters** loaded from the regional Shapefiles. This helps engineering teams prevent **Scattered Insertion (插花)** by ensuring sites are deployed within their planned boundaries.
 
 ---
 
-## 3. Visualization Key
+## 2. Maintenance & Data Updates
 
-- **Zone Colors (Borders)**:
-  - **North**: Mobifone Blue
-  - **Middle**: Mobifone Yellow
-  - **South**: Mobifone Red
-- **VIP Highlight**: VIP sites have a **larger radius** and a **thick gold border** for immediate identification.
-- **Clusters**: The blue polygons on the map represent "Clusters" of sites. This helps you monitor **Scattered Insertion (插花)** patterns.
+The dashboard is built as a static application for high performance. To update the data:
+
+1.  **Update Master Excel**: Save your latest site list in the root folder: `E:\MBF Rollout Dashboard\`.
+2.  **Run Generator**: Open a terminal and run:
+    ```bash
+    python generate_rollout_data.py
+    ```
+    This script will:
+    - Clean all `nan` and `None` values.
+    - Remove decimal places from eNodeB IDs.
+    - Load official polygons from the regional folders.
+    - Generate a fresh `rollout_data.js`.
+3.  **Push to GitHub**:
+    ```bash
+    git add .
+    git commit -m "Update site data - [Date]"
+    git push
+    ```
+    *Vercel will automatically detect the push and update the live website.*
 
 ---
 
-## 4. Troubleshooting
+## 3. Troubleshooting
+- **Stuck at Loading**: If the loading screen doesn't disappear, ensure `rollout_data.js` exists and is valid. You can also click the "Click here if stuck" button.
+- **404 on Vercel**: Ensure the main file is named `index.html`.
+- **Missing Polygons**: Ensure the Shapefiles are located in their respective `Region` folders.
 
-- **Stuck at Loading**: If the dashboard stays on the "Loading" screen, ensure `rollout_data.js` exists in the same folder. You can also click the "Click here if stuck" link to force the dashboard to open.
-- **Nothing on Map**: Check if your Excel file has valid Latitude/Longitude coordinates. The script skips any sites with invalid or missing coordinates.
+---
+
+**Primary Contact**: [hovahyii@mbf.vn](mailto:60086951@mbf.vn)
+**Version**: 1.0.0

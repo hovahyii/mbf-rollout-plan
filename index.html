@@ -39,12 +39,13 @@
         .sidebar {
             width: 380px; height: 100vh; background: var(--bg-glass); backdrop-filter: blur(20px);
             border-right: 1px solid var(--border-glass); padding: 24px; display: flex; flex-direction: column; gap: 16px; z-index: 1000;
-            box-shadow: 10px 0 30px rgba(0,0,0,0.05);
+            box-shadow: 10px 0 30px rgba(0,0,0,0.05); overflow-y: auto;
         }
 
         .header h1 { font-size: 26px; font-weight: 800; color: var(--mbf-blue); letter-spacing: -0.5px; }
         .header p { font-size: 14px; color: var(--mbf-red); font-weight: 600; margin-top: -4px; }
 
+        .filters-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
         .filter-group { display: flex; flex-direction: column; gap: 6px; }
         label { font-size: 11px; font-weight: 700; text-transform: uppercase; color: var(--text-dim); letter-spacing: 0.05em; }
         select, input { padding: 12px 14px; border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); background: white; font-size: 14px; outline: none; transition: 0.2s; color: #1e293b; }
@@ -124,8 +125,13 @@
 
     <div class="sidebar">
         <div class="header"><h1>MOBIFONE</h1><p>Rollout Dashboard - Phase 1</p></div>
-        <div class="filter-group"><label>Region Filter</label><select id="regionFilter"><option value="All">All Regions</option><option value="North">North</option><option value="Middle">Middle</option><option value="South">South</option></select></div>
-        <div class="filter-group"><label>Site Status</label><select id="statusFilter"><option value="All">All Statuses</option><option value="Ready">Ready</option><option value="Approved">Approved</option><option value="Pending">Pending</option></select></div>
+        <div class="filters-grid">
+            <div class="filter-group"><label>Region Filter</label><select id="regionFilter"><option value="All">All Regions</option><option value="North">North</option><option value="Middle">Middle</option><option value="South">South</option></select></div>
+            <div class="filter-group"><label>Site Status</label><select id="statusFilter"><option value="All">All Statuses</option><option value="Ready">Ready</option><option value="Approved">Approved</option><option value="Pending">Pending</option></select></div>
+            <div class="filter-group"><label>Week Filter</label><select id="weekFilter"><option value="All">All Weeks</option></select></div>
+            <div class="filter-group"><label>Site Type</label><select id="typeFilter"><option value="All">All Types</option></select></div>
+            <div class="filter-group"><label>VIP Status</label><select id="vipFilter"><option value="All">All Statuses</option></select></div>
+        </div>
         <div class="legend">
             <div class="legend-item"><span class="dot" style="background:var(--mbf-blue)"></span> North</div>
             <div class="legend-item"><span class="dot" style="background:var(--ready)"></span> Ready</div>
@@ -201,6 +207,9 @@
                 setTimeout(() => {
                     if (typeof rolloutData !== 'undefined') {
                         allData = rolloutData;
+                        populateWeekFilter();
+                        populateTypeFilter();
+                        populateVipFilter();
                         updateMap();
                         loadOfficialPolygons();
                         forceHideLoading();
@@ -210,6 +219,9 @@
             document.getElementById('searchBtn').addEventListener('click', handleSearch);
             document.getElementById('regionFilter').addEventListener('change', updateMap);
             document.getElementById('statusFilter').addEventListener('change', updateMap);
+            document.getElementById('weekFilter').addEventListener('change', updateMap);
+            document.getElementById('typeFilter').addEventListener('change', updateMap);
+            document.getElementById('vipFilter').addEventListener('change', updateMap);
             map && map.on('click', () => { if(!isMeasuring) document.getElementById('infoCard').classList.remove('active'); });
         }
 
@@ -224,15 +236,54 @@
             }
         }
 
+        function populateWeekFilter() {
+            const weekSelect = document.getElementById('weekFilter');
+            const weeks = [...new Set(allData.map(s => s.timeline))].filter(w => w && w !== '-').sort();
+            weeks.forEach(w => {
+                const opt = document.createElement('option');
+                opt.value = w;
+                opt.textContent = w;
+                weekSelect.appendChild(opt);
+            });
+        }
+
+        function populateTypeFilter() {
+            const typeSelect = document.getElementById('typeFilter');
+            const types = [...new Set(allData.map(s => s.site_type))].filter(t => t && t !== '-').sort();
+            types.forEach(t => {
+                const opt = document.createElement('option');
+                opt.value = t;
+                opt.textContent = t;
+                typeSelect.appendChild(opt);
+            });
+        }
+
+        function populateVipFilter() {
+            const vipSelect = document.getElementById('vipFilter');
+            const vips = [...new Set(allData.map(s => s.vip))].filter(v => v && v !== '-').sort();
+            vips.forEach(v => {
+                const opt = document.createElement('option');
+                opt.value = v;
+                opt.textContent = v;
+                vipSelect.appendChild(opt);
+            });
+        }
+
         function updateMap() {
             try {
                 if (markers) map.removeLayer(markers);
                 const region = document.getElementById('regionFilter').value;
                 const status = document.getElementById('statusFilter').value;
+                const week = document.getElementById('weekFilter').value;
+                const type = document.getElementById('typeFilter').value;
+                const vip = document.getElementById('vipFilter').value;
                 let filtered = allData.filter(s => {
                     const regionMatch = region === 'All' || s.region === region;
                     const statusMatch = status === 'All' || s.status === status;
-                    return regionMatch && statusMatch;
+                    const weekMatch = week === 'All' || s.timeline === week;
+                    const typeMatch = type === 'All' || s.site_type === type;
+                    const vipMatch = vip === 'All' || s.vip === vip;
+                    return regionMatch && statusMatch && weekMatch && typeMatch && vipMatch;
                 });
                 markers = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 35 });
                 filtered.forEach(s => {

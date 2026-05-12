@@ -24,6 +24,7 @@ The sidebar includes a compact filter grid to narrow down your view:
   - **RFI Ready (Blue)**: Site has a `Site configure Lock Date`.
   - **Pending (Grey)**: No approval/lock date and not on-air.
 - **Week Filter**: Filter by specific rollout weeks (W1, W2, etc.).
+- **RAT Filter**: Filter sites by **4G**, **5G**, or both. On-Air status for specific RATs is pulled from the progress tracker.
 - **Site Type**: Filter by physical deployment type (Macro, IBC, etc.).
 - **VIP Filter**: Isolate high-priority sites (SVIP, VVIP, VIP).
 

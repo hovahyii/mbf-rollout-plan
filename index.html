@@ -131,6 +131,7 @@
             <div class="filter-group"><label>Week Filter</label><select id="weekFilter"><option value="All">All Weeks</option></select></div>
             <div class="filter-group"><label>Site Type</label><select id="typeFilter"><option value="All">All Types</option></select></div>
             <div class="filter-group"><label>VIP Status</label><select id="vipFilter"><option value="All">All Statuses</option></select></div>
+            <div class="filter-group"><label>RAT Filter</label><select id="ratFilter"><option value="All">All RATs</option><option value="4G">4G</option><option value="5G">5G</option></select></div>
         </div>
         <div class="legend">
             <div class="legend-item"><span class="dot" style="background:var(--mbf-blue)"></span> North</div>
@@ -165,6 +166,7 @@
                 <div class="card-item"><div class="card-label">Scenario</div><div class="card-value" id="cardScenario">-</div></div>
                 <div class="card-item"><div class="card-label">Type</div><div class="card-value" id="cardType">-</div></div>
                 <div class="card-item"><div class="card-label">Timeline</div><div class="card-value" id="cardTimeline">-</div></div>
+                <div class="card-item"><div class="card-label">RAT</div><div class="card-value" id="cardRat">-</div></div>
                 <div class="card-item"><div class="card-label">VIP Status</div><div id="cardVip">-</div></div>
             </div>
         </div>
@@ -223,6 +225,7 @@
             document.getElementById('weekFilter').addEventListener('change', updateMap);
             document.getElementById('typeFilter').addEventListener('change', updateMap);
             document.getElementById('vipFilter').addEventListener('change', updateMap);
+            document.getElementById('ratFilter').addEventListener('change', updateMap);
             map && map.on('click', () => { if(!isMeasuring) document.getElementById('infoCard').classList.remove('active'); });
         }
 
@@ -278,13 +281,15 @@
                 const week = document.getElementById('weekFilter').value;
                 const type = document.getElementById('typeFilter').value;
                 const vip = document.getElementById('vipFilter').value;
+                const rat = document.getElementById('ratFilter').value;
                 let filtered = allData.filter(s => {
                     const regionMatch = region === 'All' || s.region === region;
                     const statusMatch = status === 'All' || s.status === status;
                     const weekMatch = week === 'All' || s.timeline === week;
                     const typeMatch = type === 'All' || s.site_type === type;
                     const vipMatch = vip === 'All' || s.vip === vip;
-                    return regionMatch && statusMatch && weekMatch && typeMatch && vipMatch;
+                    const ratMatch = rat === 'All' || (s.rat && s.rat.includes(rat));
+                    return regionMatch && statusMatch && weekMatch && typeMatch && vipMatch && ratMatch;
                 });
                 markers = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 35 });
                 filtered.forEach(s => {
@@ -319,6 +324,7 @@
             document.getElementById('cardScenario').textContent = clean(s.scenario);
             document.getElementById('cardType').textContent = clean(s.site_type);
             document.getElementById('cardTimeline').textContent = clean(s.timeline);
+            document.getElementById('cardRat').textContent = clean(s.rat);
             document.getElementById('cardVip').innerHTML = s.is_vip ? `<span class="vip-badge">${s.vip}</span>` : `<span style="font-size:12px; color:var(--text-dim)">NO</span>`;
             document.getElementById('infoCard').classList.add('active');
         }

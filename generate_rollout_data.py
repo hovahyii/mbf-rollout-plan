@@ -38,24 +38,53 @@ def get_geojson_from_shp(shp_folder):
         print(f"Error reading shapefile in {shp_folder}: {e}")
         return None
 
-def get_on_air_sites(tracker_path):
-    on_air_sites = set()
+def get_on_air_info(tracker_path):
+    on_air_info = {} # site_name -> rat
     try:
         xl = pd.ExcelFile(tracker_path)
         for s in xl.sheet_names:
             if 'Summary' in s: continue
-            df = pd.read_excel(tracker_path, sheet_name=s, header=1)
-            if 'Site Name' in df.columns:
-                sites = df['Site Name'].dropna().unique().tolist()
-                on_air_sites.update([str(x).strip() for x in sites])
+            df = pd.read_excel(tracker_path, sheet_name=s, header=None)
+            # Find which row is the header (contains "Site Name")
+            header_idx = -1
+            for r in range(min(5, len(df))):
+                row_vals = [str(x).strip() for x in df.iloc[r].tolist()]
+                if 'Site Name' in row_vals:
+                    header_idx = r
+                    break
+            
+            if header_idx == -1: continue
+            
+            header = [str(x).strip() for x in df.iloc[header_idx].tolist()]
+            name_col = header.index('Site Name')
+            
+            # 4G Day is always 3 columns after Site Name
+            # 5G Day is always 6 columns after Site Name
+            for idx, row in df.iloc[header_idx+1:].iterrows():
+                site_name = str(row[name_col]).strip()
+                if not site_name or site_name == 'nan' or site_name == 'None': continue
+                
+                # Check if it's on-air for 4G or 5G
+                try:
+                    is_4g_on_air = not pd.isna(row[name_col + 3])
+                    is_5g_on_air = not pd.isna(row[name_col + 6])
+                except: continue
+                
+                rat = []
+                if is_4g_on_air: rat.append("4G")
+                if is_5g_on_air: rat.append("5G")
+                
+                if rat:
+                    on_air_info[site_name] = "+".join(rat)
     except Exception as e:
         print(f"Error reading {tracker_path}: {e}")
-    return on_air_sites
+    return on_air_info
 
 def generate_data():
     base_dir = r'E:\MBF Rollout Dashboard'
     on_air_path = os.path.join(base_dir, 'On Air Progress Tracker.xlsx')
-    on_air_sites = get_on_air_sites(on_air_path)
+    on_air_info = get_on_air_info(on_air_path)
+    print(f"Loaded {len(on_air_info)} on-air sites from tracker.")
     
     file_pattern = os.path.join(base_dir, 'MBF RAN Project - Phase 1 PO - Master Site List - *.xlsx')
     
@@ -89,6 +118,8 @@ def generate_data():
             'rf_approved': find_col(df, ['RF Approved']),
             'cdd_approved': find_col(df, ['CDD Approved']),
             'lock_date': find_col(df, ['Site configure Lock Date']),
+            '4g_type': find_col(df, ['4G Type']),
+            '5g_scenario': find_col(df, ['5G Scenario']),
         }
 
         for idx, row in df.iterrows():
@@ -103,12 +134,20 @@ def generate_data():
             rf, cdd, lock = clean_val(row.get(col_map['rf_approved'])), clean_val(row.get(col_map['cdd_approved'])), clean_val(row.get(col_map['lock_date']))
             site_name_raw = clean_val(row.get(col_map['site_name']))
             
-            if site_name_raw in on_air_sites:
+            if site_name_raw in on_air_info:
                 status = "On-Air"
-            elif lock != "-":
-                status = "RFI Ready"
+                rat_val = on_air_info[site_name_raw]
             else:
-                status = "Pending"
+                if lock != "-":
+                    status = "RFI Ready"
+                else:
+                    status = "Pending"
+                
+                # Determine RAT from Master List if not on-air
+                rat_list = []
+                if clean_val(row.get(col_map['4g_type'])) != "-": rat_list.append("4G")
+                if clean_val(row.get(col_map['5g_scenario'])) != "-": rat_list.append("5G")
+                rat_val = "+".join(rat_list) if rat_list else "-"
             
             vip_val = clean_val(row.get(col_map['vip'])).upper()
             if vip_val == "-": vip_val = "NO"
@@ -130,7 +169,8 @@ def generate_data():
                 'district': clean_val(row.get(col_map['district'])),
                 'enodeb_id': enodeb_id, 'lat': lat, 'lon': lon,
                 'vip': vip_val, 'is_vip': is_vip, 'scenario': clean_val(row.get(col_map['scenario'])),
-                'site_type': clean_val(row.get(col_map['site_type'])), 'status': status
+                'site_type': clean_val(row.get(col_map['site_type'])), 'status': status,
+                'rat': rat_val
             }
             site['timeline'] = clean_val(row.get(col_map[f"timeline_{'north' if region_name=='North' else 'other'}"]))
             all_sites.append(site)

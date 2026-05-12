@@ -18,11 +18,11 @@ Welcome to the **Mobifone Rollout Dashboard**. This tool is designed to provide 
 
 ### 🔍 Advanced Filtering (2-Column Grid)
 The sidebar includes a compact filter grid to narrow down your view:
-- **Region**: Filter by North, Middle, or South.
+- **Region**: Filter by North, Ha Noi, Middle, or South.
 - **Site Status**:
-  - **Ready (Green)**: `Site configure Lock Date` is present.
-  - **Approved (Blue)**: `RF Approved` or `CDD Approved` is present.
-  - **Pending (Grey)**: No approval/lock date yet.
+  - **On-Air (Green)**: Site is active, data pulled from `On Air Progress Tracker.xlsx`.
+  - **RFI Ready (Blue)**: Site has a `Site configure Lock Date`.
+  - **Pending (Grey)**: No approval/lock date and not on-air.
 - **Week Filter**: Filter by specific rollout weeks (W1, W2, etc.).
 - **Site Type**: Filter by physical deployment type (Macro, IBC, etc.).
 - **VIP Filter**: Isolate high-priority sites (SVIP, VVIP, VIP).
@@ -39,22 +39,28 @@ The dashed lines on the map represent the **Official Planning Clusters** loaded 
 
 ## 2. Maintenance & Data Updates
 
-The dashboard is built as a static application for high performance. To update the data:
+The dashboard is built as a static application for high performance. To update the data and view locally:
 
-1.  **Update Master Excel**: Save your latest site list in the root folder: `E:\MBF Rollout Dashboard\`.
-2.  **Run Generator**: Open a terminal and run:
+1.  **Update Source Files**: Save your latest `MBF RAN Project - Phase 1 PO - Master Site List - *.xlsx` and `On Air Progress Tracker.xlsx` in the root folder: `E:\MBF Rollout Dashboard\`.
+2.  **Generate Data**: Open a terminal in `E:\MBF Rollout Dashboard` and run:
     ```bash
     python generate_rollout_data.py
     ```
     This script will:
-    - Clean all `nan` and `None` values.
-    - Remove decimal places from eNodeB IDs.
-    - Load official polygons from the regional folders.
-    - Generate a fresh `rollout_data.js`.
-3.  **Push to GitHub**:
+    - Extract **On-Air** statuses from the tracking sheet.
+    - Separate **Ha Noi** sites from the **North** region.
+    - Clean all `nan` and `None` values and generate a fresh `rollout_data.js`.
+
+3.  **Run Localhost Server**: To view the dashboard locally, start a Python HTTP server in the same directory:
+    ```bash
+    python -m http.server 8000
+    ```
+    Then, open your web browser and go to: `http://localhost:8000`
+
+4.  **Push to GitHub** (If deploying online):
     ```bash
     git add .
-    git commit -m "Update site data - [Date]"
+    git commit -m "Update site data"
     git push
     ```
     *Vercel will automatically detect the push and update the live website.*

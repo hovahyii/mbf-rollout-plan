@@ -38,8 +38,25 @@ def get_geojson_from_shp(shp_folder):
         print(f"Error reading shapefile in {shp_folder}: {e}")
         return None
 
+def get_on_air_sites(tracker_path):
+    on_air_sites = set()
+    try:
+        xl = pd.ExcelFile(tracker_path)
+        for s in xl.sheet_names:
+            if 'Summary' in s: continue
+            df = pd.read_excel(tracker_path, sheet_name=s, header=1)
+            if 'Site Name' in df.columns:
+                sites = df['Site Name'].dropna().unique().tolist()
+                on_air_sites.update([str(x).strip() for x in sites])
+    except Exception as e:
+        print(f"Error reading {tracker_path}: {e}")
+    return on_air_sites
+
 def generate_data():
     base_dir = r'E:\MBF Rollout Dashboard'
+    on_air_path = os.path.join(base_dir, 'On Air Progress Tracker.xlsx')
+    on_air_sites = get_on_air_sites(on_air_path)
+    
     file_pattern = os.path.join(base_dir, 'MBF RAN Project - Phase 1 PO - Master Site List - *.xlsx')
     
     files = glob.glob(file_pattern)
@@ -84,7 +101,14 @@ def generate_data():
             except: continue
             
             rf, cdd, lock = clean_val(row.get(col_map['rf_approved'])), clean_val(row.get(col_map['cdd_approved'])), clean_val(row.get(col_map['lock_date']))
-            status = "Ready" if lock != "-" else ("Approved" if (cdd != "-" or rf != "-") else "Pending")
+            site_name_raw = clean_val(row.get(col_map['site_name']))
+            
+            if site_name_raw in on_air_sites:
+                status = "On-Air"
+            elif lock != "-":
+                status = "RFI Ready"
+            else:
+                status = "Pending"
             
             vip_val = clean_val(row.get(col_map['vip'])).upper()
             if vip_val == "-": vip_val = "NO"
@@ -94,10 +118,15 @@ def generate_data():
             enodeb_id = str(enodeb_raw).strip() if not pd.isna(enodeb_raw) else "-"
             if enodeb_id.endswith('.0'): enodeb_id = enodeb_id[:-2]
                 
+            final_region = region_name
+            province_val = clean_val(row.get(col_map['province']))
+            if final_region == 'North' and province_val.lower() in ['ha noi', 'hanoi']:
+                final_region = 'Ha Noi'
+                
             site = {
-                'region': region_name, 'po': clean_val(row.get(col_map['po'])),
+                'region': final_region, 'po': clean_val(row.get(col_map['po'])),
                 'site_name': clean_val(row.get(col_map['site_name'])),
-                'province': clean_val(row.get(col_map['province'])),
+                'province': province_val,
                 'district': clean_val(row.get(col_map['district'])),
                 'enodeb_id': enodeb_id, 'lat': lat, 'lon': lon,
                 'vip': vip_val, 'is_vip': is_vip, 'scenario': clean_val(row.get(col_map['scenario'])),

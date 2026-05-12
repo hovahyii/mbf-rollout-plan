@@ -126,23 +126,24 @@
     <div class="sidebar">
         <div class="header"><h1>MOBIFONE</h1><p>Rollout Dashboard - Phase 1</p></div>
         <div class="filters-grid">
-            <div class="filter-group"><label>Region Filter</label><select id="regionFilter"><option value="All">All Regions</option><option value="North">North</option><option value="Middle">Middle</option><option value="South">South</option></select></div>
-            <div class="filter-group"><label>Site Status</label><select id="statusFilter"><option value="All">All Statuses</option><option value="Ready">Ready</option><option value="Approved">Approved</option><option value="Pending">Pending</option></select></div>
+            <div class="filter-group"><label>Region Filter</label><select id="regionFilter"><option value="All">All Regions</option><option value="North">North</option><option value="Ha Noi">Ha Noi</option><option value="Middle">Middle</option><option value="South">South</option></select></div>
+            <div class="filter-group"><label>Site Status</label><select id="statusFilter"><option value="All">All Statuses</option><option value="On-Air">On-Air</option><option value="RFI Ready">RFI Ready</option><option value="Pending">Pending</option></select></div>
             <div class="filter-group"><label>Week Filter</label><select id="weekFilter"><option value="All">All Weeks</option></select></div>
             <div class="filter-group"><label>Site Type</label><select id="typeFilter"><option value="All">All Types</option></select></div>
             <div class="filter-group"><label>VIP Status</label><select id="vipFilter"><option value="All">All Statuses</option></select></div>
         </div>
         <div class="legend">
             <div class="legend-item"><span class="dot" style="background:var(--mbf-blue)"></span> North</div>
-            <div class="legend-item"><span class="dot" style="background:var(--ready)"></span> Ready</div>
+            <div class="legend-item"><span class="dot" style="background:#10b981"></span> On-Air</div>
+            <div class="legend-item"><span class="dot" style="background:#8b5cf6"></span> Ha Noi</div>
+            <div class="legend-item"><span class="dot" style="background:#3b82f6"></span> RFI Ready</div>
             <div class="legend-item"><span class="dot" style="background:var(--mbf-yellow)"></span> Middle</div>
-            <div class="legend-item"><span class="dot" style="background:var(--approved)"></span> Approved</div>
+            <div class="legend-item"><span class="dot" style="background:#94a3b8"></span> Pending</div>
             <div class="legend-item"><span class="dot" style="background:var(--mbf-red)"></span> South</div>
-            <div class="legend-item"><span class="dot" style="background:var(--pending)"></span> Pending</div>
         </div>
         <div class="stats-grid">
             <div class="stat-card"><div class="stat-value" id="totalSites">0</div><div class="stat-label">Total Sites</div></div>
-            <div class="stat-card"><div class="stat-value" id="readySites">0</div><div class="stat-label">Ready</div></div>
+            <div class="stat-card"><div class="stat-value" id="readySites">0</div><div class="stat-label">On-Air</div></div>
         </div>
         <div class="filter-group"><input type="text" id="searchInput" placeholder="Site ID or Name..."><button id="searchBtn" style="margin-top:6px; background:var(--mbf-blue); color:white; border:none; padding:12px; border-radius:12px; cursor:pointer; font-weight:800;">FIND SITE</button></div>
         <div class="footer">
@@ -287,8 +288,8 @@
                 });
                 markers = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 35 });
                 filtered.forEach(s => {
-                    const regionColor = s.region === 'North' ? '#0054A6' : (s.region === 'Middle' ? '#FFD100' : '#ED1C24');
-                    const statusColor = s.status === 'Ready' ? '#10b981' : (s.status === 'Approved' ? '#3b82f6' : '#94a3b8');
+                    const regionColor = s.region === 'North' ? '#0054A6' : (s.region === 'Ha Noi' ? '#8b5cf6' : (s.region === 'Middle' ? '#FFD100' : '#ED1C24'));
+                    const statusColor = s.status === 'On-Air' ? '#10b981' : (s.status === 'RFI Ready' ? '#3b82f6' : '#94a3b8');
                     const marker = L.circleMarker([s.lat, s.lon], {
                         radius: s.is_vip ? 9 : 6, fillColor: statusColor, color: s.is_vip ? '#FFD100' : regionColor,
                         weight: s.is_vip ? 3 : 1.5, opacity: 1, fillOpacity: 0.9
@@ -302,7 +303,7 @@
                 });
                 map.addLayer(markers);
                 document.getElementById('totalSites').textContent = filtered.length;
-                document.getElementById('readySites').textContent = filtered.filter(s => s.status === 'Ready').length;
+                document.getElementById('readySites').textContent = filtered.filter(s => s.status === 'On-Air').length;
             } catch (e) { console.error(e); }
         }
 
@@ -312,7 +313,7 @@
             document.getElementById('siteSubtitle').textContent = `eNodeB ID: ${clean(s.enodeb_id)}`;
             document.getElementById('cardPo').textContent = `${clean(s.po)} (${clean(s.region)})`;
             document.getElementById('cardStatus').textContent = clean(s.status);
-            document.getElementById('cardStatus').style.color = s.status === 'Ready' ? '#10b981' : (s.status === 'Approved' ? '#3b82f6' : '#94a3b8');
+            document.getElementById('cardStatus').style.color = s.status === 'On-Air' ? '#10b981' : (s.status === 'RFI Ready' ? '#3b82f6' : '#94a3b8');
             document.getElementById('cardLoc').textContent = `${clean(s.province)}, ${clean(s.district)}`;
             document.getElementById('cardCoords').textContent = `${s.lat.toFixed(5)}, ${s.lon.toFixed(5)}`;
             document.getElementById('cardScenario').textContent = clean(s.scenario);

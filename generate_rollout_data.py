@@ -88,20 +88,31 @@ def get_rollout_details(file_path):
         
         # 108: Main Site Name (BBU Location)
         # 158: Site Type (IBC/Macro/CRAN)
+        # 99: Lat, 106: Lon
         
         # Possible On-Air columns (Actual End Date)
-        on_air_cols = [283, 326, 244, 253, 258] 
+        on_air_cols = [283, 326, 244, 253, 258, 131] 
         # Possible RFI columns (Actual End Date)
         rfi_cols = [321]
         
         for idx, row in df.iterrows():
             try:
+                # Use both Column 0 and Column 1 as possible site names
                 site_id = clean_val(row.iloc[0]).upper()
+                site_name_alt = clean_val(row.iloc[1]).upper()
+                
                 if site_id == '-': continue
                 
                 bbu = clean_val(row.iloc[108]).upper()
                 stype = clean_val(row.iloc[158])
                 
+                # Extract coordinates from Rollout Plan
+                rl_lat, rl_lon = None, None
+                try:
+                    rl_lat = float(str(row.iloc[99]).replace(',', '.'))
+                    rl_lon = float(str(row.iloc[106]).replace(',', '.'))
+                except: pass
+
                 # Check multiple columns for the most advanced status
                 on_air = "-"
                 for c in on_air_cols:
@@ -117,12 +128,14 @@ def get_rollout_details(file_path):
                         rfi = val
                         break
                 
-                details[site_id] = {
-                    'rfi_date': rfi,
-                    'on_air_date': on_air,
-                    'bbu_location': bbu if bbu != site_id else "-",
-                    'detailed_type': stype
+                entry = {
+                    'rfi_date': rfi, 'on_air_date': on_air,
+                    'bbu_location': bbu if bbu != site_id and bbu != site_name_alt else "-",
+                    'detailed_type': stype, 'lat': rl_lat, 'lon': rl_lon
                 }
+                details[site_id] = entry
+                if site_name_alt != '-': details[site_name_alt] = entry
+                
             except: continue
         print(f"Loaded {len(details)} site details.")
     except Exception as e:
@@ -236,6 +249,17 @@ def generate_data():
             site['timeline'] = clean_val(row.get(col_map[f"timeline_{'north' if region_name=='North' else 'other'}"]))
             all_sites.append(site)
 
+    # Create a global coordinate lookup for all sites (from master and rollout)
+    coord_lookup = {}
+    for s in all_sites:
+        coord_lookup[s['site_name'].upper()] = [s['lat'], s['lon']]
+        if s['enodeb_id'] != '-': coord_lookup[s['enodeb_id'].upper()] = [s['lat'], s['lon']]
+    
+    for sid, d in rollout_details.items():
+        if d['lat'] and d['lon']:
+            # Prioritize rollout plan coordinates if available for the site name
+            coord_lookup[sid.upper()] = [d['lat'], d['lon']]
+
     # Load official Polygons from specific paths
     polygons = {"North": None, "Middle": None, "South": None}
     
@@ -254,10 +278,12 @@ def generate_data():
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write("const rolloutData = ")
         json.dump(all_sites, f, ensure_ascii=False, indent=2)
+        f.write(";\nconst coordLookup = ")
+        json.dump(coord_lookup, f, ensure_ascii=False, indent=2)
         f.write(";\nconst polygonData = ")
         json.dump(polygons, f, ensure_ascii=False, indent=2)
         f.write(";")
-    print(f"Data saved to {output_path} ({len(all_sites)} sites)")
+    print(f"Data saved to {output_path} ({len(all_sites)} sites, {len(coord_lookup)} coords)")
 
 if __name__ == "__main__":
     generate_data()

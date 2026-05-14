@@ -101,13 +101,6 @@
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
         .measure-tooltip { background: #0f172a; color: #fff; padding: 4px 8px; border-radius: 6px; font-weight: 600; font-size: 12px; }
         .crosshair-cursor { cursor: crosshair !important; }
-        
-        @keyframes pulse {
-            0% { transform: scale(1); opacity: 0.9; }
-            50% { transform: scale(1.3); opacity: 0.5; }
-            100% { transform: scale(1); opacity: 0.9; }
-        }
-        .pulse-marker { animation: pulse 2s infinite; }
     </style>
 </head>
 <body>
@@ -329,8 +322,7 @@
                     
                     const marker = L.circleMarker([s.lat, s.lon], {
                         radius: s.is_vip ? 9 : 6, fillColor: statusColor, color: s.is_vip ? '#FFD100' : regionColor,
-                        weight: s.is_vip ? 3 : 1.5, opacity: 1, fillOpacity: 0.9,
-                        className: s.status === 'On-Air' ? 'pulse-marker' : ''
+                        weight: s.is_vip ? 3 : 1.5, opacity: 1, fillOpacity: 0.9
                     });
                     
                     marker.on('mouseover', () => { if(!isMeasuring) showFloatingCard(s); });

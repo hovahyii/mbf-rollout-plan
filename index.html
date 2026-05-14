@@ -308,10 +308,9 @@
                     return regionMatch && statusMatch && weekMatch && typeMatch && vipMatch && ratMatch;
                 });
 
-                // Disable clustering as per user feedback
                 markers = L.layerGroup();
+                siteMarkers = {};
                 
-                // CRAN links layer
                 if (showCran) {
                     window.cranLinksLayer = L.layerGroup().addTo(map);
                 }
@@ -325,24 +324,37 @@
                         weight: s.is_vip ? 3 : 1.5, opacity: 1, fillOpacity: 0.9
                     });
                     
-                    marker.on('mouseover', () => { if(!isMeasuring) showFloatingCard(s); });
+                    const originalStyle = { radius: s.is_vip ? 9 : 6, fillColor: statusColor, color: s.is_vip ? '#FFD100' : regionColor, weight: s.is_vip ? 3 : 1.5 };
+                    
+                    marker.on('mouseover', () => { 
+                        if(!isMeasuring) {
+                            marker.setStyle({ radius: 12, fillColor: '#ffffff', color: '#000000', weight: 2 });
+                            marker.bringToFront();
+                            showFloatingCard(s); 
+                        }
+                    });
+                    marker.on('mouseout', () => {
+                        if(!isMeasuring && !marker.isHighlighted) {
+                            marker.setStyle(originalStyle);
+                        }
+                    });
+                    
                     marker.on('click', (e) => { 
                         if(isMeasuring) { L.DomEvent.stopPropagation(e); onMeasureClick(marker.getLatLng()); }
-                        else { showFloatingCard(s); map.setView(marker.getLatLng(), 15); }
+                        else { 
+                            highlightMarker(marker);
+                            showFloatingCard(s); 
+                            map.setView(marker.getLatLng(), 15); 
+                        }
                     });
                     markers.addLayer(marker);
+                    siteMarkers[s.site_name] = marker;
 
-                    // Draw CRAN link
                     if (showCran && s.bbu_location && s.bbu_location !== '-') {
                         const bbuCoords = coordLookup[s.bbu_location.toUpperCase()];
                         if (bbuCoords) {
-                            // Line glow effect (multiple lines with different weights/opacities)
-                            const lineGlow = L.polyline([[s.lat, s.lon], bbuCoords], {
-                                color: '#6366f1', weight: 6, opacity: 0.1, interactive: false
-                            });
-                            const line = L.polyline([[s.lat, s.lon], bbuCoords], {
-                                color: '#6366f1', weight: 2.5, opacity: 0.9, dashArray: '10, 10'
-                            });
+                            const lineGlow = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 6, opacity: 0.1, interactive: false });
+                            const line = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 2.5, opacity: 0.9, dashArray: '10, 10' });
                             window.cranLinksLayer.addLayer(lineGlow);
                             window.cranLinksLayer.addLayer(line);
                         }
@@ -353,6 +365,29 @@
                 document.getElementById('totalSites').textContent = filtered.length;
                 document.getElementById('readySites').textContent = filtered.filter(s => s.status === 'On-Air').length;
             } catch (e) { console.error(e); }
+        }
+
+        let lastHighlighted = null;
+        function highlightMarker(marker) {
+            if (lastHighlighted && lastHighlighted._map) {
+                lastHighlighted.isHighlighted = false;
+                lastHighlighted.setStyle({
+                    radius: lastHighlighted.options.originalRadius || (lastHighlighted.options.radius > 10 ? 9 : 6),
+                    fillColor: lastHighlighted.options.originalFill || lastHighlighted.options.fillColor,
+                    color: lastHighlighted.options.originalColor || lastHighlighted.options.color,
+                    weight: lastHighlighted.options.originalWeight || 1.5
+                });
+            }
+            
+            marker.options.originalRadius = marker.options.radius === 12 ? marker.options.originalRadius : marker.options.radius;
+            marker.options.originalFill = marker.options.fillColor === '#ffffff' ? marker.options.originalFill : marker.options.fillColor;
+            marker.options.originalColor = marker.options.color === '#000000' ? marker.options.originalColor : marker.options.color;
+            marker.options.originalWeight = marker.options.weight === 2 ? marker.options.originalWeight : marker.options.weight;
+
+            marker.isHighlighted = true;
+            marker.setStyle({ radius: 15, fillColor: '#ffffff', color: '#ff0000', weight: 4 });
+            marker.bringToFront();
+            lastHighlighted = marker;
         }
 
         function showFloatingCard(s) {
@@ -382,9 +417,15 @@
         function finishLine(start, end, startDot) { const layers = [startDot]; const endDot = L.circleMarker(end, { radius: 4, color: '#000', fillColor: '#fff', fillOpacity: 1 }).addTo(map); const line = L.polyline([start, end], { weight: 3, color: '#0054A6' }).addTo(map); const dist = start.distanceTo(end), distText = dist > 1000 ? (dist/1000).toFixed(2) + ' km' : Math.round(dist) + ' m'; const label = L.tooltip({ permanent: true, className: 'measure-tooltip' }).setLatLng(L.latLngBounds([start, end]).getCenter()).setContent(distText).addTo(map); layers.push(endDot, line, label); completedMeasurements.push(layers); }
         
         function handleSearch() {
-            const term = document.getElementById('searchInput').value.toLowerCase();
-            const found = allData.find(s => s.site_name.toLowerCase().includes(term) || s.enodeb_id.toLowerCase().includes(term));
-            if (found) { map.setView([found.lat, found.lon], 15); showFloatingCard(found); }
+            const val = document.getElementById('searchInput').value.toUpperCase();
+            const site = allData.find(s => s.site_name.toUpperCase().includes(val) || (s.enodeb_id && s.enodeb_id.includes(val)));
+            if (site) {
+                map.setView([site.lat, site.lon], 16);
+                showFloatingCard(site);
+                if (siteMarkers[site.site_name]) {
+                    highlightMarker(siteMarkers[site.site_name]);
+                }
+            }
         }
         function resetMap() { updateMap(); if(allData.length > 0) map.fitBounds(L.latLngBounds(allData.map(s => [s.lat, s.lon]))); }
         window.onload = init;

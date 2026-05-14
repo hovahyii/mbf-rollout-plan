@@ -238,7 +238,12 @@
             document.getElementById('vipFilter').addEventListener('change', updateMap);
             document.getElementById('ratFilter').addEventListener('change', updateMap);
             document.getElementById('showCranLinks').addEventListener('change', updateMap);
-            map && map.on('click', () => { if(!isMeasuring) document.getElementById('infoCard').classList.remove('active'); });
+            map && map.on('click', () => { 
+                if(!isMeasuring) {
+                    document.getElementById('infoCard').classList.remove('active'); 
+                    clearHighlight();
+                }
+            });
         }
 
         function loadOfficialPolygons() {
@@ -328,7 +333,9 @@
                     
                     marker.on('mouseover', () => { 
                         if(!isMeasuring) {
-                            marker.setStyle({ radius: 12, fillColor: '#ffffff', color: '#000000', weight: 2 });
+                            if (!marker.isHighlighted) {
+                                marker.setStyle({ radius: 11, fillColor: '#ffffff', color: '#000000', weight: 2 });
+                            }
                             marker.bringToFront();
                             showFloatingCard(s); 
                         }
@@ -340,21 +347,23 @@
                     });
                     
                     marker.on('click', (e) => { 
-                        if(isMeasuring) { L.DomEvent.stopPropagation(e); onMeasureClick(marker.getLatLng()); }
+                        L.DomEvent.stopPropagation(e);
+                        if(isMeasuring) { onMeasureClick(marker.getLatLng()); }
                         else { 
                             highlightMarker(marker);
                             showFloatingCard(s); 
                             map.setView(marker.getLatLng(), 15); 
                         }
                     });
+                    marker.siteData = s;
                     markers.addLayer(marker);
                     siteMarkers[s.site_name] = marker;
 
                     if (showCran && s.bbu_location && s.bbu_location !== '-') {
                         const bbuCoords = coordLookup[s.bbu_location.toUpperCase()];
                         if (bbuCoords) {
-                            const lineGlow = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 6, opacity: 0.1, interactive: false });
-                            const line = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 2.5, opacity: 0.9, dashArray: '10, 10' });
+                            const lineGlow = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 12, opacity: 0.15, interactive: false });
+                            const line = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 5, opacity: 1, dashArray: '15, 15' });
                             window.cranLinksLayer.addLayer(lineGlow);
                             window.cranLinksLayer.addLayer(line);
                         }
@@ -368,22 +377,24 @@
         }
 
         let lastHighlighted = null;
-        function highlightMarker(marker) {
+        function clearHighlight() {
             if (lastHighlighted && lastHighlighted._map) {
                 lastHighlighted.isHighlighted = false;
+                const s = lastHighlighted.siteData;
+                const statusColor = s.status === 'On-Air' ? '#10b981' : (s.status === 'RFI Ready' ? '#3b82f6' : '#94a3b8');
+                const regionColor = s.region === 'North' ? '#0054A6' : (s.region === 'Ha Noi' ? '#8b5cf6' : (s.region === 'Middle' ? '#FFD100' : '#ED1C24'));
                 lastHighlighted.setStyle({
-                    radius: lastHighlighted.options.originalRadius || (lastHighlighted.options.radius > 10 ? 9 : 6),
-                    fillColor: lastHighlighted.options.originalFill || lastHighlighted.options.fillColor,
-                    color: lastHighlighted.options.originalColor || lastHighlighted.options.color,
-                    weight: lastHighlighted.options.originalWeight || 1.5
+                    radius: s.is_vip ? 9 : 6,
+                    fillColor: statusColor,
+                    color: s.is_vip ? '#FFD100' : regionColor,
+                    weight: s.is_vip ? 3 : 1.5
                 });
             }
-            
-            marker.options.originalRadius = marker.options.radius === 12 ? marker.options.originalRadius : marker.options.radius;
-            marker.options.originalFill = marker.options.fillColor === '#ffffff' ? marker.options.originalFill : marker.options.fillColor;
-            marker.options.originalColor = marker.options.color === '#000000' ? marker.options.originalColor : marker.options.color;
-            marker.options.originalWeight = marker.options.weight === 2 ? marker.options.originalWeight : marker.options.weight;
+            lastHighlighted = null;
+        }
 
+        function highlightMarker(marker) {
+            clearHighlight();
             marker.isHighlighted = true;
             marker.setStyle({ radius: 15, fillColor: '#ffffff', color: '#ff0000', weight: 4 });
             marker.bringToFront();

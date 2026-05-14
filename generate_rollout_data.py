@@ -80,11 +80,64 @@ def get_on_air_info(tracker_path):
         print(f"Error reading {tracker_path}: {e}")
     return on_air_info
 
+def get_rollout_details(file_path):
+    details = {} # site_id -> {rfi, on_air, bbu, type}
+    try:
+        print(f"Loading rollout details from {file_path}...")
+        df = pd.read_excel(file_path, sheet_name='Site Rollout Plan', skiprows=2)
+        
+        # 108: Main Site Name (BBU Location)
+        # 158: Site Type (IBC/Macro/CRAN)
+        
+        # Possible On-Air columns (Actual End Date)
+        on_air_cols = [283, 326, 244, 253, 258] 
+        # Possible RFI columns (Actual End Date)
+        rfi_cols = [321]
+        
+        for idx, row in df.iterrows():
+            try:
+                site_id = clean_val(row.iloc[0]).upper()
+                if site_id == '-': continue
+                
+                bbu = clean_val(row.iloc[108]).upper()
+                stype = clean_val(row.iloc[158])
+                
+                # Check multiple columns for the most advanced status
+                on_air = "-"
+                for c in on_air_cols:
+                    val = clean_val(row.iloc[c])
+                    if val != "-":
+                        on_air = val
+                        break
+                
+                rfi = "-"
+                for c in rfi_cols:
+                    val = clean_val(row.iloc[c])
+                    if val != "-":
+                        rfi = val
+                        break
+                
+                details[site_id] = {
+                    'rfi_date': rfi,
+                    'on_air_date': on_air,
+                    'bbu_location': bbu if bbu != site_id else "-",
+                    'detailed_type': stype
+                }
+            except: continue
+        print(f"Loaded {len(details)} site details.")
+    except Exception as e:
+        print(f"Error reading rollout details: {e}")
+    return details
+
 def generate_data():
     base_dir = r'E:\MBF Rollout Dashboard'
+    
+    # New source file
+    rollout_file = os.path.join(base_dir, '60086951_56A0US7_20260515002605.xlsm')
+    rollout_details = get_rollout_details(rollout_file) if os.path.exists(rollout_file) else {}
+
     on_air_path = os.path.join(base_dir, 'On Air Progress Tracker.xlsx')
     on_air_info = get_on_air_info(on_air_path)
-    print(f"Loaded {len(on_air_info)} on-air sites from tracker.")
     
     file_pattern = os.path.join(base_dir, 'MBF RAN Project - Phase 1 PO - Master Site List - *.xlsx')
     
@@ -131,23 +184,28 @@ def generate_data():
                 if not (8.0 < lat < 24.0 and 102.0 < lon < 110.0): continue
             except: continue
             
-            rf, cdd, lock = clean_val(row.get(col_map['rf_approved'])), clean_val(row.get(col_map['cdd_approved'])), clean_val(row.get(col_map['lock_date']))
             site_name_raw = clean_val(row.get(col_map['site_name']))
+            site_name_upper = site_name_raw.upper()
             
-            if site_name_raw in on_air_info:
+            # Enrich with rollout details
+            site_detail = rollout_details.get(site_name_upper, {})
+            rfi_date = site_detail.get('rfi_date', "-")
+            on_air_date = site_detail.get('on_air_date', "-")
+            bbu_location = site_detail.get('bbu_location', "-")
+            detailed_type = site_detail.get('detailed_type', "-")
+
+            # Determine status
+            if on_air_date != "-" or site_name_upper in [k.upper() for k in on_air_info.keys()]:
                 status = "On-Air"
-                rat_val = on_air_info[site_name_raw]
+            elif rfi_date != "-":
+                status = "RFI Ready"
             else:
-                if lock != "-":
-                    status = "RFI Ready"
-                else:
-                    status = "Pending"
+                status = "Pending"
                 
-                # Determine RAT from Master List if not on-air
-                rat_list = []
-                if clean_val(row.get(col_map['4g_type'])) != "-": rat_list.append("4G")
-                if clean_val(row.get(col_map['5g_scenario'])) != "-": rat_list.append("5G")
-                rat_val = "+".join(rat_list) if rat_list else "-"
+            rat_list = []
+            if clean_val(row.get(col_map['4g_type'])) != "-": rat_list.append("4G")
+            if clean_val(row.get(col_map['5g_scenario'])) != "-": rat_list.append("5G")
+            rat_val = "+".join(rat_list) if rat_list else "-"
             
             vip_val = clean_val(row.get(col_map['vip'])).upper()
             if vip_val == "-": vip_val = "NO"
@@ -164,13 +222,16 @@ def generate_data():
                 
             site = {
                 'region': final_region, 'po': clean_val(row.get(col_map['po'])),
-                'site_name': clean_val(row.get(col_map['site_name'])),
+                'site_name': site_name_raw,
                 'province': province_val,
                 'district': clean_val(row.get(col_map['district'])),
                 'enodeb_id': enodeb_id, 'lat': lat, 'lon': lon,
                 'vip': vip_val, 'is_vip': is_vip, 'scenario': clean_val(row.get(col_map['scenario'])),
-                'site_type': clean_val(row.get(col_map['site_type'])), 'status': status,
-                'rat': rat_val
+                'site_type': clean_val(row.get(col_map['site_type'])), 
+                'detailed_type': detailed_type,
+                'status': status, 'rat': rat_val,
+                'rfi_date': rfi_date, 'on_air_date': on_air_date,
+                'bbu_location': bbu_location
             }
             site['timeline'] = clean_val(row.get(col_map[f"timeline_{'north' if region_name=='North' else 'other'}"]))
             all_sites.append(site)

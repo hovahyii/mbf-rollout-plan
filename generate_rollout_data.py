@@ -87,13 +87,12 @@ def get_rollout_details(file_path):
         df = pd.read_excel(file_path, sheet_name='Site Rollout Plan', skiprows=2)
         
         # 108: Main Site Name (BBU Location)
-        # 158: Site Type (IBC/Macro/CRAN)
-        # 99: Lat, 106: Lon
-        
-        # Refined On-Air columns (ONLY actual on-air dates, removing "Ready For" which is not yet On-Air)
-        on_air_cols = [283, 253, 258, 244, 249] 
-        # Possible RFI columns (Actual End Date)
-        rfi_cols = [321, 326] # 321: Ready For Installation, 326: Ready for OnAir (often considered RFI Ready)
+        # Refined On-Air columns based on user request (IR to JA -> 251 to 260)
+        # We pick the Actual End Date columns within that range: 253 (4G) and 258 (5G)
+        on_air_cols = [253, 258] 
+        # Possible RFI columns based on user request (LM to LP -> 324 to 327)
+        # We pick the Actual End Date column: 326 (Ready for OnAir Actual)
+        rfi_cols = [326]
         
         for idx, row in df.iterrows():
             try:

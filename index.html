@@ -238,12 +238,7 @@
             document.getElementById('vipFilter').addEventListener('change', updateMap);
             document.getElementById('ratFilter').addEventListener('change', updateMap);
             document.getElementById('showCranLinks').addEventListener('change', updateMap);
-            map && map.on('click', () => { 
-                if(!isMeasuring) {
-                    document.getElementById('infoCard').classList.remove('active'); 
-                    clearHighlight();
-                }
-            });
+            map && map.on('click', () => { if(!isMeasuring) document.getElementById('infoCard').classList.remove('active'); });
         }
 
         function loadOfficialPolygons() {
@@ -330,40 +325,41 @@
                     });
                     
                     const originalStyle = { radius: s.is_vip ? 9 : 6, fillColor: statusColor, color: s.is_vip ? '#FFD100' : regionColor, weight: s.is_vip ? 3 : 1.5 };
+                    marker.originalStyle = originalStyle;
                     
                     marker.on('mouseover', () => { 
                         if(!isMeasuring) {
-                            if (!marker.isHighlighted) {
-                                marker.setStyle({ radius: 11, fillColor: '#ffffff', color: '#000000', weight: 2 });
-                            }
+                            marker.setStyle({ radius: 12, fillColor: '#ffffff', color: '#000000', weight: 2 });
                             marker.bringToFront();
                             showFloatingCard(s); 
                         }
                     });
                     marker.on('mouseout', () => {
-                        if(!isMeasuring && !marker.isHighlighted) {
-                            marker.setStyle(originalStyle);
+                        if(!isMeasuring) {
+                            if (marker.isHighlighted) {
+                                marker.setStyle({ radius: 15, fillColor: '#ffffff', color: '#ff0000', weight: 4 });
+                            } else {
+                                marker.setStyle(marker.originalStyle);
+                            }
                         }
                     });
                     
                     marker.on('click', (e) => { 
-                        L.DomEvent.stopPropagation(e);
-                        if(isMeasuring) { onMeasureClick(marker.getLatLng()); }
+                        if(isMeasuring) { L.DomEvent.stopPropagation(e); onMeasureClick(marker.getLatLng()); }
                         else { 
                             highlightMarker(marker);
                             showFloatingCard(s); 
                             map.setView(marker.getLatLng(), 15); 
                         }
                     });
-                    marker.siteData = s;
                     markers.addLayer(marker);
                     siteMarkers[s.site_name] = marker;
 
                     if (showCran && s.bbu_location && s.bbu_location !== '-') {
                         const bbuCoords = coordLookup[s.bbu_location.toUpperCase()];
                         if (bbuCoords) {
-                            const lineGlow = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 12, opacity: 0.15, interactive: false });
-                            const line = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 5, opacity: 1, dashArray: '15, 15' });
+                            const lineGlow = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 10, opacity: 0.15, interactive: false });
+                            const line = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 4, opacity: 1, dashArray: '10, 10' });
                             window.cranLinksLayer.addLayer(lineGlow);
                             window.cranLinksLayer.addLayer(line);
                         }
@@ -377,24 +373,12 @@
         }
 
         let lastHighlighted = null;
-        function clearHighlight() {
+        function highlightMarker(marker) {
             if (lastHighlighted && lastHighlighted._map) {
                 lastHighlighted.isHighlighted = false;
-                const s = lastHighlighted.siteData;
-                const statusColor = s.status === 'On-Air' ? '#10b981' : (s.status === 'RFI Ready' ? '#3b82f6' : '#94a3b8');
-                const regionColor = s.region === 'North' ? '#0054A6' : (s.region === 'Ha Noi' ? '#8b5cf6' : (s.region === 'Middle' ? '#FFD100' : '#ED1C24'));
-                lastHighlighted.setStyle({
-                    radius: s.is_vip ? 9 : 6,
-                    fillColor: statusColor,
-                    color: s.is_vip ? '#FFD100' : regionColor,
-                    weight: s.is_vip ? 3 : 1.5
-                });
+                lastHighlighted.setStyle(lastHighlighted.originalStyle);
             }
-            lastHighlighted = null;
-        }
-
-        function highlightMarker(marker) {
-            clearHighlight();
+            
             marker.isHighlighted = true;
             marker.setStyle({ radius: 15, fillColor: '#ffffff', color: '#ff0000', weight: 4 });
             marker.bringToFront();

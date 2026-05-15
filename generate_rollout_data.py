@@ -90,10 +90,10 @@ def get_rollout_details(file_path):
         # 158: Site Type (IBC/Macro/CRAN)
         # 99: Lat, 106: Lon
         
-        # Possible On-Air columns (Actual End Date)
-        on_air_cols = [283, 326, 244, 253, 258, 131] 
+        # Refined On-Air columns (ONLY actual on-air dates, removing "Ready For" which is not yet On-Air)
+        on_air_cols = [283, 253, 258, 244, 249] 
         # Possible RFI columns (Actual End Date)
-        rfi_cols = [321]
+        rfi_cols = [321, 326] # 321: Ready For Installation, 326: Ready for OnAir (often considered RFI Ready)
         
         for idx, row in df.iterrows():
             try:
@@ -146,7 +146,7 @@ def generate_data():
     base_dir = r'E:\MBF Rollout Dashboard'
     
     # New source file
-    rollout_file = os.path.join(base_dir, '60086951_56A0US7_20260515002605.xlsm')
+    rollout_file = os.path.join(base_dir, '60086951_56A0US7_20260515222627.xlsm')
     rollout_details = get_rollout_details(rollout_file) if os.path.exists(rollout_file) else {}
 
     on_air_path = os.path.join(base_dir, 'On Air Progress Tracker.xlsx')

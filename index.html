@@ -411,6 +411,11 @@
                 const bbuCoords = coordLookup[s.bbu_location.toUpperCase()];
                 if (bbuCoords) {
                     const group = L.layerGroup();
+                    // Draw a small target marker at the BBU end
+                    L.circleMarker(bbuCoords, { 
+                        radius: 4, color: '#6366f1', fillColor: '#ffffff', fillOpacity: 1, weight: 2 
+                    }).addTo(group);
+                    
                     L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 10, opacity: 0.15, interactive: false }).addTo(group);
                     L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 4, opacity: 1, dashArray: '10, 10' }).addTo(group);
                     window.activeCranLink = group.addTo(window.cranLinksLayer);

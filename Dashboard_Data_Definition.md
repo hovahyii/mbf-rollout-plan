@@ -20,15 +20,15 @@ The "On-Air" status determines if a site is fully operational (rendered as a **G
 
 ---
 
-## 2. Ready for On Air (RFI) Status
-The "RFI Ready" status determines if a site is ready but not yet On-Air (rendered as a **Blue** dot).
+## 2. RFI / Ready Status
+The "RFI Ready" status determines if a site is ready for installation or ready for On-Air but not yet fully operational (rendered as a **Blue** dot).
 
-*   **Column Range**: **LM to LP** (Excel columns 324 to 327).
-*   **Specific Column Used**:
-    *   **326**: `Ready for OnAir` -> `Actual End Date`
-*   **Logic**: If the site is **not** On-Air, but column 326 contains a valid date, the site is marked as **RFI Ready**.
+*   **Columns Used**:
+    *   **326**: `Ready for OnAir` -> `Actual End Date` (from range **LM to LP** -> 324 to 327)
+    *   **321**: `Ready For Installation` -> `Actual End Date` (from range **LH to LL** -> 319 to 323)
+*   **Logic**: If the site is **not** On-Air, but **either** of these columns contains a valid date, the site is marked as **RFI Ready**.
 
-*Note: If a site has neither On-Air nor Ready dates, it is marked as **Pending** (Grey dot).*
+*Note: If a site has neither On-Air nor RFI dates, it is marked as **Pending** (Grey dot).*
 
 ---
 

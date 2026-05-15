@@ -90,9 +90,10 @@ def get_rollout_details(file_path):
         # Refined On-Air columns based on user request (IR to JA -> 251 to 260)
         # We pick the Actual End Date columns within that range: 253 (4G) and 258 (5G)
         on_air_cols = [253, 258] 
-        # Possible RFI columns based on user request (LM to LP -> 324 to 327)
-        # We pick the Actual End Date column: 326 (Ready for OnAir Actual)
-        rfi_cols = [326]
+        # Possible RFI columns based on user request:
+        # 326: Ready for OnAir Actual (from range LM to LP -> 324 to 327)
+        # 321: Ready For Installation Actual (from range LH to LL -> 319 to 323)
+        rfi_cols = [326, 321]
         
         for idx, row in df.iterrows():
             try:

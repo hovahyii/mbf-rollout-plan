@@ -145,10 +145,6 @@
             <div class="legend-item"><span class="dot" style="background:var(--mbf-yellow)"></span> Middle</div>
             <div class="legend-item"><span class="dot" style="background:#94a3b8"></span> Pending</div>
             <div class="legend-item"><span class="dot" style="background:var(--mbf-red)"></span> South</div>
-            <div class="legend-item" style="grid-column: span 2; margin-top: 4px; padding-top: 4px; border-top: 1px solid rgba(0,0,0,0.1);">
-                <div style="width: 20px; height: 2px; background: #6366f1; margin-right: 6px;"></div>
-                <span>CRAN-R to BBU Link</span>
-            </div>
         </div>
         <div class="stats-grid">
             <div class="stat-card"><div class="stat-value" id="totalSites">0</div><div class="stat-label">Total Sites</div></div>
@@ -238,7 +234,12 @@
             document.getElementById('vipFilter').addEventListener('change', updateMap);
             document.getElementById('ratFilter').addEventListener('change', updateMap);
             document.getElementById('showCranLinks').addEventListener('change', updateMap);
-            map && map.on('click', () => { if(!isMeasuring) document.getElementById('infoCard').classList.remove('active'); });
+            map && map.on('click', () => { 
+                if(!isMeasuring) {
+                    document.getElementById('infoCard').classList.remove('active');
+                    resetHighlight();
+                }
+            });
         }
 
         function loadOfficialPolygons() {
@@ -311,9 +312,8 @@
                 markers = L.layerGroup();
                 siteMarkers = {};
                 
-                if (showCran) {
-                    window.cranLinksLayer = L.layerGroup().addTo(map);
-                }
+                if (window.cranLinksLayer) map.removeLayer(window.cranLinksLayer);
+                window.cranLinksLayer = L.layerGroup().addTo(map);
 
                 filtered.forEach(s => {
                     const regionColor = s.region === 'North' ? '#0054A6' : (s.region === 'Ha Noi' ? '#8b5cf6' : (s.region === 'Middle' ? '#FFD100' : '#ED1C24'));
@@ -329,41 +329,33 @@
                     
                     marker.on('mouseover', () => { 
                         if(!isMeasuring) {
-                            marker.setStyle({ radius: 12, fillColor: '#ffffff', color: '#000000', weight: 2 });
-                            marker.bringToFront();
+                            tempHighlight(marker, s);
                             showFloatingCard(s); 
                         }
                     });
                     marker.on('mouseout', () => {
                         if(!isMeasuring) {
-                            if (marker.isHighlighted) {
-                                marker.setStyle({ radius: 15, fillColor: '#ffffff', color: '#ff0000', weight: 4 });
-                            } else {
+                            if (!marker.isHighlighted) {
                                 marker.setStyle(marker.originalStyle);
+                                if (window.activeCranLink) {
+                                    window.cranLinksLayer.removeLayer(window.activeCranLink);
+                                    window.activeCranLink = null;
+                                }
                             }
                         }
                     });
                     
                     marker.on('click', (e) => { 
-                        if(isMeasuring) { L.DomEvent.stopPropagation(e); onMeasureClick(marker.getLatLng()); }
+                        L.DomEvent.stopPropagation(e);
+                        if(isMeasuring) { onMeasureClick(marker.getLatLng()); }
                         else { 
-                            highlightMarker(marker);
+                            persistHighlight(marker, s);
                             showFloatingCard(s); 
-                            map.setView(marker.getLatLng(), 15); 
                         }
                     });
                     markers.addLayer(marker);
                     siteMarkers[s.site_name] = marker;
 
-                    if (showCran && s.bbu_location && s.bbu_location !== '-') {
-                        const bbuCoords = coordLookup[s.bbu_location.toUpperCase()];
-                        if (bbuCoords) {
-                            const lineGlow = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 10, opacity: 0.15, interactive: false });
-                            const line = L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 4, opacity: 1, dashArray: '10, 10' });
-                            window.cranLinksLayer.addLayer(lineGlow);
-                            window.cranLinksLayer.addLayer(line);
-                        }
-                    }
                 });
                 
                 map.addLayer(markers);
@@ -373,16 +365,57 @@
         }
 
         let lastHighlighted = null;
-        function highlightMarker(marker) {
+        let lastTemp = null;
+
+        function tempHighlight(marker, s) {
+            if (lastTemp && !lastTemp.isHighlighted) {
+                lastTemp.setStyle(lastTemp.originalStyle);
+            }
+            if (!marker.isHighlighted) {
+                marker.setStyle({ radius: 12, fillColor: '#ffffff', color: '#000000', weight: 2 });
+                marker.bringToFront();
+                drawActiveLink(s);
+            }
+            lastTemp = marker;
+        }
+
+        function persistHighlight(marker, s) {
+            resetHighlight();
+            marker.isHighlighted = true;
+            marker.setStyle({ radius: 15, fillColor: '#ffffff', color: '#ff0000', weight: 4 });
+            marker.bringToFront();
+            drawActiveLink(s);
+            lastHighlighted = marker;
+            map.setView(marker.getLatLng(), 15);
+        }
+
+        function resetHighlight() {
             if (lastHighlighted && lastHighlighted._map) {
                 lastHighlighted.isHighlighted = false;
                 lastHighlighted.setStyle(lastHighlighted.originalStyle);
             }
-            
-            marker.isHighlighted = true;
-            marker.setStyle({ radius: 15, fillColor: '#ffffff', color: '#ff0000', weight: 4 });
-            marker.bringToFront();
-            lastHighlighted = marker;
+            if (window.activeCranLink) {
+                window.cranLinksLayer.removeLayer(window.activeCranLink);
+                window.activeCranLink = null;
+            }
+            lastHighlighted = null;
+        }
+
+        function drawActiveLink(s) {
+            if (window.activeCranLink) {
+                window.cranLinksLayer.removeLayer(window.activeCranLink);
+                window.activeCranLink = null;
+            }
+            const showCran = document.getElementById('showCranLinks').checked;
+            if (showCran && s.bbu_location && s.bbu_location !== '-') {
+                const bbuCoords = coordLookup[s.bbu_location.toUpperCase()];
+                if (bbuCoords) {
+                    const group = L.layerGroup();
+                    L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 10, opacity: 0.15, interactive: false }).addTo(group);
+                    L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 4, opacity: 1, dashArray: '10, 10' }).addTo(group);
+                    window.activeCranLink = group.addTo(window.cranLinksLayer);
+                }
+            }
         }
 
         function showFloatingCard(s) {
@@ -415,10 +448,9 @@
             const val = document.getElementById('searchInput').value.toUpperCase();
             const site = allData.find(s => s.site_name.toUpperCase().includes(val) || (s.enodeb_id && s.enodeb_id.includes(val)));
             if (site) {
-                map.setView([site.lat, site.lon], 16);
                 showFloatingCard(site);
                 if (siteMarkers[site.site_name]) {
-                    highlightMarker(siteMarkers[site.site_name]);
+                    persistHighlight(siteMarkers[site.site_name], site);
                 }
             }
         }

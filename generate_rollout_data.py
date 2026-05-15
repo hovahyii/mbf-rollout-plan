@@ -256,8 +256,8 @@ def generate_data():
         if s['enodeb_id'] != '-': coord_lookup[s['enodeb_id'].upper()] = [s['lat'], s['lon']]
     
     for sid, d in rollout_details.items():
-        if d['lat'] and d['lon']:
-            # Prioritize rollout plan coordinates if available for the site name
+        if sid.upper() not in coord_lookup and d['lat'] and d['lon']:
+            # Only use rollout plan coordinates if missing from master site list
             coord_lookup[sid.upper()] = [d['lat'], d['lon']]
 
     # Load official Polygons from specific paths

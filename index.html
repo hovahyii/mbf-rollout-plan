@@ -407,19 +407,39 @@
                 window.activeCranLink = null;
             }
             const showCran = document.getElementById('showCranLinks').checked;
-            if (showCran && s.bbu_location && s.bbu_location !== '-') {
+            if (!showCran) return;
+
+            const group = L.layerGroup();
+            
+            // 1. Outgoing link (to BBU)
+            if (s.bbu_location && s.bbu_location !== '-') {
                 const bbuCoords = coordLookup[s.bbu_location.toUpperCase()];
                 if (bbuCoords) {
-                    const group = L.layerGroup();
-                    // Draw a small target marker at the BBU end
                     L.circleMarker(bbuCoords, { 
                         radius: 4, color: '#6366f1', fillColor: '#ffffff', fillOpacity: 1, weight: 2 
                     }).addTo(group);
                     
                     L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 10, opacity: 0.15, interactive: false }).addTo(group);
                     L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 4, opacity: 1, dashArray: '10, 10' }).addTo(group);
-                    window.activeCranLink = group.addTo(window.cranLinksLayer);
                 }
+            }
+            
+            // 2. Incoming links (from sites that use this site as BBU)
+            const siteNameUpper = s.site_name.toUpperCase();
+            const siteIdUpper = s.enodeb_id ? s.enodeb_id.toUpperCase() : '';
+            
+            allData.forEach(otherSite => {
+                if (otherSite.bbu_location && otherSite.bbu_location !== '-') {
+                    const otherBbuUpper = otherSite.bbu_location.toUpperCase();
+                    if (otherBbuUpper === siteNameUpper || (siteIdUpper && otherBbuUpper === siteIdUpper)) {
+                        L.polyline([[otherSite.lat, otherSite.lon], [s.lat, s.lon]], { color: '#6366f1', weight: 10, opacity: 0.15, interactive: false }).addTo(group);
+                        L.polyline([[otherSite.lat, otherSite.lon], [s.lat, s.lon]], { color: '#6366f1', weight: 4, opacity: 1, dashArray: '10, 10' }).addTo(group);
+                    }
+                }
+            });
+
+            if (group.getLayers().length > 0) {
+                window.activeCranLink = group.addTo(window.cranLinksLayer);
             }
         }
 

@@ -152,7 +152,7 @@ def generate_data():
     on_air_path = os.path.join(base_dir, 'On Air Progress Tracker.xlsx')
     on_air_info = get_on_air_info(on_air_path)
     
-    file_pattern = os.path.join(base_dir, 'MBF RAN Project - Phase 1 PO - Master Site List - *.xlsx')
+    file_pattern = os.path.join(base_dir, 'MBF RAN Project - Phase 1 PO - Master Site List*.xlsx')
     
     files = glob.glob(file_pattern)
     if not files:
@@ -170,7 +170,7 @@ def generate_data():
         
         col_map = {
             'po': find_col(df, ['PO']),
-            'site_name': find_col(df, ['Physical Site Name', 'Main Site Name']),
+            'site_name': find_col(df, ['Physcial Site Name', 'Physical Site Name']),
             'province': find_col(df, ['Province', 'New Province']),
             'district': find_col(df, ['District']),
             'enodeb_id': find_col(df, ['Existing eNodeB ID', 'eNodeB ID']),
@@ -186,6 +186,8 @@ def generate_data():
             'lock_date': find_col(df, ['Site configure Lock Date']),
             '4g_type': find_col(df, ['4G Type']),
             '5g_scenario': find_col(df, ['5G Scenario']),
+            'bbu_location_master': find_col(df, ['Main Site Name (BBU Location)', 'bbu location']),
+            'bbu_solution': find_col(df, ['CRAN BBU Solution', 'bbu solution']),
         }
 
         for idx, row in df.iterrows():
@@ -204,8 +206,15 @@ def generate_data():
             site_detail = rollout_details.get(site_name_upper, {})
             rfi_date = site_detail.get('rfi_date', "-")
             on_air_date = site_detail.get('on_air_date', "-")
-            bbu_location = site_detail.get('bbu_location', "-")
+            
+            bbu_location_master = clean_val(row.get(col_map['bbu_location_master']))
+            if bbu_location_master != "-" and bbu_location_master.upper() != site_name_upper:
+                bbu_location = bbu_location_master
+            else:
+                bbu_location = "-"
+                
             detailed_type = site_detail.get('detailed_type', "-")
+            bbu_solution = clean_val(row.get(col_map['bbu_solution']))
 
             # Determine status
             if on_air_date != "-" or site_name_upper in [k.upper() for k in on_air_info.keys()]:
@@ -244,7 +253,8 @@ def generate_data():
                 'detailed_type': detailed_type,
                 'status': status, 'rat': rat_val,
                 'rfi_date': rfi_date, 'on_air_date': on_air_date,
-                'bbu_location': bbu_location
+                'bbu_location': bbu_location,
+                'bbu_solution': bbu_solution
             }
             site['timeline'] = clean_val(row.get(col_map[f"timeline_{'north' if region_name=='North' else 'other'}"]))
             all_sites.append(site)

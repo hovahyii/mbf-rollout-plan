@@ -115,11 +115,26 @@
         <div class="modal-content" onclick="event.stopPropagation()">
             <div style="font-size: 22px; font-weight: 800; color: var(--mbf-blue); margin-bottom: 20px;">Contributors</div>
             <div style="font-size: 10px; font-weight: 800; color: var(--text-dim); text-transform: uppercase;">Creator</div><div style="font-size: 15px; font-weight: 600; margin-bottom: 12px;">Jehovah Yii Zui Hon (60086951)</div>
-            <div style="font-size: 10px; font-weight: 800; color: var(--text-dim); text-transform: uppercase;">Advisor</div><div style="font-size: 15px; font-weight: 600; margin-bottom: 12px;">Li Wei (00909100)</div>
+            <div style="font-size: 10px; font-weight: 800; color: var(--text-dim); text-transform: uppercase;">Advisors</div>
+            <div style="font-size: 15px; font-weight: 600; margin-bottom: 4px;">Li Wei (00909100)</div>
+            <div style="font-size: 15px; font-weight: 600; margin-bottom: 12px;">Wang Haipeng (00508684)</div>
             <div style="margin: 20px 0; border-top: 1px solid rgba(0,0,0,0.05);"></div>
             <div style="font-size: 10px; font-weight: 800; color: var(--mbf-red); text-transform: uppercase;">Special Thanks</div>
             <div style="font-size: 10px; font-weight: 800; color: var(--text-dim);">North Polygon</div><div style="font-size: 13px; font-weight: 600; margin-bottom: 8px;">Cao Siqi (00840317)</div>
             <div style="font-size: 10px; font-weight: 800; color: var(--text-dim);">Middle Polygon</div><div style="font-size: 13px; font-weight: 600;">Nguyen Duc Trung (60079749)</div>
+        </div>
+    </div>
+
+    <div id="whatsNewModal" class="modal-overlay" onclick="closeWhatsNewModal()">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <div style="font-size: 22px; font-weight: 800; color: var(--mbf-blue); margin-bottom: 20px;">What's New in V1.1.0</div>
+            <ul style="font-size: 13px; font-weight: 500; line-height: 1.6; padding-left: 20px; margin-bottom: 24px;">
+                <li><strong>CRAN Solution Links:</strong> CRAN-M to CRAN-R connections are now visually represented with distinct line styles based on the 4G CRAN BBU Solution (Combine, Separate, New BBU).</li>
+                <li><strong>Improved BBU Mapping:</strong> BBU connections are now parsed directly from the Master Site List.</li>
+                <li><strong>Filter Persistence:</strong> BBU connection lines now reliably anchor to precise coordinates even if the target site is hidden by active filters.</li>
+                <li><strong>Optimized Backend:</strong> Cleaned up unused legacy tracker dependencies for faster generation.</li>
+            </ul>
+            <button onclick="closeWhatsNewModal()" style="width: 100%; padding: 12px; border-radius: 12px; background: var(--mbf-blue); color: white; font-weight: 800; border: none; cursor: pointer;">AWESOME!</button>
         </div>
     </div>
 
@@ -145,6 +160,11 @@
             <div class="legend-item"><span class="dot" style="background:var(--mbf-yellow)"></span> Middle</div>
             <div class="legend-item"><span class="dot" style="background:#94a3b8"></span> Pending</div>
             <div class="legend-item"><span class="dot" style="background:var(--mbf-red)"></span> South</div>
+            <div class="legend-item" style="grid-column: span 2; margin-top: 5px; padding-top: 5px; border-top: 1px solid var(--border-glass);"><strong>BBU Link Types:</strong></div>
+            <div class="legend-item"><div style="width:12px; height:3px; background:#10b981;"></div> Combine</div>
+            <div class="legend-item"><div style="width:12px; height:3px; background:#f59e0b; border-top: 2px dashed #f59e0b; background: transparent;"></div> Separate</div>
+            <div class="legend-item"><div style="width:12px; height:3px; background:#ec4899; border-top: 2px dotted #ec4899; background: transparent;"></div> New BBU</div>
+            <div class="legend-item"><div style="width:12px; height:3px; background:#6366f1; border-top: 2px dashed #6366f1; background: transparent;"></div> Other</div>
         </div>
         <div class="stats-grid">
             <div class="stat-card"><div class="stat-value" id="totalSites">0</div><div class="stat-label">Total Sites</div></div>
@@ -153,8 +173,9 @@
         <div class="filter-group"><input type="text" id="searchInput" placeholder="Site ID or Name..."><button id="searchBtn" style="margin-top:6px; background:var(--mbf-blue); color:white; border:none; padding:12px; border-radius:12px; cursor:pointer; font-weight:800;">FIND SITE</button></div>
         <div class="footer">
             <p class="footer-text">If you found any problem please contact <a href="mailto:60086951@mbf.vn" class="footer-link">Hovah</a></p>
-            <p class="footer-text" style="font-size: 9px; opacity: 0.6; margin-bottom: 8px;">Version 1.0.0</p>
-            <p class="footer-text" style="margin-top: 8px;"><a onclick="openModal()" class="footer-link" style="color: var(--mbf-red); font-weight: 800;">★ Special Thanks & Contributors</a></p>
+            <p class="footer-text" style="font-size: 9px; opacity: 0.6; margin-bottom: 8px;">Version 1.1.0</p>
+            <p class="footer-text" style="margin-top: 8px;"><a onclick="openWhatsNewModal()" class="footer-link" style="color: var(--mbf-blue); font-weight: 800;">🚀 What's New</a></p>
+            <p class="footer-text" style="margin-top: 4px;"><a onclick="openModal()" class="footer-link" style="color: var(--mbf-red); font-weight: 800;">★ Special Thanks & Contributors</a></p>
         </div>
     </div>
 
@@ -200,6 +221,8 @@
         function forceHideLoading() { document.getElementById('loadingOverlay').style.display = 'none'; }
         function openModal() { document.getElementById('contributorsModal').style.display = 'flex'; }
         function closeModal() { document.getElementById('contributorsModal').style.display = 'none'; }
+        function openWhatsNewModal() { document.getElementById('whatsNewModal').style.display = 'flex'; }
+        function closeWhatsNewModal() { document.getElementById('whatsNewModal').style.display = 'none'; localStorage.setItem('whatsNewSeen_1.1.0', 'true'); }
         
         function toggleDarkMode() {
             document.body.classList.toggle('dark-mode');
@@ -223,6 +246,11 @@
                         updateMap();
                         loadOfficialPolygons();
                         forceHideLoading();
+                        setTimeout(() => {
+                            if (!localStorage.getItem('whatsNewSeen_1.1.0')) {
+                                openWhatsNewModal();
+                            }
+                        }, 800);
                     } else { alert("Data file (rollout_data.js) not found."); }
                 }, 100);
             } catch (e) { console.error(e); forceHideLoading(); }
@@ -415,12 +443,16 @@
             if (s.bbu_location && s.bbu_location !== '-') {
                 const bbuCoords = coordLookup[s.bbu_location.toUpperCase()];
                 if (bbuCoords) {
-                    L.circleMarker(bbuCoords, { 
-                        radius: 4, color: '#6366f1', fillColor: '#ffffff', fillOpacity: 1, weight: 2 
-                    }).addTo(group);
-                    
-                    L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 10, opacity: 0.15, interactive: false }).addTo(group);
-                    L.polyline([[s.lat, s.lon], bbuCoords], { color: '#6366f1', weight: 4, opacity: 1, dashArray: '10, 10' }).addTo(group);
+                    let linkColor = '#6366f1';
+                    let dashArray = '10, 10';
+                    if (s.bbu_solution) {
+                        let sol = String(s.bbu_solution).toLowerCase();
+                        if (sol.includes('combine')) { linkColor = '#10b981'; dashArray = null; }
+                        else if (sol.includes('separate')) { linkColor = '#f59e0b'; dashArray = '8, 8'; }
+                        else if (sol.includes('new')) { linkColor = '#ec4899'; dashArray = '2, 6'; }
+                    }
+                    L.polyline([[s.lat, s.lon], bbuCoords], { color: linkColor, weight: 10, opacity: 0.15, interactive: false }).addTo(group);
+                    L.polyline([[s.lat, s.lon], bbuCoords], { color: linkColor, weight: 4, opacity: 1, dashArray: dashArray }).addTo(group);
                 }
             }
             
@@ -432,8 +464,16 @@
                 if (otherSite.bbu_location && otherSite.bbu_location !== '-') {
                     const otherBbuUpper = otherSite.bbu_location.toUpperCase();
                     if (otherBbuUpper === siteNameUpper || (siteIdUpper && otherBbuUpper === siteIdUpper)) {
-                        L.polyline([[otherSite.lat, otherSite.lon], [s.lat, s.lon]], { color: '#6366f1', weight: 10, opacity: 0.15, interactive: false }).addTo(group);
-                        L.polyline([[otherSite.lat, otherSite.lon], [s.lat, s.lon]], { color: '#6366f1', weight: 4, opacity: 1, dashArray: '10, 10' }).addTo(group);
+                        let linkColor = '#6366f1';
+                        let dashArray = '10, 10';
+                        if (otherSite.bbu_solution) {
+                            let sol = String(otherSite.bbu_solution).toLowerCase();
+                            if (sol.includes('combine')) { linkColor = '#10b981'; dashArray = null; }
+                            else if (sol.includes('separate')) { linkColor = '#f59e0b'; dashArray = '8, 8'; }
+                            else if (sol.includes('new')) { linkColor = '#ec4899'; dashArray = '2, 6'; }
+                        }
+                        L.polyline([[otherSite.lat, otherSite.lon], [s.lat, s.lon]], { color: linkColor, weight: 10, opacity: 0.15, interactive: false }).addTo(group);
+                        L.polyline([[otherSite.lat, otherSite.lon], [s.lat, s.lon]], { color: linkColor, weight: 4, opacity: 1, dashArray: dashArray }).addTo(group);
                     }
                 }
             });

@@ -39,7 +39,7 @@ def get_geojson_from_shp(shp_folder):
         return None
 
 def get_on_air_info(tracker_path):
-    on_air_info = {} # site_name -> rat
+    on_air_info = {} # site_name -> {'rat': rat_str, 'date': date_str}
     try:
         xl = pd.ExcelFile(tracker_path)
         for s in xl.sheet_names:
@@ -58,24 +58,58 @@ def get_on_air_info(tracker_path):
             header = [str(x).strip() for x in df.iloc[header_idx].tolist()]
             name_col = header.index('Site Name')
             
-            # 4G Day is always 3 columns after Site Name
-            # 5G Day is always 6 columns after Site Name
+            # Find all 'On-air Day' indices
+            on_air_day_cols = [i for i, x in enumerate(header) if x == 'On-air Day']
+            # Fallback to hardcoded if not found
+            if not on_air_day_cols:
+                on_air_day_cols = [name_col + 5, name_col + 9]
+                
             for idx, row in df.iloc[header_idx+1:].iterrows():
                 site_name = str(row[name_col]).strip()
                 if not site_name or site_name == 'nan' or site_name == 'None': continue
                 
-                # Check if it's on-air for 4G or 5G
+                rats = []
+                latest_date = None
+                
+                # Check 4G (first On-air Day column)
                 try:
-                    is_4g_on_air = not pd.isna(row[name_col + 3])
-                    is_5g_on_air = not pd.isna(row[name_col + 6])
-                except: continue
+                    c1 = on_air_day_cols[0]
+                    val1 = row[c1]
+                    if not pd.isna(val1) and str(val1).strip() not in ['nan', 'none', '']:
+                        rats.append("4G")
+                        latest_date = val1
+                except: pass
+
+                # Check 5G (second On-air Day column)
+                if len(on_air_day_cols) > 1:
+                    try:
+                        c2 = on_air_day_cols[1]
+                        val2 = row[c2]
+                        if not pd.isna(val2) and str(val2).strip() not in ['nan', 'none', '']:
+                            rats.append("5G")
+                            latest_date = val2
+                    except: pass
                 
-                rat = []
-                if is_4g_on_air: rat.append("4G")
-                if is_5g_on_air: rat.append("5G")
+                # If rats is empty, try the old check (fallback)
+                if not rats:
+                    try:
+                        if not pd.isna(row.get(name_col + 3)):
+                            rats.append("4G")
+                        if not pd.isna(row.get(name_col + 6)):
+                            rats.append("5G")
+                    except: pass
                 
-                if rat:
-                    on_air_info[site_name] = "+".join(rat)
+                if rats:
+                    date_str = "-"
+                    if hasattr(latest_date, 'strftime'):
+                        date_str = latest_date.strftime('%Y-%m-%d')
+                    elif latest_date:
+                        date_str = str(latest_date).split(' ')[0]
+                        
+                    on_air_info[site_name] = {
+                        'rat': "+".join(rats),
+                        'date': date_str
+                    }
     except Exception as e:
         print(f"Error reading {tracker_path}: {e}")
     return on_air_info
@@ -205,7 +239,19 @@ def generate_data():
             # Enrich with rollout details
             site_detail = rollout_details.get(site_name_upper, {})
             rfi_date = site_detail.get('rfi_date', "-")
-            on_air_date = site_detail.get('on_air_date', "-")
+            
+            tracker_info_keys_upper = {k.upper(): v for k, v in on_air_info.items()}
+            is_on_air_in_tracker = site_name_upper in tracker_info_keys_upper
+            
+            if is_on_air_in_tracker:
+                on_air_date = tracker_info_keys_upper[site_name_upper].get('date', '-')
+                status = "On-Air"
+            else:
+                on_air_date = "-"
+                if rfi_date != "-":
+                    status = "RFI Ready"
+                else:
+                    status = "Pending"
             
             bbu_location_master = clean_val(row.get(col_map['bbu_location_master']))
             if bbu_location_master != "-" and bbu_location_master.upper() != site_name_upper:
@@ -215,14 +261,6 @@ def generate_data():
                 
             detailed_type = site_detail.get('detailed_type', "-")
             bbu_solution = clean_val(row.get(col_map['bbu_solution']))
-
-            # Determine status
-            if on_air_date != "-" or site_name_upper in [k.upper() for k in on_air_info.keys()]:
-                status = "On-Air"
-            elif rfi_date != "-":
-                status = "RFI Ready"
-            else:
-                status = "Pending"
                 
             rat_list = []
             if clean_val(row.get(col_map['4g_type'])) != "-": rat_list.append("4G")

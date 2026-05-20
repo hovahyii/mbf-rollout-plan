@@ -6,7 +6,7 @@ from datetime import datetime
 def extract_site_lists():
     # Configuration
     base_dir = r'E:\MBF Rollout Dashboard'
-    file_pattern = os.path.join(base_dir, 'MBF RAN Project - Phase 1 PO - Master Site List - *.xlsx')
+    file_pattern = os.path.join(base_dir, 'MBF RAN Project - Phase 1 PO - Master Site List*.xlsx')
     
     # Regional configurations: (Sheet Name, Target Directory)
     regions = {

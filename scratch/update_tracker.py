@@ -33,7 +33,14 @@ for idx, row in df_isdp.iterrows():
 print(f"Loaded {len(site_data)} sites from ISDP")
 
 wb = openpyxl.load_workbook(tracker_file)
-sheets = ['Ha Noi Progress', 'North 5G Progress', 'Middle Swap Progress ', 'Middle 5G  Progress', 'South 5G  Progress Tracker']
+sheets = [
+    'Ha Noi Progress', 
+    'North 5G Progress', 
+    'Middle Swap Progress ', 
+    'Middle 5G Progress', 
+    'South Swap Progress ', 
+    'South 5G  Progress'
+]
 
 for sheet_name in sheets:
     if sheet_name not in wb.sheetnames:

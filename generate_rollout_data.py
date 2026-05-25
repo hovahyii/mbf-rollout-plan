@@ -96,14 +96,7 @@ def get_on_air_info(tracker_path):
                             latest_date = val2
                     except: pass
                 
-                # If rats is empty, try the old check (fallback)
-                if not rats:
-                    try:
-                        if not pd.isna(row.get(name_col + 3)):
-                            rats.append("4G")
-                        if not pd.isna(row.get(name_col + 6)):
-                            rats.append("5G")
-                    except: pass
+                # The old fallback check (name_col + 3 / + 6) is removed because it now conflicts with the 'VIP Site' column in the South sheet, leading to false positives.
                 
                 if rats:
                     date_str = "-"

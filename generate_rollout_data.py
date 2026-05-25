@@ -58,6 +58,12 @@ def get_on_air_info(tracker_path):
             header = [str(x).strip() for x in df.iloc[header_idx].tolist()]
             name_col = header.index('Site Name')
             
+            # Additional name columns to index by (e.g. for South region matching)
+            additional_name_cols = []
+            for col_name in ['NEname_Old_4G_NSN', 'NEName_New4G', 'NEName_New5G']:
+                if col_name in header:
+                    additional_name_cols.append(header.index(col_name))
+            
             # Find all 'On-air Day' indices
             on_air_day_cols = [i for i, x in enumerate(header) if x == 'On-air Day']
             # Fallback to hardcoded if not found
@@ -106,10 +112,19 @@ def get_on_air_info(tracker_path):
                     elif latest_date:
                         date_str = str(latest_date).split(' ')[0]
                         
-                    on_air_info[site_name] = {
+                    entry = {
                         'rat': "+".join(rats),
                         'date': date_str
                     }
+                    on_air_info[site_name] = entry
+                    
+                    # Also index by alternative names
+                    for ac in additional_name_cols:
+                        try:
+                            ac_name = str(row.iloc[ac]).strip()
+                            if ac_name and ac_name.lower() not in ['nan', 'none']:
+                                on_air_info[ac_name] = entry
+                        except: pass
     except Exception as e:
         print(f"Error reading {tracker_path}: {e}")
     return on_air_info

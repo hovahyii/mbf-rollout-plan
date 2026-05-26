@@ -96,7 +96,9 @@ for sheet_name in sheets:
     # update rows
     updated = 0
     for row_idx in range(header_row_idx + 1, ws.max_row + 1):
-        site_name_cell = ws.cell(row=row_idx, column=col_map.get('Site Name', 0))
+        if 'Site Name' not in col_map:
+            continue
+        site_name_cell = ws.cell(row=row_idx, column=col_map['Site Name'])
         if site_name_cell and site_name_cell.value:
             s_name = str(site_name_cell.value).strip()
             if s_name in site_data:

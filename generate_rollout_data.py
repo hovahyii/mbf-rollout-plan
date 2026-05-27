@@ -130,9 +130,7 @@ def get_rollout_details(file_path):
         df = pd.read_excel(file_path, sheet_name='Site Rollout Plan', skiprows=2)
         
         # 108: Main Site Name (BBU Location)
-        # Refined On-Air columns based on user request (IR to JA -> 251 to 260)
-        # We pick the Actual End Date columns within that range: 253 (4G) and 258 (5G)
-        on_air_cols = [253, 258] 
+        # Removed on_air_cols parsing as on-air status must strictly come from On Air Progress Tracker.xlsx
         # Possible RFI columns based on user request:
         # 326: Ready for OnAir Actual (from range LM to LP -> 324 to 327)
         # 321: Ready For Installation Actual (from range LH to LL -> 319 to 323)
@@ -156,14 +154,7 @@ def get_rollout_details(file_path):
                     rl_lon = float(str(row.iloc[106]).replace(',', '.'))
                 except: pass
 
-                # Check multiple columns for the most advanced status
-                on_air = "-"
-                for c in on_air_cols:
-                    val = clean_val(row.iloc[c])
-                    if val != "-":
-                        on_air = val
-                        break
-                
+                # (On Air checking removed here per user constraint)
                 rfi = "-"
                 for c in rfi_cols:
                     val = clean_val(row.iloc[c])
@@ -172,7 +163,7 @@ def get_rollout_details(file_path):
                         break
                 
                 entry = {
-                    'rfi_date': rfi, 'on_air_date': on_air,
+                    'rfi_date': rfi, 'on_air_date': '-', # Enforced: must come from On Air Progress Tracker
                     'bbu_location': bbu if bbu != site_id and bbu != site_name_alt else "-",
                     'detailed_type': stype, 'lat': rl_lat, 'lon': rl_lon
                 }

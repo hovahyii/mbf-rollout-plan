@@ -38,12 +38,13 @@ def get_geojson_from_shp(shp_folder):
         print(f"Error reading shapefile in {shp_folder}: {e}")
         return None
 
-def get_on_air_info(tracker_path):
+def get_on_air_info(tracker_path, target_sheets=None):
     on_air_info = {} # site_name -> {'rat': rat_str, 'date': date_str}
     try:
         xl = pd.ExcelFile(tracker_path)
         for s in xl.sheet_names:
             if 'Summary' in s: continue
+            if target_sheets and s not in target_sheets: continue
             df = pd.read_excel(tracker_path, sheet_name=s, header=None)
             # Find which row is the header (contains "Site Name")
             header_idx = -1
@@ -196,7 +197,6 @@ def generate_data():
     rollout_details = get_rollout_details(rollout_file) if os.path.exists(rollout_file) else {}
 
     on_air_path = os.path.join(base_dir, 'On Air Progress Tracker.xlsx')
-    on_air_info = get_on_air_info(on_air_path)
     
     file_pattern = os.path.join(base_dir, 'MBF RAN Project - Phase 1 PO - Master Site List*.xlsx')
     
@@ -208,10 +208,23 @@ def generate_data():
     print(f"Reading {latest_file}...")
     
     sheets = {'North_Site': 'North', 'Middle_Site': 'Middle', 'South_Site': 'South'}
+    
+    # Define which sheets correspond to which region in On Air Tracker
+    on_air_sheet_mapping = {
+        'North': ['Ha Noi Progress', 'North 5G Progress'],
+        'Middle': ['Middle Swap Progress ', 'Middle 5G Progress'],
+        'South': ['South Swap Progress ', 'South 5G  Progress']
+    }
+    
     all_sites = []
     
     for sheet_name, region_name in sheets.items():
         print(f"Processing {sheet_name}...")
+        
+        # Get on air data for this specific region
+        target_sheets = on_air_sheet_mapping.get(region_name, [])
+        on_air_info = get_on_air_info(on_air_path, target_sheets)
+        
         df = pd.read_excel(latest_file, sheet_name=sheet_name, skiprows=3)
         
         col_map = {

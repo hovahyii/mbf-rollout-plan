@@ -104,19 +104,19 @@ for sheet_name in sheets:
             if s_name in site_data:
                 data = site_data[s_name]
                 
-                # Update On-air Day 4G
-                if 'On-air Day 4G' in col_map and data['4g']:
-                    ws.cell(row=row_idx, column=col_map['On-air Day 4G']).value = data['4g']
-                    ws.cell(row=row_idx, column=col_map['Site Status']).value = 'On Air'
+                # Update On-air Day 4G (Disabled per user request)
+                # if 'On-air Day 4G' in col_map and data['4g']:
+                #     ws.cell(row=row_idx, column=col_map['On-air Day 4G']).value = data['4g']
+                #     ws.cell(row=row_idx, column=col_map['Site Status']).value = 'On Air'
                 
-                # Update On-air Day 5G
-                if 'On-air Day 5G_1' in col_map and data['5g']:
-                    ws.cell(row=row_idx, column=col_map['On-air Day 5G_1']).value = data['5g']
-                    ws.cell(row=row_idx, column=col_map['Site Status']).value = 'On Air'
+                # Update On-air Day 5G (Disabled per user request)
+                # if 'On-air Day 5G_1' in col_map and data['5g']:
+                #     ws.cell(row=row_idx, column=col_map['On-air Day 5G_1']).value = data['5g']
+                #     ws.cell(row=row_idx, column=col_map['Site Status']).value = 'On Air'
                 
-                if 'On-air Day 5G_2' in col_map and data['5g']:
-                    ws.cell(row=row_idx, column=col_map['On-air Day 5G_2']).value = data['5g']
-                    ws.cell(row=row_idx, column=col_map['Site Status']).value = 'On Air'
+                # if 'On-air Day 5G_2' in col_map and data['5g']:
+                #     ws.cell(row=row_idx, column=col_map['On-air Day 5G_2']).value = data['5g']
+                #     ws.cell(row=row_idx, column=col_map['Site Status']).value = 'On Air'
                     
                 # Update RFI
                 if 'RFI Date' in col_map and data['rfi']:

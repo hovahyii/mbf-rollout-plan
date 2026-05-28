@@ -131,10 +131,8 @@ def get_rollout_details(file_path):
         
         # 108: Main Site Name (BBU Location)
         # Removed on_air_cols parsing as on-air status must strictly come from On Air Progress Tracker.xlsx
-        # Possible RFI columns based on user request:
-        # 326: Ready for OnAir Actual (from range LM to LP -> 324 to 327)
-        # 321: Ready For Installation Actual (from range LH to LL -> 319 to 323)
-        rfi_cols = [326, 321]
+        # User requested explicitly using Column V (index 21) for RFI Ready
+        rfi_cols = [21]
         
         for idx, row in df.iterrows():
             try:

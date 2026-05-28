@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en" class="dark">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mobifone Rollout Dashboard - Analytics Map</title>
+    <title>Mobifone Rollout Dashboard</title>
     
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -11,352 +11,109 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
 
     <style>
-
         :root {
-            --mbf-blue: #3b82f6; /* Modernized blue */
-            --mbf-red: #ef4444; /* Modernized red */
-            --mbf-yellow: #f59e0b; /* Modernized yellow */
+            --mbf-blue: #0054A6;
+            --mbf-red: #ED1C24;
+            --mbf-yellow: #FFD100;
+            --primary: var(--mbf-blue);
             --ready: #10b981;
             --approved: #3b82f6;
-            --pending: #64748b;
-            
-            /* Dark Mode / Mapcn Aesthetic Variables */
-            --bg-body: #020617;
-            --bg-panel: rgba(15, 23, 42, 0.85);
-            --bg-card: rgba(30, 41, 59, 0.7);
-            --border-glass: rgba(255, 255, 255, 0.1);
-            --border-focus: rgba(255, 255, 255, 0.25);
-            --text-main: #f8fafc;
-            --text-dim: #94a3b8;
-            --input-bg: rgba(15, 23, 42, 0.5);
-            
-            --panel-blur: blur(24px);
+            --pending: #94a3b8;
+            --bg-glass: rgba(255, 255, 255, 0.9);
+            --border-glass: rgba(255, 255, 255, 0.5);
+            --text-main: #1e293b;
+            --text-dim: #64748b;
         }
 
-        /* Light Mode Variables (Optional fallback, but we force dark mode for mapcn aesthetic) */
-        html:not(.dark) {
-            --bg-body: #f8fafc;
-            --bg-panel: rgba(255, 255, 255, 0.9);
-            --bg-card: rgba(241, 245, 249, 0.7);
-            --border-glass: rgba(0, 0, 0, 0.1);
-            --border-focus: rgba(0, 0, 0, 0.2);
-            --text-main: #0f172a;
-            --text-dim: #64748b;
-            --input-bg: rgba(255, 255, 255, 0.8);
+        body.dark-mode {
+            --bg-glass: rgba(15, 23, 42, 0.9);
+            --border-glass: rgba(255, 255, 255, 0.1);
+            --text-main: #f1f5f9;
+            --text-dim: #94a3b8;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        
-        body { 
-            font-family: 'Inter', sans-serif; 
-            background: var(--bg-body); 
-            color: var(--text-main); 
-            height: 100vh; 
-            display: flex; 
-            overflow: hidden; 
-            transition: background 0.3s ease; 
-        }
-
-        h1, h2, h3, .brand-font { font-family: 'Outfit', sans-serif; }
+        body { font-family: 'Outfit', sans-serif; background: #f1f5f9; color: var(--text-main); height: 100vh; display: flex; overflow: hidden; transition: background 0.3s; }
+        body.dark-mode { background: #020617; }
 
         .sidebar {
-            width: 400px; 
-            height: 100vh; 
-            background: var(--bg-panel); 
-            backdrop-filter: var(--panel-blur);
-            -webkit-backdrop-filter: var(--panel-blur);
-            border-right: 1px solid var(--border-glass); 
-            padding: 28px 24px; 
-            display: flex; 
-            flex-direction: column; 
-            gap: 20px; 
-            z-index: 1000;
-            box-shadow: 10px 0 30px rgba(0,0,0,0.2); 
-            overflow-y: auto;
+            width: 380px; height: 100vh; background: var(--bg-glass); backdrop-filter: blur(20px);
+            border-right: 1px solid var(--border-glass); padding: 24px; display: flex; flex-direction: column; gap: 16px; z-index: 1000;
+            box-shadow: 10px 0 30px rgba(0,0,0,0.05); overflow-y: auto;
         }
 
-        /* Custom Scrollbar */
-        .sidebar::-webkit-scrollbar { width: 6px; }
-        .sidebar::-webkit-scrollbar-track { background: transparent; }
-        .sidebar::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 10px; }
-        .sidebar::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.2); }
+        .header h1 { font-size: 26px; font-weight: 800; color: var(--mbf-blue); letter-spacing: -0.5px; }
+        .header p { font-size: 14px; color: var(--mbf-red); font-weight: 600; margin-top: -4px; }
 
-        .header h1 { font-size: 24px; font-weight: 700; color: var(--text-main); letter-spacing: -0.02em; display: flex; align-items: center; gap: 8px;}
-        .header h1 span { color: var(--mbf-blue); }
-        .header p { font-size: 13px; color: var(--text-dim); font-weight: 500; margin-top: 4px; }
+        .filters-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+        .filter-group { display: flex; flex-direction: column; gap: 6px; }
+        label { font-size: 11px; font-weight: 700; text-transform: uppercase; color: var(--text-dim); letter-spacing: 0.05em; }
+        select, input { padding: 12px 14px; border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); background: white; font-size: 14px; outline: none; transition: 0.2s; color: #1e293b; }
+        body.dark-mode select, body.dark-mode input { background: #1e293b; color: white; border-color: rgba(255,255,255,0.1); }
 
-        .filters-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-        .filter-group { display: flex; flex-direction: column; gap: 8px; }
-        label { font-size: 12px; font-weight: 600; color: var(--text-dim); letter-spacing: 0.02em; }
-        
-        select, input { 
-            padding: 10px 12px; 
-            border-radius: 8px; 
-            border: 1px solid var(--border-glass); 
-            background: var(--input-bg); 
-            color: var(--text-main);
-            font-size: 13px; 
-            font-family: 'Inter', sans-serif;
-            outline: none; 
-            transition: all 0.2s; 
-            cursor: pointer;
-        }
-        select:hover, input:hover { border-color: var(--border-focus); }
-        select:focus, input:focus { border-color: var(--mbf-blue); box-shadow: 0 0 0 1px var(--mbf-blue); }
-        select option { background: var(--bg-body); color: var(--text-main); }
+        .legend { background: rgba(255,255,255,0.6); padding: 14px; border-radius: 12px; font-size: 10px; display: grid; grid-template-columns: 1fr 1fr; gap: 8px; border: 1px solid var(--border-glass); }
+        body.dark-mode .legend { background: rgba(0,0,0,0.3); }
+        .legend-item { display: flex; align-items: center; gap: 6px; }
+        .dot { width: 10px; height: 10px; border-radius: 50%; }
 
-        .legend { 
-            background: var(--bg-card); 
-            padding: 16px; 
-            border-radius: 12px; 
-            font-size: 12px; 
-            display: grid; 
-            grid-template-columns: 1fr 1fr; 
-            gap: 12px; 
-            border: 1px solid var(--border-glass); 
-        }
-        .legend-item { display: flex; align-items: center; gap: 8px; color: var(--text-dim); font-weight: 500; }
-        .dot { width: 10px; height: 10px; border-radius: 50%; box-shadow: 0 0 8px rgba(255,255,255,0.1); }
-        .line-legend { width: 16px; height: 2px; }
+        .stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+        .stat-card { background: white; padding: 14px; border-radius: 14px; text-align: center; border: 1px solid var(--border-glass); box-shadow: 0 4px 6px rgba(0,0,0,0.02); }
+        body.dark-mode .stat-card { background: #1e293b; }
+        .stat-value { font-size: 24px; font-weight: 800; color: var(--mbf-blue); }
+        .stat-label { font-size: 10px; font-weight: 700; color: var(--text-dim); text-transform: uppercase; }
 
-        .stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-        .stat-card { 
-            background: var(--bg-card); 
-            padding: 20px 16px; 
-            border-radius: 12px; 
-            border: 1px solid var(--border-glass); 
-            display: flex;
-            flex-direction: column;
-            gap: 4px;
-        }
-        .stat-value { font-size: 28px; font-family: 'Outfit', sans-serif; font-weight: 700; color: var(--text-main); line-height: 1; }
-        .stat-label { font-size: 12px; font-weight: 500; color: var(--text-dim); }
-        .stat-card.accent .stat-value { color: var(--ready); }
-
-        .search-container { margin-top: 8px; display: flex; flex-direction: column; gap: 8px;}
-        .search-btn {
-            background: var(--text-main);
-            color: var(--bg-body);
-            border: none;
-            padding: 10px;
-            border-radius: 8px;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.2s;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 8px;
-        }
-        .search-btn:hover { opacity: 0.9; transform: translateY(-1px); }
-
-        #map { flex: 1; height: 100vh; position: relative; background: var(--bg-body); }
+        #map { flex: 1; height: 100vh; position: relative; background: #cbd5e1; }
 
         .floating-card {
-            position: absolute; 
-            top: 24px; 
-            left: 24px; 
-            width: 380px;
-            background: var(--bg-panel); 
-            backdrop-filter: var(--panel-blur);
-            -webkit-backdrop-filter: var(--panel-blur);
-            border-radius: 16px; 
-            padding: 24px; 
-            z-index: 1001;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.3); 
-            border: 1px solid var(--border-glass);
-            pointer-events: none; 
-            opacity: 0; 
-            transform: translateY(-10px);
-            transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+            position: absolute; top: 20px; left: 20px; width: 360px;
+            background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(25px);
+            border-radius: 20px; padding: 22px; z-index: 1001;
+            box-shadow: 0 12px 40px rgba(0,0,0,0.15); border: 1px solid white;
+            pointer-events: none; opacity: 0; transform: translateY(-10px);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
+        body.dark-mode .floating-card { background: rgba(15, 23, 42, 0.9); border-color: rgba(255,255,255,0.1); }
         .floating-card.active { opacity: 1; transform: translateY(0); pointer-events: auto; }
 
-        .card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px; border-bottom: 1px solid var(--border-glass); padding-bottom: 16px; }
-        .card-title { font-size: 20px; font-family: 'Outfit', sans-serif; font-weight: 700; color: var(--text-main); line-height: 1.2; }
-        .card-subtitle { font-size: 13px; color: var(--text-dim); font-weight: 500; margin-top: 4px; }
-        
-        .status-badge { 
-            padding: 4px 10px; 
-            border-radius: 20px; 
-            font-size: 11px; 
-            font-weight: 600; 
-            background: rgba(255,255,255,0.1); 
-            color: var(--text-main);
-            border: 1px solid var(--border-glass);
-        }
+        .card-title { font-size: 18px; font-weight: 800; color: var(--mbf-blue); line-height: 1.2; margin-bottom: 4px; }
+        .card-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 15px; }
+        .card-item { display: flex; flex-direction: column; gap: 2px; }
+        .card-label { font-size: 9px; font-weight: 800; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.05em; }
+        .card-value { font-size: 12px; font-weight: 600; color: var(--text-main); }
+        .vip-badge { padding: 3px 8px; border-radius: 8px; background: var(--mbf-yellow); color: #000; font-size: 10px; font-weight: 800; display: inline-block; }
 
-        .card-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px 12px; }
-        .card-item { display: flex; flex-direction: column; gap: 4px; }
-        .card-label { font-size: 11px; font-weight: 500; color: var(--text-dim); }
-        .card-value { font-size: 13px; font-weight: 600; color: var(--text-main); }
-        
-        .vip-badge { 
-            padding: 4px 8px; 
-            border-radius: 6px; 
-            background: rgba(245, 158, 11, 0.15); 
-            color: var(--mbf-yellow); 
-            border: 1px solid rgba(245, 158, 11, 0.3);
-            font-size: 11px; 
-            font-weight: 700; 
-            display: inline-block; 
-        }
+        .footer { margin-top: auto; padding-top: 16px; border-top: 1px solid rgba(0,0,0,0.05); }
+        .footer-text { font-size: 11px; color: var(--text-dim); line-height: 1.5; }
+        .footer-link { color: var(--mbf-blue); text-decoration: none; font-weight: 700; cursor: pointer; }
 
-        .footer { margin-top: auto; padding-top: 20px; border-top: 1px solid var(--border-glass); }
-        .footer-text { font-size: 12px; color: var(--text-dim); line-height: 1.6; }
-        .footer-link { color: var(--text-main); text-decoration: none; font-weight: 500; cursor: pointer; transition: color 0.2s;}
-        .footer-link:hover { color: var(--mbf-blue); }
-
-        .map-overlay { position: absolute; top: 24px; right: 24px; z-index: 1000; display: flex; flex-direction: column; gap: 12px; }
-        .overlay-btn { 
-            background: var(--bg-panel); 
-            backdrop-filter: var(--panel-blur);
-            padding: 10px; 
-            border-radius: 12px; 
-            cursor: pointer; 
-            display: flex; 
-            align-items: center; 
-            justify-content: center; 
-            width: 44px; 
-            height: 44px; 
-            border: 1px solid var(--border-glass); 
-            box-shadow: 0 4px 12px rgba(0,0,0,0.2); 
-            color: var(--text-main);
-            transition: all 0.2s; 
-        }
-        .overlay-btn:hover { background: var(--bg-card); border-color: var(--border-focus); transform: scale(1.05);}
-        .overlay-btn.active { background: var(--text-main); color: var(--bg-body); }
-
-        .loading-overlay { position: fixed; inset: 0; background: var(--bg-body); z-index: 9999; display: flex; flex-direction: column; align-items: center; justify-content: center; }
-        .loader { width: 40px; height: 40px; border: 3px solid var(--border-glass); border-top: 3px solid var(--mbf-blue); border-radius: 50%; animation: spin 1s linear infinite; }
-        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-
-        /* Custom toggle switch */
-        .switch-container { display: flex; align-items: center; gap: 12px; margin-top: 8px; cursor: pointer;}
-        .switch { position: relative; width: 36px; height: 20px; background: var(--input-bg); border-radius: 20px; border: 1px solid var(--border-glass); transition: 0.3s; }
-        .switch::after { content: ''; position: absolute; top: 2px; left: 2px; width: 14px; height: 14px; background: var(--text-dim); border-radius: 50%; transition: 0.3s; }
-        input:checked + .switch { background: var(--mbf-blue); border-color: var(--mbf-blue); }
-        input:checked + .switch::after { transform: translateX(16px); background: #fff; }
-        input[type="checkbox"] { display: none; }
-
-        .measure-tooltip { background: var(--bg-card); color: var(--text-main); padding: 6px 10px; border-radius: 6px; font-weight: 600; font-size: 12px; border: 1px solid var(--border-glass); pointer-events: none;}
-        .crosshair-cursor { cursor: crosshair !important; }
-        
-        .maplibregl-popup-content {
-            background: var(--bg-panel);
-            backdrop-filter: var(--panel-blur);
-            border: 1px solid var(--border-glass);
-            border-radius: 12px;
-            color: var(--text-main);
-            padding: 12px 16px;
-            font-family: 'Inter', sans-serif;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
-        }
-        .maplibregl-popup-tip { border-top-color: var(--bg-panel) !important; border-bottom-color: var(--bg-panel) !important; }
-    
-        /* Leaflet overrides for dark mode */
-        .leaflet-container { background: var(--bg-body) !important; font-family: 'Inter', sans-serif; }
-        .leaflet-tooltip { background: var(--bg-panel); color: var(--text-main); border: 1px solid var(--border-glass); backdrop-filter: blur(10px); box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
-        .leaflet-tooltip-top:before { border-top-color: var(--bg-panel); }
-        
-        /* Modals (copied from old_index.html) */
         .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.4); backdrop-filter: blur(8px); display: none; align-items: center; justify-content: center; z-index: 10000; }
-        .modal-content { background: var(--bg-panel); color: var(--text-main); width: 400px; padding: 32px; border-radius: 24px; box-shadow: 0 20px 50px rgba(0,0,0,0.2); position: relative; border: 1px solid var(--border-glass); }
+        .modal-content { background: white; width: 400px; padding: 32px; border-radius: 24px; box-shadow: 0 20px 50px rgba(0,0,0,0.2); position: relative; }
+        body.dark-mode .modal-content { background: #1e293b; color: white; }
+
+        .map-overlay { position: absolute; top: 20px; right: 20px; z-index: 1000; display: flex; flex-direction: column; gap: 10px; }
+        .overlay-btn { background: white; padding: 12px; border-radius: 14px; cursor: pointer; display: flex; align-items: center; justify-content: center; width: 48px; height: 48px; border: 1px solid rgba(0,0,0,0.1); box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: 0.2s; }
+        body.dark-mode .overlay-btn { background: #1e293b; color: white; border-color: rgba(255,255,255,0.1); }
+        .overlay-btn.active { background: var(--mbf-blue); color: white; }
+
+        .loading-overlay { position: fixed; inset: 0; background: white; z-index: 9999; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+        body.dark-mode .loading-overlay { background: #020617; }
+        .loader { width: 48px; height: 48px; border: 5px solid #f3f3f3; border-top: 5px solid var(--mbf-blue); border-radius: 50%; animation: spin 1s linear infinite; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        .measure-tooltip { background: #0f172a; color: #fff; padding: 4px 8px; border-radius: 6px; font-weight: 600; font-size: 12px; }
+        .crosshair-cursor { cursor: crosshair !important; }
     </style>
 </head>
-<body class="dark">
-<div id="loadingOverlay" class="loading-overlay">
+<body>
+
+    <div id="loadingOverlay" class="loading-overlay">
         <div class="loader"></div>
-        <p style="margin-top: 24px; font-weight: 500; color: var(--text-main); font-family: 'Outfit';">Initializing Mapcn Analytics...</p>
-        <button onclick="forceHideLoading()" style="margin-top: 20px; font-size: 12px; opacity: 0.5; border: none; background: none; color: var(--text-dim); cursor: pointer;">Click to dismiss</button>
+        <p style="margin-top: 20px; font-weight: 700; color: var(--mbf-blue);">Loading Mobifone Rollout Data...</p>
+        <button onclick="forceHideLoading()" style="margin-top: 20px; font-size: 10px; opacity: 0.5; border: none; background: none; cursor: pointer;">Click here if stuck</button>
     </div>
 
-    <div class="sidebar">
-        <div class="header">
-            <h1><span>Mobifone</span> Analytics</h1>
-            <p>Rollout Dashboard &bull; Phase 1</p>
-        </div>
-        
-        <div class="stats-grid">
-            <div class="stat-card">
-                <div class="stat-label">Total Sites</div>
-                <div class="stat-value" id="totalSites">0</div>
-            </div>
-            <div class="stat-card accent">
-                <div class="stat-label">On-Air Status</div>
-                <div class="stat-value" id="readySites">0</div>
-            </div>
-        </div>
-
-        <div class="filters-grid">
-            <div class="filter-group">
-                <label>Region</label>
-                <select id="regionFilter">
-                    <option value="All">All Regions</option>
-                    <option value="North">North</option>
-                    <option value="Ha Noi">Ha Noi</option>
-                    <option value="Middle">Middle</option>
-                    <option value="South">South</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label>Status</label>
-                <select id="statusFilter">
-                    <option value="All">All Statuses</option>
-                    <option value="On-Air">On-Air</option>
-                    <option value="RFI Ready">RFI Ready</option>
-                    <option value="Pending">Pending</option>
-                </select>
-            </div>
-            <div class="filter-group"><label>Week</label><select id="weekFilter"><option value="All">All Weeks</option></select></div>
-            <div class="filter-group"><label>Type</label><select id="typeFilter"><option value="All">All Types</option></select></div>
-            <div class="filter-group"><label>VIP</label><select id="vipFilter"><option value="All">All VIP</option></select></div>
-            <div class="filter-group"><label>RAT</label><select id="ratFilter"><option value="All">All RATs</option><option value="4G">4G</option><option value="5G">5G</option></select></div>
-        </div>
-        
-        <label class="switch-container">
-            <input type="checkbox" id="showCranLinks" checked>
-            <div class="switch"></div>
-            <span style="font-size: 13px; font-weight: 500; color: var(--text-main);">Visualize CRAN Links</span>
-        </label>
-
-        <div class="legend">
-            <div class="legend-item"><span class="dot" style="background:#0054A6"></span> North</div>
-            <div class="legend-item"><span class="dot" style="background:#10b981"></span> On-Air</div>
-            <div class="legend-item"><span class="dot" style="background:#8b5cf6"></span> Ha Noi</div>
-            <div class="legend-item"><span class="dot" style="background:#3b82f6"></span> RFI Ready</div>
-            <div class="legend-item"><span class="dot" style="background:#FFD100"></span> Middle</div>
-            <div class="legend-item"><span class="dot" style="background:#64748b"></span> Pending</div>
-            <div class="legend-item"><span class="dot" style="background:#ED1C24"></span> South</div>
-            
-            <div class="legend-item" style="grid-column: span 2; margin-top: 8px; padding-top: 12px; border-top: 1px solid var(--border-glass); font-size: 11px;">CRAN BBU Topology</div>
-            <div class="legend-item"><div class="line-legend" style="background:#10b981;"></div> Combine</div>
-            <div class="legend-item"><div class="line-legend" style="border-top: 2px dashed #f59e0b;"></div> Separate</div>
-            <div class="legend-item"><div class="line-legend" style="border-top: 2px dotted #ec4899;"></div> New BBU</div>
-            <div class="legend-item"><div class="line-legend" style="background:#6366f1;"></div> Default</div>
-        </div>
-
-        <div class="search-container">
-            <input type="text" id="searchInput" placeholder="Search Site ID or Name...">
-            <button id="searchBtn" class="search-btn">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-                Locate Site
-            </button>
-        </div>
-
-        <div class="footer">
-            <p class="footer-text">Built with mapcn aesthetics &amp; MapLibre GL.</p>
-            <p class="footer-text" style="margin-top: 8px;"><a class="footer-link">Version 2.0.1 (Leaflet)</a></p>
-            <p class="footer-text" style="margin-top: 4px;"><a onclick="openWhatsNewModal()" class="footer-link" style="color: var(--mbf-blue); font-weight: 800;">🚀 What's New</a></p>
-            <p class="footer-text" style="margin-top: 4px;"><a onclick="openModal()" class="footer-link" style="color: var(--mbf-red); font-weight: 800;">★ Special Thanks</a></p>
-        </div>
-    </div>
-
-    
-    <!-- Include Modals from old index -->
     <div id="contributorsModal" class="modal-overlay" onclick="closeModal()">
         <div class="modal-content" onclick="event.stopPropagation()">
-            <div style="font-size: 22px; font-weight: 800; color: var(--mbf-blue); margin-bottom: 20px; font-family: 'Outfit';">Contributors</div>
+            <div style="font-size: 22px; font-weight: 800; color: var(--mbf-blue); margin-bottom: 20px;">Contributors</div>
             <div style="font-size: 10px; font-weight: 800; color: var(--text-dim); text-transform: uppercase;">Creator</div><div style="font-size: 15px; font-weight: 600; margin-bottom: 12px;">Jehovah Yii Zui Hon (60086951)</div>
             <div style="font-size: 10px; font-weight: 800; color: var(--text-dim); text-transform: uppercase;">Advisors</div>
             <div style="font-size: 15px; font-weight: 600; margin-bottom: 4px;">Li Wei (00909100)</div>
@@ -370,53 +127,89 @@
 
     <div id="whatsNewModal" class="modal-overlay" onclick="closeWhatsNewModal()">
         <div class="modal-content" onclick="event.stopPropagation()">
-            <div style="font-size: 22px; font-weight: 800; color: var(--mbf-blue); margin-bottom: 20px; font-family: 'Outfit';">What's New in V2.0.0</div>
-            <ul style="font-size: 13px; font-weight: 500; line-height: 1.6; padding-left: 20px; margin-bottom: 24px; color: var(--text-dim);">
-                <li><strong>Sleek Glassmorphism UI:</strong> Enjoy the modernized dark mode dashboard inspired by Mapcn analytics.</li>
-                <li><strong>Stable Leaflet Engine:</strong> Reverted back to the highly stable Canvas renderer to prevent WebGL compatibility issues.</li>
+            <div style="font-size: 22px; font-weight: 800; color: var(--mbf-blue); margin-bottom: 20px;">What's New in V1.1.0</div>
+            <ul style="font-size: 13px; font-weight: 500; line-height: 1.6; padding-left: 20px; margin-bottom: 24px;">
+                <li><strong>CRAN Solution Links:</strong> CRAN-M to CRAN-R connections are now visually represented with distinct line styles based on the 4G CRAN BBU Solution (Combine, Separate, New BBU).</li>
+                <li><strong>Improved BBU Mapping:</strong> BBU connections are now parsed directly from the Master Site List.</li>
+                <li><strong>Filter Persistence:</strong> BBU connection lines now reliably anchor to precise coordinates even if the target site is hidden by active filters.</li>
+                <li><strong>Optimized Backend:</strong> Cleaned up unused legacy tracker dependencies for faster generation.</li>
             </ul>
             <button onclick="closeWhatsNewModal()" style="width: 100%; padding: 12px; border-radius: 12px; background: var(--mbf-blue); color: white; font-weight: 800; border: none; cursor: pointer;">AWESOME!</button>
         </div>
     </div>
 
-<div id="map">
-        <div id="infoCard" class="floating-card">
-            <div class="card-header">
-                <div>
-                    <div class="card-title" id="siteTitle">-</div>
-                    <div class="card-subtitle" id="siteSubtitle">-</div>
-                </div>
-                <div class="status-badge" id="cardStatusBadge">-</div>
+    <div class="sidebar">
+        <div class="header"><h1>MOBIFONE</h1><p>Rollout Dashboard - Phase 1</p></div>
+        <div class="filters-grid">
+            <div class="filter-group"><label>Region Filter</label><select id="regionFilter"><option value="All">All Regions</option><option value="North">North</option><option value="Ha Noi">Ha Noi</option><option value="Middle">Middle</option><option value="South">South</option></select></div>
+            <div class="filter-group"><label>Site Status</label><select id="statusFilter"><option value="All">All Statuses</option><option value="On-Air">On-Air</option><option value="RFI Ready">RFI Ready</option><option value="Pending">Pending</option></select></div>
+            <div class="filter-group"><label>Week Filter</label><select id="weekFilter"><option value="All">All Weeks</option></select></div>
+            <div class="filter-group"><label>Site Type</label><select id="typeFilter"><option value="All">All Types</option></select></div>
+            <div class="filter-group"><label>VIP Status</label><select id="vipFilter"><option value="All">All Statuses</option></select></div>
+            <div class="filter-group"><label>RAT Filter</label><select id="ratFilter"><option value="All">All RATs</option><option value="4G">4G</option><option value="5G">5G</option></select></div>
+            <div class="filter-group" style="grid-column: span 2; flex-direction: row; align-items: center; gap: 10px; margin-top: 5px;">
+                <input type="checkbox" id="showCranLinks" style="width: 20px; height: 20px; cursor: pointer;" checked>
+                <label for="showCranLinks" style="cursor: pointer; font-size: 13px; color: var(--mbf-blue);">Show CRAN Links (BBU Connections)</label>
             </div>
-            
+        </div>
+        <div class="legend">
+            <div class="legend-item"><span class="dot" style="background:var(--mbf-blue)"></span> North</div>
+            <div class="legend-item"><span class="dot" style="background:#10b981"></span> On-Air</div>
+            <div class="legend-item"><span class="dot" style="background:#8b5cf6"></span> Ha Noi</div>
+            <div class="legend-item"><span class="dot" style="background:#3b82f6"></span> RFI Ready</div>
+            <div class="legend-item"><span class="dot" style="background:var(--mbf-yellow)"></span> Middle</div>
+            <div class="legend-item"><span class="dot" style="background:#94a3b8"></span> Pending</div>
+            <div class="legend-item"><span class="dot" style="background:var(--mbf-red)"></span> South</div>
+            <div class="legend-item" style="grid-column: span 2; margin-top: 5px; padding-top: 5px; border-top: 1px solid var(--border-glass);"><strong>BBU Link Types:</strong></div>
+            <div class="legend-item"><div style="width:12px; height:3px; background:#10b981;"></div> Combine</div>
+            <div class="legend-item"><div style="width:12px; height:3px; background:#f59e0b; border-top: 2px dashed #f59e0b; background: transparent;"></div> Separate</div>
+            <div class="legend-item"><div style="width:12px; height:3px; background:#ec4899; border-top: 2px dotted #ec4899; background: transparent;"></div> New BBU</div>
+            <div class="legend-item"><div style="width:12px; height:3px; background:#6366f1; border-top: 2px dashed #6366f1; background: transparent;"></div> Other</div>
+        </div>
+        <div class="stats-grid">
+            <div class="stat-card"><div class="stat-value" id="totalSites">0</div><div class="stat-label">Total Sites</div></div>
+            <div class="stat-card"><div class="stat-value" id="readySites">0</div><div class="stat-label">On-Air</div></div>
+        </div>
+        <div class="filter-group"><input type="text" id="searchInput" placeholder="Site ID or Name..."><button id="searchBtn" style="margin-top:6px; background:var(--mbf-blue); color:white; border:none; padding:12px; border-radius:12px; cursor:pointer; font-weight:800;">FIND SITE</button></div>
+        <div class="footer">
+            <p class="footer-text">If you found any problem please contact <a href="mailto:60086951@mbf.vn" class="footer-link">Hovah</a></p>
+            <p class="footer-text" style="font-size: 9px; opacity: 0.6; margin-bottom: 8px;">Version 1.1.0</p>
+            <p class="footer-text" style="margin-top: 8px;"><a onclick="openWhatsNewModal()" class="footer-link" style="color: var(--mbf-blue); font-weight: 800;">🚀 What's New</a></p>
+            <p class="footer-text" style="margin-top: 4px;"><a onclick="openModal()" class="footer-link" style="color: var(--mbf-red); font-weight: 800;">★ Special Thanks & Contributors</a></p>
+        </div>
+    </div>
+
+    <div id="map">
+        <div id="infoCard" class="floating-card">
+            <div class="card-title" id="siteTitle">-</div>
+            <div id="siteSubtitle" style="font-size:12px; color:var(--text-dim); font-weight:500;">-</div>
             <div class="card-grid">
                 <div class="card-item"><div class="card-label">PO / Region</div><div class="card-value" id="cardPo">-</div></div>
+                <div class="card-item"><div class="card-label">Status</div><div class="card-value" id="cardStatus">-</div></div>
                 <div class="card-item"><div class="card-label">Location</div><div class="card-value" id="cardLoc">-</div></div>
-                <div class="card-item"><div class="card-label">Coordinates</div><div class="card-value" id="cardCoords" style="font-family: monospace; font-size: 11px;">-</div></div>
+                <div class="card-item"><div class="card-label">Lat / Long</div><div class="card-value" id="cardCoords">-</div></div>
                 <div class="card-item"><div class="card-label">Scenario</div><div class="card-value" id="cardScenario">-</div></div>
                 <div class="card-item"><div class="card-label">Type</div><div class="card-value" id="cardType">-</div></div>
                 <div class="card-item"><div class="card-label">Timeline</div><div class="card-value" id="cardTimeline">-</div></div>
                 <div class="card-item"><div class="card-label">RAT</div><div class="card-value" id="cardRat">-</div></div>
-                <div class="card-item"><div class="card-label">RFI / On-Air</div><div class="card-value"><span id="cardRfi"></span> &rarr; <span id="cardOnAir"></span></div></div>
+                <div class="card-item"><div class="card-label">RFI Date</div><div class="card-value" id="cardRfi">-</div></div>
+                <div class="card-item"><div class="card-label">On-Air Date</div><div class="card-value" id="cardOnAir">-</div></div>
                 <div class="card-item"><div class="card-label">BBU Location</div><div class="card-value" id="cardBbu">-</div></div>
                 <div class="card-item"><div class="card-label">VIP Status</div><div id="cardVip">-</div></div>
             </div>
         </div>
-
         <div class="map-overlay">
-            <div id="themeBtn" class="overlay-btn" title="Toggle Theme" onclick="L.DomEvent.stopPropagation(event); toggleDarkMode()">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+            <div id="darkBtn" class="overlay-btn" title="Toggle Dark Mode" onclick="L.DomEvent.stopPropagation(event); toggleDarkMode()">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
             </div>
             <div id="measureBtn" class="overlay-btn" title="Measure Distance" onclick="L.DomEvent.stopPropagation(event); toggleMeasureTool()">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"></path><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path></svg>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"></path><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path></svg>
             </div>
-            <div class="overlay-btn" title="Reset View" onclick="L.DomEvent.stopPropagation(event); resetMap()">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="3"></circle></svg>
-            </div>
+            <div class="overlay-btn" title="Reset View" onclick="L.DomEvent.stopPropagation(event); resetMap()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="3"></circle></svg></div>
         </div>
     </div>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
     <script src="rollout_data.js"></script>
@@ -432,8 +225,8 @@
         function closeWhatsNewModal() { document.getElementById('whatsNewModal').style.display = 'none'; localStorage.setItem('whatsNewSeen_1.1.0', 'true'); }
         
         function toggleDarkMode() {
-            document.documentElement.classList.toggle('dark');
-            const isDark = document.documentElement.classList.contains('dark');
+            document.body.classList.toggle('dark-mode');
+            const isDark = document.body.classList.contains('dark-mode');
             if (map) {
                 if (isDark) L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
                 else L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png').addTo(map);
@@ -695,10 +488,10 @@
             document.getElementById('siteTitle').textContent = clean(s.site_name);
             document.getElementById('siteSubtitle').textContent = `eNodeB ID: ${clean(s.enodeb_id)}`;
             document.getElementById('cardPo').textContent = `${clean(s.po)} (${clean(s.region)})`;
-            document.getElementById('cardStatusBadge').textContent = clean(s.status);
-            document.getElementById('cardStatusBadge').style.color = s.status === 'On-Air' ? '#10b981' : (s.status === 'RFI Ready' ? '#3b82f6' : '#94a3b8');
+            document.getElementById('cardStatus').textContent = clean(s.status);
+            document.getElementById('cardStatus').style.color = s.status === 'On-Air' ? '#10b981' : (s.status === 'RFI Ready' ? '#3b82f6' : '#94a3b8');
             document.getElementById('cardLoc').textContent = `${clean(s.province)}, ${clean(s.district)}`;
-            document.getElementById('cardCoords').textContent = `${parseFloat(s.lat).toFixed(5)}, ${parseFloat(s.lon).toFixed(5)}`;
+            document.getElementById('cardCoords').textContent = `${s.lat.toFixed(5)}, ${s.lon.toFixed(5)}`;
             document.getElementById('cardScenario').textContent = clean(s.scenario);
             document.getElementById('cardType').textContent = clean(s.site_type);
             document.getElementById('cardTimeline').textContent = clean(s.timeline);

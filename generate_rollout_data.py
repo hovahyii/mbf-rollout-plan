@@ -177,8 +177,9 @@ def get_rollout_details(file_path):
 def generate_data():
     base_dir = r'E:\MBF Rollout Dashboard'
     
-    # New source file
+    # New source file (match both .xlsm and .xlsx)
     rollout_files = glob.glob(os.path.join(base_dir, '60086951_56A0US7_*.xlsm'))
+    rollout_files += glob.glob(os.path.join(base_dir, '60086951_56A0US7_*.xlsx'))
     if rollout_files:
         rollout_file = sorted(rollout_files)[-1]
     else:

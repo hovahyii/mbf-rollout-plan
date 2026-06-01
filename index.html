@@ -442,7 +442,7 @@
 
         function init() {
             try {
-                map = L.map('map', { zoomControl: false }).setView([16.0, 108.0], 6);
+                map = L.map('map', { zoomControl: false, preferCanvas: true }).setView([16.0, 108.0], 6);
                 L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', { attribution: '&copy; CartoDB' }).addTo(map);
                 setTimeout(() => {
                     if (typeof rolloutData !== 'undefined') {
@@ -544,7 +544,12 @@
                     return regionMatch && statusMatch && weekMatch && typeMatch && vipMatch && ratMatch;
                 });
 
-                markers = L.layerGroup();
+                markers = L.markerClusterGroup({
+                    chunkedLoading: true,
+                    maxClusterRadius: 40,
+                    spiderfyOnMaxZoom: true,
+                    disableClusteringAtZoom: 14 // Uncluster most at high zoom, leaving only exact overlaps to spiderfy
+                });
                 siteMarkers = {};
                 
                 if (window.cranLinksLayer) map.removeLayer(window.cranLinksLayer);
@@ -722,7 +727,10 @@
             if (site) {
                 showFloatingCard(site);
                 if (siteMarkers[site.site_name]) {
-                    persistHighlight(siteMarkers[site.site_name], site);
+                    const marker = siteMarkers[site.site_name];
+                    markers.zoomToShowLayer(marker, function() {
+                        persistHighlight(marker, site);
+                    });
                 }
             }
         }

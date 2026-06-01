@@ -3,11 +3,11 @@ import openpyxl
 
 import glob
 tracker_file = r'E:\MBF Rollout Dashboard\On Air Progress Tracker.xlsx'
-xlsm_files = glob.glob(r'E:\MBF Rollout Dashboard\60086951_56A0US7_*.xlsm')
+xlsm_files = glob.glob(r'E:\MBF Rollout Dashboard\60086951_56A0US7_*.xlsm') + glob.glob(r'E:\MBF Rollout Dashboard\60086951_56A0US7_*.xlsx')
 if xlsm_files:
     xlsm_file = sorted(xlsm_files)[-1]
 else:
-    xlsm_file = r'E:\MBF Rollout Dashboard\60086951_56A0US7_20260518214245.xlsm'
+    xlsm_file = r'E:\MBF Rollout Dashboard\60086951_56A0US7_20260601163035.xlsx'
 
 print(f"Loading ISDP data from: {xlsm_file}...")
 df_isdp = pd.read_excel(xlsm_file, sheet_name='Site Rollout Plan', header=[0, 1])

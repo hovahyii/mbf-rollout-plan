@@ -6,8 +6,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Ba Be",
     "enodeb_id": "872000",
-    "lat": 22.411895,
-    "lon": 105.6277,
+    "lat": 22.411783,
+    "lon": 105.627811,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28,8 +28,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Ba Be",
     "enodeb_id": "300264",
-    "lat": 22.39823,
-    "lon": 105.61726,
+    "lat": 22.398247,
+    "lon": 105.617246,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -50,8 +50,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Bac Kan",
     "enodeb_id": "300004",
-    "lat": 22.13775,
-    "lon": 105.83955,
+    "lat": 22.137849,
+    "lon": 105.839702,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -72,8 +72,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Bac Kan",
     "enodeb_id": "300010",
-    "lat": 22.168086,
-    "lon": 105.84589,
+    "lat": 22.16792,
+    "lon": 105.84606,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -94,8 +94,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Bac Kan",
     "enodeb_id": "300012",
-    "lat": 22.141428,
-    "lon": 105.80987,
+    "lat": 22.141387,
+    "lon": 105.809836,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -116,8 +116,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Cho Moi",
     "enodeb_id": "300030",
-    "lat": 21.9408,
-    "lon": 105.80968,
+    "lat": 21.940268,
+    "lon": 105.809694,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -138,8 +138,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Giang",
     "enodeb_id": "310000",
-    "lat": 21.277717,
-    "lon": 106.19378,
+    "lat": 21.27766,
+    "lon": 106.19372,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -161,7 +161,7 @@ const rolloutData = [
     "district": "Bac Giang",
     "enodeb_id": "310033",
     "lat": 21.258129,
-    "lon": 106.22573,
+    "lon": 106.225726,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -204,8 +204,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Giang",
     "enodeb_id": "872025",
-    "lat": 21.2869,
-    "lon": 106.22933,
+    "lat": 21.2869003,
+    "lon": 106.229332,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -248,8 +248,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Giang",
     "enodeb_id": "310001",
-    "lat": 21.261894,
-    "lon": 106.19533,
+    "lat": 21.2623,
+    "lon": 106.19553,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -293,7 +293,7 @@ const rolloutData = [
     "district": "Bac Giang",
     "enodeb_id": "872275",
     "lat": 21.267336,
-    "lon": 106.20736,
+    "lon": 106.207362,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -314,8 +314,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Giang",
     "enodeb_id": "310038",
-    "lat": 21.28261,
-    "lon": 106.21207,
+    "lat": 21.28258,
+    "lon": 106.2121,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -336,8 +336,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Giang",
     "enodeb_id": "872322",
-    "lat": 21.283679,
-    "lon": 106.20554,
+    "lat": 21.28357,
+    "lon": 106.20547,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -359,7 +359,7 @@ const rolloutData = [
     "district": "Bac Giang",
     "enodeb_id": "310540",
     "lat": 21.279424,
-    "lon": 106.1994,
+    "lon": 106.199398,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -381,7 +381,7 @@ const rolloutData = [
     "district": "Bac Giang",
     "enodeb_id": "872322",
     "lat": 21.282502,
-    "lon": 106.20013,
+    "lon": 106.200127,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -447,7 +447,7 @@ const rolloutData = [
     "district": "Bac Giang",
     "enodeb_id": "872184",
     "lat": 21.294341,
-    "lon": 106.21156,
+    "lon": 106.211559,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -490,8 +490,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Giang",
     "enodeb_id": "872276",
-    "lat": 21.250336,
-    "lon": 106.1738,
+    "lat": 21.25039,
+    "lon": 106.17386,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -513,7 +513,7 @@ const rolloutData = [
     "district": "Bac Giang",
     "enodeb_id": "310010",
     "lat": 21.302777,
-    "lon": 106.1691,
+    "lon": 106.169097,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -534,7 +534,7 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Giang",
     "enodeb_id": "310011",
-    "lat": 21.268781,
+    "lat": 21.26878,
     "lon": 106.16565,
     "vip": "NO",
     "is_vip": false,
@@ -556,8 +556,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Giang",
     "enodeb_id": "310042",
-    "lat": 21.294896,
-    "lon": 106.19996,
+    "lat": 21.29488,
+    "lon": 106.2,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -623,7 +623,7 @@ const rolloutData = [
     "district": "Bac Giang",
     "enodeb_id": "872027",
     "lat": 21.279144,
-    "lon": 106.1881,
+    "lon": 106.188095,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -644,8 +644,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Giang",
     "enodeb_id": "310013",
-    "lat": 21.289344,
-    "lon": 106.19726,
+    "lat": 21.28933,
+    "lon": 106.19721,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -666,8 +666,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Hiep Hoa",
     "enodeb_id": "310067",
-    "lat": 21.328052,
-    "lon": 105.97302,
+    "lat": 21.328067,
+    "lon": 105.973034,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -688,8 +688,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Hiep Hoa",
     "enodeb_id": "310330",
-    "lat": 21.24047,
-    "lon": 105.97189,
+    "lat": 21.24036,
+    "lon": 105.97187,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -710,8 +710,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Hiep Hoa",
     "enodeb_id": "310331",
-    "lat": 21.23448,
-    "lon": 105.96134,
+    "lat": 21.23465,
+    "lon": 105.96166,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -732,7 +732,7 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Lang Giang",
     "enodeb_id": "310080",
-    "lat": 21.442773,
+    "lat": 21.4427725,
     "lon": 106.2913,
     "vip": "NO",
     "is_vip": false,
@@ -777,7 +777,7 @@ const rolloutData = [
     "district": "Lang Giang",
     "enodeb_id": "310083",
     "lat": 21.383383,
-    "lon": 106.26719,
+    "lon": 106.267193,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -799,7 +799,7 @@ const rolloutData = [
     "district": "Lang Giang",
     "enodeb_id": "310088",
     "lat": 21.292045,
-    "lon": 106.27255,
+    "lon": 106.272548,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -865,7 +865,7 @@ const rolloutData = [
     "district": "Luc Nam",
     "enodeb_id": "310052",
     "lat": 21.318609,
-    "lon": 106.35606,
+    "lon": 106.356064,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -887,7 +887,7 @@ const rolloutData = [
     "district": "Luc Nam",
     "enodeb_id": "310053",
     "lat": 21.271916,
-    "lon": 106.31834,
+    "lon": 106.318341,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -909,7 +909,7 @@ const rolloutData = [
     "district": "Luc Ngan",
     "enodeb_id": "310107",
     "lat": 21.394875,
-    "lon": 106.6341,
+    "lon": 106.634097,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -931,7 +931,7 @@ const rolloutData = [
     "district": "Luc Ngan",
     "enodeb_id": "310057",
     "lat": 21.421861,
-    "lon": 106.56314,
+    "lon": 106.563136,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -952,8 +952,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Luc Ngan",
     "enodeb_id": "310058",
-    "lat": 21.372419,
-    "lon": 106.56777,
+    "lat": 21.37241,
+    "lon": 106.56779,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -975,7 +975,7 @@ const rolloutData = [
     "district": "Luc Ngan",
     "enodeb_id": "310059",
     "lat": 21.385568,
-    "lon": 106.59747,
+    "lon": 106.597465,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -997,7 +997,7 @@ const rolloutData = [
     "district": "Tan Yen",
     "enodeb_id": "310061",
     "lat": 21.388522,
-    "lon": 106.12585,
+    "lon": 106.125851,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1019,7 +1019,7 @@ const rolloutData = [
     "district": "Tan Yen",
     "enodeb_id": "310126",
     "lat": 21.347088,
-    "lon": 106.13456,
+    "lon": 106.134555,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1040,8 +1040,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310014",
-    "lat": 21.28004,
-    "lon": 106.0889,
+    "lat": 21.27989,
+    "lon": 106.08895,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1062,8 +1062,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310016",
-    "lat": 21.2516,
-    "lon": 106.1053,
+    "lat": 21.25245,
+    "lon": 106.10582,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1107,7 +1107,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310018",
     "lat": 21.273589,
-    "lon": 106.13782,
+    "lon": 106.137822,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1128,8 +1128,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310020",
-    "lat": 21.214624,
-    "lon": 106.11802,
+    "lat": 21.2146244,
+    "lon": 106.118021,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1151,7 +1151,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310127",
     "lat": 21.21611,
-    "lon": 106.10303,
+    "lon": 106.103033,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1172,8 +1172,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310181",
-    "lat": 21.217708,
-    "lon": 106.10244,
+    "lat": 21.21791,
+    "lon": 106.10256,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1216,8 +1216,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310021",
-    "lat": 21.26388,
-    "lon": 106.12376,
+    "lat": 21.26396,
+    "lon": 106.1238,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1238,8 +1238,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310022",
-    "lat": 21.235676,
-    "lon": 106.10701,
+    "lat": 21.2356759,
+    "lon": 106.107011,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1261,7 +1261,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310016",
     "lat": 21.240912,
-    "lon": 106.10918,
+    "lon": 106.109181,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1282,8 +1282,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310310",
-    "lat": 21.225031,
-    "lon": 106.10788,
+    "lat": 21.2249,
+    "lon": 106.10776,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1305,7 +1305,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310142",
     "lat": 21.257217,
-    "lon": 106.12188,
+    "lon": 106.121881,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1327,7 +1327,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310145",
     "lat": 21.261344,
-    "lon": 106.12673,
+    "lon": 106.126727,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1349,7 +1349,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310063",
     "lat": 21.250547,
-    "lon": 106.1157,
+    "lon": 106.115704,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1370,8 +1370,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310044",
-    "lat": 21.2319,
-    "lon": 106.1105,
+    "lat": 21.23199,
+    "lon": 106.11063,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1415,7 +1415,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310135",
     "lat": 21.22977,
-    "lon": 106.12279,
+    "lon": 106.122789,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1437,7 +1437,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310134",
     "lat": 21.214507,
-    "lon": 106.11278,
+    "lon": 106.112775,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1458,8 +1458,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310039",
-    "lat": 21.20051,
-    "lon": 106.12124,
+    "lat": 21.20976,
+    "lon": 106.10482,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1503,7 +1503,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310043",
     "lat": 21.208573,
-    "lon": 106.10938,
+    "lon": 106.109382,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1569,7 +1569,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310037",
     "lat": 21.22845,
-    "lon": 106.11871,
+    "lon": 106.118713,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1591,7 +1591,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310121",
     "lat": 21.22348,
-    "lon": 106.10962,
+    "lon": 106.109615,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1612,8 +1612,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310125",
-    "lat": 21.21751,
-    "lon": 106.11296,
+    "lat": 21.21762,
+    "lon": 106.11299,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1657,7 +1657,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310101",
     "lat": 21.235201,
-    "lon": 106.11452,
+    "lon": 106.114515,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1701,7 +1701,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310302",
     "lat": 21.249878,
-    "lon": 106.18002,
+    "lon": 106.180024,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1722,8 +1722,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310295",
-    "lat": 21.24735,
-    "lon": 106.14643,
+    "lat": 21.24728,
+    "lon": 106.1478,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1789,7 +1789,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310017",
     "lat": 21.237643,
-    "lon": 106.15265,
+    "lon": 106.152645,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1811,7 +1811,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310295",
     "lat": 21.246108,
-    "lon": 106.15359,
+    "lon": 106.153592,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1854,8 +1854,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310521",
-    "lat": 21.22177,
-    "lon": 106.0962,
+    "lat": 21.22182,
+    "lon": 106.0963,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1876,8 +1876,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310063",
-    "lat": 21.221043,
-    "lon": 106.10772,
+    "lat": 21.22104,
+    "lon": 106.10764,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1921,7 +1921,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310004",
     "lat": 21.292627,
-    "lon": 106.06696,
+    "lon": 106.066958,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1943,7 +1943,7 @@ const rolloutData = [
     "district": "Viet Yen",
     "enodeb_id": "310235",
     "lat": 21.228398,
-    "lon": 106.13278,
+    "lon": 106.132782,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -1986,8 +1986,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310023",
-    "lat": 21.306445,
-    "lon": 106.04371,
+    "lat": 21.30654,
+    "lon": 106.04369,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2008,8 +2008,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Viet Yen",
     "enodeb_id": "310024",
-    "lat": 21.273474,
-    "lon": 106.0993,
+    "lat": 21.27336,
+    "lon": 106.09929,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2053,7 +2053,7 @@ const rolloutData = [
     "district": "Yen Dung",
     "enodeb_id": "310132",
     "lat": 21.239823,
-    "lon": 106.15533,
+    "lon": 106.155332,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2097,7 +2097,7 @@ const rolloutData = [
     "district": "Yen Dung",
     "enodeb_id": "310186",
     "lat": 21.264589,
-    "lon": 106.27303,
+    "lon": 106.273027,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2118,8 +2118,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "320053",
-    "lat": 21.19196,
-    "lon": 106.07764,
+    "lat": 21.19201,
+    "lon": 106.07757,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2140,8 +2140,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "320001",
-    "lat": 21.176738,
-    "lon": 106.07483,
+    "lat": 21.17685,
+    "lon": 106.0749,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2162,8 +2162,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "320000",
-    "lat": 21.180057,
-    "lon": 106.07204,
+    "lat": 21.1800573,
+    "lon": 106.072044,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2207,7 +2207,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "872193",
     "lat": 21.178087,
-    "lon": 106.06868,
+    "lon": 106.068677,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2229,7 +2229,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320001",
     "lat": 21.174577,
-    "lon": 106.07563,
+    "lon": 106.075629,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2251,7 +2251,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320022",
     "lat": 21.165858,
-    "lon": 106.07453,
+    "lon": 106.074526,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2273,7 +2273,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320002",
     "lat": 21.201849,
-    "lon": 106.09619,
+    "lon": 106.096185,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2338,8 +2338,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "320068",
-    "lat": 21.19329,
-    "lon": 106.06619,
+    "lat": 21.19338,
+    "lon": 106.06632,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2360,8 +2360,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "320024",
-    "lat": 21.164367,
-    "lon": 106.06545,
+    "lat": 21.16448,
+    "lon": 106.0654,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2404,8 +2404,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "320063",
-    "lat": 21.170248,
-    "lon": 106.09876,
+    "lat": 21.17014,
+    "lon": 106.09861,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2448,8 +2448,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "872344",
-    "lat": 21.157099,
-    "lon": 106.0813,
+    "lat": 21.1570989,
+    "lon": 106.081302,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2471,7 +2471,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320214",
     "lat": 21.18618,
-    "lon": 106.05083,
+    "lon": 106.050827,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2492,8 +2492,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "320003",
-    "lat": 21.18735,
-    "lon": 106.06784,
+    "lat": 21.18627,
+    "lon": 106.06796,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2514,7 +2514,7 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "872199",
-    "lat": 21.143087,
+    "lat": 21.1430869,
     "lon": 106.09447,
     "vip": "NO",
     "is_vip": false,
@@ -2536,7 +2536,7 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "320004",
-    "lat": 21.189439,
+    "lat": 21.1894389,
     "lon": 106.0705,
     "vip": "NO",
     "is_vip": false,
@@ -2559,7 +2559,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "872346",
     "lat": 21.190261,
-    "lon": 106.06183,
+    "lon": 106.061833,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2581,7 +2581,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320005",
     "lat": 21.174117,
-    "lon": 106.05845,
+    "lon": 106.058445,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2625,7 +2625,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320006",
     "lat": 21.167996,
-    "lon": 106.0651,
+    "lon": 106.065104,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2647,7 +2647,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320007",
     "lat": 21.173465,
-    "lon": 106.05306,
+    "lon": 106.053064,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2668,8 +2668,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "320217",
-    "lat": 21.17641,
-    "lon": 106.065,
+    "lat": 21.17634,
+    "lon": 106.06509,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2713,7 +2713,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320415",
     "lat": 21.131136,
-    "lon": 106.0926,
+    "lon": 106.092595,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2735,7 +2735,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320541",
     "lat": 21.133151,
-    "lon": 106.09677,
+    "lon": 106.096769,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2844,8 +2844,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "320222",
-    "lat": 21.1952,
-    "lon": 106.0501,
+    "lat": 21.19433,
+    "lon": 106.0494,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2911,7 +2911,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320223",
     "lat": 21.173172,
-    "lon": 106.07127,
+    "lon": 106.071274,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2933,7 +2933,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320116",
     "lat": 21.1883,
-    "lon": 106.05745,
+    "lon": 106.057449,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -2999,7 +2999,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320033",
     "lat": 21.168519,
-    "lon": 106.04775,
+    "lon": 106.047754,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3021,7 +3021,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320034",
     "lat": 21.169725,
-    "lon": 106.05181,
+    "lon": 106.051812,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3043,7 +3043,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "872209",
     "lat": 21.1654,
-    "lon": 106.05065,
+    "lon": 106.050646,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3065,7 +3065,7 @@ const rolloutData = [
     "district": "Bac Ninh",
     "enodeb_id": "320034",
     "lat": 21.169725,
-    "lon": 106.05181,
+    "lon": 106.051812,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3108,8 +3108,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Bac Ninh",
     "enodeb_id": "320015",
-    "lat": 21.18099,
-    "lon": 106.06706,
+    "lat": 21.1809895,
+    "lon": 106.067062,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3241,7 +3241,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320023",
     "lat": 21.152431,
-    "lon": 106.17621,
+    "lon": 106.176211,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3307,7 +3307,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320256",
     "lat": 21.136426,
-    "lon": 106.21801,
+    "lon": 106.218011,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3439,7 +3439,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320070",
     "lat": 21.162848,
-    "lon": 106.12529,
+    "lon": 106.125289,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3483,7 +3483,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320138",
     "lat": 21.152965,
-    "lon": 106.1433,
+    "lon": 106.143295,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3505,7 +3505,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320071",
     "lat": 21.15057,
-    "lon": 106.13644,
+    "lon": 106.136435,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3527,7 +3527,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320194",
     "lat": 21.158091,
-    "lon": 106.09923,
+    "lon": 106.099233,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3549,7 +3549,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320194",
     "lat": 21.159523,
-    "lon": 106.11357,
+    "lon": 106.113573,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3571,7 +3571,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320196",
     "lat": 21.152264,
-    "lon": 106.13242,
+    "lon": 106.132415,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3593,7 +3593,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320197",
     "lat": 21.141398,
-    "lon": 106.1316,
+    "lon": 106.131603,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3615,7 +3615,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320198",
     "lat": 21.159222,
-    "lon": 106.1078,
+    "lon": 106.107803,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3637,7 +3637,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320197",
     "lat": 21.141398,
-    "lon": 106.1316,
+    "lon": 106.131603,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3659,7 +3659,7 @@ const rolloutData = [
     "district": "Que Vo",
     "enodeb_id": "320198",
     "lat": 21.16268,
-    "lon": 106.10258,
+    "lon": 106.102582,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3724,8 +3724,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320109",
-    "lat": 21.08311,
-    "lon": 106.0026,
+    "lat": 21.08004,
+    "lon": 106.00553,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3746,8 +3746,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "872068",
-    "lat": 21.11028,
-    "lon": 106.03624,
+    "lat": 21.110131,
+    "lon": 106.036322,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3768,8 +3768,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "872293",
-    "lat": 21.102567,
-    "lon": 105.98561,
+    "lat": 21.10243,
+    "lon": 105.9855,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3790,8 +3790,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320075",
-    "lat": 21.104447,
-    "lon": 105.99203,
+    "lat": 21.10427,
+    "lon": 105.99234,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3812,8 +3812,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320035",
-    "lat": 21.086615,
-    "lon": 105.99579,
+    "lat": 21.08667,
+    "lon": 105.9959,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3900,8 +3900,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320077",
-    "lat": 21.12817,
-    "lon": 106.02757,
+    "lat": 21.1282,
+    "lon": 106.02756,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3922,8 +3922,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320141",
-    "lat": 21.121258,
-    "lon": 106.00918,
+    "lat": 21.12086,
+    "lon": 106.00864,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3944,8 +3944,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320272",
-    "lat": 21.14337,
-    "lon": 106.01918,
+    "lat": 21.14335,
+    "lon": 106.0192,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -3966,8 +3966,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320264",
-    "lat": 21.13951,
-    "lon": 106.01438,
+    "lat": 21.13965,
+    "lon": 106.0143,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4032,8 +4032,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320040",
-    "lat": 21.13683,
-    "lon": 106.00911,
+    "lat": 21.13686,
+    "lon": 106.00922,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4055,7 +4055,7 @@ const rolloutData = [
     "district": "Tien Du",
     "enodeb_id": "872294",
     "lat": 21.098041,
-    "lon": 106.0034,
+    "lon": 106.003404,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4077,7 +4077,7 @@ const rolloutData = [
     "district": "Tien Du",
     "enodeb_id": "872294",
     "lat": 21.096478,
-    "lon": 106.00725,
+    "lon": 106.007253,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4098,8 +4098,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "872294",
-    "lat": 21.106141,
-    "lon": 105.98857,
+    "lat": 21.10584,
+    "lon": 105.98874,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4120,17 +4120,17 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320191",
-    "lat": 21.129238,
-    "lon": 106.0015,
+    "lat": 21.12926,
+    "lon": 106.00149,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4164,17 +4164,17 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320501",
-    "lat": 21.116917,
-    "lon": 105.97637,
+    "lat": 21.1173,
+    "lon": 105.9768,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4186,7 +4186,7 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320195",
-    "lat": 21.11366,
+    "lat": 21.11371,
     "lon": 105.985,
     "vip": "NO",
     "is_vip": false,
@@ -4230,8 +4230,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tien Du",
     "enodeb_id": "320080",
-    "lat": 21.13419,
-    "lon": 106.00231,
+    "lat": 21.13428,
+    "lon": 106.0025,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4252,8 +4252,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320271",
-    "lat": 21.11427,
-    "lon": 105.92942,
+    "lat": 21.11422,
+    "lon": 105.92945,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4274,8 +4274,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320106",
-    "lat": 21.11111,
-    "lon": 105.94686,
+    "lat": 21.11106,
+    "lon": 105.94675,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4296,8 +4296,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320243",
-    "lat": 21.123143,
-    "lon": 105.91725,
+    "lat": 21.1231432,
+    "lon": 105.917254,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4318,8 +4318,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "872295",
-    "lat": 21.1035,
-    "lon": 105.93677,
+    "lat": 21.10356,
+    "lon": 105.93674,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4340,8 +4340,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320042",
-    "lat": 21.11167,
-    "lon": 105.95537,
+    "lat": 21.1119,
+    "lon": 105.95528,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4362,8 +4362,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "872296",
-    "lat": 21.112178,
-    "lon": 105.95133,
+    "lat": 21.11311,
+    "lon": 105.95163,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4384,8 +4384,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320442",
-    "lat": 21.108799,
-    "lon": 105.95133,
+    "lat": 21.10865,
+    "lon": 105.95137,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4406,8 +4406,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320083",
-    "lat": 21.10577,
-    "lon": 105.96228,
+    "lat": 21.10575,
+    "lon": 105.962281,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4428,8 +4428,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320045",
-    "lat": 21.09472,
-    "lon": 105.93683,
+    "lat": 21.09475,
+    "lon": 105.93695,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4450,8 +4450,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320018",
-    "lat": 21.132711,
-    "lon": 105.94778,
+    "lat": 21.13263,
+    "lon": 105.94785,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4472,8 +4472,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320019",
-    "lat": 21.12478,
-    "lon": 105.97363,
+    "lat": 21.12471,
+    "lon": 105.9735,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4494,8 +4494,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320084",
-    "lat": 21.12256,
-    "lon": 105.98589,
+    "lat": 21.12252,
+    "lon": 105.98576,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4516,17 +4516,17 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320085",
-    "lat": 21.13167,
-    "lon": 105.99616,
+    "lat": 21.1197638,
+    "lon": 105.954916,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4538,8 +4538,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320274",
-    "lat": 21.1293,
-    "lon": 105.95221,
+    "lat": 21.12933,
+    "lon": 105.95219,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4560,8 +4560,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320483",
-    "lat": 21.126873,
-    "lon": 105.94776,
+    "lat": 21.12691,
+    "lon": 105.9476,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4583,7 +4583,7 @@ const rolloutData = [
     "district": "Tu Son",
     "enodeb_id": "320086",
     "lat": 21.081151,
-    "lon": 105.99311,
+    "lon": 105.993105,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4604,8 +4604,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320171",
-    "lat": 21.11488,
-    "lon": 105.9717,
+    "lat": 21.114672,
+    "lon": 105.97185,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4627,7 +4627,7 @@ const rolloutData = [
     "district": "Tu Son",
     "enodeb_id": "320020",
     "lat": 21.12191,
-    "lon": 105.967,
+    "lon": 105.967003,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4648,8 +4648,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320528",
-    "lat": 21.087,
-    "lon": 105.94754,
+    "lat": 21.08698,
+    "lon": 105.94757,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4714,8 +4714,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "872298",
-    "lat": 21.075204,
-    "lon": 105.98818,
+    "lat": 21.0752035,
+    "lon": 105.988181,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4736,8 +4736,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320492",
-    "lat": 21.076147,
-    "lon": 105.98009,
+    "lat": 21.0761465,
+    "lon": 105.980092,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4780,8 +4780,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320021",
-    "lat": 21.11439,
-    "lon": 105.95977,
+    "lat": 21.11448,
+    "lon": 105.95993,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4802,17 +4802,17 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320087",
-    "lat": 21.11439,
-    "lon": 105.97937,
+    "lat": 21.114367,
+    "lon": 105.979336,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4824,8 +4824,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320049",
-    "lat": 21.119719,
-    "lon": 105.95489,
+    "lat": 21.11956,
+    "lon": 105.95485,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4846,8 +4846,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Tu Son",
     "enodeb_id": "320050",
-    "lat": 21.11919,
-    "lon": 105.96286,
+    "lat": 21.1191,
+    "lon": 105.96239,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4891,7 +4891,7 @@ const rolloutData = [
     "district": "Tu Son",
     "enodeb_id": "320039",
     "lat": 21.069617,
-    "lon": 105.99345,
+    "lon": 105.993454,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -4913,7 +4913,7 @@ const rolloutData = [
     "district": "Thuan Thanh",
     "enodeb_id": "320146",
     "lat": 21.043539,
-    "lon": 106.10889,
+    "lon": 106.108892,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5000,8 +5000,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Thuan Thanh",
     "enodeb_id": "320089",
-    "lat": 21.069736,
-    "lon": 106.07022,
+    "lat": 21.0697363,
+    "lon": 106.070224,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5023,7 +5023,7 @@ const rolloutData = [
     "district": "Thuan Thanh",
     "enodeb_id": "320452",
     "lat": 21.041234,
-    "lon": 106.09034,
+    "lon": 106.090343,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5199,7 +5199,7 @@ const rolloutData = [
     "district": "Thuan Thanh",
     "enodeb_id": "320093",
     "lat": 21.067129,
-    "lon": 106.09419,
+    "lon": 106.094193,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5265,7 +5265,7 @@ const rolloutData = [
     "district": "Thuan Thanh",
     "enodeb_id": "872436",
     "lat": 21.028245,
-    "lon": 106.00911,
+    "lon": 106.009114,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5353,7 +5353,7 @@ const rolloutData = [
     "district": "Yen Phong",
     "enodeb_id": "320043",
     "lat": 21.20011,
-    "lon": 106.00644,
+    "lon": 106.006436,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5397,7 +5397,7 @@ const rolloutData = [
     "district": "Yen Phong",
     "enodeb_id": "320321",
     "lat": 21.205469,
-    "lon": 105.98438,
+    "lon": 105.984384,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5441,7 +5441,7 @@ const rolloutData = [
     "district": "Yen Phong",
     "enodeb_id": "320299",
     "lat": 21.1879,
-    "lon": 106.00517,
+    "lon": 106.005172,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5551,7 +5551,7 @@ const rolloutData = [
     "district": "Yen Phong",
     "enodeb_id": "320029",
     "lat": 21.193257,
-    "lon": 106.00018,
+    "lon": 106.000184,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5638,8 +5638,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Yen Phong",
     "enodeb_id": "320156",
-    "lat": 21.227621,
-    "lon": 105.94477,
+    "lat": 21.2276213,
+    "lon": 105.944766,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5660,8 +5660,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Yen Phong",
     "enodeb_id": "320104",
-    "lat": 21.19506,
-    "lon": 105.95216,
+    "lat": 21.19496,
+    "lon": 105.9522,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5682,8 +5682,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Yen Phong",
     "enodeb_id": "320105",
-    "lat": 21.21597,
-    "lon": 105.98714,
+    "lat": 21.21584,
+    "lon": 105.9869,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5726,8 +5726,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Yen Phong",
     "enodeb_id": "320176",
-    "lat": 21.231534,
-    "lon": 106.00242,
+    "lat": 21.23161,
+    "lon": 106.0017,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5749,7 +5749,7 @@ const rolloutData = [
     "district": "Yen Phong",
     "enodeb_id": "320030",
     "lat": 21.20854,
-    "lon": 105.99615,
+    "lon": 105.996153,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5770,8 +5770,8 @@ const rolloutData = [
     "province": "Bac Ninh",
     "district": "Yen Phong",
     "enodeb_id": "320105",
-    "lat": 21.21067,
-    "lon": 105.98418,
+    "lat": 21.21069,
+    "lon": 105.9842,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5814,8 +5814,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Hoa Binh",
     "enodeb_id": "210001",
-    "lat": 20.787681,
-    "lon": 105.34672,
+    "lat": 20.787354,
+    "lon": 105.346725,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5837,7 +5837,7 @@ const rolloutData = [
     "district": "Hoa Binh",
     "enodeb_id": "210003",
     "lat": 20.821507,
-    "lon": 105.34324,
+    "lon": 105.343236,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5858,8 +5858,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Hoa Binh",
     "enodeb_id": "875127",
-    "lat": 20.79413,
-    "lon": 105.3537,
+    "lat": 20.794366,
+    "lon": 105.35375,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5880,8 +5880,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Hoa Binh",
     "enodeb_id": "210032",
-    "lat": 20.790916,
-    "lon": 105.32309,
+    "lat": 20.79083,
+    "lon": 105.323121,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5902,8 +5902,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Hoa Binh",
     "enodeb_id": "210004",
-    "lat": 20.82744,
-    "lon": 105.3539,
+    "lat": 20.827458,
+    "lon": 105.35393,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5924,8 +5924,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Hoa Binh",
     "enodeb_id": "210202",
-    "lat": 20.814872,
-    "lon": 105.34775,
+    "lat": 20.813328,
+    "lon": 105.34477,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5946,8 +5946,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Hoa Binh",
     "enodeb_id": "210008",
-    "lat": 20.829641,
-    "lon": 105.33487,
+    "lat": 20.829607,
+    "lon": 105.3349,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -5990,8 +5990,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Hoa Binh",
     "enodeb_id": "210010",
-    "lat": 20.844752,
-    "lon": 105.33264,
+    "lat": 20.844686,
+    "lon": 105.33267,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6078,8 +6078,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Hoa Binh",
     "enodeb_id": "210098",
-    "lat": 20.77811,
-    "lon": 105.3398,
+    "lat": 20.778088,
+    "lon": 105.339745,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6101,7 +6101,7 @@ const rolloutData = [
     "district": "Hoa Binh",
     "enodeb_id": "875008",
     "lat": 20.853016,
-    "lon": 105.33446,
+    "lon": 105.334458,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6122,8 +6122,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Kim Boi",
     "enodeb_id": "210021",
-    "lat": 20.592412,
-    "lon": 105.58465,
+    "lat": 20.592369,
+    "lon": 105.584629,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6144,8 +6144,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Luong Son",
     "enodeb_id": "875015",
-    "lat": 20.66836,
-    "lon": 105.66214,
+    "lat": 20.668466,
+    "lon": 105.66217,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6166,8 +6166,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Luong Son",
     "enodeb_id": "875016",
-    "lat": 20.880582,
-    "lon": 105.54775,
+    "lat": 20.880529,
+    "lon": 105.547799,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6188,7 +6188,7 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Luong Son",
     "enodeb_id": "875017",
-    "lat": 20.89117,
+    "lat": 20.8914,
     "lon": 105.5371,
     "vip": "NO",
     "is_vip": false,
@@ -6210,8 +6210,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Luong Son",
     "enodeb_id": "210119",
-    "lat": 20.902931,
-    "lon": 105.48219,
+    "lat": 20.902016,
+    "lon": 105.48387,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6232,8 +6232,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Luong Son",
     "enodeb_id": "210047",
-    "lat": 20.91155,
-    "lon": 105.551,
+    "lat": 20.906762,
+    "lon": 105.55295,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6254,8 +6254,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Luong Son",
     "enodeb_id": "210025",
-    "lat": 20.916349,
-    "lon": 105.56277,
+    "lat": 20.915465,
+    "lon": 105.561865,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6276,8 +6276,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Luong Son",
     "enodeb_id": "210176",
-    "lat": 20.90117,
-    "lon": 105.5514,
+    "lat": 20.901212,
+    "lon": 105.551389,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6298,8 +6298,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Luong Son",
     "enodeb_id": "210052",
-    "lat": 20.87075,
-    "lon": 105.5242,
+    "lat": 20.870549,
+    "lon": 105.52417,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6320,8 +6320,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Luong Son",
     "enodeb_id": "875130",
-    "lat": 20.87714,
-    "lon": 105.53783,
+    "lat": 20.87708,
+    "lon": 105.53762,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6342,8 +6342,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Luong Son",
     "enodeb_id": "210123",
-    "lat": 20.86386,
-    "lon": 105.5569,
+    "lat": 20.863821,
+    "lon": 105.556938,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6364,8 +6364,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Binh Giang",
     "enodeb_id": "877084",
-    "lat": 20.88441,
-    "lon": 106.17887,
+    "lat": 20.884402,
+    "lon": 106.178857,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6386,7 +6386,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Binh Giang",
     "enodeb_id": "350287",
-    "lat": 20.9082,
+    "lat": 20.90827,
     "lon": 106.20771,
     "vip": "NO",
     "is_vip": false,
@@ -6408,8 +6408,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Binh Giang",
     "enodeb_id": "350429",
-    "lat": 20.90334,
-    "lon": 106.14537,
+    "lat": 20.90342,
+    "lon": 106.14536,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6431,7 +6431,7 @@ const rolloutData = [
     "district": "Cam Giang",
     "enodeb_id": "350101",
     "lat": 20.933678,
-    "lon": 106.24965,
+    "lon": 106.249654,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6452,8 +6452,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350219",
-    "lat": 20.927901,
-    "lon": 106.24589,
+    "lat": 20.927866,
+    "lon": 106.245842,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6474,8 +6474,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350102",
-    "lat": 20.93068,
-    "lon": 106.18285,
+    "lat": 20.9306,
+    "lon": 106.18284,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6496,8 +6496,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350372",
-    "lat": 20.96202,
-    "lon": 106.23323,
+    "lat": 20.96206,
+    "lon": 106.233273,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6518,8 +6518,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350441",
-    "lat": 20.91472,
-    "lon": 106.25096,
+    "lat": 20.91478,
+    "lon": 106.25098,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6540,8 +6540,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350220",
-    "lat": 20.929762,
-    "lon": 106.21753,
+    "lat": 20.929677,
+    "lon": 106.217577,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6562,8 +6562,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350433",
-    "lat": 20.96778,
-    "lon": 106.16268,
+    "lat": 20.96775,
+    "lon": 106.1628,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6584,8 +6584,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350117",
-    "lat": 20.97173,
-    "lon": 106.22954,
+    "lat": 20.97181,
+    "lon": 106.2295,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6606,8 +6606,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350007",
-    "lat": 20.93717,
-    "lon": 106.20996,
+    "lat": 20.93707,
+    "lon": 106.21005,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6628,8 +6628,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350289",
-    "lat": 20.97067,
-    "lon": 106.25061,
+    "lat": 20.9706,
+    "lon": 106.2508,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6650,8 +6650,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350222",
-    "lat": 20.94756,
-    "lon": 106.26173,
+    "lat": 20.9477,
+    "lon": 106.2635,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6672,8 +6672,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350669",
-    "lat": 20.951131,
-    "lon": 106.24046,
+    "lat": 20.95111,
+    "lon": 106.24056,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6694,8 +6694,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350674",
-    "lat": 20.947679,
-    "lon": 106.25146,
+    "lat": 20.94764,
+    "lon": 106.2515,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6716,8 +6716,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350223",
-    "lat": 20.93419,
-    "lon": 106.25844,
+    "lat": 20.935995,
+    "lon": 106.269814,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6738,8 +6738,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "877002",
-    "lat": 20.936317,
-    "lon": 106.1608,
+    "lat": 20.93626,
+    "lon": 106.1609,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6760,8 +6760,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350442",
-    "lat": 20.96866,
-    "lon": 106.2773,
+    "lat": 20.9686,
+    "lon": 106.27743,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6782,8 +6782,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "877003",
-    "lat": 20.952118,
-    "lon": 106.27992,
+    "lat": 20.952126,
+    "lon": 106.279818,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6804,8 +6804,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350225",
-    "lat": 20.96721,
-    "lon": 106.17296,
+    "lat": 20.967277,
+    "lon": 106.173036,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6826,8 +6826,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "877085",
-    "lat": 20.952827,
-    "lon": 106.19865,
+    "lat": 20.949206,
+    "lon": 106.203157,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6848,8 +6848,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350105",
-    "lat": 20.93721,
-    "lon": 106.26682,
+    "lat": 20.934106,
+    "lon": 106.258336,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6870,17 +6870,17 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350010",
-    "lat": 20.93586,
-    "lon": 106.24181,
+    "lat": 20.936775,
+    "lon": 106.241275,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "RFI Ready",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "2026-04-22 00:00:00",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6892,8 +6892,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "877183",
-    "lat": 20.94184,
-    "lon": 106.19642,
+    "lat": 20.94183,
+    "lon": 106.19638,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -6980,17 +6980,17 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350460",
-    "lat": 20.9295,
-    "lon": 106.26446,
+    "lat": 20.92951,
+    "lon": 106.2646,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "On-Air",
+    "status": "Pending",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "2026-05-22",
+    "on_air_date": "-",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -7024,8 +7024,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350454",
-    "lat": 20.927405,
-    "lon": 106.1882,
+    "lat": 20.92754,
+    "lon": 106.188127,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7046,8 +7046,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350455",
-    "lat": 20.925364,
-    "lon": 106.19684,
+    "lat": 20.925185,
+    "lon": 106.196657,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7068,8 +7068,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350455",
-    "lat": 20.930272,
-    "lon": 106.19566,
+    "lat": 20.930181,
+    "lon": 106.195736,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7091,7 +7091,7 @@ const rolloutData = [
     "district": "Cam Giang",
     "enodeb_id": "350449",
     "lat": 20.931022,
-    "lon": 106.22189,
+    "lon": 106.221893,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7112,8 +7112,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350450",
-    "lat": 20.926624,
-    "lon": 106.22318,
+    "lat": 20.93103,
+    "lon": 106.22198,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7134,8 +7134,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350449",
-    "lat": 20.920255,
-    "lon": 106.22313,
+    "lat": 20.9203,
+    "lon": 106.22321,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7156,8 +7156,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350450",
-    "lat": 20.931627,
-    "lon": 106.22837,
+    "lat": 20.93165,
+    "lon": 106.22844,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7179,7 +7179,7 @@ const rolloutData = [
     "district": "Cam Giang",
     "enodeb_id": "350449",
     "lat": 20.926517,
-    "lon": 106.23085,
+    "lon": 106.230845,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7200,8 +7200,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350011",
-    "lat": 20.93956,
-    "lon": 106.2238,
+    "lat": 20.93957,
+    "lon": 106.22377,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -7222,7 +7222,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cam Giang",
     "enodeb_id": "350118",
-    "lat": 20.93587,
+    "lat": 20.9358698,
     "lon": 106.23145,
     "vip": "NO",
     "is_vip": false,
@@ -7244,8 +7244,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350121",
-    "lat": 21.092,
-    "lon": 106.38987,
+    "lat": 21.09205,
+    "lon": 106.3899,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7266,8 +7266,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350074",
-    "lat": 21.08775,
-    "lon": 106.37121,
+    "lat": 21.087735,
+    "lon": 106.371235,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7288,8 +7288,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350075",
-    "lat": 21.12981,
-    "lon": 106.41188,
+    "lat": 21.129755,
+    "lon": 106.41181,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7310,8 +7310,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350227",
-    "lat": 21.12837,
-    "lon": 106.39426,
+    "lat": 21.12828,
+    "lon": 106.3943,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7332,8 +7332,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350012",
-    "lat": 21.11724,
-    "lon": 106.3991,
+    "lat": 21.117283,
+    "lon": 106.399017,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7354,8 +7354,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350228",
-    "lat": 21.12074,
-    "lon": 106.38675,
+    "lat": 21.120785,
+    "lon": 106.386765,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7376,8 +7376,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "877007",
-    "lat": 21.1235,
-    "lon": 106.37241,
+    "lat": 21.123512,
+    "lon": 106.372387,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7398,8 +7398,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "877008",
-    "lat": 21.136,
-    "lon": 106.3911,
+    "lat": 21.136045,
+    "lon": 106.391304,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7420,8 +7420,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350124",
-    "lat": 21.11293,
-    "lon": 106.39524,
+    "lat": 21.112969,
+    "lon": 106.395194,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7442,8 +7442,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "877184",
-    "lat": 21.037353,
-    "lon": 106.38069,
+    "lat": 21.037282,
+    "lon": 106.380748,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7464,8 +7464,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350295",
-    "lat": 21.04876,
-    "lon": 106.37636,
+    "lat": 21.048612,
+    "lon": 106.376377,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7486,8 +7486,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350125",
-    "lat": 21.133618,
-    "lon": 106.42828,
+    "lat": 21.133452,
+    "lon": 106.428507,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7508,8 +7508,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350233",
-    "lat": 21.10296,
-    "lon": 106.38027,
+    "lat": 21.106019,
+    "lon": 106.380085,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7530,8 +7530,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350617",
-    "lat": 21.09807,
-    "lon": 106.38041,
+    "lat": 21.098032,
+    "lon": 106.380441,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7552,8 +7552,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350013",
-    "lat": 21.11101,
-    "lon": 106.30266,
+    "lat": 21.110977,
+    "lon": 106.3027,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7574,8 +7574,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350128",
-    "lat": 21.110194,
-    "lon": 106.38922,
+    "lat": 21.10989,
+    "lon": 106.3891,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7596,8 +7596,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350382",
-    "lat": 21.10191,
-    "lon": 106.39443,
+    "lat": 21.10187,
+    "lon": 106.3944,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7618,8 +7618,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350234",
-    "lat": 21.107409,
-    "lon": 106.40429,
+    "lat": 21.107052,
+    "lon": 106.404326,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7640,8 +7640,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350430",
-    "lat": 21.111207,
-    "lon": 106.40015,
+    "lat": 21.111213,
+    "lon": 106.400323,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7662,8 +7662,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350652",
-    "lat": 21.104222,
-    "lon": 106.39699,
+    "lat": 21.10442,
+    "lon": 106.396,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7684,8 +7684,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350129",
-    "lat": 21.05773,
-    "lon": 106.38198,
+    "lat": 21.057744,
+    "lon": 106.382022,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7706,8 +7706,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350384",
-    "lat": 21.130388,
-    "lon": 106.47676,
+    "lat": 21.133313,
+    "lon": 106.476433,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7728,8 +7728,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350130",
-    "lat": 21.10668,
-    "lon": 106.35322,
+    "lat": 21.106677,
+    "lon": 106.35326,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7750,8 +7750,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Chi Linh",
     "enodeb_id": "350235",
-    "lat": 21.10566,
-    "lon": 106.36626,
+    "lat": 21.105682,
+    "lon": 106.366237,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7772,8 +7772,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "877186",
-    "lat": 20.88729,
-    "lon": 106.3268,
+    "lat": 20.887,
+    "lon": 106.32696,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7794,8 +7794,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "877014",
-    "lat": 20.86153,
-    "lon": 106.25916,
+    "lat": 20.861589,
+    "lon": 106.2598,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7816,7 +7816,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350303",
-    "lat": 20.8641,
+    "lat": 20.86402,
     "lon": 106.31644,
     "vip": "NO",
     "is_vip": false,
@@ -7838,8 +7838,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350079",
-    "lat": 20.878171,
-    "lon": 106.30609,
+    "lat": 20.87763,
+    "lon": 106.306009,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7860,8 +7860,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "877160",
-    "lat": 20.871476,
-    "lon": 106.30911,
+    "lat": 20.87157,
+    "lon": 106.30883,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7882,8 +7882,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350080",
-    "lat": 20.8898,
-    "lon": 106.30739,
+    "lat": 20.888867,
+    "lon": 106.307596,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7904,8 +7904,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350438",
-    "lat": 20.847494,
-    "lon": 106.30794,
+    "lat": 20.850801,
+    "lon": 106.307387,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7926,8 +7926,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350304",
-    "lat": 20.90709,
-    "lon": 106.28588,
+    "lat": 20.9072,
+    "lon": 106.28596,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7948,8 +7948,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350307",
-    "lat": 20.90143,
-    "lon": 106.32491,
+    "lat": 20.901461,
+    "lon": 106.324971,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7970,8 +7970,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350388",
-    "lat": 20.88109,
-    "lon": 106.3357,
+    "lat": 20.881062,
+    "lon": 106.33574,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -7992,8 +7992,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350240",
-    "lat": 20.90764,
-    "lon": 106.3069,
+    "lat": 20.907489,
+    "lon": 106.306925,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8014,8 +8014,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350014",
-    "lat": 20.91458,
-    "lon": 106.31483,
+    "lat": 20.914531,
+    "lon": 106.314936,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8036,8 +8036,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350308",
-    "lat": 20.901147,
-    "lon": 106.30984,
+    "lat": 20.901,
+    "lon": 106.31008,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8058,8 +8058,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "877016",
-    "lat": 20.895758,
-    "lon": 106.27412,
+    "lat": 20.89594,
+    "lon": 106.27416,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8080,8 +8080,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "877090",
-    "lat": 20.852062,
-    "lon": 106.2861,
+    "lat": 20.852381,
+    "lon": 106.285628,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8102,8 +8102,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350310",
-    "lat": 20.89141,
-    "lon": 106.24797,
+    "lat": 20.89145,
+    "lon": 106.24818,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8124,8 +8124,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Gia Loc",
     "enodeb_id": "350241",
-    "lat": 20.88055,
-    "lon": 106.25682,
+    "lat": 20.88061,
+    "lon": 106.25684,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8146,7 +8146,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "877187",
-    "lat": 20.977317,
+    "lat": 20.9773174,
     "lon": 106.37881,
     "vip": "NO",
     "is_vip": false,
@@ -8168,8 +8168,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350242",
-    "lat": 20.945746,
-    "lon": 106.31339,
+    "lat": 20.9457461,
+    "lon": 106.313388,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8279,7 +8279,7 @@ const rolloutData = [
     "district": "Hai Duong",
     "enodeb_id": "350470",
     "lat": 20.95001,
-    "lon": 106.31276,
+    "lon": 106.312755,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8301,7 +8301,7 @@ const rolloutData = [
     "district": "Hai Duong",
     "enodeb_id": "350390",
     "lat": 20.937322,
-    "lon": 106.29116,
+    "lon": 106.291162,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8322,8 +8322,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350023",
-    "lat": 20.939917,
-    "lon": 106.32992,
+    "lat": 20.939966,
+    "lon": 106.329929,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8388,8 +8388,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350026",
-    "lat": 20.91336,
-    "lon": 106.34033,
+    "lat": 20.9134,
+    "lon": 106.340352,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8410,8 +8410,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350605",
-    "lat": 20.9611,
-    "lon": 106.3666,
+    "lat": 20.961674,
+    "lon": 106.366786,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8432,8 +8432,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350027",
-    "lat": 20.92771,
-    "lon": 106.32069,
+    "lat": 20.927817,
+    "lon": 106.320708,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8454,8 +8454,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350189",
-    "lat": 20.920594,
-    "lon": 106.29294,
+    "lat": 20.920854,
+    "lon": 106.293184,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8476,8 +8476,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350138",
-    "lat": 20.94153,
-    "lon": 106.36744,
+    "lat": 20.941456,
+    "lon": 106.367429,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8542,8 +8542,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350466",
-    "lat": 20.92733,
-    "lon": 106.34409,
+    "lat": 20.927257,
+    "lon": 106.344034,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8564,8 +8564,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350082",
-    "lat": 20.94304,
-    "lon": 106.32822,
+    "lat": 20.942992,
+    "lon": 106.328226,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8608,8 +8608,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350038",
-    "lat": 20.94027,
-    "lon": 106.33345,
+    "lat": 20.940248,
+    "lon": 106.333482,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -8631,7 +8631,7 @@ const rolloutData = [
     "district": "Hai Duong",
     "enodeb_id": "350040",
     "lat": 20.93686,
-    "lon": 106.31136,
+    "lon": 106.311361,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -8653,7 +8653,7 @@ const rolloutData = [
     "district": "Hai Duong",
     "enodeb_id": "350042",
     "lat": 20.933981,
-    "lon": 106.32001,
+    "lon": 106.320009,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -8674,8 +8674,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350044",
-    "lat": 20.91185,
-    "lon": 106.32672,
+    "lat": 20.911846,
+    "lon": 106.326756,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8697,7 +8697,7 @@ const rolloutData = [
     "district": "Hai Duong",
     "enodeb_id": "350107",
     "lat": 20.937539,
-    "lon": 106.30632,
+    "lon": 106.306317,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -8740,8 +8740,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350445",
-    "lat": 20.965,
-    "lon": 106.31777,
+    "lat": 20.964972,
+    "lon": 106.317827,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8763,7 +8763,7 @@ const rolloutData = [
     "district": "Hai Duong",
     "enodeb_id": "350050",
     "lat": 20.940114,
-    "lon": 106.34243,
+    "lon": 106.342425,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -8828,8 +8828,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350469",
-    "lat": 20.9292,
-    "lon": 106.2974,
+    "lat": 20.929176,
+    "lon": 106.297724,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8894,8 +8894,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350398",
-    "lat": 20.930685,
-    "lon": 106.30327,
+    "lat": 20.9306853,
+    "lon": 106.303267,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8916,8 +8916,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "350055",
-    "lat": 20.92164,
-    "lon": 106.3305,
+    "lat": 20.921517,
+    "lon": 106.330506,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8938,7 +8938,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "350139",
-    "lat": 21.00169,
+    "lat": 21.00175,
     "lon": 106.51221,
     "vip": "NO",
     "is_vip": false,
@@ -8960,8 +8960,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "877098",
-    "lat": 20.99022,
-    "lon": 106.5224,
+    "lat": 20.99032,
+    "lon": 106.52243,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -8982,8 +8982,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "350142",
-    "lat": 20.99489,
-    "lon": 106.5469,
+    "lat": 20.9949,
+    "lon": 106.54692,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9004,8 +9004,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "350143",
-    "lat": 21.03096,
-    "lon": 106.53008,
+    "lat": 21.03119,
+    "lon": 106.53025,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9048,8 +9048,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "350144",
-    "lat": 20.95427,
-    "lon": 106.5512,
+    "lat": 20.95426,
+    "lon": 106.55126,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9070,8 +9070,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "877100",
-    "lat": 20.98537,
-    "lon": 106.54391,
+    "lat": 20.98539,
+    "lon": 106.5439,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9092,8 +9092,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "350146",
-    "lat": 21.00382,
-    "lon": 106.53622,
+    "lat": 21.004212,
+    "lon": 106.536165,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9290,8 +9290,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "350152",
-    "lat": 21.018579,
-    "lon": 106.54546,
+    "lat": 21.0185791,
+    "lon": 106.545461,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9334,8 +9334,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "350403",
-    "lat": 21.036938,
-    "lon": 106.42046,
+    "lat": 21.0369378,
+    "lon": 106.420464,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9356,8 +9356,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "350258",
-    "lat": 20.96515,
-    "lon": 106.56195,
+    "lat": 20.965252,
+    "lon": 106.561895,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9378,8 +9378,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "350084",
-    "lat": 21.00466,
-    "lon": 106.42999,
+    "lat": 21.004572,
+    "lon": 106.430008,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9400,8 +9400,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kinh Mon",
     "enodeb_id": "350156",
-    "lat": 21.037612,
-    "lon": 106.5964,
+    "lat": 21.0376116,
+    "lon": 106.596398,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9444,8 +9444,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kim Thanh",
     "enodeb_id": "350159",
-    "lat": 20.92217,
-    "lon": 106.49002,
+    "lat": 20.92205,
+    "lon": 106.49,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9466,8 +9466,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kim Thanh",
     "enodeb_id": "350162",
-    "lat": 20.93934,
-    "lon": 106.49419,
+    "lat": 20.93925,
+    "lon": 106.49411,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9488,8 +9488,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kim Thanh",
     "enodeb_id": "350113",
-    "lat": 20.9681,
-    "lon": 106.5061,
+    "lat": 20.96814,
+    "lon": 106.50607,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9510,8 +9510,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kim Thanh",
     "enodeb_id": "877232",
-    "lat": 20.963503,
-    "lon": 106.52215,
+    "lat": 20.96281,
+    "lon": 106.5234,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9532,8 +9532,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kim Thanh",
     "enodeb_id": "877232",
-    "lat": 20.958465,
-    "lon": 106.52799,
+    "lat": 20.95858,
+    "lon": 106.52642,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9554,8 +9554,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kim Thanh",
     "enodeb_id": "350408",
-    "lat": 20.99358,
-    "lon": 106.42692,
+    "lat": 20.99355,
+    "lon": 106.4269,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9576,8 +9576,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "877101",
-    "lat": 20.95896,
-    "lon": 106.37271,
+    "lat": 20.958952,
+    "lon": 106.372453,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9598,8 +9598,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350087",
-    "lat": 21.02382,
-    "lon": 106.35924,
+    "lat": 21.02374,
+    "lon": 106.35925,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9620,8 +9620,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350266",
-    "lat": 20.97737,
-    "lon": 106.3358,
+    "lat": 20.977375,
+    "lon": 106.335803,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9642,8 +9642,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "877196",
-    "lat": 20.96257,
-    "lon": 106.33427,
+    "lat": 20.96258,
+    "lon": 106.3343,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9664,8 +9664,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350325",
-    "lat": 21.04368,
-    "lon": 106.30412,
+    "lat": 21.043662,
+    "lon": 106.304112,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9686,8 +9686,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350326",
-    "lat": 21.04758,
-    "lon": 106.33957,
+    "lat": 21.04808,
+    "lon": 106.33757,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9708,8 +9708,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350115",
-    "lat": 20.96782,
-    "lon": 106.37737,
+    "lat": 20.967728,
+    "lon": 106.377362,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9730,8 +9730,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350327",
-    "lat": 21.03169,
-    "lon": 106.32487,
+    "lat": 21.031622,
+    "lon": 106.32475,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9752,8 +9752,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350069",
-    "lat": 20.95102,
-    "lon": 106.36447,
+    "lat": 20.951035,
+    "lon": 106.364713,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9774,17 +9774,17 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350268",
-    "lat": 20.997141,
-    "lon": 106.32611,
+    "lat": 20.99721,
+    "lon": 106.32615,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -9796,8 +9796,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350171",
-    "lat": 20.986415,
-    "lon": 106.37611,
+    "lat": 20.986462,
+    "lon": 106.376198,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9818,8 +9818,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350417",
-    "lat": 21.011564,
-    "lon": 106.40033,
+    "lat": 21.011743,
+    "lon": 106.39989,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9840,8 +9840,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "877233",
-    "lat": 20.962175,
-    "lon": 106.37118,
+    "lat": 20.962242,
+    "lon": 106.371243,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9862,8 +9862,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "877233",
-    "lat": 20.968253,
-    "lon": 106.3693,
+    "lat": 20.968352,
+    "lon": 106.369407,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9884,8 +9884,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "877233",
-    "lat": 20.972368,
-    "lon": 106.37105,
+    "lat": 20.972378,
+    "lon": 106.370953,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9906,8 +9906,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350088",
-    "lat": 21.04495,
-    "lon": 106.3574,
+    "lat": 21.044923,
+    "lon": 106.357436,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9928,8 +9928,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "350481",
-    "lat": 21.038936,
-    "lon": 106.35005,
+    "lat": 21.038943,
+    "lon": 106.349738,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9950,8 +9950,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "350332",
-    "lat": 20.87111,
-    "lon": 106.41333,
+    "lat": 20.871052,
+    "lon": 106.413517,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9972,8 +9972,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "350175",
-    "lat": 20.86459,
-    "lon": 106.46239,
+    "lat": 20.8645,
+    "lon": 106.462427,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -9994,8 +9994,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "350178",
-    "lat": 20.93051,
-    "lon": 106.3823,
+    "lat": 20.93056,
+    "lon": 106.382487,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10016,8 +10016,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "350089",
-    "lat": 20.94609,
-    "lon": 106.44574,
+    "lat": 20.946017,
+    "lon": 106.445728,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10038,8 +10038,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "877106",
-    "lat": 20.89352,
-    "lon": 106.40157,
+    "lat": 20.893527,
+    "lon": 106.401555,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10060,8 +10060,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "350183",
-    "lat": 20.82508,
-    "lon": 106.44095,
+    "lat": 20.824907,
+    "lon": 106.441228,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10082,8 +10082,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "350184",
-    "lat": 20.8314,
-    "lon": 106.45699,
+    "lat": 20.831413,
+    "lon": 106.456945,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10104,8 +10104,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "350185",
-    "lat": 20.82396,
-    "lon": 106.47971,
+    "lat": 20.823945,
+    "lon": 106.4797,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10126,8 +10126,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "350186",
-    "lat": 20.9319,
-    "lon": 106.46788,
+    "lat": 20.932,
+    "lon": 106.4679,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10148,8 +10148,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "877032",
-    "lat": 20.94673,
-    "lon": 106.46671,
+    "lat": 20.946712,
+    "lon": 106.466803,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10170,8 +10170,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "877169",
-    "lat": 20.87033,
-    "lon": 106.44521,
+    "lat": 20.870403,
+    "lon": 106.44509,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10192,8 +10192,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Ha",
     "enodeb_id": "350616",
-    "lat": 20.88031,
-    "lon": 106.44785,
+    "lat": 20.879955,
+    "lon": 106.447908,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10214,8 +10214,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Mien",
     "enodeb_id": "350448",
-    "lat": 20.76103,
-    "lon": 106.21651,
+    "lat": 20.7611,
+    "lon": 106.21648,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10236,8 +10236,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Mien",
     "enodeb_id": "350279",
-    "lat": 20.74037,
-    "lon": 106.23286,
+    "lat": 20.740368,
+    "lon": 106.232955,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10258,8 +10258,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Mien",
     "enodeb_id": "350281",
-    "lat": 20.77783,
-    "lon": 106.17609,
+    "lat": 20.783397,
+    "lon": 106.169811,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10280,8 +10280,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Mien",
     "enodeb_id": "350203",
-    "lat": 20.72187,
-    "lon": 106.25111,
+    "lat": 20.721937,
+    "lon": 106.251196,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10302,8 +10302,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Mien",
     "enodeb_id": "350205",
-    "lat": 20.7693,
-    "lon": 106.23067,
+    "lat": 20.770086,
+    "lon": 106.229353,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10324,8 +10324,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thanh Mien",
     "enodeb_id": "877038",
-    "lat": 20.777965,
-    "lon": 106.24271,
+    "lat": 20.777834,
+    "lon": 106.242591,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10347,7 +10347,7 @@ const rolloutData = [
     "district": "Binh Luc",
     "enodeb_id": "200032",
     "lat": 20.491778,
-    "lon": 106.00761,
+    "lon": 106.007609,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10368,8 +10368,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Binh Luc",
     "enodeb_id": "200037",
-    "lat": 20.55648,
-    "lon": 106.00251,
+    "lat": 20.556338,
+    "lon": 106.00259,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10390,8 +10390,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Binh Luc",
     "enodeb_id": "200263",
-    "lat": 20.481906,
-    "lon": 106.05067,
+    "lat": 20.481904,
+    "lon": 106.050591,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10412,8 +10412,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "200000",
-    "lat": 20.66415,
-    "lon": 105.94071,
+    "lat": 20.664287,
+    "lon": 105.940989,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10434,8 +10434,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "200001",
-    "lat": 20.65746,
-    "lon": 105.92443,
+    "lat": 20.657851,
+    "lon": 105.925022,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10456,8 +10456,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "200002",
-    "lat": 20.644036,
-    "lon": 105.91994,
+    "lat": 20.645398,
+    "lon": 105.920417,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10478,8 +10478,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "200003",
-    "lat": 20.638316,
-    "lon": 105.93554,
+    "lat": 20.637921,
+    "lon": 105.935463,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10500,8 +10500,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "875118",
-    "lat": 20.668494,
-    "lon": 105.93187,
+    "lat": 20.668606,
+    "lon": 105.931811,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10522,17 +10522,17 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "200154",
-    "lat": 20.645937,
-    "lon": 105.93465,
+    "lat": 20.64592,
+    "lon": 105.9346,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -10544,8 +10544,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "200004",
-    "lat": 20.621015,
-    "lon": 105.92181,
+    "lat": 20.621001,
+    "lon": 105.921908,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10566,8 +10566,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "200044",
-    "lat": 20.60382,
-    "lon": 105.92867,
+    "lat": 20.60386,
+    "lon": 105.928585,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10588,8 +10588,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "875139",
-    "lat": 20.617969,
-    "lon": 105.94153,
+    "lat": 20.618202,
+    "lon": 105.941511,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10610,8 +10610,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "875117",
-    "lat": 20.64858,
-    "lon": 105.9996,
+    "lat": 20.648619,
+    "lon": 105.999553,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10632,8 +10632,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "875118",
-    "lat": 20.663705,
-    "lon": 105.92802,
+    "lat": 20.663628,
+    "lon": 105.927888,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10654,8 +10654,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "200154",
-    "lat": 20.656606,
-    "lon": 105.93563,
+    "lat": 20.65661,
+    "lon": 105.93545,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10676,8 +10676,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "875118",
-    "lat": 20.669634,
-    "lon": 105.91618,
+    "lat": 20.6697,
+    "lon": 105.91612,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10698,8 +10698,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "200006",
-    "lat": 20.580691,
-    "lon": 105.94925,
+    "lat": 20.58062,
+    "lon": 105.949304,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10720,8 +10720,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "200106",
-    "lat": 20.586435,
-    "lon": 105.93116,
+    "lat": 20.586332,
+    "lon": 105.931146,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10742,8 +10742,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "200105",
-    "lat": 20.576332,
-    "lon": 105.92572,
+    "lat": 20.576426,
+    "lon": 105.925726,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10764,8 +10764,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Kim Bang",
     "enodeb_id": "200016",
-    "lat": 20.551237,
-    "lon": 105.7951,
+    "lat": 20.551574,
+    "lon": 105.792574,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10786,8 +10786,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Kim Bang",
     "enodeb_id": "200219",
-    "lat": 20.562177,
-    "lon": 105.81823,
+    "lat": 20.562243,
+    "lon": 105.8183,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10808,8 +10808,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Kim Bang",
     "enodeb_id": "200022",
-    "lat": 20.57042,
-    "lon": 105.8262,
+    "lat": 20.570617,
+    "lon": 105.826181,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10830,8 +10830,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Kim Bang",
     "enodeb_id": "200048",
-    "lat": 20.639694,
-    "lon": 105.88243,
+    "lat": 20.639709,
+    "lon": 105.882351,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10852,8 +10852,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Kim Bang",
     "enodeb_id": "200108",
-    "lat": 20.572416,
-    "lon": 105.91653,
+    "lat": 20.572392,
+    "lon": 105.916431,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10874,8 +10874,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ly Nhan",
     "enodeb_id": "200112",
-    "lat": 20.47603,
-    "lon": 106.14721,
+    "lat": 20.476157,
+    "lon": 106.14728,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10896,8 +10896,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ly Nhan",
     "enodeb_id": "200060",
-    "lat": 20.558752,
-    "lon": 106.03057,
+    "lat": 20.55879,
+    "lon": 106.0306,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10918,8 +10918,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200008",
-    "lat": 20.528522,
-    "lon": 105.916,
+    "lat": 20.528596,
+    "lon": 105.915988,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10940,8 +10940,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200064",
-    "lat": 20.529783,
-    "lon": 105.89775,
+    "lat": 20.529826,
+    "lon": 105.897717,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10962,8 +10962,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200195",
-    "lat": 20.513941,
-    "lon": 105.89385,
+    "lat": 20.51395,
+    "lon": 105.893787,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -10984,17 +10984,17 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200009",
-    "lat": 20.54377,
-    "lon": 105.91652,
+    "lat": 20.543852,
+    "lon": 105.916479,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11006,17 +11006,17 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200066",
-    "lat": 20.52164,
-    "lon": 105.89967,
+    "lat": 20.521448,
+    "lon": 105.899846,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11028,8 +11028,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200317",
-    "lat": 20.519252,
-    "lon": 105.89241,
+    "lat": 20.51932,
+    "lon": 105.892207,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11050,8 +11050,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200198",
-    "lat": 20.551607,
-    "lon": 105.93361,
+    "lat": 20.551869,
+    "lon": 105.933894,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11072,8 +11072,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200121",
-    "lat": 20.546879,
-    "lon": 105.92223,
+    "lat": 20.546835,
+    "lon": 105.922219,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11094,8 +11094,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200067",
-    "lat": 20.54562,
-    "lon": 105.89755,
+    "lat": 20.545605,
+    "lon": 105.897368,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11116,8 +11116,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200011",
-    "lat": 20.54323,
-    "lon": 105.90567,
+    "lat": 20.542523,
+    "lon": 105.905699,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11138,8 +11138,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200199",
-    "lat": 20.531733,
-    "lon": 105.9013,
+    "lat": 20.533572,
+    "lon": 105.900526,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11160,8 +11160,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200086",
-    "lat": 20.52591,
-    "lon": 105.88587,
+    "lat": 20.525914,
+    "lon": 105.885865,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11182,8 +11182,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200404",
-    "lat": 20.535203,
-    "lon": 105.94134,
+    "lat": 20.535154,
+    "lon": 105.941065,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11204,8 +11204,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200404",
-    "lat": 20.526217,
-    "lon": 105.97132,
+    "lat": 20.526271,
+    "lon": 105.971408,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11226,8 +11226,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200404",
-    "lat": 20.543378,
-    "lon": 105.94651,
+    "lat": 20.543341,
+    "lon": 105.94653,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11248,8 +11248,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200013",
-    "lat": 20.538004,
-    "lon": 105.91431,
+    "lat": 20.537995,
+    "lon": 105.914309,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11271,7 +11271,7 @@ const rolloutData = [
     "district": "Phu Ly",
     "enodeb_id": "200072",
     "lat": 20.551291,
-    "lon": 105.89403,
+    "lon": 105.894034,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11314,8 +11314,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200201",
-    "lat": 20.54177,
-    "lon": 105.88762,
+    "lat": 20.5417695,
+    "lon": 105.887623,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11359,7 +11359,7 @@ const rolloutData = [
     "district": "Phu Ly",
     "enodeb_id": "200105",
     "lat": 20.566667,
-    "lon": 105.93722,
+    "lon": 105.937222,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11402,8 +11402,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Thanh Liem",
     "enodeb_id": "875044",
-    "lat": 20.436071,
-    "lon": 105.97056,
+    "lat": 20.43604,
+    "lon": 105.970567,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11424,8 +11424,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Thanh Liem",
     "enodeb_id": "200125",
-    "lat": 20.457229,
-    "lon": 105.9682,
+    "lat": 20.457239,
+    "lon": 105.968323,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11446,8 +11446,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Thanh Liem",
     "enodeb_id": "200077",
-    "lat": 20.536444,
-    "lon": 105.95206,
+    "lat": 20.536783,
+    "lon": 105.952221,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11468,8 +11468,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Thanh Liem",
     "enodeb_id": "200078",
-    "lat": 20.525231,
-    "lon": 105.93327,
+    "lat": 20.525353,
+    "lon": 105.933786,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11490,8 +11490,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Thanh Liem",
     "enodeb_id": "200128",
-    "lat": 20.433533,
-    "lon": 105.92778,
+    "lat": 20.433994,
+    "lon": 105.926601,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11512,8 +11512,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Thanh Liem",
     "enodeb_id": "200082",
-    "lat": 20.416486,
-    "lon": 105.91958,
+    "lat": 20.41646,
+    "lon": 105.91954,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11534,8 +11534,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Thanh Liem",
     "enodeb_id": "200082",
-    "lat": 20.417569,
-    "lon": 105.93406,
+    "lat": 20.41943,
+    "lon": 105.93462,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11556,8 +11556,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Thanh Liem",
     "enodeb_id": "200089",
-    "lat": 20.474567,
-    "lon": 105.95026,
+    "lat": 20.47486,
+    "lon": 105.95036,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11579,7 +11579,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "360234",
     "lat": 20.84887,
-    "lon": 106.65497,
+    "lon": 106.65495,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11600,8 +11600,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cat Ba",
     "enodeb_id": "360279",
-    "lat": 20.72467,
-    "lon": 107.04953,
+    "lat": 20.72491,
+    "lon": 107.0497,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11667,7 +11667,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "360237",
     "lat": 20.86409,
-    "lon": 106.60824,
+    "lon": 106.60831,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11688,8 +11688,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360562",
-    "lat": 20.901533,
-    "lon": 106.54422,
+    "lat": 20.9015326,
+    "lon": 106.544219,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11710,8 +11710,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360224",
-    "lat": 20.91068,
-    "lon": 106.58887,
+    "lat": 20.91159,
+    "lon": 106.5889,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11754,8 +11754,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360239",
-    "lat": 20.88585,
-    "lon": 106.54908,
+    "lat": 20.885436,
+    "lon": 106.549407,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11776,8 +11776,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360099",
-    "lat": 20.8578,
-    "lon": 106.5686,
+    "lat": 20.857907,
+    "lon": 106.568586,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11798,8 +11798,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360240",
-    "lat": 20.85193,
-    "lon": 106.65548,
+    "lat": 20.85179,
+    "lon": 106.65551,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11820,8 +11820,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360001",
-    "lat": 20.90508,
-    "lon": 106.57607,
+    "lat": 20.905003,
+    "lon": 106.576142,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11886,8 +11886,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360243",
-    "lat": 20.92287,
-    "lon": 106.55971,
+    "lat": 20.922875,
+    "lon": 106.559709,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11908,8 +11908,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360244",
-    "lat": 20.84828,
-    "lon": 106.61576,
+    "lat": 20.848292,
+    "lon": 106.615629,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11931,7 +11931,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "364057",
     "lat": 20.904966,
-    "lon": 106.59095,
+    "lon": 106.590946,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11953,7 +11953,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "360457",
     "lat": 20.908073,
-    "lon": 106.59433,
+    "lon": 106.594329,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -11974,8 +11974,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360246",
-    "lat": 20.870175,
-    "lon": 106.5791,
+    "lat": 20.870187,
+    "lon": 106.57915,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -11996,8 +11996,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360398",
-    "lat": 20.874835,
-    "lon": 106.56383,
+    "lat": 20.87492,
+    "lon": 106.5638,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -12018,8 +12018,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360248",
-    "lat": 20.894523,
-    "lon": 106.56405,
+    "lat": 20.89449,
+    "lon": 106.56397,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12040,8 +12040,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360250",
-    "lat": 20.83444,
-    "lon": 106.63689,
+    "lat": 20.834387,
+    "lon": 106.636888,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12063,7 +12063,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "360459",
     "lat": 20.839811,
-    "lon": 106.63794,
+    "lon": 106.637935,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12084,8 +12084,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360584",
-    "lat": 20.880046,
-    "lon": 106.57371,
+    "lat": 20.880026,
+    "lon": 106.573575,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12150,8 +12150,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "361046",
-    "lat": 20.884166,
-    "lon": 106.56261,
+    "lat": 20.884159,
+    "lon": 106.562562,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12173,7 +12173,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "361047",
     "lat": 20.879302,
-    "lon": 106.57054,
+    "lon": 106.570537,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12194,8 +12194,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360198",
-    "lat": 20.861898,
-    "lon": 106.56622,
+    "lat": 20.8618985,
+    "lon": 106.566219,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12238,8 +12238,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "364080",
-    "lat": 20.862392,
-    "lon": 106.56368,
+    "lat": 20.86252,
+    "lon": 106.563653,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -12261,7 +12261,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "361001",
     "lat": 20.867479,
-    "lon": 106.56493,
+    "lon": 106.564932,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12282,8 +12282,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "361048",
-    "lat": 20.858644,
-    "lon": 106.57272,
+    "lat": 20.8586437,
+    "lon": 106.572719,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12326,8 +12326,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "370465",
-    "lat": 20.86056,
-    "lon": 106.5763,
+    "lat": 20.860633,
+    "lon": 106.57638,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12349,7 +12349,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "364058",
     "lat": 20.86392,
-    "lon": 106.59185,
+    "lon": 106.591853,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12370,8 +12370,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360251",
-    "lat": 20.86165,
-    "lon": 106.60374,
+    "lat": 20.861643,
+    "lon": 106.603667,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12392,8 +12392,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360004",
-    "lat": 20.93185,
-    "lon": 106.55405,
+    "lat": 20.93181,
+    "lon": 106.554,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12436,8 +12436,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360252",
-    "lat": 20.9087,
-    "lon": 106.56413,
+    "lat": 20.90881,
+    "lon": 106.56408,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12459,7 +12459,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "360976",
     "lat": 20.864323,
-    "lon": 106.56561,
+    "lon": 106.565612,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12480,8 +12480,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360402",
-    "lat": 20.862628,
-    "lon": 106.55702,
+    "lat": 20.8626279,
+    "lon": 106.557025,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12524,8 +12524,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360006",
-    "lat": 20.874903,
-    "lon": 106.61879,
+    "lat": 20.87499,
+    "lon": 106.61881,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12546,8 +12546,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360461",
-    "lat": 20.87179,
-    "lon": 106.60675,
+    "lat": 20.87184,
+    "lon": 106.60671,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12568,8 +12568,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360009",
-    "lat": 20.874894,
-    "lon": 106.57209,
+    "lat": 20.87486,
+    "lon": 106.5721,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12590,8 +12590,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360027",
-    "lat": 20.88039,
-    "lon": 106.56161,
+    "lat": 20.8803895,
+    "lon": 106.561614,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12612,8 +12612,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360582",
-    "lat": 20.892128,
-    "lon": 106.56211,
+    "lat": 20.8921283,
+    "lon": 106.562111,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12635,7 +12635,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "364061",
     "lat": 20.900518,
-    "lon": 106.59528,
+    "lon": 106.595277,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12657,7 +12657,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "364061",
     "lat": 20.900518,
-    "lon": 106.59528,
+    "lon": 106.595277,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12679,7 +12679,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "364061",
     "lat": 20.900518,
-    "lon": 106.59528,
+    "lon": 106.595277,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12701,7 +12701,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "360207",
     "lat": 20.869354,
-    "lon": 106.57062,
+    "lon": 106.570617,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12723,7 +12723,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "360207",
     "lat": 20.869005,
-    "lon": 106.56765,
+    "lon": 106.567654,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12745,7 +12745,7 @@ const rolloutData = [
     "district": "An Duong",
     "enodeb_id": "360208",
     "lat": 20.85942,
-    "lon": 106.56267,
+    "lon": 106.562673,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12766,8 +12766,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360256",
-    "lat": 20.84429,
-    "lon": 106.59567,
+    "lat": 20.84423,
+    "lon": 106.59566,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12810,8 +12810,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "360531",
-    "lat": 20.89112,
-    "lon": 106.58406,
+    "lat": 20.89114,
+    "lon": 106.58405,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12854,8 +12854,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "An Duong",
     "enodeb_id": "364060",
-    "lat": 20.85806,
-    "lon": 106.63828,
+    "lat": 20.857977,
+    "lon": 106.638395,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12920,8 +12920,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cat Hai",
     "enodeb_id": "360411",
-    "lat": 20.799134,
-    "lon": 106.87105,
+    "lat": 20.7991343,
+    "lon": 106.871048,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -12986,8 +12986,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cat Hai",
     "enodeb_id": "360613",
-    "lat": 20.792651,
-    "lon": 106.86267,
+    "lat": 20.7926512,
+    "lon": 106.862674,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13030,8 +13030,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360030",
-    "lat": 20.82475,
-    "lon": 106.71154,
+    "lat": 20.82464,
+    "lon": 106.7116,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -13052,7 +13052,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360031",
-    "lat": 20.838965,
+    "lat": 20.83897,
     "lon": 106.70743,
     "vip": "NO",
     "is_vip": false,
@@ -13119,7 +13119,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "360199",
     "lat": 20.824367,
-    "lon": 106.77267,
+    "lon": 106.772669,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13140,8 +13140,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360032",
-    "lat": 20.837605,
-    "lon": 106.75882,
+    "lat": 20.83758,
+    "lon": 106.758791,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13185,7 +13185,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "360348",
     "lat": 20.82662,
-    "lon": 106.7816,
+    "lon": 106.781602,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13206,8 +13206,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360420",
-    "lat": 20.84097,
-    "lon": 106.76747,
+    "lat": 20.84098,
+    "lon": 106.7675,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13250,8 +13250,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "361049",
-    "lat": 20.825449,
-    "lon": 106.79432,
+    "lat": 20.825466,
+    "lon": 106.794304,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13272,8 +13272,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360033",
-    "lat": 20.829856,
-    "lon": 106.7171,
+    "lat": 20.82979,
+    "lon": 106.71711,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -13294,8 +13294,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360034",
-    "lat": 20.84184,
-    "lon": 106.7158,
+    "lat": 20.841896,
+    "lon": 106.715803,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13316,8 +13316,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360035",
-    "lat": 20.82496,
-    "lon": 106.76504,
+    "lat": 20.825072,
+    "lon": 106.765045,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13382,8 +13382,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360038",
-    "lat": 20.8369,
-    "lon": 106.72127,
+    "lat": 20.837059,
+    "lon": 106.721395,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13404,8 +13404,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360230",
-    "lat": 20.835164,
-    "lon": 106.72436,
+    "lat": 20.8353,
+    "lon": 106.72439,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13426,8 +13426,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "365010",
-    "lat": 20.8444,
-    "lon": 106.7125,
+    "lat": 20.844178,
+    "lon": 106.712373,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13449,7 +13449,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "360422",
     "lat": 20.830616,
-    "lon": 106.71046,
+    "lon": 106.710459,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13471,7 +13471,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "360616",
     "lat": 20.836694,
-    "lon": 106.70998,
+    "lon": 106.709975,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13492,8 +13492,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360617",
-    "lat": 20.838223,
-    "lon": 106.70451,
+    "lat": 20.8382227,
+    "lon": 106.704514,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13514,8 +13514,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360040",
-    "lat": 20.857989,
-    "lon": 106.72598,
+    "lat": 20.858618,
+    "lon": 106.725923,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13536,8 +13536,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360042",
-    "lat": 20.844687,
-    "lon": 106.728,
+    "lat": 20.84474,
+    "lon": 106.72799,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -13581,7 +13581,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "364082",
     "lat": 20.850953,
-    "lon": 106.72792,
+    "lon": 106.727915,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13603,7 +13603,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "364081",
     "lat": 20.857341,
-    "lon": 106.71591,
+    "lon": 106.715914,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13625,7 +13625,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "360566",
     "lat": 20.824411,
-    "lon": 106.69946,
+    "lon": 106.699458,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13668,8 +13668,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360588",
-    "lat": 20.812482,
-    "lon": 106.77846,
+    "lat": 20.81206,
+    "lon": 106.77817,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13734,7 +13734,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360047",
-    "lat": 20.82796,
+    "lat": 20.82804,
     "lon": 106.72276,
     "vip": "NO",
     "is_vip": false,
@@ -13757,7 +13757,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "362015",
     "lat": 20.830126,
-    "lon": 106.75907,
+    "lon": 106.759071,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -13822,8 +13822,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360050",
-    "lat": 20.832503,
-    "lon": 106.72769,
+    "lat": 20.83249,
+    "lon": 106.727733,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -13866,8 +13866,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360044",
-    "lat": 20.828443,
-    "lon": 106.70868,
+    "lat": 20.82844,
+    "lon": 106.70866,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -13955,7 +13955,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "360483",
     "lat": 20.849174,
-    "lon": 106.72136,
+    "lon": 106.721363,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14021,7 +14021,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "360057",
     "lat": 20.820919,
-    "lon": 106.81788,
+    "lon": 106.817875,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14109,7 +14109,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "361066",
     "lat": 20.7985,
-    "lon": 106.79312,
+    "lon": 106.793115,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14131,7 +14131,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "365001",
     "lat": 20.798663,
-    "lon": 106.77985,
+    "lon": 106.779852,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14153,7 +14153,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "365101",
     "lat": 20.812475,
-    "lon": 106.80817,
+    "lon": 106.808174,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14197,7 +14197,7 @@ const rolloutData = [
     "district": "Hai An",
     "enodeb_id": "360618",
     "lat": 20.827411,
-    "lon": 106.71414,
+    "lon": 106.714144,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14218,8 +14218,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360060",
-    "lat": 20.807831,
-    "lon": 106.74003,
+    "lat": 20.8079,
+    "lon": 106.74004,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -14262,8 +14262,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai An",
     "enodeb_id": "360294",
-    "lat": 20.834332,
-    "lon": 106.70751,
+    "lat": 20.8343323,
+    "lon": 106.707508,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14306,8 +14306,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hong Bang",
     "enodeb_id": "360568",
-    "lat": 20.8625,
-    "lon": 106.6757,
+    "lat": 20.86256,
+    "lon": 106.67573,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -14351,7 +14351,7 @@ const rolloutData = [
     "district": "Hong Bang",
     "enodeb_id": "362010",
     "lat": 20.863399,
-    "lon": 106.68321,
+    "lon": 106.683205,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -14416,7 +14416,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hong Bang",
     "enodeb_id": "360063",
-    "lat": 20.863883,
+    "lat": 20.86388,
     "lon": 106.65072,
     "vip": "NO",
     "is_vip": false,
@@ -14505,7 +14505,7 @@ const rolloutData = [
     "district": "Hong Bang",
     "enodeb_id": "360067",
     "lat": 20.86896,
-    "lon": 106.64161,
+    "lon": 106.641611,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14592,8 +14592,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hong Bang",
     "enodeb_id": "360485",
-    "lat": 20.86399,
-    "lon": 106.68517,
+    "lat": 20.86401,
+    "lon": 106.685112,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -14615,7 +14615,7 @@ const rolloutData = [
     "district": "Hong Bang",
     "enodeb_id": "360071",
     "lat": 20.864376,
-    "lon": 106.68154,
+    "lon": 106.681539,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14658,8 +14658,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hong Bang",
     "enodeb_id": "360072",
-    "lat": 20.85656,
-    "lon": 106.67159,
+    "lat": 20.856504,
+    "lon": 106.67165,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -14702,8 +14702,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hong Bang",
     "enodeb_id": "360488",
-    "lat": 20.90126,
-    "lon": 106.60616,
+    "lat": 20.90114,
+    "lon": 106.60618,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14724,8 +14724,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hong Bang",
     "enodeb_id": "360426",
-    "lat": 20.89382,
-    "lon": 106.59913,
+    "lat": 20.89395,
+    "lon": 106.5991,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14790,8 +14790,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Cat Hai",
     "enodeb_id": "360612",
-    "lat": 20.8136,
-    "lon": 106.8849,
+    "lat": 20.81363,
+    "lon": 106.88502,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14813,7 +14813,7 @@ const rolloutData = [
     "district": "Hong Bang",
     "enodeb_id": "361041",
     "lat": 20.870557,
-    "lon": 106.66138,
+    "lon": 106.661384,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -14834,8 +14834,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hong Bang",
     "enodeb_id": "360602",
-    "lat": 20.858941,
-    "lon": 106.68365,
+    "lat": 20.85896,
+    "lon": 106.68369,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -15010,8 +15010,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "360084",
-    "lat": 20.81645,
-    "lon": 106.62544,
+    "lat": 20.81654,
+    "lon": 106.62548,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15032,8 +15032,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "360086",
-    "lat": 20.82382,
-    "lon": 106.63539,
+    "lat": 20.82391,
+    "lon": 106.6353,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15076,8 +15076,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "360554",
-    "lat": 20.78769,
-    "lon": 106.64712,
+    "lat": 20.787707,
+    "lon": 106.647178,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15099,7 +15099,7 @@ const rolloutData = [
     "district": "Kien An",
     "enodeb_id": "360177",
     "lat": 20.807846,
-    "lon": 106.61792,
+    "lon": 106.617924,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15121,7 +15121,7 @@ const rolloutData = [
     "district": "Kien An",
     "enodeb_id": "360254",
     "lat": 20.808882,
-    "lon": 106.62287,
+    "lon": 106.622868,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15142,8 +15142,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "360603",
-    "lat": 20.81493,
-    "lon": 106.6683,
+    "lat": 20.814962,
+    "lon": 106.668364,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15164,8 +15164,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "364065",
-    "lat": 20.814569,
-    "lon": 106.62177,
+    "lat": 20.8145691,
+    "lon": 106.621769,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15186,8 +15186,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "360375",
-    "lat": 20.80525,
-    "lon": 106.61935,
+    "lat": 20.805209,
+    "lon": 106.619383,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15209,7 +15209,7 @@ const rolloutData = [
     "district": "Kien An",
     "enodeb_id": "360570",
     "lat": 20.808676,
-    "lon": 106.62431,
+    "lon": 106.624312,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15230,8 +15230,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "360091",
-    "lat": 20.81303,
-    "lon": 106.64457,
+    "lat": 20.81311,
+    "lon": 106.64463,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15252,8 +15252,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "360092",
-    "lat": 20.82239,
-    "lon": 106.64505,
+    "lat": 20.82232,
+    "lon": 106.64509,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15274,8 +15274,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "360093",
-    "lat": 20.82235,
-    "lon": 106.65018,
+    "lat": 20.82238,
+    "lon": 106.65021,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15319,7 +15319,7 @@ const rolloutData = [
     "district": "Kien An",
     "enodeb_id": "360432",
     "lat": 20.81347,
-    "lon": 106.62833,
+    "lon": 106.628333,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15340,8 +15340,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "360094",
-    "lat": 20.80671,
-    "lon": 106.63872,
+    "lat": 20.80676,
+    "lon": 106.63879,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15362,8 +15362,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "360095",
-    "lat": 20.81917,
-    "lon": 106.64742,
+    "lat": 20.8192,
+    "lon": 106.6474,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15384,8 +15384,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien An",
     "enodeb_id": "360097",
-    "lat": 20.79181,
-    "lon": 106.62454,
+    "lat": 20.79178,
+    "lon": 106.6245,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15406,8 +15406,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360100",
-    "lat": 20.84889,
-    "lon": 106.6676,
+    "lat": 20.848884,
+    "lon": 106.667547,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -15428,8 +15428,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360405",
-    "lat": 20.853594,
-    "lon": 106.67275,
+    "lat": 20.8535944,
+    "lon": 106.672753,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -15450,8 +15450,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360100",
-    "lat": 20.852327,
-    "lon": 106.6708,
+    "lat": 20.852077,
+    "lon": 106.670893,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15495,7 +15495,7 @@ const rolloutData = [
     "district": "Le Chan",
     "enodeb_id": "360102",
     "lat": 20.852802,
-    "lon": 106.67724,
+    "lon": 106.677239,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -15538,8 +15538,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360103",
-    "lat": 20.84458,
-    "lon": 106.67031,
+    "lat": 20.84446,
+    "lon": 106.6703,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -15560,8 +15560,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360401",
-    "lat": 20.82255,
-    "lon": 106.69281,
+    "lat": 20.822463,
+    "lon": 106.692805,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15582,7 +15582,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360104",
-    "lat": 20.844744,
+    "lat": 20.8447439,
     "lon": 106.68438,
     "vip": "NO",
     "is_vip": false,
@@ -15604,8 +15604,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360105",
-    "lat": 20.841353,
-    "lon": 106.68442,
+    "lat": 20.8413525,
+    "lon": 106.684425,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15759,7 +15759,7 @@ const rolloutData = [
     "district": "Le Chan",
     "enodeb_id": "360111",
     "lat": 20.843737,
-    "lon": 106.69099,
+    "lon": 106.690992,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -15802,8 +15802,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "364067",
-    "lat": 20.833647,
-    "lon": 106.67742,
+    "lat": 20.833533,
+    "lon": 106.677406,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -15825,7 +15825,7 @@ const rolloutData = [
     "district": "Le Chan",
     "enodeb_id": "361063",
     "lat": 20.851376,
-    "lon": 106.67248,
+    "lon": 106.672483,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -15846,8 +15846,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360114",
-    "lat": 20.846807,
-    "lon": 106.68552,
+    "lat": 20.8468066,
+    "lon": 106.685515,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -15868,8 +15868,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360115",
-    "lat": 20.834051,
-    "lon": 106.6966,
+    "lat": 20.833951,
+    "lon": 106.696492,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -15890,8 +15890,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360116",
-    "lat": 20.843547,
-    "lon": 106.68114,
+    "lat": 20.843582,
+    "lon": 106.681176,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -15913,7 +15913,7 @@ const rolloutData = [
     "district": "Le Chan",
     "enodeb_id": "360117",
     "lat": 20.84992,
-    "lon": 106.6828,
+    "lon": 106.682802,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16023,7 +16023,7 @@ const rolloutData = [
     "district": "Le Chan",
     "enodeb_id": "360120",
     "lat": 20.84676,
-    "lon": 106.68968,
+    "lon": 106.689678,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -16045,7 +16045,7 @@ const rolloutData = [
     "district": "Le Chan",
     "enodeb_id": "360121",
     "lat": 20.849479,
-    "lon": 106.68896,
+    "lon": 106.688958,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16066,8 +16066,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360122",
-    "lat": 20.848369,
-    "lon": 106.66326,
+    "lat": 20.84825,
+    "lon": 106.66316,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -16088,8 +16088,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360123",
-    "lat": 20.85416,
-    "lon": 106.68134,
+    "lat": 20.854773,
+    "lon": 106.681704,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -16111,7 +16111,7 @@ const rolloutData = [
     "district": "Le Chan",
     "enodeb_id": "360497",
     "lat": 20.845052,
-    "lon": 106.67747,
+    "lon": 106.677471,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16132,8 +16132,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360125",
-    "lat": 20.837373,
-    "lon": 106.67851,
+    "lat": 20.83731,
+    "lon": 106.67854,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -16154,8 +16154,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360126",
-    "lat": 20.850028,
-    "lon": 106.67128,
+    "lat": 20.8491,
+    "lon": 106.67067,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -16220,8 +16220,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360438",
-    "lat": 20.836169,
-    "lon": 106.68626,
+    "lat": 20.8361691,
+    "lon": 106.686263,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16242,8 +16242,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360128",
-    "lat": 20.847868,
-    "lon": 106.68427,
+    "lat": 20.8478683,
+    "lon": 106.684269,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16264,8 +16264,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360129",
-    "lat": 20.842681,
-    "lon": 106.67314,
+    "lat": 20.8426807,
+    "lon": 106.673142,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16286,8 +16286,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360130",
-    "lat": 20.837922,
-    "lon": 106.68892,
+    "lat": 20.837791,
+    "lon": 106.689013,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -16308,8 +16308,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360131",
-    "lat": 20.835579,
-    "lon": 106.66838,
+    "lat": 20.8355788,
+    "lon": 106.668379,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16352,8 +16352,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360133",
-    "lat": 20.835276,
-    "lon": 106.68939,
+    "lat": 20.835195,
+    "lon": 106.689413,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -16418,8 +16418,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360136",
-    "lat": 20.830145,
-    "lon": 106.69022,
+    "lat": 20.83008,
+    "lon": 106.6903,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -16441,7 +16441,7 @@ const rolloutData = [
     "district": "Le Chan",
     "enodeb_id": "360439",
     "lat": 20.829985,
-    "lon": 106.69586,
+    "lon": 106.695857,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16551,7 +16551,7 @@ const rolloutData = [
     "district": "Le Chan",
     "enodeb_id": "360142",
     "lat": 20.84427,
-    "lon": 106.67405,
+    "lon": 106.674052,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16594,8 +16594,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360144",
-    "lat": 20.838567,
-    "lon": 106.68479,
+    "lat": 20.83848,
+    "lon": 106.68481,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -16660,8 +16660,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "360138",
-    "lat": 20.82096,
-    "lon": 106.68386,
+    "lat": 20.82101,
+    "lon": 106.68387,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -16705,7 +16705,7 @@ const rolloutData = [
     "district": "Le Chan",
     "enodeb_id": "365132",
     "lat": 20.822854,
-    "lon": 106.68771,
+    "lon": 106.687711,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16727,7 +16727,7 @@ const rolloutData = [
     "district": "Le Chan",
     "enodeb_id": "360361",
     "lat": 20.829859,
-    "lon": 106.68605,
+    "lon": 106.686052,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16748,7 +16748,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Ngo Quyen",
     "enodeb_id": "360148",
-    "lat": 20.844746,
+    "lat": 20.84476,
     "lon": 106.69754,
     "vip": "NO",
     "is_vip": false,
@@ -16770,7 +16770,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Ngo Quyen",
     "enodeb_id": "360149",
-    "lat": 20.84418,
+    "lat": 20.84415,
     "lon": 106.7019,
     "vip": "NO",
     "is_vip": false,
@@ -16793,7 +16793,7 @@ const rolloutData = [
     "district": "Ngo Quyen",
     "enodeb_id": "360203",
     "lat": 20.857075,
-    "lon": 106.70608,
+    "lon": 106.706077,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16858,8 +16858,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Ngo Quyen",
     "enodeb_id": "360151",
-    "lat": 20.854142,
-    "lon": 106.68391,
+    "lat": 20.8541,
+    "lon": 106.6839,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -16881,7 +16881,7 @@ const rolloutData = [
     "district": "Ngo Quyen",
     "enodeb_id": "360152",
     "lat": 20.839024,
-    "lon": 106.69559,
+    "lon": 106.695592,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -16947,7 +16947,7 @@ const rolloutData = [
     "district": "Ngo Quyen",
     "enodeb_id": "360153",
     "lat": 20.850994,
-    "lon": 106.69549,
+    "lon": 106.695487,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17167,7 +17167,7 @@ const rolloutData = [
     "district": "Ngo Quyen",
     "enodeb_id": "364069",
     "lat": 20.861629,
-    "lon": 106.69951,
+    "lon": 106.699511,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17189,7 +17189,7 @@ const rolloutData = [
     "district": "Ngo Quyen",
     "enodeb_id": "360163",
     "lat": 20.841622,
-    "lon": 106.69392,
+    "lon": 106.693923,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17298,8 +17298,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Ngo Quyen",
     "enodeb_id": "360168",
-    "lat": 20.86391,
-    "lon": 106.69841,
+    "lat": 20.86392,
+    "lon": 106.69844,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17386,8 +17386,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Ngo Quyen",
     "enodeb_id": "360173",
-    "lat": 20.860675,
-    "lon": 106.69416,
+    "lat": 20.86065,
+    "lon": 106.69418,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -17409,7 +17409,7 @@ const rolloutData = [
     "district": "Ngo Quyen",
     "enodeb_id": "360174",
     "lat": 20.8703,
-    "lon": 106.70144,
+    "lon": 106.7015,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -17452,8 +17452,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Ngo Quyen",
     "enodeb_id": "360178",
-    "lat": 20.865641,
-    "lon": 106.71246,
+    "lat": 20.8656,
+    "lon": 106.71244,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -17474,8 +17474,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Ngo Quyen",
     "enodeb_id": "360622",
-    "lat": 20.84601,
-    "lon": 106.70685,
+    "lat": 20.84618,
+    "lon": 106.707,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17496,8 +17496,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Ngo Quyen",
     "enodeb_id": "360180",
-    "lat": 20.86093,
-    "lon": 106.68889,
+    "lat": 20.86102,
+    "lon": 106.68887,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -17585,7 +17585,7 @@ const rolloutData = [
     "district": "Ngo Quyen",
     "enodeb_id": "360231",
     "lat": 20.83605,
-    "lon": 106.69961,
+    "lon": 106.699606,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17650,8 +17650,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360583",
-    "lat": 20.673833,
-    "lon": 106.6297,
+    "lat": 20.67379,
+    "lon": 106.62973,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17672,8 +17672,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360312",
-    "lat": 20.714,
-    "lon": 106.5534,
+    "lat": 20.71384,
+    "lon": 106.55333,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17694,8 +17694,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360312",
-    "lat": 20.70664,
-    "lon": 106.54247,
+    "lat": 20.70673,
+    "lon": 106.5425,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17716,8 +17716,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360313",
-    "lat": 20.69772,
-    "lon": 106.55396,
+    "lat": 20.69775,
+    "lon": 106.55386,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17738,8 +17738,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360499",
-    "lat": 20.78876,
-    "lon": 106.50596,
+    "lat": 20.78532,
+    "lon": 106.5,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17760,8 +17760,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360314",
-    "lat": 20.6856,
-    "lon": 106.57408,
+    "lat": 20.68561,
+    "lon": 106.574,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17782,8 +17782,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360558",
-    "lat": 20.73579,
-    "lon": 106.57271,
+    "lat": 20.73602,
+    "lon": 106.5728,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17804,8 +17804,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360315",
-    "lat": 20.70093,
-    "lon": 106.59869,
+    "lat": 20.700886,
+    "lon": 106.59882,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17826,8 +17826,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360501",
-    "lat": 20.66489,
-    "lon": 106.66062,
+    "lat": 20.66465,
+    "lon": 106.6607,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17848,8 +17848,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360316",
-    "lat": 20.677105,
-    "lon": 106.65666,
+    "lat": 20.677132,
+    "lon": 106.656789,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17870,8 +17870,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360502",
-    "lat": 20.6873,
-    "lon": 106.54176,
+    "lat": 20.687348,
+    "lon": 106.541841,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17892,8 +17892,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360317",
-    "lat": 20.68108,
-    "lon": 106.52389,
+    "lat": 20.68115,
+    "lon": 106.524,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17914,8 +17914,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360318",
-    "lat": 20.66208,
-    "lon": 106.63668,
+    "lat": 20.66204,
+    "lon": 106.6367,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17936,8 +17936,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360319",
-    "lat": 20.71346,
-    "lon": 106.58172,
+    "lat": 20.71344,
+    "lon": 106.5818,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17958,8 +17958,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360320",
-    "lat": 20.724804,
-    "lon": 106.57144,
+    "lat": 20.72458,
+    "lon": 106.5715,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -17980,8 +17980,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360503",
-    "lat": 20.73851,
-    "lon": 106.54881,
+    "lat": 20.73864,
+    "lon": 106.5488,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18002,8 +18002,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360559",
-    "lat": 20.646133,
-    "lon": 106.60952,
+    "lat": 20.64619,
+    "lon": 106.6096,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18024,8 +18024,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360442",
-    "lat": 20.641378,
-    "lon": 106.62904,
+    "lat": 20.641228,
+    "lon": 106.629176,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18046,8 +18046,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360321",
-    "lat": 20.77518,
-    "lon": 106.51643,
+    "lat": 20.7762,
+    "lon": 106.5159,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18068,8 +18068,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360325",
-    "lat": 20.69094,
-    "lon": 106.62305,
+    "lat": 20.690923,
+    "lon": 106.623076,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18090,8 +18090,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360443",
-    "lat": 20.71239,
-    "lon": 106.53272,
+    "lat": 20.71248,
+    "lon": 106.5327,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18112,8 +18112,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "364071",
-    "lat": 20.755127,
-    "lon": 106.53156,
+    "lat": 20.75512,
+    "lon": 106.5315,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18134,8 +18134,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360506",
-    "lat": 20.77237,
-    "lon": 106.53176,
+    "lat": 20.772378,
+    "lon": 106.53194,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18156,8 +18156,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360327",
-    "lat": 20.689557,
-    "lon": 106.59199,
+    "lat": 20.68935,
+    "lon": 106.5921,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18178,8 +18178,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360444",
-    "lat": 20.66957,
-    "lon": 106.69431,
+    "lat": 20.66958,
+    "lon": 106.6942,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18200,8 +18200,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "360507",
-    "lat": 20.65195,
-    "lon": 106.69092,
+    "lat": 20.65198,
+    "lon": 106.691,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18244,8 +18244,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360328",
-    "lat": 20.92395,
-    "lon": 106.69894,
+    "lat": 20.923977,
+    "lon": 106.69891,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18266,8 +18266,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360329",
-    "lat": 20.98549,
-    "lon": 106.57442,
+    "lat": 20.98543,
+    "lon": 106.5744,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18289,7 +18289,7 @@ const rolloutData = [
     "district": "Thuy Nguyen",
     "enodeb_id": "360212",
     "lat": 20.889604,
-    "lon": 106.67265,
+    "lon": 106.672645,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18310,7 +18310,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360330",
-    "lat": 20.95928,
+    "lat": 20.95913,
     "lon": 106.7437,
     "vip": "NO",
     "is_vip": false,
@@ -18332,8 +18332,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360509",
-    "lat": 20.88603,
-    "lon": 106.62918,
+    "lat": 20.88611,
+    "lon": 106.62916,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18376,8 +18376,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "364072",
-    "lat": 20.942868,
-    "lon": 106.62169,
+    "lat": 20.94285,
+    "lon": 106.6218,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18420,8 +18420,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360335",
-    "lat": 20.94473,
-    "lon": 106.67278,
+    "lat": 20.94455,
+    "lon": 106.67044,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18442,8 +18442,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360336",
-    "lat": 20.931875,
-    "lon": 106.65465,
+    "lat": 20.93068,
+    "lon": 106.65604,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18486,8 +18486,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360338",
-    "lat": 20.88832,
-    "lon": 106.70677,
+    "lat": 20.88828,
+    "lon": 106.706695,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18509,7 +18509,7 @@ const rolloutData = [
     "district": "Thuy Nguyen",
     "enodeb_id": "361036",
     "lat": 20.895355,
-    "lon": 106.68734,
+    "lon": 106.687341,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18530,8 +18530,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360339",
-    "lat": 20.98681,
-    "lon": 106.73729,
+    "lat": 20.98683,
+    "lon": 106.7373,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18552,8 +18552,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360340",
-    "lat": 20.99167,
-    "lon": 106.70152,
+    "lat": 20.99355,
+    "lon": 106.6979,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18640,8 +18640,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360342",
-    "lat": 20.95456,
-    "lon": 106.60159,
+    "lat": 20.95506,
+    "lon": 106.6023,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18662,8 +18662,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360446",
-    "lat": 20.889,
-    "lon": 106.69252,
+    "lat": 20.8889,
+    "lon": 106.6925,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18728,17 +18728,17 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360188",
-    "lat": 20.914218,
+    "lat": 20.91426,
     "lon": 106.71324,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -18750,8 +18750,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360511",
-    "lat": 20.96558,
-    "lon": 106.64647,
+    "lat": 20.96557,
+    "lon": 106.6465,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18772,8 +18772,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360345",
-    "lat": 20.91707,
-    "lon": 106.63573,
+    "lat": 20.91701,
+    "lon": 106.6357,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18794,8 +18794,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360346",
-    "lat": 20.92319,
-    "lon": 106.63751,
+    "lat": 20.92316,
+    "lon": 106.6374,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18816,8 +18816,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "364062",
-    "lat": 20.93074,
-    "lon": 106.63823,
+    "lat": 20.93146,
+    "lon": 106.642,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18860,8 +18860,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360350",
-    "lat": 21.01159,
-    "lon": 106.60978,
+    "lat": 21.01138,
+    "lon": 106.60979,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18882,8 +18882,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360448",
-    "lat": 20.90827,
-    "lon": 106.73956,
+    "lat": 20.90752,
+    "lon": 106.73791,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18904,8 +18904,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360354",
-    "lat": 20.99493,
-    "lon": 106.64602,
+    "lat": 20.99415,
+    "lon": 106.64701,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18948,8 +18948,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360218",
-    "lat": 20.97156,
-    "lon": 106.67117,
+    "lat": 20.97152,
+    "lon": 106.6712,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18970,8 +18970,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360513",
-    "lat": 20.986029,
-    "lon": 106.65633,
+    "lat": 20.98605,
+    "lon": 106.65629,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -18992,8 +18992,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360355",
-    "lat": 21.00265,
-    "lon": 106.68153,
+    "lat": 21.00263,
+    "lon": 106.68145,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19014,8 +19014,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360356",
-    "lat": 20.99908,
-    "lon": 106.66987,
+    "lat": 20.99906,
+    "lon": 106.67,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19058,8 +19058,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360514",
-    "lat": 20.96324,
-    "lon": 106.73806,
+    "lat": 20.96296,
+    "lon": 106.7378,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19080,8 +19080,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360358",
-    "lat": 20.96405,
-    "lon": 106.69068,
+    "lat": 20.96398,
+    "lon": 106.69072,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19102,8 +19102,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360359",
-    "lat": 20.96247,
-    "lon": 106.70237,
+    "lat": 20.96251,
+    "lon": 106.7023,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19146,8 +19146,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "365109",
-    "lat": 20.93829,
-    "lon": 106.72266,
+    "lat": 20.940715,
+    "lon": 106.724939,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19168,8 +19168,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360190",
-    "lat": 20.91774,
-    "lon": 106.67592,
+    "lat": 20.91766,
+    "lon": 106.67576,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19190,8 +19190,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360214",
-    "lat": 20.92169,
-    "lon": 106.67997,
+    "lat": 20.921607,
+    "lon": 106.67991,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19212,8 +19212,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360191",
-    "lat": 20.91737,
-    "lon": 106.74152,
+    "lat": 20.91742,
+    "lon": 106.74154,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19256,8 +19256,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360362",
-    "lat": 20.98377,
-    "lon": 106.59013,
+    "lat": 20.9836,
+    "lon": 106.589959,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19278,8 +19278,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360363",
-    "lat": 20.97499,
-    "lon": 106.5928,
+    "lat": 20.97486,
+    "lon": 106.59277,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19301,7 +19301,7 @@ const rolloutData = [
     "district": "Thuy Nguyen",
     "enodeb_id": "365143",
     "lat": 20.931208,
-    "lon": 106.73818,
+    "lon": 106.738178,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19322,8 +19322,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360517",
-    "lat": 20.951545,
-    "lon": 106.61395,
+    "lat": 20.95132,
+    "lon": 106.61432,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19344,8 +19344,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360292",
-    "lat": 20.905259,
-    "lon": 106.68751,
+    "lat": 20.90569,
+    "lon": 106.68862,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19366,8 +19366,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360241",
-    "lat": 20.9056,
-    "lon": 106.7152,
+    "lat": 20.90585,
+    "lon": 106.71416,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19388,8 +19388,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360450",
-    "lat": 20.90867,
-    "lon": 106.72024,
+    "lat": 20.90791,
+    "lon": 106.72122,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19432,8 +19432,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360365",
-    "lat": 20.93611,
-    "lon": 106.75767,
+    "lat": 20.93601,
+    "lon": 106.7577,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19476,8 +19476,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "364074",
-    "lat": 20.930589,
-    "lon": 106.75954,
+    "lat": 20.93055,
+    "lon": 106.7595,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19498,8 +19498,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360366",
-    "lat": 20.897416,
-    "lon": 106.67203,
+    "lat": 20.89732,
+    "lon": 106.67191,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19520,8 +19520,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360367",
-    "lat": 20.9073,
-    "lon": 106.64426,
+    "lat": 20.90735,
+    "lon": 106.64425,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19564,8 +19564,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360368",
-    "lat": 20.91299,
-    "lon": 106.63214,
+    "lat": 20.91302,
+    "lon": 106.63209,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19586,8 +19586,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360520",
-    "lat": 20.902259,
-    "lon": 106.63206,
+    "lat": 20.9022593,
+    "lon": 106.632061,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19608,8 +19608,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "364079",
-    "lat": 20.915955,
-    "lon": 106.68411,
+    "lat": 20.91467,
+    "lon": 106.68441,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19630,8 +19630,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "364077",
-    "lat": 20.913378,
-    "lon": 106.66955,
+    "lat": 20.91333,
+    "lon": 106.66956,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19674,8 +19674,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360522",
-    "lat": 20.930111,
-    "lon": 106.69994,
+    "lat": 20.93009,
+    "lon": 106.6999,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19696,7 +19696,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "362004",
-    "lat": 20.886688,
+    "lat": 20.88675,
     "lon": 106.68088,
     "vip": "NO",
     "is_vip": false,
@@ -19740,8 +19740,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "362002",
-    "lat": 20.867443,
-    "lon": 106.72879,
+    "lat": 20.86748,
+    "lon": 106.7288,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19784,8 +19784,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "360220",
-    "lat": 20.96445,
-    "lon": 106.75392,
+    "lat": 20.96717,
+    "lon": 106.75667,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19806,8 +19806,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360523",
-    "lat": 20.68529,
-    "lon": 106.43735,
+    "lat": 20.68515,
+    "lon": 106.4373,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19828,8 +19828,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360524",
-    "lat": 20.682423,
-    "lon": 106.47892,
+    "lat": 20.68244,
+    "lon": 106.4789,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19850,8 +19850,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360371",
-    "lat": 20.63426,
-    "lon": 106.51875,
+    "lat": 20.63408,
+    "lon": 106.5187,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19872,8 +19872,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360373",
-    "lat": 20.639962,
-    "lon": 106.53876,
+    "lat": 20.64,
+    "lon": 106.5385,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19894,8 +19894,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360374",
-    "lat": 20.63595,
-    "lon": 106.54318,
+    "lat": 20.63583,
+    "lon": 106.5431,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19916,8 +19916,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360451",
-    "lat": 20.62886,
-    "lon": 106.48621,
+    "lat": 20.62887,
+    "lon": 106.4862,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19938,8 +19938,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360525",
-    "lat": 20.65261,
-    "lon": 106.46786,
+    "lat": 20.65238,
+    "lon": 106.4679,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19960,8 +19960,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360376",
-    "lat": 20.74009,
-    "lon": 106.48363,
+    "lat": 20.740055,
+    "lon": 106.483561,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -19982,8 +19982,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360377",
-    "lat": 20.74327,
-    "lon": 106.50146,
+    "lat": 20.74885,
+    "lon": 106.49957,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20004,8 +20004,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360378",
-    "lat": 20.69232,
-    "lon": 106.42451,
+    "lat": 20.692452,
+    "lon": 106.424471,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20026,8 +20026,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360380",
-    "lat": 20.65677,
-    "lon": 106.55595,
+    "lat": 20.65673,
+    "lon": 106.5559,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20048,8 +20048,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360381",
-    "lat": 20.66482,
-    "lon": 106.45264,
+    "lat": 20.66483,
+    "lon": 106.4526,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20070,8 +20070,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360526",
-    "lat": 20.70024,
-    "lon": 106.45135,
+    "lat": 20.700071,
+    "lon": 106.451448,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20092,8 +20092,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360386",
-    "lat": 20.71375,
-    "lon": 106.43119,
+    "lat": 20.713469,
+    "lon": 106.431128,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20114,8 +20114,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360388",
-    "lat": 20.70908,
-    "lon": 106.46246,
+    "lat": 20.70685,
+    "lon": 106.46469,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20136,8 +20136,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Vinh Bao",
     "enodeb_id": "360392",
-    "lat": 20.657783,
-    "lon": 106.49753,
+    "lat": 20.65766,
+    "lon": 106.4976,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20158,8 +20158,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Can Loc",
     "enodeb_id": "430048",
-    "lat": 18.452669,
-    "lon": 105.77712,
+    "lat": 18.4526694,
+    "lon": 105.777122,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20202,8 +20202,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Can Loc",
     "enodeb_id": "430024",
-    "lat": 18.475591,
-    "lon": 105.75859,
+    "lat": 18.4755908,
+    "lon": 105.758591,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20246,8 +20246,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Can Loc",
     "enodeb_id": "430065",
-    "lat": 18.45768,
-    "lon": 105.81443,
+    "lat": 18.4576805,
+    "lon": 105.814426,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20269,7 +20269,7 @@ const rolloutData = [
     "district": "Can Loc",
     "enodeb_id": "430217",
     "lat": 18.452992,
-    "lon": 105.81157,
+    "lon": 105.811566,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20334,8 +20334,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Cam Xuyen",
     "enodeb_id": "430386",
-    "lat": 18.202454,
-    "lon": 106.09945,
+    "lat": 18.2024543,
+    "lon": 106.099449,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20378,8 +20378,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Cam Xuyen",
     "enodeb_id": "430028",
-    "lat": 18.250444,
-    "lon": 106.00072,
+    "lat": 18.2504443,
+    "lon": 106.000717,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20466,8 +20466,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Duc Tho",
     "enodeb_id": "430087",
-    "lat": 18.534713,
-    "lon": 105.56594,
+    "lat": 18.5347133,
+    "lon": 105.565942,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20488,8 +20488,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Huong Khe",
     "enodeb_id": "430317",
-    "lat": 18.227612,
-    "lon": 105.64192,
+    "lat": 18.2276116,
+    "lon": 105.641919,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20511,7 +20511,7 @@ const rolloutData = [
     "district": "Huong Khe",
     "enodeb_id": "430090",
     "lat": 18.17269,
-    "lon": 105.7023,
+    "lon": 105.702302,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20532,7 +20532,7 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Huong Khe",
     "enodeb_id": "430207",
-    "lat": 18.108927,
+    "lat": 18.1089266,
     "lon": 105.67999,
     "vip": "NO",
     "is_vip": false,
@@ -20554,8 +20554,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Huong Khe",
     "enodeb_id": "430208",
-    "lat": 18.071517,
-    "lon": 105.74175,
+    "lat": 18.0715168,
+    "lon": 105.741748,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20577,7 +20577,7 @@ const rolloutData = [
     "district": "Huong Khe",
     "enodeb_id": "430212",
     "lat": 18.068825,
-    "lon": 105.81307,
+    "lon": 105.813067,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20642,8 +20642,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Hong Linh",
     "enodeb_id": "430218",
-    "lat": 18.536714,
-    "lon": 105.67058,
+    "lat": 18.5367144,
+    "lon": 105.670575,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20664,7 +20664,7 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Hong Linh",
     "enodeb_id": "430032",
-    "lat": 18.5231,
+    "lat": 18.5230962,
     "lon": 105.71329,
     "vip": "NO",
     "is_vip": false,
@@ -20686,8 +20686,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Hong Linh",
     "enodeb_id": "430034",
-    "lat": 18.511493,
-    "lon": 105.72278,
+    "lat": 18.5114925,
+    "lon": 105.722776,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20708,8 +20708,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Huong Son",
     "enodeb_id": "430100",
-    "lat": 18.513957,
-    "lon": 105.49321,
+    "lat": 18.5139565,
+    "lon": 105.493208,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20730,8 +20730,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Huong Son",
     "enodeb_id": "430101",
-    "lat": 18.512267,
-    "lon": 105.42401,
+    "lat": 18.5122668,
+    "lon": 105.424013,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20752,8 +20752,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Huong Son",
     "enodeb_id": "870313",
-    "lat": 18.488644,
-    "lon": 105.49541,
+    "lat": 18.4886435,
+    "lon": 105.495415,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20774,8 +20774,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Ha Tinh",
     "enodeb_id": "430000",
-    "lat": 18.351624,
-    "lon": 105.88094,
+    "lat": 18.3516236,
+    "lon": 105.880939,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20862,8 +20862,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Ha Tinh",
     "enodeb_id": "430001",
-    "lat": 18.337687,
-    "lon": 105.90548,
+    "lat": 18.3376866,
+    "lon": 105.905476,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20907,7 +20907,7 @@ const rolloutData = [
     "district": "Ha Tinh",
     "enodeb_id": "430003",
     "lat": 18.33145,
-    "lon": 105.89871,
+    "lon": 105.898714,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -20951,7 +20951,7 @@ const rolloutData = [
     "district": "Ha Tinh",
     "enodeb_id": "430137",
     "lat": 18.307375,
-    "lon": 105.94228,
+    "lon": 105.942275,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21192,8 +21192,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Ha Tinh",
     "enodeb_id": "430329",
-    "lat": 18.370318,
-    "lon": 105.92158,
+    "lat": 18.3703182,
+    "lon": 105.921584,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21214,8 +21214,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Ha Tinh",
     "enodeb_id": "430118",
-    "lat": 18.320847,
-    "lon": 105.89312,
+    "lat": 18.3208472,
+    "lon": 105.893122,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21280,8 +21280,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Ha Tinh",
     "enodeb_id": "430013",
-    "lat": 18.343375,
-    "lon": 105.90035,
+    "lat": 18.3433747,
+    "lon": 105.900353,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21391,7 +21391,7 @@ const rolloutData = [
     "district": "Ky Anh",
     "enodeb_id": "430120",
     "lat": 18.060342,
-    "lon": 106.277,
+    "lon": 106.277002,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21434,8 +21434,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Ky Anh",
     "enodeb_id": "430042",
-    "lat": 18.128563,
-    "lon": 106.25794,
+    "lat": 18.1285626,
+    "lon": 106.257943,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21522,8 +21522,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Tx Ky Anh",
     "enodeb_id": "430133",
-    "lat": 18.017398,
-    "lon": 106.41096,
+    "lat": 18.0173983,
+    "lon": 106.410959,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21632,8 +21632,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Tx Ky Anh",
     "enodeb_id": "430250",
-    "lat": 18.059537,
-    "lon": 106.36854,
+    "lat": 18.0595366,
+    "lon": 106.368544,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21655,7 +21655,7 @@ const rolloutData = [
     "district": "Tx Ky Anh",
     "enodeb_id": "430251",
     "lat": 18.049375,
-    "lon": 106.35751,
+    "lon": 106.357514,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21676,8 +21676,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Tx Ky Anh",
     "enodeb_id": "430349",
-    "lat": 18.059418,
-    "lon": 106.30679,
+    "lat": 18.0594175,
+    "lon": 106.306789,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21698,8 +21698,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Tx Ky Anh",
     "enodeb_id": "430021",
-    "lat": 18.019357,
-    "lon": 106.43955,
+    "lat": 18.0193568,
+    "lon": 106.439553,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21720,8 +21720,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Tx Ky Anh",
     "enodeb_id": "430138",
-    "lat": 18.096883,
-    "lon": 106.3928,
+    "lat": 18.0968828,
+    "lon": 106.392795,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21742,8 +21742,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Tx Ky Anh",
     "enodeb_id": "430525",
-    "lat": 18.060718,
-    "lon": 106.42267,
+    "lat": 18.0607183,
+    "lon": 106.422673,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21786,8 +21786,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Tx Ky Anh",
     "enodeb_id": "430295",
-    "lat": 18.098727,
-    "lon": 106.37751,
+    "lat": 18.0987272,
+    "lon": 106.377509,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21808,8 +21808,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Loc Ha",
     "enodeb_id": "430139",
-    "lat": 18.464657,
-    "lon": 105.8546,
+    "lat": 18.4646572,
+    "lon": 105.854602,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21853,7 +21853,7 @@ const rolloutData = [
     "district": "Loc Ha",
     "enodeb_id": "430140",
     "lat": 18.485705,
-    "lon": 105.83549,
+    "lon": 105.835492,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -21940,7 +21940,7 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Nghi Xuan",
     "enodeb_id": "430046",
-    "lat": 18.638881,
+    "lat": 18.6388806,
     "lon": 105.7113,
     "vip": "NO",
     "is_vip": false,
@@ -22028,7 +22028,7 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Nghi Xuan",
     "enodeb_id": "430152",
-    "lat": 18.712094,
+    "lat": 18.7120942,
     "lon": 105.77916,
     "vip": "NO",
     "is_vip": false,
@@ -22072,8 +22072,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Nghi Xuan",
     "enodeb_id": "430155",
-    "lat": 18.6107,
-    "lon": 105.69513,
+    "lat": 18.6107001,
+    "lon": 105.695129,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22094,8 +22094,8 @@ const rolloutData = [
     "province": "Ha Tinh",
     "district": "Thach Ha",
     "enodeb_id": "430161",
-    "lat": 18.390546,
-    "lon": 105.8356,
+    "lat": 18.3905458,
+    "lon": 105.835598,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22139,7 +22139,7 @@ const rolloutData = [
     "district": "Vu Quang",
     "enodeb_id": "430175",
     "lat": 18.382685,
-    "lon": 105.50563,
+    "lon": 105.505629,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22160,8 +22160,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370221",
-    "lat": 20.66727,
-    "lon": 106.06402,
+    "lat": 20.667373,
+    "lon": 106.064072,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22182,8 +22182,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370153",
-    "lat": 20.67404,
-    "lon": 106.06547,
+    "lat": 20.674015,
+    "lon": 106.065515,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22226,8 +22226,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370322",
-    "lat": 20.676898,
-    "lon": 106.05801,
+    "lat": 20.6768976,
+    "lon": 106.058006,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22249,7 +22249,7 @@ const rolloutData = [
     "district": "Hung Yen",
     "enodeb_id": "370023",
     "lat": 20.70746,
-    "lon": 106.054,
+    "lon": 106.054037,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22270,8 +22270,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370101",
-    "lat": 20.6926,
-    "lon": 106.06269,
+    "lat": 20.692637,
+    "lon": 106.062676,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22292,8 +22292,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370222",
-    "lat": 20.69864,
-    "lon": 106.05876,
+    "lat": 20.698573,
+    "lon": 106.058943,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22314,7 +22314,7 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370223",
-    "lat": 20.67935,
+    "lat": 20.679283,
     "lon": 106.07454,
     "vip": "NO",
     "is_vip": false,
@@ -22336,8 +22336,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370002",
-    "lat": 20.66459,
-    "lon": 106.05883,
+    "lat": 20.66454,
+    "lon": 106.05881,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22358,8 +22358,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370024",
-    "lat": 20.65966,
-    "lon": 106.06107,
+    "lat": 20.659647,
+    "lon": 106.061098,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22380,8 +22380,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370311",
-    "lat": 20.667208,
-    "lon": 106.05437,
+    "lat": 20.667105,
+    "lon": 106.054358,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22403,7 +22403,7 @@ const rolloutData = [
     "district": "Hung Yen",
     "enodeb_id": "370003",
     "lat": 20.655517,
-    "lon": 106.05649,
+    "lon": 106.056488,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -22424,8 +22424,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370053",
-    "lat": 20.64394,
-    "lon": 106.0611,
+    "lat": 20.643954,
+    "lon": 106.061173,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22446,8 +22446,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370230",
-    "lat": 20.67219,
-    "lon": 106.05257,
+    "lat": 20.672168,
+    "lon": 106.05259,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22468,8 +22468,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370232",
-    "lat": 20.65044,
-    "lon": 106.07286,
+    "lat": 20.650425,
+    "lon": 106.072803,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22512,8 +22512,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370102",
-    "lat": 20.64479,
-    "lon": 106.04193,
+    "lat": 20.644824,
+    "lon": 106.041938,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22534,8 +22534,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370103",
-    "lat": 20.63613,
-    "lon": 106.06471,
+    "lat": 20.636098,
+    "lon": 106.064697,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22556,8 +22556,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370451",
-    "lat": 20.64526,
-    "lon": 106.08575,
+    "lat": 20.645226,
+    "lon": 106.085759,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22578,8 +22578,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370104",
-    "lat": 20.62921,
-    "lon": 106.05443,
+    "lat": 20.629117,
+    "lon": 106.054453,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22600,8 +22600,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370294",
-    "lat": 20.63053,
-    "lon": 106.06553,
+    "lat": 20.630215,
+    "lon": 106.065218,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22666,8 +22666,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Yen",
     "enodeb_id": "370026",
-    "lat": 20.68081,
-    "lon": 106.08267,
+    "lat": 20.680843,
+    "lon": 106.0827,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22688,8 +22688,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Khoai Chau",
     "enodeb_id": "370028",
-    "lat": 20.84157,
-    "lon": 106.0049,
+    "lat": 20.841625,
+    "lon": 106.0044,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22710,8 +22710,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Khoai Chau",
     "enodeb_id": "370312",
-    "lat": 20.837424,
-    "lon": 106.01114,
+    "lat": 20.837582,
+    "lon": 106.011355,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22732,8 +22732,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Khoai Chau",
     "enodeb_id": "370109",
-    "lat": 20.852264,
-    "lon": 106.00405,
+    "lat": 20.850838,
+    "lon": 106.002097,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22754,8 +22754,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Kim Dong",
     "enodeb_id": "370123",
-    "lat": 20.752905,
-    "lon": 106.0526,
+    "lat": 20.752859,
+    "lon": 106.052512,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22798,8 +22798,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Kim Dong",
     "enodeb_id": "370031",
-    "lat": 20.7704,
-    "lon": 106.0517,
+    "lat": 20.770405,
+    "lon": 106.051627,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22820,8 +22820,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Kim Dong",
     "enodeb_id": "370119",
-    "lat": 20.74882,
-    "lon": 106.04951,
+    "lat": 20.748827,
+    "lon": 106.049554,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22842,8 +22842,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Kim Dong",
     "enodeb_id": "370123",
-    "lat": 20.785944,
-    "lon": 106.04815,
+    "lat": 20.787686,
+    "lon": 106.04731,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22864,8 +22864,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370006",
-    "lat": 20.91236,
-    "lon": 106.11129,
+    "lat": 20.914682,
+    "lon": 106.110114,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22886,8 +22886,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370124",
-    "lat": 20.915,
-    "lon": 106.11734,
+    "lat": 20.914966,
+    "lon": 106.117307,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22908,8 +22908,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370059",
-    "lat": 20.93977,
-    "lon": 106.03908,
+    "lat": 20.939719,
+    "lon": 106.039059,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22930,8 +22930,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370125",
-    "lat": 20.933245,
-    "lon": 106.06081,
+    "lat": 20.930972,
+    "lon": 106.067141,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22952,8 +22952,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370250",
-    "lat": 20.9216,
-    "lon": 106.09909,
+    "lat": 20.921559,
+    "lon": 106.0991,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22974,8 +22974,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370033",
-    "lat": 20.92849,
-    "lon": 106.07304,
+    "lat": 20.92851,
+    "lon": 106.073,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -22996,8 +22996,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370491",
-    "lat": 20.931368,
-    "lon": 106.0835,
+    "lat": 20.931371,
+    "lon": 106.083584,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23018,8 +23018,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370251",
-    "lat": 20.95038,
-    "lon": 106.12012,
+    "lat": 20.950348,
+    "lon": 106.120065,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23040,8 +23040,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370483",
-    "lat": 20.937955,
-    "lon": 106.14726,
+    "lat": 20.937989,
+    "lon": 106.147279,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23062,8 +23062,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370126",
-    "lat": 20.87891,
-    "lon": 106.0962,
+    "lat": 20.891738,
+    "lon": 106.098627,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23084,8 +23084,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370405",
-    "lat": 20.921314,
-    "lon": 106.12013,
+    "lat": 20.92123,
+    "lon": 106.1201,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23106,8 +23106,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370060",
-    "lat": 20.92174,
-    "lon": 106.07024,
+    "lat": 20.921753,
+    "lon": 106.070239,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23128,8 +23128,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370061",
-    "lat": 20.940992,
-    "lon": 106.05205,
+    "lat": 20.940851,
+    "lon": 106.051941,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23150,8 +23150,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370063",
-    "lat": 20.94187,
-    "lon": 106.06796,
+    "lat": 20.94188,
+    "lon": 106.067973,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23172,8 +23172,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370286",
-    "lat": 20.964938,
-    "lon": 106.07521,
+    "lat": 20.964909,
+    "lon": 106.075147,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23194,8 +23194,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370190",
-    "lat": 20.922872,
-    "lon": 106.08112,
+    "lat": 20.92775,
+    "lon": 106.06689,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23216,8 +23216,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370190",
-    "lat": 20.922872,
-    "lon": 106.08112,
+    "lat": 20.92285,
+    "lon": 106.08111,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23238,8 +23238,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370180",
-    "lat": 20.918747,
-    "lon": 106.06373,
+    "lat": 20.911786,
+    "lon": 106.079803,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23260,8 +23260,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "My Hao",
     "enodeb_id": "370310",
-    "lat": 20.91785,
-    "lon": 106.07796,
+    "lat": 20.91769,
+    "lon": 106.078388,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23282,8 +23282,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Lu",
     "enodeb_id": "370134",
-    "lat": 20.69555,
-    "lon": 106.08982,
+    "lat": 20.695507,
+    "lon": 106.089937,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23304,8 +23304,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Lu",
     "enodeb_id": "370036",
-    "lat": 20.699282,
-    "lon": 106.11827,
+    "lat": 20.699273,
+    "lon": 106.118281,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23326,8 +23326,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Giang",
     "enodeb_id": "370234",
-    "lat": 20.925864,
-    "lon": 105.94116,
+    "lat": 20.928339,
+    "lon": 105.944058,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -23348,8 +23348,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Giang",
     "enodeb_id": "370449",
-    "lat": 20.950352,
-    "lon": 105.96021,
+    "lat": 20.950316,
+    "lon": 105.960195,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23393,7 +23393,7 @@ const rolloutData = [
     "district": "Van Giang",
     "enodeb_id": "370196",
     "lat": 20.971392,
-    "lon": 105.9321,
+    "lon": 105.932104,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23415,7 +23415,7 @@ const rolloutData = [
     "district": "Van Giang",
     "enodeb_id": "370170",
     "lat": 20.956172,
-    "lon": 105.93,
+    "lon": 105.930002,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23437,7 +23437,7 @@ const rolloutData = [
     "district": "Van Giang",
     "enodeb_id": "370453",
     "lat": 20.949133,
-    "lon": 105.94098,
+    "lon": 105.940975,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23458,8 +23458,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Giang",
     "enodeb_id": "370144",
-    "lat": 20.92253,
-    "lon": 105.96368,
+    "lat": 20.922492,
+    "lon": 105.963721,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23502,8 +23502,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Giang",
     "enodeb_id": "370040",
-    "lat": 20.94638,
-    "lon": 105.94287,
+    "lat": 20.94627,
+    "lon": 105.942927,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23524,8 +23524,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Giang",
     "enodeb_id": "370145",
-    "lat": 20.946881,
-    "lon": 106.00093,
+    "lat": 20.947147,
+    "lon": 106.000591,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23547,7 +23547,7 @@ const rolloutData = [
     "district": "Van Giang",
     "enodeb_id": "370335",
     "lat": 20.955192,
-    "lon": 105.97263,
+    "lon": 105.972634,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23569,7 +23569,7 @@ const rolloutData = [
     "district": "Van Giang",
     "enodeb_id": "370458",
     "lat": 20.946709,
-    "lon": 105.97697,
+    "lon": 105.976974,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23590,8 +23590,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Giang",
     "enodeb_id": "370454",
-    "lat": 20.950718,
-    "lon": 105.98189,
+    "lat": 20.951311,
+    "lon": 105.981,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23613,7 +23613,7 @@ const rolloutData = [
     "district": "Van Giang",
     "enodeb_id": "370301",
     "lat": 20.944299,
-    "lon": 105.97553,
+    "lon": 105.975533,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23656,8 +23656,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Giang",
     "enodeb_id": "370211",
-    "lat": 20.950815,
-    "lon": 105.97788,
+    "lat": 20.9508146,
+    "lon": 105.977882,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23679,7 +23679,7 @@ const rolloutData = [
     "district": "Van Lam",
     "enodeb_id": "370076",
     "lat": 20.9833,
-    "lon": 106.04478,
+    "lon": 106.04482,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23700,8 +23700,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370010",
-    "lat": 20.96135,
-    "lon": 105.99591,
+    "lat": 20.9613,
+    "lon": 105.99594,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23722,8 +23722,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370011",
-    "lat": 20.95668,
-    "lon": 106.02554,
+    "lat": 20.95671,
+    "lon": 106.0255,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23744,8 +23744,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "877116",
-    "lat": 20.97231,
-    "lon": 106.01173,
+    "lat": 20.97309,
+    "lon": 106.01176,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23766,8 +23766,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370021",
-    "lat": 20.98326,
-    "lon": 106.02857,
+    "lat": 20.983133,
+    "lon": 106.028853,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23788,8 +23788,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370041",
-    "lat": 20.99265,
-    "lon": 105.97461,
+    "lat": 20.992726,
+    "lon": 105.974728,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23810,8 +23810,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370013",
-    "lat": 20.9548,
-    "lon": 106.00587,
+    "lat": 20.954808,
+    "lon": 106.00589,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23832,8 +23832,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "877044",
-    "lat": 20.974339,
-    "lon": 106.10976,
+    "lat": 20.974259,
+    "lon": 106.109694,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23854,8 +23854,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370042",
-    "lat": 20.98231,
-    "lon": 105.98101,
+    "lat": 20.982272,
+    "lon": 105.981079,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23876,8 +23876,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370014",
-    "lat": 20.97801,
-    "lon": 105.99865,
+    "lat": 20.981453,
+    "lon": 105.999945,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23898,8 +23898,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370043",
-    "lat": 20.97918,
-    "lon": 105.99038,
+    "lat": 20.979105,
+    "lon": 105.990317,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23920,8 +23920,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370044",
-    "lat": 20.985245,
-    "lon": 105.97807,
+    "lat": 20.98728,
+    "lon": 105.97635,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23942,8 +23942,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370182",
-    "lat": 20.973752,
-    "lon": 106.02719,
+    "lat": 20.97563,
+    "lon": 106.02721,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23964,8 +23964,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370184",
-    "lat": 20.96274,
-    "lon": 106.02589,
+    "lat": 20.962808,
+    "lon": 106.026009,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -23986,8 +23986,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370185",
-    "lat": 20.948164,
-    "lon": 106.03112,
+    "lat": 20.94809,
+    "lon": 106.03108,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24008,8 +24008,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370187",
-    "lat": 20.959161,
-    "lon": 106.01656,
+    "lat": 20.95919,
+    "lon": 106.02,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24030,8 +24030,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370182",
-    "lat": 20.96882,
-    "lon": 106.02177,
+    "lat": 20.96888,
+    "lon": 106.02178,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24052,8 +24052,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370184",
-    "lat": 20.966835,
-    "lon": 106.0329,
+    "lat": 20.96679,
+    "lon": 106.03283,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24074,8 +24074,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370015",
-    "lat": 20.98241,
-    "lon": 105.96458,
+    "lat": 20.982427,
+    "lon": 105.964532,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24096,8 +24096,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370486",
-    "lat": 20.978342,
-    "lon": 105.9709,
+    "lat": 20.978387,
+    "lon": 105.970857,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24118,8 +24118,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370274",
-    "lat": 20.943131,
-    "lon": 106.01425,
+    "lat": 20.939745,
+    "lon": 106.017253,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24140,8 +24140,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370081",
-    "lat": 20.947316,
-    "lon": 106.0138,
+    "lat": 20.947308,
+    "lon": 106.01391,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24162,8 +24162,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Van Lam",
     "enodeb_id": "370275",
-    "lat": 20.98736,
-    "lon": 106.09353,
+    "lat": 20.987351,
+    "lon": 106.09354,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24184,8 +24184,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370045",
-    "lat": 20.90183,
-    "lon": 106.04851,
+    "lat": 20.90179,
+    "lon": 106.04849,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24206,8 +24206,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370304",
-    "lat": 20.91433,
-    "lon": 106.00582,
+    "lat": 20.914593,
+    "lon": 106.005498,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24228,8 +24228,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370148",
-    "lat": 20.92468,
-    "lon": 106.01427,
+    "lat": 20.924352,
+    "lon": 106.014299,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24250,8 +24250,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370487",
-    "lat": 20.874302,
-    "lon": 106.04256,
+    "lat": 20.874286,
+    "lon": 106.042544,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24272,8 +24272,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370488",
-    "lat": 20.866607,
-    "lon": 106.04275,
+    "lat": 20.86663,
+    "lon": 106.042898,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24294,8 +24294,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370019",
-    "lat": 20.91043,
-    "lon": 106.05727,
+    "lat": 20.9105,
+    "lon": 106.0572,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24316,8 +24316,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370082",
-    "lat": 20.84481,
-    "lon": 106.0431,
+    "lat": 20.84489,
+    "lon": 106.043119,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24338,8 +24338,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370277",
-    "lat": 20.85441,
-    "lon": 106.01648,
+    "lat": 20.854465,
+    "lon": 106.016695,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24360,8 +24360,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370083",
-    "lat": 20.86288,
-    "lon": 106.02591,
+    "lat": 20.862874,
+    "lon": 106.026014,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24382,8 +24382,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370084",
-    "lat": 20.92672,
-    "lon": 106.05843,
+    "lat": 20.92675,
+    "lon": 106.05842,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24404,8 +24404,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370085",
-    "lat": 20.93249,
-    "lon": 106.04308,
+    "lat": 20.932533,
+    "lon": 106.043241,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24426,8 +24426,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370225",
-    "lat": 20.928029,
-    "lon": 106.05123,
+    "lat": 20.928115,
+    "lon": 106.05126,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24448,8 +24448,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370278",
-    "lat": 20.91171,
-    "lon": 106.0331,
+    "lat": 20.910998,
+    "lon": 106.03375,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24470,8 +24470,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370181",
-    "lat": 20.909681,
-    "lon": 106.06621,
+    "lat": 20.910186,
+    "lon": 106.064922,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24492,7 +24492,7 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370192",
-    "lat": 20.924081,
+    "lat": 20.92413,
     "lon": 106.0613,
     "vip": "NO",
     "is_vip": false,
@@ -24514,8 +24514,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370086",
-    "lat": 20.87689,
-    "lon": 106.07169,
+    "lat": 20.87685,
+    "lon": 106.07172,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24536,8 +24536,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370087",
-    "lat": 20.89205,
-    "lon": 106.04584,
+    "lat": 20.89215,
+    "lon": 106.0456,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24558,7 +24558,7 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370149",
-    "lat": 20.86142,
+    "lat": 20.86143,
     "lon": 106.07221,
     "vip": "NO",
     "is_vip": false,
@@ -24580,8 +24580,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370088",
-    "lat": 20.87871,
-    "lon": 106.05482,
+    "lat": 20.8786,
+    "lon": 106.05489,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24602,8 +24602,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370150",
-    "lat": 20.86022,
-    "lon": 106.06471,
+    "lat": 20.86027,
+    "lon": 106.0647,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24624,8 +24624,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370489",
-    "lat": 20.8887,
-    "lon": 106.0698,
+    "lat": 20.888795,
+    "lon": 106.069645,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24646,8 +24646,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370166",
-    "lat": 20.8608,
-    "lon": 106.04892,
+    "lat": 20.86076,
+    "lon": 106.04883,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24668,8 +24668,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370089",
-    "lat": 20.87067,
-    "lon": 106.03785,
+    "lat": 20.87056,
+    "lon": 106.0379,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24690,8 +24690,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370279",
-    "lat": 20.88225,
-    "lon": 106.00356,
+    "lat": 20.882796,
+    "lon": 106.002752,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24712,8 +24712,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370280",
-    "lat": 20.87141,
-    "lon": 105.99209,
+    "lat": 20.871308,
+    "lon": 105.992114,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24734,8 +24734,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370090",
-    "lat": 20.88559,
-    "lon": 106.03576,
+    "lat": 20.88548,
+    "lon": 106.0358,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24756,8 +24756,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370151",
-    "lat": 20.878524,
-    "lon": 106.03391,
+    "lat": 20.87859,
+    "lon": 106.0339,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24778,8 +24778,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370282",
-    "lat": 20.876788,
-    "lon": 105.9889,
+    "lat": 20.88274,
+    "lon": 105.98806,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24800,8 +24800,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Yen My",
     "enodeb_id": "370490",
-    "lat": 20.8923,
-    "lon": 105.9742,
+    "lat": 20.89249,
+    "lon": 105.97408,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24888,8 +24888,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Dien Chau",
     "enodeb_id": "440124",
-    "lat": 18.9924,
-    "lon": 105.5675,
+    "lat": 18.99232,
+    "lon": 105.56757,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24910,8 +24910,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Dien Chau",
     "enodeb_id": "440059",
-    "lat": 19.0474,
-    "lon": 105.5822,
+    "lat": 19.04659,
+    "lon": 105.5819,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24932,8 +24932,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Dien Chau",
     "enodeb_id": "440128",
-    "lat": 19.0302,
-    "lon": 105.5569,
+    "lat": 19.03028,
+    "lon": 105.55707,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24954,8 +24954,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Dien Chau",
     "enodeb_id": "440274",
-    "lat": 18.9102,
-    "lon": 105.5442,
+    "lat": 18.91024,
+    "lon": 105.54428,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24976,8 +24976,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Dien Chau",
     "enodeb_id": "440131",
-    "lat": 18.8963,
-    "lon": 105.573,
+    "lat": 18.89628,
+    "lon": 105.57309,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -24998,8 +24998,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Dien Chau",
     "enodeb_id": "440278",
-    "lat": 19.0468,
-    "lon": 105.5611,
+    "lat": 19.04675,
+    "lon": 105.56097,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -25064,8 +25064,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Dien Chau",
     "enodeb_id": "870051",
-    "lat": 19.0171,
-    "lon": 105.5667,
+    "lat": 19.01725,
+    "lon": 105.56677,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -25087,7 +25087,7 @@ const rolloutData = [
     "district": "Dien Chau",
     "enodeb_id": "440931",
     "lat": 19.110983,
-    "lon": 105.60487,
+    "lon": 105.604868,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -25175,7 +25175,7 @@ const rolloutData = [
     "district": "Hoang Mai",
     "enodeb_id": "440924",
     "lat": 19.304616,
-    "lon": 105.73682,
+    "lon": 105.736818,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -25218,7 +25218,7 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Hoang Mai",
     "enodeb_id": "440068",
-    "lat": 19.303109,
+    "lat": 19.3031092,
     "lon": 105.72422,
     "vip": "NO",
     "is_vip": false,
@@ -25592,8 +25592,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Hung Nguyen",
     "enodeb_id": "440075",
-    "lat": 18.671197,
-    "lon": 105.62796,
+    "lat": 18.671,
+    "lon": 105.628,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -25680,8 +25680,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Vinh",
     "enodeb_id": "440958",
-    "lat": 18.7028,
-    "lon": 105.6812,
+    "lat": 18.70289,
+    "lon": 105.68061,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -25703,7 +25703,7 @@ const rolloutData = [
     "district": "Hung Nguyen",
     "enodeb_id": "440304",
     "lat": 18.616595,
-    "lon": 105.61492,
+    "lon": 105.614919,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -25747,7 +25747,7 @@ const rolloutData = [
     "district": "Hung Nguyen",
     "enodeb_id": "440932",
     "lat": 18.693506,
-    "lon": 105.63232,
+    "lon": 105.632321,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -25768,8 +25768,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Hung Nguyen",
     "enodeb_id": "440934",
-    "lat": 18.690133,
-    "lon": 105.6276,
+    "lat": 18.6901327,
+    "lon": 105.627603,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -25790,8 +25790,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Hung Nguyen",
     "enodeb_id": "440935",
-    "lat": 18.679528,
-    "lon": 105.62602,
+    "lat": 18.6795282,
+    "lon": 105.626022,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -25813,7 +25813,7 @@ const rolloutData = [
     "district": "Hung Nguyen",
     "enodeb_id": "440917",
     "lat": 18.699538,
-    "lon": 105.63215,
+    "lon": 105.632154,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -25988,8 +25988,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Nam Dan",
     "enodeb_id": "440080",
-    "lat": 18.671811,
-    "lon": 105.55461,
+    "lat": 18.6718109,
+    "lon": 105.554612,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26032,8 +26032,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Nam Dan",
     "enodeb_id": "440173",
-    "lat": 18.740561,
-    "lon": 105.53704,
+    "lat": 18.7405605,
+    "lon": 105.537042,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26055,7 +26055,7 @@ const rolloutData = [
     "district": "Dien Chau",
     "enodeb_id": "440054",
     "lat": 19.013164,
-    "lon": 105.58758,
+    "lon": 105.587577,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26120,8 +26120,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Nam Dan",
     "enodeb_id": "440333",
-    "lat": 18.725754,
-    "lon": 105.55285,
+    "lat": 18.7257542,
+    "lon": 105.552851,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26142,8 +26142,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Nam Dan",
     "enodeb_id": "440667",
-    "lat": 18.737985,
-    "lon": 105.54896,
+    "lat": 18.7379853,
+    "lon": 105.548963,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26164,8 +26164,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Nam Dan",
     "enodeb_id": "440183",
-    "lat": 18.657474,
-    "lon": 105.55449,
+    "lat": 18.6574738,
+    "lon": 105.554492,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26231,7 +26231,7 @@ const rolloutData = [
     "district": "Nghi Loc",
     "enodeb_id": "440083",
     "lat": 18.831282,
-    "lon": 105.66083,
+    "lon": 105.660826,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26253,7 +26253,7 @@ const rolloutData = [
     "district": "Nghi Loc",
     "enodeb_id": "440880",
     "lat": 18.819481,
-    "lon": 105.65013,
+    "lon": 105.650128,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26275,7 +26275,7 @@ const rolloutData = [
     "district": "Nghi Loc",
     "enodeb_id": "440941",
     "lat": 18.833367,
-    "lon": 105.6091,
+    "lon": 105.609095,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26340,8 +26340,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Nghi Loc",
     "enodeb_id": "440872",
-    "lat": 18.788388,
-    "lon": 105.60162,
+    "lat": 18.7883882,
+    "lon": 105.601625,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26428,8 +26428,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Nghi Loc",
     "enodeb_id": "440699",
-    "lat": 18.803984,
-    "lon": 105.48348,
+    "lat": 18.8039836,
+    "lon": 105.483483,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26516,8 +26516,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Nghi Loc",
     "enodeb_id": "440086",
-    "lat": 18.855405,
-    "lon": 105.64909,
+    "lat": 18.8554051,
+    "lon": 105.649087,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26560,8 +26560,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Nghi Loc",
     "enodeb_id": "440911",
-    "lat": 18.817002,
-    "lon": 105.5472,
+    "lat": 18.8170021,
+    "lon": 105.547195,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26692,8 +26692,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Nghi Loc",
     "enodeb_id": "440661",
-    "lat": 18.862115,
-    "lon": 105.48204,
+    "lat": 18.8621154,
+    "lon": 105.482042,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26715,7 +26715,7 @@ const rolloutData = [
     "district": "Nghi Loc",
     "enodeb_id": "440912",
     "lat": 18.866458,
-    "lon": 105.62245,
+    "lon": 105.622454,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26868,8 +26868,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Quynh Luu",
     "enodeb_id": "870334",
-    "lat": 19.13,
-    "lon": 105.6185,
+    "lat": 19.13004,
+    "lon": 105.61855,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -26978,8 +26978,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Quynh Luu",
     "enodeb_id": "440215",
-    "lat": 19.30728,
-    "lon": 105.59209,
+    "lat": 19.3072799,
+    "lon": 105.592087,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -27221,7 +27221,7 @@ const rolloutData = [
     "district": "Vinh",
     "enodeb_id": "440939",
     "lat": 18.709982,
-    "lon": 105.67665,
+    "lon": 105.676652,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -27286,8 +27286,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Vinh",
     "enodeb_id": "440635",
-    "lat": 18.662274,
-    "lon": 105.66617,
+    "lat": 18.6622736,
+    "lon": 105.666169,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -27330,8 +27330,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Vinh",
     "enodeb_id": "870004",
-    "lat": 18.713357,
-    "lon": 105.66464,
+    "lat": 18.7133567,
+    "lon": 105.664638,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -27375,7 +27375,7 @@ const rolloutData = [
     "district": "Vinh",
     "enodeb_id": "440930",
     "lat": 18.686248,
-    "lon": 105.69775,
+    "lon": 105.697748,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -27418,8 +27418,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Vinh",
     "enodeb_id": "870006",
-    "lat": 18.6943,
-    "lon": 105.69571,
+    "lat": 18.6942998,
+    "lon": 105.695708,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -27462,8 +27462,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Vinh",
     "enodeb_id": "440922",
-    "lat": 18.680666,
-    "lon": 105.68693,
+    "lat": 18.6806664,
+    "lon": 105.686933,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -27484,8 +27484,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Vinh",
     "enodeb_id": "440395",
-    "lat": 18.684709,
-    "lon": 105.70233,
+    "lat": 18.6847092,
+    "lon": 105.702331,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -27551,7 +27551,7 @@ const rolloutData = [
     "district": "Vinh",
     "enodeb_id": "440105",
     "lat": 18.695756,
-    "lon": 105.6866,
+    "lon": 105.686604,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -27660,8 +27660,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Vinh",
     "enodeb_id": "440023",
-    "lat": 18.711479,
-    "lon": 105.68443,
+    "lat": 18.7114792,
+    "lon": 105.684434,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -27727,7 +27727,7 @@ const rolloutData = [
     "district": "Vinh",
     "enodeb_id": "440026",
     "lat": 18.685725,
-    "lon": 105.67854,
+    "lon": 105.678539,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -27902,8 +27902,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Vinh",
     "enodeb_id": "440037",
-    "lat": 18.69775,
-    "lon": 105.67444,
+    "lat": 18.6977496,
+    "lon": 105.674437,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -27947,7 +27947,7 @@ const rolloutData = [
     "district": "Vinh",
     "enodeb_id": "440039",
     "lat": 18.673909,
-    "lon": 105.70746,
+    "lon": 105.707458,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -27968,8 +27968,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Vinh",
     "enodeb_id": "440043",
-    "lat": 18.6609,
-    "lon": 105.68501,
+    "lat": 18.6608995,
+    "lon": 105.685012,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28056,8 +28056,8 @@ const rolloutData = [
     "province": "Nghe An",
     "district": "Yen Thanh",
     "enodeb_id": "440255",
-    "lat": 18.946854,
-    "lon": 105.41638,
+    "lat": 18.9468544,
+    "lon": 105.416375,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28078,8 +28078,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Gia Vien",
     "enodeb_id": "250000",
-    "lat": 20.3396,
-    "lon": 105.9289,
+    "lat": 20.33956,
+    "lon": 105.9292,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28100,8 +28100,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Gia Vien",
     "enodeb_id": "250032",
-    "lat": 20.33638,
-    "lon": 105.92302,
+    "lat": 20.336487,
+    "lon": 105.923049,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28122,8 +28122,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Gia Vien",
     "enodeb_id": "250015",
-    "lat": 20.266636,
-    "lon": 105.85984,
+    "lat": 20.26997,
+    "lon": 105.8603,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28144,8 +28144,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Gia Vien",
     "enodeb_id": "250001",
-    "lat": 20.36341,
-    "lon": 105.91852,
+    "lat": 20.3634,
+    "lon": 105.9183,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28166,8 +28166,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Gia Vien",
     "enodeb_id": "250041",
-    "lat": 20.347188,
-    "lon": 105.83693,
+    "lat": 20.34672,
+    "lon": 105.8371,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28188,8 +28188,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hoa Lu",
     "enodeb_id": "250045",
-    "lat": 20.298081,
-    "lon": 105.95298,
+    "lat": 20.298071,
+    "lon": 105.952841,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28210,8 +28210,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hoa Lu",
     "enodeb_id": "250047",
-    "lat": 20.3116,
-    "lon": 105.94793,
+    "lat": 20.311468,
+    "lon": 105.947961,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28254,8 +28254,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hoa Lu",
     "enodeb_id": "250051",
-    "lat": 20.21862,
-    "lon": 105.93985,
+    "lat": 20.218698,
+    "lon": 105.939755,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28276,8 +28276,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Kim Son",
     "enodeb_id": "250057",
-    "lat": 20.096504,
-    "lon": 106.10112,
+    "lat": 20.09652,
+    "lon": 106.101163,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28320,8 +28320,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Kim Son",
     "enodeb_id": "250066",
-    "lat": 20.08779,
-    "lon": 106.0796,
+    "lat": 20.087709,
+    "lon": 106.079451,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28342,8 +28342,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Kim Son",
     "enodeb_id": "250067",
-    "lat": 20.09297,
-    "lon": 106.08952,
+    "lat": 20.093381,
+    "lon": 106.089396,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28364,8 +28364,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250139",
-    "lat": 20.24703,
-    "lon": 105.98764,
+    "lat": 20.247203,
+    "lon": 105.987765,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28386,7 +28386,7 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "875134",
-    "lat": 20.24642,
+    "lat": 20.246333,
     "lon": 105.99986,
     "vip": "NO",
     "is_vip": false,
@@ -28408,8 +28408,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250007",
-    "lat": 20.26177,
-    "lon": 105.96998,
+    "lat": 20.26162,
+    "lon": 105.9699,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28430,8 +28430,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250141",
-    "lat": 20.26059,
-    "lon": 105.97365,
+    "lat": 20.260567,
+    "lon": 105.973758,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28452,8 +28452,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250142",
-    "lat": 20.255936,
-    "lon": 105.96201,
+    "lat": 20.256881,
+    "lon": 105.960008,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28474,8 +28474,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250143",
-    "lat": 20.26842,
-    "lon": 105.95948,
+    "lat": 20.268043,
+    "lon": 105.959273,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28496,8 +28496,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250144",
-    "lat": 20.24364,
-    "lon": 105.97984,
+    "lat": 20.243672,
+    "lon": 105.979833,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28518,8 +28518,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250230",
-    "lat": 20.24283,
-    "lon": 105.96921,
+    "lat": 20.241619,
+    "lon": 105.969727,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28540,8 +28540,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250145",
-    "lat": 20.25625,
-    "lon": 105.9529,
+    "lat": 20.25642,
+    "lon": 105.9531,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28562,8 +28562,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250231",
-    "lat": 20.250066,
-    "lon": 105.97869,
+    "lat": 20.250025,
+    "lon": 105.97868,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28584,8 +28584,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250009",
-    "lat": 20.25094,
-    "lon": 105.9743,
+    "lat": 20.251022,
+    "lon": 105.974161,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28606,8 +28606,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250147",
-    "lat": 20.28225,
-    "lon": 105.96521,
+    "lat": 20.282272,
+    "lon": 105.965208,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28628,8 +28628,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250148",
-    "lat": 20.26761,
-    "lon": 105.94308,
+    "lat": 20.26756,
+    "lon": 105.9431,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28650,8 +28650,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250149",
-    "lat": 20.251512,
-    "lon": 105.95722,
+    "lat": 20.251531,
+    "lon": 105.957237,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28694,8 +28694,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250010",
-    "lat": 20.2344,
-    "lon": 105.9685,
+    "lat": 20.234429,
+    "lon": 105.968555,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28716,8 +28716,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250270",
-    "lat": 20.22115,
-    "lon": 105.99514,
+    "lat": 20.221161,
+    "lon": 105.995135,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28738,8 +28738,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250315",
-    "lat": 20.216241,
-    "lon": 105.98959,
+    "lat": 20.21625,
+    "lon": 105.989544,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28760,8 +28760,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Ninh Binh",
     "enodeb_id": "250370",
-    "lat": 20.239203,
-    "lon": 106.00464,
+    "lat": 20.239204,
+    "lon": 106.004604,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28783,7 +28783,7 @@ const rolloutData = [
     "district": "Ninh Binh",
     "enodeb_id": "250151",
     "lat": 20.232112,
-    "lon": 105.99144,
+    "lon": 105.991445,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28937,7 +28937,7 @@ const rolloutData = [
     "district": "Ninh Binh",
     "enodeb_id": "250241",
     "lat": 20.25988,
-    "lon": 105.97728,
+    "lon": 105.9773,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -28980,8 +28980,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nho Quan",
     "enodeb_id": "250077",
-    "lat": 20.32348,
-    "lon": 105.75202,
+    "lat": 20.323239,
+    "lon": 105.7518,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29002,8 +29002,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Tam Diep",
     "enodeb_id": "250168",
-    "lat": 20.16235,
-    "lon": 105.92986,
+    "lat": 20.162154,
+    "lon": 105.929818,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29046,8 +29046,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Tam Diep",
     "enodeb_id": "250251",
-    "lat": 20.157891,
-    "lon": 105.90736,
+    "lat": 20.15794,
+    "lon": 105.907273,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29068,8 +29068,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Tam Diep",
     "enodeb_id": "250081",
-    "lat": 20.155234,
-    "lon": 105.88072,
+    "lat": 20.155265,
+    "lon": 105.88054,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29112,8 +29112,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Tam Diep",
     "enodeb_id": "250166",
-    "lat": 20.1496,
-    "lon": 105.886,
+    "lat": 20.149513,
+    "lon": 105.886131,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29134,8 +29134,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Tam Diep",
     "enodeb_id": "250019",
-    "lat": 20.15459,
-    "lon": 105.91549,
+    "lat": 20.15413,
+    "lon": 105.91529,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29156,8 +29156,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Yen Khanh",
     "enodeb_id": "250180",
-    "lat": 20.211573,
-    "lon": 106.05151,
+    "lat": 20.210985,
+    "lon": 106.051082,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29178,8 +29178,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Yen Khanh",
     "enodeb_id": "250022",
-    "lat": 20.243594,
-    "lon": 106.02258,
+    "lat": 20.243566,
+    "lon": 106.022654,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29200,8 +29200,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Yen Khanh",
     "enodeb_id": "250092",
-    "lat": 20.17095,
-    "lon": 106.08642,
+    "lat": 20.170936,
+    "lon": 106.086458,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29222,8 +29222,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Yen Khanh",
     "enodeb_id": "250093",
-    "lat": 20.229955,
-    "lon": 106.02101,
+    "lat": 20.229739,
+    "lon": 106.02098,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29244,8 +29244,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Yen Khanh",
     "enodeb_id": "250097",
-    "lat": 20.214215,
-    "lon": 106.10291,
+    "lat": 20.214168,
+    "lon": 106.103007,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29266,8 +29266,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Yen Khanh",
     "enodeb_id": "250098",
-    "lat": 20.184207,
-    "lon": 106.06189,
+    "lat": 20.18456,
+    "lon": 106.06217,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29310,8 +29310,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Yen Mo",
     "enodeb_id": "250256",
-    "lat": 20.175434,
-    "lon": 105.97418,
+    "lat": 20.1754342,
+    "lon": 105.974184,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29332,8 +29332,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Yen Mo",
     "enodeb_id": "250024",
-    "lat": 20.18668,
-    "lon": 105.96318,
+    "lat": 20.186771,
+    "lon": 105.963305,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29354,8 +29354,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Yen Mo",
     "enodeb_id": "250342",
-    "lat": 20.089653,
-    "lon": 106.02154,
+    "lat": 20.090403,
+    "lon": 106.022308,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29398,17 +29398,17 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Giao Thuy",
     "enodeb_id": "240025",
-    "lat": 20.283037,
-    "lon": 106.44082,
+    "lat": 20.283,
+    "lon": 106.4408,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29420,8 +29420,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Giao Thuy",
     "enodeb_id": "240076",
-    "lat": 20.27404,
-    "lon": 106.39532,
+    "lat": 20.2743,
+    "lon": 106.39515,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29442,8 +29442,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Giao Thuy",
     "enodeb_id": "240026",
-    "lat": 20.19875,
-    "lon": 106.37251,
+    "lat": 20.198854,
+    "lon": 106.371633,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29464,7 +29464,7 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240502",
-    "lat": 20.125324,
+    "lat": 20.12529,
     "lon": 106.27936,
     "vip": "NO",
     "is_vip": false,
@@ -29486,8 +29486,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240086",
-    "lat": 20.134084,
-    "lon": 106.27806,
+    "lat": 20.134,
+    "lon": 106.27804,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29508,8 +29508,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240087",
-    "lat": 20.14366,
-    "lon": 106.19836,
+    "lat": 20.14371,
+    "lon": 106.1983,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29530,8 +29530,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240088",
-    "lat": 20.204172,
-    "lon": 106.26509,
+    "lat": 20.20431,
+    "lon": 106.26527,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29552,8 +29552,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240182",
-    "lat": 20.23182,
-    "lon": 106.30578,
+    "lat": 20.231851,
+    "lon": 106.305722,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29574,8 +29574,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240089",
-    "lat": 20.209149,
-    "lon": 106.29458,
+    "lat": 20.20975,
+    "lon": 106.29454,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29596,8 +29596,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240091",
-    "lat": 20.071775,
-    "lon": 106.23313,
+    "lat": 20.07134,
+    "lon": 106.23305,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29618,8 +29618,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240563",
-    "lat": 20.083587,
-    "lon": 106.222,
+    "lat": 20.08359,
+    "lon": 106.22169,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29640,8 +29640,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240330",
-    "lat": 20.1159,
-    "lon": 106.278,
+    "lat": 20.1161,
+    "lon": 106.2785,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29662,8 +29662,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240092",
-    "lat": 20.111234,
-    "lon": 106.25128,
+    "lat": 20.1111,
+    "lon": 106.25118,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29684,8 +29684,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240093",
-    "lat": 20.15347,
-    "lon": 106.32437,
+    "lat": 20.1535,
+    "lon": 106.32441,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29706,8 +29706,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240183",
-    "lat": 20.194049,
-    "lon": 106.26069,
+    "lat": 20.19406,
+    "lon": 106.26075,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29728,8 +29728,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240094",
-    "lat": 20.12586,
-    "lon": 106.21136,
+    "lat": 20.12589,
+    "lon": 106.21139,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29750,8 +29750,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240028",
-    "lat": 20.197131,
-    "lon": 106.29608,
+    "lat": 20.19694,
+    "lon": 106.2961,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29772,8 +29772,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "875053",
-    "lat": 20.17835,
-    "lon": 106.28743,
+    "lat": 20.17842,
+    "lon": 106.2874,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29794,8 +29794,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240185",
-    "lat": 20.211103,
-    "lon": 106.30597,
+    "lat": 20.21113,
+    "lon": 106.30596,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29816,8 +29816,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240186",
-    "lat": 20.201706,
-    "lon": 106.30715,
+    "lat": 20.20185,
+    "lon": 106.3072,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29838,8 +29838,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240318",
-    "lat": 20.185881,
-    "lon": 106.33166,
+    "lat": 20.18539,
+    "lon": 106.33167,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29860,8 +29860,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240502",
-    "lat": 20.125626,
-    "lon": 106.29427,
+    "lat": 20.12559,
+    "lon": 106.2943,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29882,8 +29882,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240096",
-    "lat": 20.22828,
-    "lon": 106.26236,
+    "lat": 20.22825,
+    "lon": 106.2623,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29904,8 +29904,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240188",
-    "lat": 20.228259,
-    "lon": 106.33505,
+    "lat": 20.22792,
+    "lon": 106.33664,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29926,8 +29926,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240097",
-    "lat": 20.123,
-    "lon": 106.22673,
+    "lat": 20.12303,
+    "lon": 106.22667,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29948,8 +29948,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240190",
-    "lat": 20.19667,
-    "lon": 106.32436,
+    "lat": 20.19668,
+    "lon": 106.32434,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -29970,7 +29970,7 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "875054",
-    "lat": 20.16052,
+    "lat": 20.16056,
     "lon": 106.24857,
     "vip": "NO",
     "is_vip": false,
@@ -29992,8 +29992,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "875053",
-    "lat": 20.16563,
-    "lon": 106.2798,
+    "lat": 20.16342,
+    "lon": 106.27902,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30014,8 +30014,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240192",
-    "lat": 20.193813,
-    "lon": 106.30989,
+    "lat": 20.19395,
+    "lon": 106.31007,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30036,8 +30036,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240101",
-    "lat": 20.0762,
-    "lon": 106.24675,
+    "lat": 20.07633,
+    "lon": 106.2467,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30058,8 +30058,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240194",
-    "lat": 20.088116,
-    "lon": 106.27444,
+    "lat": 20.08808,
+    "lon": 106.27449,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30080,8 +30080,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240319",
-    "lat": 20.2253,
-    "lon": 106.2897,
+    "lat": 20.22541,
+    "lon": 106.28964,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30102,8 +30102,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240029",
-    "lat": 20.230222,
-    "lon": 106.32936,
+    "lat": 20.230336,
+    "lon": 106.329264,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30124,8 +30124,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240195",
-    "lat": 20.103357,
-    "lon": 106.26978,
+    "lat": 20.10332,
+    "lon": 106.26974,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30146,8 +30146,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240030",
-    "lat": 20.025016,
-    "lon": 106.21753,
+    "lat": 20.02495,
+    "lon": 106.21735,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30168,8 +30168,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240196",
-    "lat": 20.04145,
-    "lon": 106.21818,
+    "lat": 20.04151,
+    "lon": 106.21828,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30190,8 +30190,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240197",
-    "lat": 20.045758,
-    "lon": 106.23538,
+    "lat": 20.04563,
+    "lon": 106.23486,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30212,8 +30212,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240198",
-    "lat": 20.061686,
-    "lon": 106.21687,
+    "lat": 20.061636,
+    "lon": 106.216784,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30234,8 +30234,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Hai Hau",
     "enodeb_id": "240199",
-    "lat": 20.199515,
-    "lon": 106.28605,
+    "lat": 20.19942,
+    "lon": 106.28568,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30256,8 +30256,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240000",
-    "lat": 20.42537,
-    "lon": 106.17799,
+    "lat": 20.425577,
+    "lon": 106.177549,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30278,8 +30278,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240352",
-    "lat": 20.437414,
-    "lon": 106.15113,
+    "lat": 20.437354,
+    "lon": 106.1511,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30300,8 +30300,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240001",
-    "lat": 20.44804,
-    "lon": 106.18442,
+    "lat": 20.448048,
+    "lon": 106.184633,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30322,8 +30322,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240373",
-    "lat": 20.44587,
-    "lon": 106.19962,
+    "lat": 20.445956,
+    "lon": 106.199606,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30344,8 +30344,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240701",
-    "lat": 20.439192,
-    "lon": 106.17555,
+    "lat": 20.438968,
+    "lon": 106.175566,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30366,8 +30366,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240603",
-    "lat": 20.4469,
-    "lon": 106.16259,
+    "lat": 20.446646,
+    "lon": 106.162436,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30388,8 +30388,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240209",
-    "lat": 20.436213,
-    "lon": 106.14004,
+    "lat": 20.436235,
+    "lon": 106.140014,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30410,8 +30410,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240031",
-    "lat": 20.422439,
-    "lon": 106.15315,
+    "lat": 20.422398,
+    "lon": 106.153207,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30432,8 +30432,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240210",
-    "lat": 20.45355,
-    "lon": 106.18243,
+    "lat": 20.45359,
+    "lon": 106.18242,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30454,8 +30454,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240106",
-    "lat": 20.44934,
-    "lon": 106.16122,
+    "lat": 20.44953,
+    "lon": 106.1613,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30476,8 +30476,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240003",
-    "lat": 20.42904,
-    "lon": 106.1657,
+    "lat": 20.428516,
+    "lon": 106.165546,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30498,8 +30498,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240571",
-    "lat": 20.427283,
-    "lon": 106.15729,
+    "lat": 20.427349,
+    "lon": 106.157389,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30520,8 +30520,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240107",
-    "lat": 20.431971,
-    "lon": 106.17175,
+    "lat": 20.43164,
+    "lon": 106.17174,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30542,8 +30542,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240108",
-    "lat": 20.43134,
-    "lon": 106.1613,
+    "lat": 20.431383,
+    "lon": 106.161365,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30564,8 +30564,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240505",
-    "lat": 20.42854,
-    "lon": 106.16024,
+    "lat": 20.42863,
+    "lon": 106.16028,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30586,8 +30586,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240112",
-    "lat": 20.44459,
-    "lon": 106.19538,
+    "lat": 20.444141,
+    "lon": 106.19534,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30608,8 +30608,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240356",
-    "lat": 20.441113,
-    "lon": 106.18165,
+    "lat": 20.441146,
+    "lon": 106.181671,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30630,17 +30630,17 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240548",
-    "lat": 20.445423,
-    "lon": 106.1835,
+    "lat": 20.44546,
+    "lon": 106.183498,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30652,8 +30652,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240021",
-    "lat": 20.43518,
-    "lon": 106.18295,
+    "lat": 20.434313,
+    "lon": 106.183673,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30674,8 +30674,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "875097",
-    "lat": 20.407026,
-    "lon": 106.15021,
+    "lat": 20.4069,
+    "lon": 106.1502,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30696,8 +30696,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240584",
-    "lat": 20.393378,
-    "lon": 106.14774,
+    "lat": 20.393468,
+    "lon": 106.1478,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30718,8 +30718,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240007",
-    "lat": 20.4354,
-    "lon": 106.16344,
+    "lat": 20.435375,
+    "lon": 106.163513,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30740,8 +30740,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240329",
-    "lat": 20.43061,
-    "lon": 106.14828,
+    "lat": 20.430666,
+    "lon": 106.148388,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30762,8 +30762,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240216",
-    "lat": 20.42917,
-    "lon": 106.182,
+    "lat": 20.42891,
+    "lon": 106.1818,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30784,8 +30784,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240109",
-    "lat": 20.44793,
-    "lon": 106.17045,
+    "lat": 20.448093,
+    "lon": 106.171281,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30806,8 +30806,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "875098",
-    "lat": 20.40564,
-    "lon": 106.13761,
+    "lat": 20.405556,
+    "lon": 106.137583,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30828,8 +30828,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240010",
-    "lat": 20.40564,
-    "lon": 106.13761,
+    "lat": 20.41122,
+    "lon": 106.14535,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30850,8 +30850,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240217",
-    "lat": 20.42421,
-    "lon": 106.14163,
+    "lat": 20.424156,
+    "lon": 106.141809,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30872,8 +30872,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240386",
-    "lat": 20.4175,
-    "lon": 106.15933,
+    "lat": 20.417696,
+    "lon": 106.159373,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30894,8 +30894,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240011",
-    "lat": 20.44515,
-    "lon": 106.17927,
+    "lat": 20.445126,
+    "lon": 106.179283,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30916,8 +30916,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240219",
-    "lat": 20.41381,
-    "lon": 106.15446,
+    "lat": 20.413869,
+    "lon": 106.154428,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30938,8 +30938,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240035",
-    "lat": 20.39799,
-    "lon": 106.18171,
+    "lat": 20.397709,
+    "lon": 106.182055,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30960,8 +30960,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240110",
-    "lat": 20.434692,
-    "lon": 106.17501,
+    "lat": 20.434771,
+    "lon": 106.175443,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -30982,8 +30982,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240223",
-    "lat": 20.413128,
-    "lon": 106.15939,
+    "lat": 20.413176,
+    "lon": 106.159508,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31004,8 +31004,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240224",
-    "lat": 20.42332,
-    "lon": 106.16114,
+    "lat": 20.423218,
+    "lon": 106.161146,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31048,8 +31048,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "875152",
-    "lat": 20.424578,
-    "lon": 106.14892,
+    "lat": 20.424527,
+    "lon": 106.148865,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31093,7 +31093,7 @@ const rolloutData = [
     "district": "Nam Dinh",
     "enodeb_id": "240321",
     "lat": 20.420708,
-    "lon": 106.13644,
+    "lon": 106.136437,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31115,7 +31115,7 @@ const rolloutData = [
     "district": "Nam Dinh",
     "enodeb_id": "240027",
     "lat": 20.412147,
-    "lon": 106.13932,
+    "lon": 106.139318,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31158,8 +31158,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240017",
-    "lat": 20.41282,
-    "lon": 106.16561,
+    "lat": 20.412888,
+    "lon": 106.16551,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31180,8 +31180,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240037",
-    "lat": 20.426726,
-    "lon": 106.17009,
+    "lat": 20.4267,
+    "lon": 106.1702,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31202,8 +31202,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240018",
-    "lat": 20.418719,
-    "lon": 106.15408,
+    "lat": 20.4187,
+    "lon": 106.154131,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31224,8 +31224,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240111",
-    "lat": 20.43381,
-    "lon": 106.18789,
+    "lat": 20.43393,
+    "lon": 106.1878,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31246,8 +31246,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240522",
-    "lat": 20.42144,
-    "lon": 106.17894,
+    "lat": 20.421475,
+    "lon": 106.178924,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31268,8 +31268,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240364",
-    "lat": 20.41005,
-    "lon": 106.16697,
+    "lat": 20.41004,
+    "lon": 106.166914,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31334,8 +31334,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240226",
-    "lat": 20.443008,
-    "lon": 106.17354,
+    "lat": 20.44301,
+    "lon": 106.17355,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31400,8 +31400,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Dinh",
     "enodeb_id": "240367",
-    "lat": 20.41659,
-    "lon": 106.14961,
+    "lat": 20.41658,
+    "lon": 106.1496,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31444,8 +31444,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nghia Hung",
     "enodeb_id": "240240",
-    "lat": 20.25953,
-    "lon": 106.12036,
+    "lat": 20.2596,
+    "lon": 106.120327,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31466,8 +31466,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Truc",
     "enodeb_id": "240131",
-    "lat": 20.33774,
-    "lon": 106.17654,
+    "lat": 20.33767,
+    "lon": 106.1764,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31488,8 +31488,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Nam Truc",
     "enodeb_id": "240042",
-    "lat": 20.331539,
-    "lon": 106.17635,
+    "lat": 20.33157,
+    "lon": 106.17615,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31510,8 +31510,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Truc Ninh",
     "enodeb_id": "240032",
-    "lat": 20.30095,
-    "lon": 106.27993,
+    "lat": 20.301014,
+    "lon": 106.280432,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31532,8 +31532,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Truc Ninh",
     "enodeb_id": "875106",
-    "lat": 20.2068,
-    "lon": 106.24117,
+    "lat": 20.20684,
+    "lon": 106.24114,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31555,7 +31555,7 @@ const rolloutData = [
     "district": "Truc Ninh",
     "enodeb_id": "240144",
     "lat": 20.19902,
-    "lon": 106.20685,
+    "lon": 106.2068,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31576,8 +31576,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Vu Ban",
     "enodeb_id": "240151",
-    "lat": 20.34843,
-    "lon": 106.10746,
+    "lat": 20.34821,
+    "lon": 106.10755,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31598,8 +31598,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Vu Ban",
     "enodeb_id": "240396",
-    "lat": 20.353789,
-    "lon": 106.11419,
+    "lat": 20.35364,
+    "lon": 106.114494,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31620,8 +31620,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Vu Ban",
     "enodeb_id": "240286",
-    "lat": 20.36135,
-    "lon": 106.11013,
+    "lat": 20.361389,
+    "lon": 106.110085,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31642,8 +31642,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Vu Ban",
     "enodeb_id": "240177",
-    "lat": 20.34799,
-    "lon": 106.0999,
+    "lat": 20.347904,
+    "lon": 106.099833,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31664,8 +31664,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Xuan Truong",
     "enodeb_id": "240043",
-    "lat": 20.29716,
-    "lon": 106.38249,
+    "lat": 20.29701,
+    "lon": 106.3824,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31686,8 +31686,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Xuan Truong",
     "enodeb_id": "240047",
-    "lat": 20.30039,
-    "lon": 106.36586,
+    "lat": 20.30052,
+    "lon": 106.3657,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31708,8 +31708,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Xuan Truong",
     "enodeb_id": "240048",
-    "lat": 20.2678,
-    "lon": 106.33907,
+    "lat": 20.267917,
+    "lon": 106.33913,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31730,8 +31730,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Y Yen",
     "enodeb_id": "240165",
-    "lat": 20.32665,
-    "lon": 106.01346,
+    "lat": 20.326685,
+    "lon": 106.013561,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31752,8 +31752,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Y Yen",
     "enodeb_id": "240172",
-    "lat": 20.35617,
-    "lon": 106.04422,
+    "lat": 20.356511,
+    "lon": 106.046269,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31774,8 +31774,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Lam Thao",
     "enodeb_id": "874116",
-    "lat": 21.39037,
-    "lon": 105.2975,
+    "lat": 21.39016,
+    "lon": 105.29836,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31796,8 +31796,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Lam Thao",
     "enodeb_id": "260031",
-    "lat": 21.31958,
-    "lon": 105.2848,
+    "lat": 21.32079,
+    "lon": 105.2837,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31840,8 +31840,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Ninh",
     "enodeb_id": "260035",
-    "lat": 21.40673,
-    "lon": 105.3141,
+    "lat": 21.404837,
+    "lon": 105.3144,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31862,8 +31862,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Ninh",
     "enodeb_id": "260037",
-    "lat": 21.412345,
-    "lon": 105.38432,
+    "lat": 21.412267,
+    "lon": 105.384249,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31884,8 +31884,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Ninh",
     "enodeb_id": "260099",
-    "lat": 21.38345,
-    "lon": 105.33976,
+    "lat": 21.38344,
+    "lon": 105.34,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31906,8 +31906,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Tho",
     "enodeb_id": "260047",
-    "lat": 21.416124,
-    "lon": 105.23843,
+    "lat": 21.41614,
+    "lon": 105.2388,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31928,8 +31928,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Tho",
     "enodeb_id": "260379",
-    "lat": 21.426639,
-    "lon": 105.24111,
+    "lat": 21.42664,
+    "lon": 105.24112,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31950,8 +31950,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Tho",
     "enodeb_id": "260325",
-    "lat": 21.414639,
-    "lon": 105.25285,
+    "lat": 21.41492,
+    "lon": 105.25312,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -31994,8 +31994,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Tho",
     "enodeb_id": "260379",
-    "lat": 21.419325,
-    "lon": 105.24223,
+    "lat": 21.41903,
+    "lon": 105.2422,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32016,8 +32016,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Tho",
     "enodeb_id": "260048",
-    "lat": 21.454271,
-    "lon": 105.24327,
+    "lat": 21.45241,
+    "lon": 105.24316,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32038,8 +32038,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Tho",
     "enodeb_id": "260049",
-    "lat": 21.428399,
-    "lon": 105.25613,
+    "lat": 21.428264,
+    "lon": 105.257122,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32060,8 +32060,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Tho",
     "enodeb_id": "260050",
-    "lat": 21.446,
-    "lon": 105.235,
+    "lat": 21.44586,
+    "lon": 105.23417,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32082,8 +32082,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Tho",
     "enodeb_id": "260052",
-    "lat": 21.39956,
-    "lon": 105.1874,
+    "lat": 21.39954,
+    "lon": 105.18744,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32126,8 +32126,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phu Tho",
     "enodeb_id": "260053",
-    "lat": 21.39248,
-    "lon": 105.21162,
+    "lat": 21.3925,
+    "lon": 105.21178,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32148,8 +32148,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260152",
-    "lat": 21.30177,
-    "lon": 105.44767,
+    "lat": 21.30184,
+    "lon": 105.4475,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32236,8 +32236,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260075",
-    "lat": 21.34262,
-    "lon": 105.3044,
+    "lat": 21.34265,
+    "lon": 105.30447,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32258,8 +32258,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260000",
-    "lat": 21.359291,
-    "lon": 105.35136,
+    "lat": 21.359492,
+    "lon": 105.351875,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32280,8 +32280,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260076",
-    "lat": 21.3192,
-    "lon": 105.349,
+    "lat": 21.31964,
+    "lon": 105.3486,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32302,8 +32302,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260174",
-    "lat": 21.36447,
-    "lon": 105.3208,
+    "lat": 21.363719,
+    "lon": 105.316422,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32346,8 +32346,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260077",
-    "lat": 21.35087,
-    "lon": 105.35787,
+    "lat": 21.350816,
+    "lon": 105.357906,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32368,8 +32368,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260002",
-    "lat": 21.36866,
-    "lon": 105.3446,
+    "lat": 21.36862,
+    "lon": 105.345,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32390,8 +32390,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260341",
-    "lat": 21.378041,
-    "lon": 105.33355,
+    "lat": 21.377832,
+    "lon": 105.334394,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32412,8 +32412,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "874125",
-    "lat": 21.330879,
-    "lon": 105.37916,
+    "lat": 21.3308791,
+    "lon": 105.379158,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32434,8 +32434,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "874230",
-    "lat": 21.337718,
-    "lon": 105.38244,
+    "lat": 21.3377181,
+    "lon": 105.382439,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32456,8 +32456,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260342",
-    "lat": 21.327505,
-    "lon": 105.38147,
+    "lat": 21.3275053,
+    "lon": 105.381474,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32544,8 +32544,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260007",
-    "lat": 21.323743,
-    "lon": 105.38319,
+    "lat": 21.3237425,
+    "lon": 105.383186,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32588,8 +32588,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260079",
-    "lat": 21.37376,
-    "lon": 105.36759,
+    "lat": 21.37373,
+    "lon": 105.3676,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32610,8 +32610,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260418",
-    "lat": 21.388661,
-    "lon": 105.36418,
+    "lat": 21.38863,
+    "lon": 105.3642,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32698,8 +32698,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260176",
-    "lat": 21.360409,
-    "lon": 105.38236,
+    "lat": 21.36039,
+    "lon": 105.3825,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32721,7 +32721,7 @@ const rolloutData = [
     "district": "Viet Tri",
     "enodeb_id": "260400",
     "lat": 21.340744,
-    "lon": 105.33493,
+    "lon": 105.334934,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32743,7 +32743,7 @@ const rolloutData = [
     "district": "Viet Tri",
     "enodeb_id": "260400",
     "lat": 21.339213,
-    "lon": 105.34009,
+    "lon": 105.340094,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32765,7 +32765,7 @@ const rolloutData = [
     "district": "Viet Tri",
     "enodeb_id": "260401",
     "lat": 21.342561,
-    "lon": 105.35213,
+    "lon": 105.352132,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32786,8 +32786,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260177",
-    "lat": 21.307298,
-    "lon": 105.43,
+    "lat": 21.3072984,
+    "lon": 105.430005,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32808,8 +32808,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260159",
-    "lat": 21.3231,
-    "lon": 105.4378,
+    "lat": 21.32193,
+    "lon": 105.4395,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32918,8 +32918,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260179",
-    "lat": 21.314203,
-    "lon": 105.40628,
+    "lat": 21.3142032,
+    "lon": 105.406276,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -32940,8 +32940,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260013",
-    "lat": 21.30416,
-    "lon": 105.41398,
+    "lat": 21.30428,
+    "lon": 105.414,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33051,7 +33051,7 @@ const rolloutData = [
     "district": "Viet Tri",
     "enodeb_id": "260355",
     "lat": 21.323808,
-    "lon": 105.39434,
+    "lon": 105.394343,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33072,8 +33072,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "874129",
-    "lat": 21.312334,
-    "lon": 105.41605,
+    "lat": 21.31228,
+    "lon": 105.416,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -33139,7 +33139,7 @@ const rolloutData = [
     "district": "Viet Tri",
     "enodeb_id": "874232",
     "lat": 21.342185,
-    "lon": 105.37737,
+    "lon": 105.377373,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33160,8 +33160,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Viet Tri",
     "enodeb_id": "260019",
-    "lat": 21.320626,
-    "lon": 105.40626,
+    "lat": 21.320212,
+    "lon": 105.406327,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -33314,8 +33314,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Bo Trach",
     "enodeb_id": "450083",
-    "lat": 17.623637,
-    "lon": 106.34325,
+    "lat": 17.6236374,
+    "lon": 106.343246,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33336,8 +33336,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Bo Trach",
     "enodeb_id": "450200",
-    "lat": 17.686937,
-    "lon": 106.33338,
+    "lat": 17.6869366,
+    "lon": 106.333377,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33381,7 +33381,7 @@ const rolloutData = [
     "district": "Bo Trach",
     "enodeb_id": "450089",
     "lat": 17.469613,
-    "lon": 106.51073,
+    "lon": 106.510732,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33403,7 +33403,7 @@ const rolloutData = [
     "district": "Bo Trach",
     "enodeb_id": "450312",
     "lat": 17.482893,
-    "lon": 106.50968,
+    "lon": 106.509679,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33446,8 +33446,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Bo Trach",
     "enodeb_id": "450090",
-    "lat": 17.58437,
-    "lon": 106.43477,
+    "lat": 17.5843696,
+    "lon": 106.434767,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33469,7 +33469,7 @@ const rolloutData = [
     "district": "Bo Trach",
     "enodeb_id": "870152",
     "lat": 17.598027,
-    "lon": 106.41838,
+    "lon": 106.418382,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33513,7 +33513,7 @@ const rolloutData = [
     "district": "Bo Trach",
     "enodeb_id": "450316",
     "lat": 17.649077,
-    "lon": 106.27831,
+    "lon": 106.278313,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33534,8 +33534,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Bo Trach",
     "enodeb_id": "450401",
-    "lat": 17.64707,
-    "lon": 106.31419,
+    "lat": 17.6470696,
+    "lon": 106.314189,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33622,8 +33622,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Bo Trach",
     "enodeb_id": "450095",
-    "lat": 17.640518,
-    "lon": 106.30683,
+    "lat": 17.6405177,
+    "lon": 106.306832,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33644,8 +33644,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Bo Trach",
     "enodeb_id": "450100",
-    "lat": 17.663715,
-    "lon": 106.25222,
+    "lat": 17.6637146,
+    "lon": 106.252221,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33667,7 +33667,7 @@ const rolloutData = [
     "district": "Dong Hoi",
     "enodeb_id": "450000",
     "lat": 17.473213,
-    "lon": 106.59152,
+    "lon": 106.591523,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -33821,7 +33821,7 @@ const rolloutData = [
     "district": "Dong Hoi",
     "enodeb_id": "450402",
     "lat": 17.474887,
-    "lon": 106.62289,
+    "lon": 106.622885,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34018,8 +34018,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Dong Hoi",
     "enodeb_id": "450017",
-    "lat": 17.474741,
-    "lon": 106.601,
+    "lat": 17.474218,
+    "lon": 106.601261,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34040,8 +34040,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Dong Hoi",
     "enodeb_id": "450219",
-    "lat": 17.47369,
-    "lon": 106.59966,
+    "lat": 17.473689,
+    "lon": 106.599661,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34128,8 +34128,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Dong Hoi",
     "enodeb_id": "450014",
-    "lat": 17.503892,
-    "lon": 106.58642,
+    "lat": 17.5038917,
+    "lon": 106.586419,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34327,7 +34327,7 @@ const rolloutData = [
     "district": "Dong Hoi",
     "enodeb_id": "450590",
     "lat": 17.441902,
-    "lon": 106.56252,
+    "lon": 106.562519,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34371,7 +34371,7 @@ const rolloutData = [
     "district": "Dong Hoi",
     "enodeb_id": "450518",
     "lat": 17.468511,
-    "lon": 106.61243,
+    "lon": 106.612432,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34436,8 +34436,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Le Thuy",
     "enodeb_id": "870157",
-    "lat": 17.165493,
-    "lon": 106.84684,
+    "lat": 17.1654932,
+    "lon": 106.846839,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34502,8 +34502,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Quang Trach",
     "enodeb_id": "450163",
-    "lat": 17.96057,
-    "lon": 106.49734,
+    "lat": 17.96058,
+    "lon": 106.497652,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34569,7 +34569,7 @@ const rolloutData = [
     "district": "Le Thuy",
     "enodeb_id": "450337",
     "lat": 17.227685,
-    "lon": 106.84451,
+    "lon": 106.844514,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34700,8 +34700,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Le Thuy",
     "enodeb_id": "450123",
-    "lat": 17.199764,
-    "lon": 106.71966,
+    "lat": 17.1997636,
+    "lon": 106.719662,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34722,8 +34722,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Le Thuy",
     "enodeb_id": "450125",
-    "lat": 17.144964,
-    "lon": 106.93962,
+    "lat": 17.1449639,
+    "lon": 106.939623,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34745,7 +34745,7 @@ const rolloutData = [
     "district": "Le Thuy",
     "enodeb_id": "450230",
     "lat": 17.161887,
-    "lon": 106.93023,
+    "lon": 106.930233,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34788,8 +34788,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Le Thuy",
     "enodeb_id": "870162",
-    "lat": 17.202767,
-    "lon": 106.84288,
+    "lat": 17.2027668,
+    "lon": 106.842882,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34832,8 +34832,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Le Thuy",
     "enodeb_id": "450349",
-    "lat": 17.136996,
-    "lon": 106.86682,
+    "lat": 17.1369961,
+    "lon": 106.866819,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34899,7 +34899,7 @@ const rolloutData = [
     "district": "Son La",
     "enodeb_id": "270400",
     "lat": 21.272694,
-    "lon": 103.98118,
+    "lon": 103.981176,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34920,8 +34920,8 @@ const rolloutData = [
     "province": "Son La",
     "district": "Son La",
     "enodeb_id": "270021",
-    "lat": 21.34921,
-    "lon": 103.91717,
+    "lat": 21.3492102,
+    "lon": 103.917166,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34943,7 +34943,7 @@ const rolloutData = [
     "district": "Son La",
     "enodeb_id": "270031",
     "lat": 21.316359,
-    "lon": 103.91635,
+    "lon": 103.916346,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -34964,8 +34964,8 @@ const rolloutData = [
     "province": "Son La",
     "district": "Son La",
     "enodeb_id": "270012",
-    "lat": 21.34454,
-    "lon": 103.91019,
+    "lat": 21.3445397,
+    "lon": 103.910195,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35075,7 +35075,7 @@ const rolloutData = [
     "district": "Son La",
     "enodeb_id": "270019",
     "lat": 21.314246,
-    "lon": 103.9448,
+    "lon": 103.944796,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35097,7 +35097,7 @@ const rolloutData = [
     "district": "Son La",
     "enodeb_id": "270020",
     "lat": 21.308774,
-    "lon": 103.94055,
+    "lon": 103.940554,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35118,8 +35118,8 @@ const rolloutData = [
     "province": "Son La",
     "district": "Son La",
     "enodeb_id": "270062",
-    "lat": 21.327515,
-    "lon": 103.92512,
+    "lat": 21.3275146,
+    "lon": 103.925122,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35140,8 +35140,8 @@ const rolloutData = [
     "province": "Son La",
     "district": "Son La",
     "enodeb_id": "270021",
-    "lat": 21.350613,
-    "lon": 103.9115,
+    "lat": 21.3506125,
+    "lon": 103.911499,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35163,7 +35163,7 @@ const rolloutData = [
     "district": "Son La",
     "enodeb_id": "270022",
     "lat": 21.300436,
-    "lon": 103.95062,
+    "lon": 103.950624,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35185,7 +35185,7 @@ const rolloutData = [
     "district": "Son La",
     "enodeb_id": "874255",
     "lat": 21.268021,
-    "lon": 103.9784,
+    "lon": 103.978398,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35206,8 +35206,8 @@ const rolloutData = [
     "province": "Son La",
     "district": "Son La",
     "enodeb_id": "270025",
-    "lat": 21.327131,
-    "lon": 103.9121,
+    "lat": 21.3271311,
+    "lon": 103.912101,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35250,8 +35250,8 @@ const rolloutData = [
     "province": "Son La",
     "district": "Son La",
     "enodeb_id": "270031",
-    "lat": 21.322131,
-    "lon": 103.9199,
+    "lat": 21.3221307,
+    "lon": 103.919895,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35272,8 +35272,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Dong Hung",
     "enodeb_id": "400157",
-    "lat": 20.56758,
-    "lon": 106.3535,
+    "lat": 20.56505,
+    "lon": 106.3534,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35294,8 +35294,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Dong Hung",
     "enodeb_id": "400020",
-    "lat": 20.53381,
-    "lon": 106.3646,
+    "lat": 20.53382,
+    "lon": 106.36471,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35316,8 +35316,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Dong Hung",
     "enodeb_id": "400021",
-    "lat": 20.55839,
-    "lon": 106.3543,
+    "lat": 20.5583,
+    "lon": 106.3544,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35338,8 +35338,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Dong Hung",
     "enodeb_id": "400579",
-    "lat": 20.549911,
-    "lon": 106.35477,
+    "lat": 20.54931,
+    "lon": 106.35478,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35360,8 +35360,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Dong Hung",
     "enodeb_id": "400110",
-    "lat": 20.581791,
-    "lon": 106.39667,
+    "lat": 20.58188,
+    "lon": 106.39659,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35382,8 +35382,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Dong Hung",
     "enodeb_id": "400022",
-    "lat": 20.51136,
-    "lon": 106.3629,
+    "lat": 20.511393,
+    "lon": 106.362857,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35404,8 +35404,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Dong Hung",
     "enodeb_id": "400020",
-    "lat": 20.519819,
-    "lon": 106.36574,
+    "lat": 20.51982,
+    "lon": 106.36578,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35426,8 +35426,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Dong Hung",
     "enodeb_id": "400043",
-    "lat": 20.495984,
-    "lon": 106.3609,
+    "lat": 20.496387,
+    "lon": 106.360789,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35448,8 +35448,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Ha",
     "enodeb_id": "400056",
-    "lat": 20.5899,
-    "lon": 106.226,
+    "lat": 20.589944,
+    "lon": 106.225507,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35470,8 +35470,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Ha",
     "enodeb_id": "400057",
-    "lat": 20.58578,
-    "lon": 106.2317,
+    "lat": 20.58695,
+    "lon": 106.22916,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35492,8 +35492,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Ha",
     "enodeb_id": "877218",
-    "lat": 20.61821,
-    "lon": 106.1508,
+    "lat": 20.61835,
+    "lon": 106.15095,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35514,8 +35514,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Ha",
     "enodeb_id": "400059",
-    "lat": 20.6168,
-    "lon": 106.1456,
+    "lat": 20.61686,
+    "lon": 106.14567,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35536,8 +35536,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Ha",
     "enodeb_id": "400650",
-    "lat": 20.63804,
-    "lon": 106.1427,
+    "lat": 20.63805,
+    "lon": 106.14266,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35558,8 +35558,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Ha",
     "enodeb_id": "400583",
-    "lat": 20.5965,
-    "lon": 106.23784,
+    "lat": 20.5966,
+    "lon": 106.23799,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35580,8 +35580,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Ha",
     "enodeb_id": "400452",
-    "lat": 20.59624,
-    "lon": 106.1543,
+    "lat": 20.596289,
+    "lon": 106.154342,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35602,8 +35602,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Hung Ha",
     "enodeb_id": "400167",
-    "lat": 20.58981,
-    "lon": 106.14,
+    "lat": 20.58984,
+    "lon": 106.13995,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35624,8 +35624,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Kien Xuong",
     "enodeb_id": "400023",
-    "lat": 20.38821,
-    "lon": 106.43966,
+    "lat": 20.388433,
+    "lon": 106.439776,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35646,8 +35646,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Kien Xuong",
     "enodeb_id": "400024",
-    "lat": 20.391365,
-    "lon": 106.44674,
+    "lat": 20.391056,
+    "lon": 106.446821,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35668,8 +35668,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Kien Xuong",
     "enodeb_id": "400135",
-    "lat": 20.47061,
-    "lon": 106.3785,
+    "lat": 20.47071,
+    "lon": 106.37873,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35690,8 +35690,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Kien Xuong",
     "enodeb_id": "400136",
-    "lat": 20.4144,
-    "lon": 106.3775,
+    "lat": 20.414405,
+    "lon": 106.377498,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35712,7 +35712,7 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Quynh Phu",
     "enodeb_id": "400065",
-    "lat": 20.66084,
+    "lat": 20.66081,
     "lon": 106.4146,
     "vip": "NO",
     "is_vip": false,
@@ -35734,8 +35734,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Quynh Phu",
     "enodeb_id": "400140",
-    "lat": 20.580626,
-    "lon": 106.37883,
+    "lat": 20.58045,
+    "lon": 106.37873,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35756,8 +35756,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Quynh Phu",
     "enodeb_id": "400069",
-    "lat": 20.64755,
-    "lon": 106.32711,
+    "lat": 20.64749,
+    "lon": 106.327,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35778,8 +35778,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Quynh Phu",
     "enodeb_id": "400141",
-    "lat": 20.68163,
-    "lon": 106.3059,
+    "lat": 20.681574,
+    "lon": 106.305966,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35800,8 +35800,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Quynh Phu",
     "enodeb_id": "400570",
-    "lat": 20.664988,
-    "lon": 106.34285,
+    "lat": 20.665404,
+    "lon": 106.343397,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35822,8 +35822,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Quynh Phu",
     "enodeb_id": "400474",
-    "lat": 20.65243,
-    "lon": 106.3527,
+    "lat": 20.652078,
+    "lon": 106.353525,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35844,8 +35844,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Quynh Phu",
     "enodeb_id": "877057",
-    "lat": 20.643084,
-    "lon": 106.31465,
+    "lat": 20.642742,
+    "lon": 106.314759,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35866,8 +35866,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Quynh Phu",
     "enodeb_id": "400076",
-    "lat": 20.66029,
-    "lon": 106.3269,
+    "lat": 20.66027,
+    "lon": 106.32686,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35888,8 +35888,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Quynh Phu",
     "enodeb_id": "400173",
-    "lat": 20.66975,
-    "lon": 106.3231,
+    "lat": 20.66965,
+    "lon": 106.32303,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35910,8 +35910,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Quynh Phu",
     "enodeb_id": "400013",
-    "lat": 20.65594,
-    "lon": 106.3235,
+    "lat": 20.65617,
+    "lon": 106.3233,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35932,8 +35932,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Quynh Phu",
     "enodeb_id": "400077",
-    "lat": 20.648848,
-    "lon": 106.42431,
+    "lat": 20.648799,
+    "lon": 106.424129,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35954,8 +35954,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400000",
-    "lat": 20.44538,
-    "lon": 106.3519,
+    "lat": 20.44531,
+    "lon": 106.35192,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -35976,8 +35976,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400001",
-    "lat": 20.4412,
-    "lon": 106.3391,
+    "lat": 20.441232,
+    "lon": 106.339099,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -35998,8 +35998,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400002",
-    "lat": 20.45123,
-    "lon": 106.3338,
+    "lat": 20.45115,
+    "lon": 106.33401,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36020,8 +36020,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400078",
-    "lat": 20.4302,
-    "lon": 106.3669,
+    "lat": 20.43048,
+    "lon": 106.36515,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36042,8 +36042,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400432",
-    "lat": 20.48451,
-    "lon": 106.34901,
+    "lat": 20.48455,
+    "lon": 106.34853,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36064,8 +36064,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "877155",
-    "lat": 20.471234,
-    "lon": 106.35292,
+    "lat": 20.47136,
+    "lon": 106.35256,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36086,8 +36086,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400028",
-    "lat": 20.43952,
-    "lon": 106.3035,
+    "lat": 20.437845,
+    "lon": 106.304798,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36130,8 +36130,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400511",
-    "lat": 20.439878,
-    "lon": 106.34774,
+    "lat": 20.44102,
+    "lon": 106.34797,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36153,7 +36153,7 @@ const rolloutData = [
     "district": "Thai Binh",
     "enodeb_id": "400006",
     "lat": 20.442503,
-    "lon": 106.34244,
+    "lon": 106.342439,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36196,8 +36196,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400031",
-    "lat": 20.43486,
-    "lon": 106.3265,
+    "lat": 20.43295,
+    "lon": 106.32683,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36218,8 +36218,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400081",
-    "lat": 20.44718,
-    "lon": 106.29639,
+    "lat": 20.44729,
+    "lon": 106.2964,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36262,8 +36262,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400711",
-    "lat": 20.44326,
-    "lon": 106.31999,
+    "lat": 20.443381,
+    "lon": 106.320063,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36284,8 +36284,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400712",
-    "lat": 20.447529,
-    "lon": 106.32154,
+    "lat": 20.4475288,
+    "lon": 106.321541,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36394,8 +36394,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400177",
-    "lat": 20.4624,
-    "lon": 106.325,
+    "lat": 20.46235,
+    "lon": 106.3247,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36416,8 +36416,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400015",
-    "lat": 20.451064,
-    "lon": 106.34276,
+    "lat": 20.45084,
+    "lon": 106.34256,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36438,8 +36438,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "877060",
-    "lat": 20.439281,
-    "lon": 106.35149,
+    "lat": 20.43943,
+    "lon": 106.35136,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36482,8 +36482,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400017",
-    "lat": 20.44457,
-    "lon": 106.3283,
+    "lat": 20.44459,
+    "lon": 106.32828,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36504,8 +36504,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400665",
-    "lat": 20.46622,
-    "lon": 106.35905,
+    "lat": 20.46629,
+    "lon": 106.35912,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36526,8 +36526,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Binh",
     "enodeb_id": "400018",
-    "lat": 20.42115,
-    "lon": 106.3449,
+    "lat": 20.421059,
+    "lon": 106.344929,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36548,8 +36548,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400666",
-    "lat": 20.39942,
-    "lon": 106.47961,
+    "lat": 20.399428,
+    "lon": 106.479629,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36570,8 +36570,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400035",
-    "lat": 20.4414,
-    "lon": 106.5187,
+    "lat": 20.441492,
+    "lon": 106.518561,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36592,8 +36592,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400036",
-    "lat": 20.401563,
-    "lon": 106.49125,
+    "lat": 20.401737,
+    "lon": 106.491263,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36614,8 +36614,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400037",
-    "lat": 20.39291,
-    "lon": 106.5776,
+    "lat": 20.3957,
+    "lon": 106.57663,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36636,8 +36636,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400038",
-    "lat": 20.39176,
-    "lon": 106.52748,
+    "lat": 20.39173,
+    "lon": 106.52752,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36658,7 +36658,7 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400145",
-    "lat": 20.41983,
+    "lat": 20.41984,
     "lon": 106.5414,
     "vip": "NO",
     "is_vip": false,
@@ -36680,8 +36680,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400087",
-    "lat": 20.38659,
-    "lon": 106.5163,
+    "lat": 20.38636,
+    "lon": 106.5165,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36702,8 +36702,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400038",
-    "lat": 20.38896,
-    "lon": 106.53726,
+    "lat": 20.3892,
+    "lon": 106.5371,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36724,7 +36724,7 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400042",
-    "lat": 20.34527,
+    "lat": 20.345,
     "lon": 106.5494,
     "vip": "NO",
     "is_vip": false,
@@ -36746,8 +36746,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400083",
-    "lat": 20.38993,
-    "lon": 106.4949,
+    "lat": 20.39005,
+    "lon": 106.4946,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36768,8 +36768,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400499",
-    "lat": 20.42008,
-    "lon": 106.5068,
+    "lat": 20.42017,
+    "lon": 106.50662,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36790,8 +36790,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400703",
-    "lat": 20.394041,
-    "lon": 106.50907,
+    "lat": 20.39403,
+    "lon": 106.5091,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36812,8 +36812,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400092",
-    "lat": 20.40849,
-    "lon": 106.501,
+    "lat": 20.40858,
+    "lon": 106.50096,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36834,8 +36834,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400181",
-    "lat": 20.395362,
-    "lon": 106.501,
+    "lat": 20.39532,
+    "lon": 106.5009,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36856,8 +36856,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Tien Hai",
     "enodeb_id": "400093",
-    "lat": 20.4044,
-    "lon": 106.5034,
+    "lat": 20.40444,
+    "lon": 106.50346,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36878,8 +36878,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Thuy",
     "enodeb_id": "400707",
-    "lat": 20.566123,
-    "lon": 106.56417,
+    "lat": 20.566345,
+    "lon": 106.56391,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36900,8 +36900,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Thuy",
     "enodeb_id": "877068",
-    "lat": 20.562636,
-    "lon": 106.57761,
+    "lat": 20.561487,
+    "lon": 106.577752,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36922,8 +36922,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Thuy",
     "enodeb_id": "400026",
-    "lat": 20.56075,
-    "lon": 106.567,
+    "lat": 20.56067,
+    "lon": 106.56693,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36944,8 +36944,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Thuy",
     "enodeb_id": "400097",
-    "lat": 20.556803,
-    "lon": 106.55596,
+    "lat": 20.55667,
+    "lon": 106.55591,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36966,8 +36966,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Thuy",
     "enodeb_id": "877074",
-    "lat": 20.55722,
-    "lon": 106.5322,
+    "lat": 20.55724,
+    "lon": 106.53219,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -36988,8 +36988,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Thai Thuy",
     "enodeb_id": "877073",
-    "lat": 20.548524,
-    "lon": 106.51662,
+    "lat": 20.548552,
+    "lon": 106.516788,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37010,8 +37010,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Vu Thu",
     "enodeb_id": "400049",
-    "lat": 20.479049,
-    "lon": 106.32181,
+    "lat": 20.4791,
+    "lon": 106.32195,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37032,8 +37032,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Vu Thu",
     "enodeb_id": "400100",
-    "lat": 20.47236,
-    "lon": 106.3194,
+    "lat": 20.47251,
+    "lon": 106.31944,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37054,8 +37054,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Vu Thu",
     "enodeb_id": "400029",
-    "lat": 20.43727,
-    "lon": 106.2894,
+    "lat": 20.4373,
+    "lon": 106.28938,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37076,8 +37076,8 @@ const rolloutData = [
     "province": "Hung Yen",
     "district": "Vu Thu",
     "enodeb_id": "877082",
-    "lat": 20.43282,
-    "lon": 106.2837,
+    "lat": 20.43288,
+    "lon": 106.28371,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37121,7 +37121,7 @@ const rolloutData = [
     "district": "Bim Son",
     "enodeb_id": "460723",
     "lat": 20.101064,
-    "lon": 105.85264,
+    "lon": 105.852637,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37165,7 +37165,7 @@ const rolloutData = [
     "district": "Bim Son",
     "enodeb_id": "460472",
     "lat": 20.111015,
-    "lon": 105.8739,
+    "lon": 105.873895,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37252,8 +37252,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Bim Son",
     "enodeb_id": "870175",
-    "lat": 20.065095,
-    "lon": 105.85243,
+    "lat": 20.0650949,
+    "lon": 105.852433,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37275,7 +37275,7 @@ const rolloutData = [
     "district": "Bim Son",
     "enodeb_id": "460477",
     "lat": 20.08109,
-    "lon": 105.85188,
+    "lon": 105.851883,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37318,8 +37318,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Dong Son",
     "enodeb_id": "460154",
-    "lat": 19.79725,
-    "lon": 105.6813,
+    "lat": 19.797848,
+    "lon": 105.68121,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37340,8 +37340,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Dong Son",
     "enodeb_id": "460079",
-    "lat": 19.82747,
-    "lon": 105.682,
+    "lat": 19.830543,
+    "lon": 105.680396,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37362,8 +37362,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Dong Son",
     "enodeb_id": "460080",
-    "lat": 19.816667,
-    "lon": 105.72944,
+    "lat": 19.816676,
+    "lon": 105.729435,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37384,8 +37384,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Dong Son",
     "enodeb_id": "460157",
-    "lat": 19.844,
-    "lon": 105.701,
+    "lat": 19.843896,
+    "lon": 105.70087,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37406,8 +37406,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Dong Son",
     "enodeb_id": "460669",
-    "lat": 19.808346,
-    "lon": 105.72345,
+    "lat": 19.808745,
+    "lon": 105.723606,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37428,8 +37428,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Dong Son",
     "enodeb_id": "460158",
-    "lat": 19.82917,
-    "lon": 105.71941,
+    "lat": 19.79442,
+    "lon": 105.705494,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37451,7 +37451,7 @@ const rolloutData = [
     "district": "Dong Son",
     "enodeb_id": "460159",
     "lat": 19.793662,
-    "lon": 105.70505,
+    "lon": 105.705046,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37517,7 +37517,7 @@ const rolloutData = [
     "district": "Hoang Hoa",
     "enodeb_id": "460160",
     "lat": 19.845155,
-    "lon": 105.9094,
+    "lon": 105.909402,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37869,7 +37869,7 @@ const rolloutData = [
     "district": "Hoang Hoa",
     "enodeb_id": "460596",
     "lat": 19.81206,
-    "lon": 105.91665,
+    "lon": 105.916649,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37891,7 +37891,7 @@ const rolloutData = [
     "district": "Hoang Hoa",
     "enodeb_id": "460351",
     "lat": 19.896246,
-    "lon": 105.79977,
+    "lon": 105.799772,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -37913,7 +37913,7 @@ const rolloutData = [
     "district": "Hoang Hoa",
     "enodeb_id": "460352",
     "lat": 19.875102,
-    "lon": 105.80778,
+    "lon": 105.807776,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -38132,8 +38132,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Hau Loc",
     "enodeb_id": "460169",
-    "lat": 19.921263,
-    "lon": 105.88911,
+    "lat": 19.9212627,
+    "lon": 105.889106,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -38176,8 +38176,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Hau Loc",
     "enodeb_id": "460760",
-    "lat": 19.91497,
-    "lon": 105.91895,
+    "lat": 19.9149696,
+    "lon": 105.918954,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -38286,8 +38286,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Ha Trung",
     "enodeb_id": "870356",
-    "lat": 19.984636,
-    "lon": 105.84533,
+    "lat": 19.9846358,
+    "lon": 105.845326,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -38308,8 +38308,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Nong Cong",
     "enodeb_id": "460183",
-    "lat": 19.701685,
-    "lon": 105.68144,
+    "lat": 19.7016847,
+    "lon": 105.681441,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -38551,7 +38551,7 @@ const rolloutData = [
     "district": "Nga Son",
     "enodeb_id": "460733",
     "lat": 20.062022,
-    "lon": 106.04371,
+    "lon": 106.043706,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -38572,8 +38572,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Nga Son",
     "enodeb_id": "460212",
-    "lat": 20.006101,
-    "lon": 105.97036,
+    "lat": 20.0061011,
+    "lon": 105.970363,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -38639,7 +38639,7 @@ const rolloutData = [
     "district": "Nga Son",
     "enodeb_id": "460762",
     "lat": 19.99787,
-    "lon": 105.94775,
+    "lon": 105.947746,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -38770,8 +38770,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Nhu Thanh",
     "enodeb_id": "460222",
-    "lat": 19.648763,
-    "lon": 105.55602,
+    "lat": 19.6487627,
+    "lon": 105.556024,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -38836,8 +38836,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Nhu Xuan",
     "enodeb_id": "460230",
-    "lat": 19.472688,
-    "lon": 105.44972,
+    "lat": 19.4726881,
+    "lon": 105.449718,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -38858,8 +38858,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Quang Xuong",
     "enodeb_id": "460094",
-    "lat": 19.675722,
-    "lon": 105.79131,
+    "lat": 19.6757222,
+    "lon": 105.791312,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39035,7 +39035,7 @@ const rolloutData = [
     "district": "Sam Son",
     "enodeb_id": "461027",
     "lat": 19.734894,
-    "lon": 105.89451,
+    "lon": 105.894507,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39100,8 +39100,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Sam Son",
     "enodeb_id": "460252",
-    "lat": 19.727469,
-    "lon": 105.86651,
+    "lat": 19.7274691,
+    "lon": 105.866507,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39123,7 +39123,7 @@ const rolloutData = [
     "district": "Sam Son",
     "enodeb_id": "460103",
     "lat": 19.747988,
-    "lon": 105.90771,
+    "lon": 105.907714,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39145,7 +39145,7 @@ const rolloutData = [
     "district": "Tinh Gia",
     "enodeb_id": "460106",
     "lat": 19.457282,
-    "lon": 105.78289,
+    "lon": 105.782885,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39254,8 +39254,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Tinh Gia",
     "enodeb_id": "870209",
-    "lat": 19.315423,
-    "lon": 105.80348,
+    "lat": 19.3154231,
+    "lon": 105.803485,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39321,7 +39321,7 @@ const rolloutData = [
     "district": "Tinh Gia",
     "enodeb_id": "870210",
     "lat": 19.468097,
-    "lon": 105.79024,
+    "lon": 105.790236,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39364,8 +39364,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Tinh Gia",
     "enodeb_id": "460257",
-    "lat": 19.349595,
-    "lon": 105.75657,
+    "lat": 19.3495945,
+    "lon": 105.756573,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39387,7 +39387,7 @@ const rolloutData = [
     "district": "Tinh Gia",
     "enodeb_id": "870211",
     "lat": 19.323887,
-    "lon": 105.82096,
+    "lon": 105.820963,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39409,7 +39409,7 @@ const rolloutData = [
     "district": "Tinh Gia",
     "enodeb_id": "460414",
     "lat": 19.3218,
-    "lon": 105.80754,
+    "lon": 105.807539,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39453,7 +39453,7 @@ const rolloutData = [
     "district": "Tinh Gia",
     "enodeb_id": "460060",
     "lat": 19.353564,
-    "lon": 105.79138,
+    "lon": 105.791378,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39497,7 +39497,7 @@ const rolloutData = [
     "district": "Tinh Gia",
     "enodeb_id": "460061",
     "lat": 19.349244,
-    "lon": 105.74422,
+    "lon": 105.744215,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39519,7 +39519,7 @@ const rolloutData = [
     "district": "Tinh Gia",
     "enodeb_id": "870216",
     "lat": 19.37564,
-    "lon": 105.75733,
+    "lon": 105.757329,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39541,7 +39541,7 @@ const rolloutData = [
     "district": "Tinh Gia",
     "enodeb_id": "460064",
     "lat": 19.351864,
-    "lon": 105.75199,
+    "lon": 105.751986,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39650,7 +39650,7 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Tinh Gia",
     "enodeb_id": "460118",
-    "lat": 19.36243,
+    "lat": 19.3624296,
     "lon": 105.69218,
     "vip": "NO",
     "is_vip": false,
@@ -39672,8 +39672,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Tinh Gia",
     "enodeb_id": "460262",
-    "lat": 19.51917,
-    "lon": 105.79177,
+    "lat": 19.5191698,
+    "lon": 105.791774,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39760,8 +39760,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Tinh Gia",
     "enodeb_id": "870218",
-    "lat": 19.407485,
-    "lon": 105.77968,
+    "lat": 19.4074853,
+    "lon": 105.779679,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39893,7 +39893,7 @@ const rolloutData = [
     "district": "Tinh Gia",
     "enodeb_id": "460125",
     "lat": 19.408876,
-    "lon": 105.75283,
+    "lon": 105.752832,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -39915,7 +39915,7 @@ const rolloutData = [
     "district": "Tinh Gia",
     "enodeb_id": "460421",
     "lat": 19.418629,
-    "lon": 105.77715,
+    "lon": 105.777154,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -40025,7 +40025,7 @@ const rolloutData = [
     "district": "Thanh Hoa",
     "enodeb_id": "870380",
     "lat": 19.800151,
-    "lon": 105.79212,
+    "lon": 105.792115,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -40090,8 +40090,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Thanh Hoa",
     "enodeb_id": "460057",
-    "lat": 19.7751,
-    "lon": 105.76974,
+    "lat": 19.774731,
+    "lon": 105.76959,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -40156,8 +40156,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Thanh Hoa",
     "enodeb_id": "461071",
-    "lat": 19.806263,
-    "lon": 105.77275,
+    "lat": 19.8062629,
+    "lon": 105.772754,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -40178,8 +40178,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Thanh Hoa",
     "enodeb_id": "460709",
-    "lat": 19.766014,
-    "lon": 105.77787,
+    "lat": 19.76608,
+    "lon": 105.77763,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -40333,7 +40333,7 @@ const rolloutData = [
     "district": "Thanh Hoa",
     "enodeb_id": "460791",
     "lat": 19.788135,
-    "lon": 105.78004,
+    "lon": 105.780035,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -40376,8 +40376,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Thanh Hoa",
     "enodeb_id": "460021",
-    "lat": 19.803667,
-    "lon": 105.76738,
+    "lat": 19.8036667,
+    "lon": 105.767375,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -40575,7 +40575,7 @@ const rolloutData = [
     "district": "Thanh Hoa",
     "enodeb_id": "460332",
     "lat": 19.795261,
-    "lon": 105.78269,
+    "lon": 105.782694,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -40751,7 +40751,7 @@ const rolloutData = [
     "district": "Thanh Hoa",
     "enodeb_id": "460040",
     "lat": 19.773206,
-    "lon": 105.78699,
+    "lon": 105.786988,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -40905,7 +40905,7 @@ const rolloutData = [
     "district": "Thanh Hoa",
     "enodeb_id": "870384",
     "lat": 19.748748,
-    "lon": 105.85597,
+    "lon": 105.855968,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41147,7 +41147,7 @@ const rolloutData = [
     "district": "Thanh Hoa",
     "enodeb_id": "461018",
     "lat": 19.831147,
-    "lon": 105.76642,
+    "lon": 105.766417,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41345,7 +41345,7 @@ const rolloutData = [
     "district": "Thanh Hoa",
     "enodeb_id": "870385",
     "lat": 19.821068,
-    "lon": 105.76604,
+    "lon": 105.766043,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41410,8 +41410,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Thanh Hoa",
     "enodeb_id": "460057",
-    "lat": 19.772359,
-    "lon": 105.76711,
+    "lat": 19.7723585,
+    "lon": 105.767111,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41433,7 +41433,7 @@ const rolloutData = [
     "district": "Thanh Hoa",
     "enodeb_id": "460484",
     "lat": 19.810438,
-    "lon": 105.8048,
+    "lon": 105.804804,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41455,7 +41455,7 @@ const rolloutData = [
     "district": "Thanh Hoa",
     "enodeb_id": "460007",
     "lat": 19.822139,
-    "lon": 105.77266,
+    "lon": 105.772659,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41498,8 +41498,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Trieu Son",
     "enodeb_id": "460133",
-    "lat": 19.818583,
-    "lon": 105.58795,
+    "lat": 19.81766,
+    "lon": 105.58807,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41586,8 +41586,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Trieu Son",
     "enodeb_id": "460276",
-    "lat": 19.779898,
-    "lon": 105.67906,
+    "lat": 19.7798975,
+    "lon": 105.679056,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41609,7 +41609,7 @@ const rolloutData = [
     "district": "Trieu Son",
     "enodeb_id": "460540",
     "lat": 19.763726,
-    "lon": 105.68525,
+    "lon": 105.685247,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41652,8 +41652,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Trieu Son",
     "enodeb_id": "460278",
-    "lat": 19.804804,
-    "lon": 105.55179,
+    "lat": 19.8048035,
+    "lon": 105.551789,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41719,7 +41719,7 @@ const rolloutData = [
     "district": "Trieu Son",
     "enodeb_id": "460863",
     "lat": 19.828568,
-    "lon": 105.58186,
+    "lon": 105.581862,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41851,7 +41851,7 @@ const rolloutData = [
     "district": "Trieu Son",
     "enodeb_id": "460794",
     "lat": 19.783586,
-    "lon": 105.63138,
+    "lon": 105.631382,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -41916,8 +41916,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Trieu Son",
     "enodeb_id": "460287",
-    "lat": 19.851418,
-    "lon": 105.48813,
+    "lat": 19.8514176,
+    "lon": 105.488133,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42092,7 +42092,7 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Trieu Son",
     "enodeb_id": "870230",
-    "lat": 19.877977,
+    "lat": 19.8779768,
     "lon": 105.55524,
     "vip": "NO",
     "is_vip": false,
@@ -42114,8 +42114,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Trieu Son",
     "enodeb_id": "460294",
-    "lat": 19.845127,
-    "lon": 105.53237,
+    "lat": 19.8451273,
+    "lon": 105.532373,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42137,7 +42137,7 @@ const rolloutData = [
     "district": "Thach Thanh",
     "enodeb_id": "460726",
     "lat": 20.129206,
-    "lon": 105.67787,
+    "lon": 105.677865,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42202,8 +42202,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Thieu Hoa",
     "enodeb_id": "460299",
-    "lat": 19.851221,
-    "lon": 105.73234,
+    "lat": 19.8512211,
+    "lon": 105.732338,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42269,7 +42269,7 @@ const rolloutData = [
     "district": "Thieu Hoa",
     "enodeb_id": "460986",
     "lat": 19.883106,
-    "lon": 105.67691,
+    "lon": 105.676905,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42357,7 +42357,7 @@ const rolloutData = [
     "district": "Tho Xuan",
     "enodeb_id": "460307",
     "lat": 19.91911,
-    "lon": 105.52907,
+    "lon": 105.529072,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42467,7 +42467,7 @@ const rolloutData = [
     "district": "Tho Xuan",
     "enodeb_id": "460309",
     "lat": 19.890849,
-    "lon": 105.47102,
+    "lon": 105.471018,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42489,7 +42489,7 @@ const rolloutData = [
     "district": "Tho Xuan",
     "enodeb_id": "460313",
     "lat": 19.942195,
-    "lon": 105.4755,
+    "lon": 105.475495,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42577,7 +42577,7 @@ const rolloutData = [
     "district": "Tho Xuan",
     "enodeb_id": "460454",
     "lat": 19.932814,
-    "lon": 105.57335,
+    "lon": 105.573349,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42643,7 +42643,7 @@ const rolloutData = [
     "district": "Tho Xuan",
     "enodeb_id": "460558",
     "lat": 19.901813,
-    "lon": 105.39364,
+    "lon": 105.393636,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42752,8 +42752,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Tho Xuan",
     "enodeb_id": "870387",
-    "lat": 19.940844,
-    "lon": 105.5034,
+    "lat": 19.9408436,
+    "lon": 105.503398,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42796,8 +42796,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Tho Xuan",
     "enodeb_id": "460795",
-    "lat": 19.916367,
-    "lon": 105.5835,
+    "lat": 19.9163673,
+    "lon": 105.583502,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42819,7 +42819,7 @@ const rolloutData = [
     "district": "Tho Xuan",
     "enodeb_id": "460458",
     "lat": 19.954463,
-    "lon": 105.53992,
+    "lon": 105.539916,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42884,7 +42884,7 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Tho Xuan",
     "enodeb_id": "460316",
-    "lat": 19.90184,
+    "lat": 19.9018399,
     "lon": 105.57159,
     "vip": "NO",
     "is_vip": false,
@@ -42929,7 +42929,7 @@ const rolloutData = [
     "district": "Tho Xuan",
     "enodeb_id": "460319",
     "lat": 19.936337,
-    "lon": 105.54054,
+    "lon": 105.540538,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -42973,7 +42973,7 @@ const rolloutData = [
     "district": "Tho Xuan",
     "enodeb_id": "460321",
     "lat": 19.965572,
-    "lon": 105.49592,
+    "lon": 105.495921,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43016,8 +43016,8 @@ const rolloutData = [
     "province": "Thanh Hoa",
     "district": "Tho Xuan",
     "enodeb_id": "460459",
-    "lat": 19.943193,
-    "lon": 105.52417,
+    "lat": 19.9431928,
+    "lon": 105.524174,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43148,8 +43148,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Dinh Hoa",
     "enodeb_id": "410076",
-    "lat": 21.787766,
-    "lon": 105.51054,
+    "lat": 21.78673,
+    "lon": 105.5114,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43170,8 +43170,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Dong Hy",
     "enodeb_id": "410022",
-    "lat": 21.62118,
-    "lon": 105.83859,
+    "lat": 21.621255,
+    "lon": 105.838654,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43192,7 +43192,7 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Dong Hy",
     "enodeb_id": "410156",
-    "lat": 21.630383,
+    "lat": 21.6303834,
     "lon": 105.83416,
     "vip": "NO",
     "is_vip": false,
@@ -43214,8 +43214,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Dong Hy",
     "enodeb_id": "410024",
-    "lat": 21.64132,
-    "lon": 105.81863,
+    "lat": 21.640715,
+    "lon": 105.818096,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43236,8 +43236,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Dai Tu",
     "enodeb_id": "410025",
-    "lat": 21.63136,
-    "lon": 105.64059,
+    "lat": 21.63129,
+    "lon": 105.64055,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43258,8 +43258,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Dai Tu",
     "enodeb_id": "410166",
-    "lat": 21.5531,
-    "lon": 105.64698,
+    "lat": 21.55308,
+    "lon": 105.64696,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43280,8 +43280,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Dai Tu",
     "enodeb_id": "872396",
-    "lat": 21.595198,
-    "lon": 105.68233,
+    "lat": 21.59524,
+    "lon": 105.68227,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43302,8 +43302,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Dai Tu",
     "enodeb_id": "410025",
-    "lat": 21.61371,
-    "lon": 105.66887,
+    "lat": 21.61322,
+    "lon": 105.66881,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43324,8 +43324,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Dai Tu",
     "enodeb_id": "872413",
-    "lat": 21.585495,
-    "lon": 105.70776,
+    "lat": 21.58579,
+    "lon": 105.7074,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43346,8 +43346,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Phu Binh",
     "enodeb_id": "410026",
-    "lat": 21.472,
-    "lon": 105.92133,
+    "lat": 21.47197,
+    "lon": 105.92121,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43368,8 +43368,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Phu Binh",
     "enodeb_id": "410095",
-    "lat": 21.47297,
-    "lon": 105.93729,
+    "lat": 21.47315,
+    "lon": 105.93727,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43390,8 +43390,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Phu Binh",
     "enodeb_id": "410311",
-    "lat": 21.45911,
-    "lon": 105.89815,
+    "lat": 21.459086,
+    "lon": 105.898331,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43412,8 +43412,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Phu Binh",
     "enodeb_id": "410181",
-    "lat": 21.46301,
-    "lon": 105.97774,
+    "lat": 21.463009,
+    "lon": 105.977785,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43434,8 +43434,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Phu Binh",
     "enodeb_id": "872226",
-    "lat": 21.497639,
-    "lon": 105.89654,
+    "lat": 21.49812,
+    "lon": 105.89637,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43456,8 +43456,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Phu Luong",
     "enodeb_id": "410099",
-    "lat": 21.639449,
-    "lon": 105.77269,
+    "lat": 21.63962,
+    "lon": 105.77254,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43478,8 +43478,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Phu Luong",
     "enodeb_id": "410029",
-    "lat": 21.727929,
-    "lon": 105.70844,
+    "lat": 21.726555,
+    "lon": 105.709322,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43500,8 +43500,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Phu Luong",
     "enodeb_id": "410100",
-    "lat": 21.737838,
-    "lon": 105.70792,
+    "lat": 21.737871,
+    "lon": 105.707941,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43522,8 +43522,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Phu Luong",
     "enodeb_id": "410196",
-    "lat": 21.792055,
-    "lon": 105.70725,
+    "lat": 21.792084,
+    "lon": 105.707342,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43544,8 +43544,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Phu Luong",
     "enodeb_id": "410103",
-    "lat": 21.802093,
-    "lon": 105.73868,
+    "lat": 21.800184,
+    "lon": 105.736912,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43566,8 +43566,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "872405",
-    "lat": 21.424169,
-    "lon": 105.90705,
+    "lat": 21.424099,
+    "lon": 105.907191,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43588,8 +43588,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410030",
-    "lat": 21.45309,
-    "lon": 105.77286,
+    "lat": 21.452825,
+    "lon": 105.772859,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43610,17 +43610,17 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "872459",
-    "lat": 21.41116,
-    "lon": 105.86527,
+    "lat": 21.41095,
+    "lon": 105.865222,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "RFI Ready",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "2026-05-07 00:00:00",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -43633,7 +43633,7 @@ const rolloutData = [
     "district": "Pho Yen",
     "enodeb_id": "410032",
     "lat": 21.37096,
-    "lon": 105.90034,
+    "lon": 105.9003,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43654,8 +43654,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410236",
-    "lat": 21.420019,
-    "lon": 105.89622,
+    "lat": 21.42058,
+    "lon": 105.8969,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43676,8 +43676,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410033",
-    "lat": 21.448006,
-    "lon": 105.89575,
+    "lat": 21.447984,
+    "lon": 105.895755,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43698,8 +43698,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410035",
-    "lat": 21.46069,
-    "lon": 105.88185,
+    "lat": 21.46104,
+    "lon": 105.8817,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43720,8 +43720,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410204",
-    "lat": 21.470534,
-    "lon": 105.87012,
+    "lat": 21.4709,
+    "lon": 105.87015,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43742,8 +43742,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410331",
-    "lat": 21.471597,
-    "lon": 105.88732,
+    "lat": 21.47163,
+    "lon": 105.88728,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43764,8 +43764,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410256",
-    "lat": 21.455227,
-    "lon": 105.89183,
+    "lat": 21.45535,
+    "lon": 105.89176,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43786,8 +43786,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410000",
-    "lat": 21.417864,
-    "lon": 105.88656,
+    "lat": 21.417234,
+    "lon": 105.887322,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43808,8 +43808,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410273",
-    "lat": 21.439465,
-    "lon": 105.88547,
+    "lat": 21.43882,
+    "lon": 105.8857,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43830,8 +43830,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410001",
-    "lat": 21.43164,
-    "lon": 105.88713,
+    "lat": 21.43147,
+    "lon": 105.8872,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43853,7 +43853,7 @@ const rolloutData = [
     "district": "Pho Yen",
     "enodeb_id": "410002",
     "lat": 21.424889,
-    "lon": 105.89252,
+    "lon": 105.892522,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43875,7 +43875,7 @@ const rolloutData = [
     "district": "Pho Yen",
     "enodeb_id": "410003",
     "lat": 21.422379,
-    "lon": 105.89486,
+    "lon": 105.894857,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43897,7 +43897,7 @@ const rolloutData = [
     "district": "Pho Yen",
     "enodeb_id": "410251",
     "lat": 21.432052,
-    "lon": 105.89437,
+    "lon": 105.894367,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43918,7 +43918,7 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410240",
-    "lat": 21.436914,
+    "lat": 21.4369137,
     "lon": 105.89803,
     "vip": "NO",
     "is_vip": false,
@@ -43940,8 +43940,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410036",
-    "lat": 21.40354,
-    "lon": 105.87458,
+    "lat": 21.40351,
+    "lon": 105.874713,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43963,7 +43963,7 @@ const rolloutData = [
     "district": "Pho Yen",
     "enodeb_id": "410008",
     "lat": 21.426496,
-    "lon": 105.89683,
+    "lon": 105.896829,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -43984,8 +43984,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "872152",
-    "lat": 21.35836,
-    "lon": 105.89426,
+    "lat": 21.354265,
+    "lon": 105.894798,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44006,8 +44006,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Pho Yen",
     "enodeb_id": "410114",
-    "lat": 21.3867,
-    "lon": 105.931,
+    "lat": 21.386177,
+    "lon": 105.927228,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44028,8 +44028,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Song Cong",
     "enodeb_id": "410117",
-    "lat": 21.50575,
-    "lon": 105.80833,
+    "lat": 21.505753,
+    "lon": 105.80832,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44050,8 +44050,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Song Cong",
     "enodeb_id": "410118",
-    "lat": 21.483643,
-    "lon": 105.87684,
+    "lat": 21.483989,
+    "lon": 105.876817,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44072,8 +44072,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Song Cong",
     "enodeb_id": "410043",
-    "lat": 21.44402,
-    "lon": 105.85777,
+    "lat": 21.44426,
+    "lon": 105.8577,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44094,8 +44094,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Song Cong",
     "enodeb_id": "410044",
-    "lat": 21.45586,
-    "lon": 105.85184,
+    "lat": 21.45594,
+    "lon": 105.8519,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44116,8 +44116,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Song Cong",
     "enodeb_id": "410119",
-    "lat": 21.4581,
-    "lon": 105.8661,
+    "lat": 21.45785,
+    "lon": 105.866,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44138,8 +44138,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Song Cong",
     "enodeb_id": "410045",
-    "lat": 21.47165,
-    "lon": 105.84521,
+    "lat": 21.47027,
+    "lon": 105.8458,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44160,7 +44160,7 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Song Cong",
     "enodeb_id": "410046",
-    "lat": 21.48086,
+    "lat": 21.481117,
     "lon": 105.8561,
     "vip": "NO",
     "is_vip": false,
@@ -44182,8 +44182,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Song Cong",
     "enodeb_id": "872409",
-    "lat": 21.518919,
-    "lon": 105.83506,
+    "lat": 21.519019,
+    "lon": 105.83504,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44204,8 +44204,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Song Cong",
     "enodeb_id": "410269",
-    "lat": 21.507323,
-    "lon": 105.8549,
+    "lat": 21.507269,
+    "lon": 105.854796,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44226,8 +44226,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Song Cong",
     "enodeb_id": "410120",
-    "lat": 21.474206,
-    "lon": 105.8184,
+    "lat": 21.474002,
+    "lon": 105.818381,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44248,8 +44248,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410047",
-    "lat": 21.59862,
-    "lon": 105.83243,
+    "lat": 21.59856,
+    "lon": 105.83244,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44271,7 +44271,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "410009",
     "lat": 21.547169,
-    "lon": 105.87011,
+    "lon": 105.870105,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44292,8 +44292,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410051",
-    "lat": 21.57663,
-    "lon": 105.8105,
+    "lat": 21.57656,
+    "lon": 105.81029,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44314,8 +44314,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410073",
-    "lat": 21.564886,
-    "lon": 105.82075,
+    "lat": 21.564942,
+    "lon": 105.820625,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44336,7 +44336,7 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410054",
-    "lat": 21.588662,
+    "lat": 21.5886621,
     "lon": 105.81213,
     "vip": "NO",
     "is_vip": false,
@@ -44358,8 +44358,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410071",
-    "lat": 21.549708,
-    "lon": 105.84649,
+    "lat": 21.5497081,
+    "lon": 105.846494,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44380,8 +44380,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410235",
-    "lat": 21.5531,
-    "lon": 105.841,
+    "lat": 21.55292,
+    "lon": 105.840903,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44402,8 +44402,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410079",
-    "lat": 21.64077,
-    "lon": 105.84184,
+    "lat": 21.6407702,
+    "lon": 105.841844,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44446,7 +44446,7 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410055",
-    "lat": 21.582968,
+    "lat": 21.5829681,
     "lon": 105.83097,
     "vip": "NO",
     "is_vip": false,
@@ -44468,8 +44468,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410340",
-    "lat": 21.593736,
-    "lon": 105.82621,
+    "lat": 21.5937363,
+    "lon": 105.826212,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44490,8 +44490,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410275",
-    "lat": 21.577576,
-    "lon": 105.84283,
+    "lat": 21.5775764,
+    "lon": 105.842833,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44513,7 +44513,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "410142",
     "lat": 21.557716,
-    "lon": 105.84307,
+    "lon": 105.843074,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44579,7 +44579,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "872410",
     "lat": 21.604611,
-    "lon": 105.89189,
+    "lon": 105.891888,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44600,7 +44600,7 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410058",
-    "lat": 21.595759,
+    "lat": 21.5957593,
     "lon": 105.82489,
     "vip": "NO",
     "is_vip": false,
@@ -44623,7 +44623,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "410014",
     "lat": 21.585756,
-    "lon": 105.84044,
+    "lon": 105.840435,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44644,8 +44644,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410061",
-    "lat": 21.5993,
-    "lon": 105.81535,
+    "lat": 21.5992996,
+    "lon": 105.815347,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44666,8 +44666,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410370",
-    "lat": 21.591164,
-    "lon": 105.8431,
+    "lat": 21.5911639,
+    "lon": 105.843104,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44688,8 +44688,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410218",
-    "lat": 21.596566,
-    "lon": 105.79253,
+    "lat": 21.5965664,
+    "lon": 105.792527,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44711,7 +44711,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "872412",
     "lat": 21.559,
-    "lon": 105.78489,
+    "lon": 105.784888,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44732,8 +44732,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "872413",
-    "lat": 21.593836,
-    "lon": 105.72676,
+    "lat": 21.593876,
+    "lon": 105.727205,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44755,7 +44755,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "410063",
     "lat": 21.610777,
-    "lon": 105.80853,
+    "lon": 105.808526,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44776,8 +44776,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "872411",
-    "lat": 21.602446,
-    "lon": 105.8041,
+    "lat": 21.6024461,
+    "lon": 105.804098,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44820,8 +44820,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410278",
-    "lat": 21.595249,
-    "lon": 105.81773,
+    "lat": 21.59544,
+    "lon": 105.8179,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44843,7 +44843,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "410347",
     "lat": 21.591334,
-    "lon": 105.81349,
+    "lon": 105.813491,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44887,7 +44887,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "410066",
     "lat": 21.585472,
-    "lon": 105.79314,
+    "lon": 105.793138,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44908,8 +44908,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410017",
-    "lat": 21.590275,
-    "lon": 105.80445,
+    "lat": 21.5902749,
+    "lon": 105.804453,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44930,8 +44930,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "872414",
-    "lat": 21.591187,
-    "lon": 105.79907,
+    "lat": 21.591208,
+    "lon": 105.798916,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44975,7 +44975,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "872415",
     "lat": 21.54522,
-    "lon": 105.77659,
+    "lon": 105.776592,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -44996,8 +44996,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410129",
-    "lat": 21.561115,
-    "lon": 105.80226,
+    "lat": 21.56131,
+    "lon": 105.8019,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45019,7 +45019,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "872417",
     "lat": 21.548226,
-    "lon": 105.8288,
+    "lon": 105.828798,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45040,8 +45040,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410069",
-    "lat": 21.621359,
-    "lon": 105.79243,
+    "lat": 21.61977,
+    "lon": 105.793258,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45062,8 +45062,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410269",
-    "lat": 21.498991,
-    "lon": 105.87483,
+    "lat": 21.49904,
+    "lon": 105.875,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45084,8 +45084,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410379",
-    "lat": 21.572494,
-    "lon": 105.82202,
+    "lat": 21.5724939,
+    "lon": 105.822019,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45128,8 +45128,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410380",
-    "lat": 21.582468,
-    "lon": 105.82002,
+    "lat": 21.58293,
+    "lon": 105.8207,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45173,7 +45173,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "410018",
     "lat": 21.593546,
-    "lon": 105.84007,
+    "lon": 105.840072,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45194,8 +45194,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410357",
-    "lat": 21.56692,
-    "lon": 105.82687,
+    "lat": 21.566457,
+    "lon": 105.826892,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45216,8 +45216,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410371",
-    "lat": 21.55498,
-    "lon": 105.8176,
+    "lat": 21.55954,
+    "lon": 105.82329,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45261,7 +45261,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "410228",
     "lat": 21.570532,
-    "lon": 105.8371,
+    "lon": 105.837102,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45282,8 +45282,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410019",
-    "lat": 21.56967,
-    "lon": 105.82885,
+    "lat": 21.569694,
+    "lon": 105.828811,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45305,7 +45305,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "410421",
     "lat": 21.532411,
-    "lon": 105.84153,
+    "lon": 105.841531,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45349,7 +45349,7 @@ const rolloutData = [
     "district": "Thai Nguyen",
     "enodeb_id": "410266",
     "lat": 21.544981,
-    "lon": 105.83932,
+    "lon": 105.839319,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45370,8 +45370,8 @@ const rolloutData = [
     "province": "Thai Nguyen",
     "district": "Thai Nguyen",
     "enodeb_id": "410138",
-    "lat": 21.53574,
-    "lon": 105.86803,
+    "lat": 21.53592,
+    "lon": 105.86811,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45481,7 +45481,7 @@ const rolloutData = [
     "district": "Chiem Hoa",
     "enodeb_id": "420062",
     "lat": 22.142935,
-    "lon": 105.26778,
+    "lon": 105.267775,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45503,7 +45503,7 @@ const rolloutData = [
     "district": "Chiem Hoa",
     "enodeb_id": "872420",
     "lat": 22.068875,
-    "lon": 105.17297,
+    "lon": 105.172971,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45525,7 +45525,7 @@ const rolloutData = [
     "district": "Chiem Hoa",
     "enodeb_id": "420106",
     "lat": 22.078756,
-    "lon": 105.17885,
+    "lon": 105.178845,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45547,7 +45547,7 @@ const rolloutData = [
     "district": "Son Duong",
     "enodeb_id": "420003",
     "lat": 21.705962,
-    "lon": 105.40213,
+    "lon": 105.402134,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45569,7 +45569,7 @@ const rolloutData = [
     "district": "Son Duong",
     "enodeb_id": "872250",
     "lat": 21.700466,
-    "lon": 105.40519,
+    "lon": 105.405187,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45590,8 +45590,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420030",
-    "lat": 21.735851,
-    "lon": 105.25206,
+    "lat": 21.73607,
+    "lon": 105.25176,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45612,8 +45612,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420031",
-    "lat": 21.783836,
-    "lon": 105.21677,
+    "lat": 21.783919,
+    "lon": 105.216782,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45634,8 +45634,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420032",
-    "lat": 21.792838,
-    "lon": 105.21254,
+    "lat": 21.79298,
+    "lon": 105.21245,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45656,8 +45656,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420112",
-    "lat": 21.774196,
-    "lon": 105.22809,
+    "lat": 21.77417,
+    "lon": 105.22824,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45678,8 +45678,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420295",
-    "lat": 21.787714,
-    "lon": 105.20748,
+    "lat": 21.7877139,
+    "lon": 105.207483,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45701,7 +45701,7 @@ const rolloutData = [
     "district": "Tuyen Quang",
     "enodeb_id": "420005",
     "lat": 21.82222,
-    "lon": 105.20768,
+    "lon": 105.207677,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45722,8 +45722,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420006",
-    "lat": 21.833016,
-    "lon": 105.17179,
+    "lat": 21.83346,
+    "lon": 105.17155,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45745,7 +45745,7 @@ const rolloutData = [
     "district": "Tuyen Quang",
     "enodeb_id": "420270",
     "lat": 21.799043,
-    "lon": 105.20504,
+    "lon": 105.205042,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45766,8 +45766,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420233",
-    "lat": 21.807802,
-    "lon": 105.21042,
+    "lat": 21.8078017,
+    "lon": 105.210416,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45788,8 +45788,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420033",
-    "lat": 21.857044,
-    "lon": 105.14987,
+    "lat": 21.85696,
+    "lon": 105.14994,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45811,7 +45811,7 @@ const rolloutData = [
     "district": "Tuyen Quang",
     "enodeb_id": "420008",
     "lat": 21.727369,
-    "lon": 105.23005,
+    "lon": 105.230045,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45855,7 +45855,7 @@ const rolloutData = [
     "district": "Tuyen Quang",
     "enodeb_id": "420095",
     "lat": 21.824394,
-    "lon": 105.21781,
+    "lon": 105.217808,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45877,7 +45877,7 @@ const rolloutData = [
     "district": "Tuyen Quang",
     "enodeb_id": "420234",
     "lat": 21.829056,
-    "lon": 105.21357,
+    "lon": 105.213572,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45898,8 +45898,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420236",
-    "lat": 21.824372,
-    "lon": 105.21034,
+    "lat": 21.8243717,
+    "lon": 105.210338,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -45943,7 +45943,7 @@ const rolloutData = [
     "district": "Tuyen Quang",
     "enodeb_id": "420096",
     "lat": 21.8148,
-    "lon": 105.22366,
+    "lon": 105.22372,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46009,7 +46009,7 @@ const rolloutData = [
     "district": "Tuyen Quang",
     "enodeb_id": "420237",
     "lat": 21.818992,
-    "lon": 105.20075,
+    "lon": 105.200752,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46030,7 +46030,7 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420010",
-    "lat": 21.699537,
+    "lat": 21.6995367,
     "lon": 105.22388,
     "vip": "NO",
     "is_vip": false,
@@ -46074,8 +46074,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420099",
-    "lat": 21.83617,
-    "lon": 105.19363,
+    "lat": 21.83616,
+    "lon": 105.1937,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46096,8 +46096,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420011",
-    "lat": 21.81336,
-    "lon": 105.2132,
+    "lat": 21.81329,
+    "lon": 105.21324,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46118,8 +46118,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420239",
-    "lat": 21.81791,
-    "lon": 105.21094,
+    "lat": 21.81741,
+    "lon": 105.21108,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46140,8 +46140,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420265",
-    "lat": 21.816749,
-    "lon": 105.20831,
+    "lat": 21.81667,
+    "lon": 105.20828,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46162,8 +46162,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "872428",
-    "lat": 21.748462,
-    "lon": 105.23056,
+    "lat": 21.7484616,
+    "lon": 105.230556,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46206,7 +46206,7 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420076",
-    "lat": 21.807353,
+    "lat": 21.80738,
     "lon": 105.17867,
     "vip": "NO",
     "is_vip": false,
@@ -46229,7 +46229,7 @@ const rolloutData = [
     "district": "Tuyen Quang",
     "enodeb_id": "420012",
     "lat": 21.815236,
-    "lon": 105.21578,
+    "lon": 105.215784,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46250,8 +46250,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420103",
-    "lat": 21.83206,
-    "lon": 105.19695,
+    "lat": 21.83199,
+    "lon": 105.197,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46273,7 +46273,7 @@ const rolloutData = [
     "district": "Tuyen Quang",
     "enodeb_id": "420267",
     "lat": 21.826262,
-    "lon": 105.20183,
+    "lon": 105.201833,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46295,7 +46295,7 @@ const rolloutData = [
     "district": "Tuyen Quang",
     "enodeb_id": "420039",
     "lat": 21.82548,
-    "lon": 105.17842,
+    "lon": 105.178421,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46316,8 +46316,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Tuyen Quang",
     "enodeb_id": "420076",
-    "lat": 21.811094,
-    "lon": 105.18422,
+    "lat": 21.81084,
+    "lon": 105.18452,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46339,7 +46339,7 @@ const rolloutData = [
     "district": "Yen Son",
     "enodeb_id": "420081",
     "lat": 21.6611,
-    "lon": 105.22847,
+    "lon": 105.22848,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46360,8 +46360,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Yen Son",
     "enodeb_id": "872255",
-    "lat": 21.786899,
-    "lon": 105.16336,
+    "lat": 21.79215,
+    "lon": 105.17362,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46382,8 +46382,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Yen Son",
     "enodeb_id": "420007",
-    "lat": 21.763006,
-    "lon": 105.11856,
+    "lat": 21.76295,
+    "lon": 105.11859,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46404,8 +46404,8 @@ const rolloutData = [
     "province": "Tuyen Quang",
     "district": "Yen Son",
     "enodeb_id": "420085",
-    "lat": 21.769931,
-    "lon": 105.13864,
+    "lat": 21.76992,
+    "lon": 105.13861,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46448,8 +46448,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280301",
-    "lat": 21.3057,
-    "lon": 105.67392,
+    "lat": 21.30567,
+    "lon": 105.67395,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46470,8 +46470,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280031",
-    "lat": 21.326147,
-    "lon": 105.68637,
+    "lat": 21.32597,
+    "lon": 105.68632,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46536,8 +46536,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "874269",
-    "lat": 21.352876,
-    "lon": 105.63616,
+    "lat": 21.3528759,
+    "lon": 105.636155,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46558,8 +46558,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280262",
-    "lat": 21.398523,
-    "lon": 105.68314,
+    "lat": 21.39847,
+    "lon": 105.68312,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46603,7 +46603,7 @@ const rolloutData = [
     "district": "Binh Xuyen",
     "enodeb_id": "874172",
     "lat": 21.279419,
-    "lon": 105.65106,
+    "lon": 105.651061,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46624,8 +46624,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280181",
-    "lat": 21.28778,
-    "lon": 105.65646,
+    "lat": 21.28852,
+    "lon": 105.65671,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46668,8 +46668,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280017",
-    "lat": 21.321911,
-    "lon": 105.64511,
+    "lat": 21.32145,
+    "lon": 105.64523,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46690,8 +46690,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280032",
-    "lat": 21.3409,
-    "lon": 105.62571,
+    "lat": 21.34109,
+    "lon": 105.62554,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46712,8 +46712,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280033",
-    "lat": 21.319893,
-    "lon": 105.66832,
+    "lat": 21.31992,
+    "lon": 105.66827,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46734,8 +46734,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "874291",
-    "lat": 21.263531,
-    "lon": 105.66333,
+    "lat": 21.26354,
+    "lon": 105.6633,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46756,8 +46756,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280259",
-    "lat": 21.260028,
-    "lon": 105.67474,
+    "lat": 21.25373,
+    "lon": 105.67611,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46778,8 +46778,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280259",
-    "lat": 21.260028,
-    "lon": 105.67474,
+    "lat": 21.2601,
+    "lon": 105.67457,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46800,8 +46800,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280261",
-    "lat": 21.262609,
-    "lon": 105.66646,
+    "lat": 21.2705,
+    "lon": 105.67175,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46888,8 +46888,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "874173",
-    "lat": 21.315355,
-    "lon": 105.68299,
+    "lat": 21.31547,
+    "lon": 105.68244,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46910,8 +46910,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "874182",
-    "lat": 21.345593,
-    "lon": 105.66682,
+    "lat": 21.3455926,
+    "lon": 105.666817,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46954,8 +46954,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "874182",
-    "lat": 21.342512,
-    "lon": 105.67859,
+    "lat": 21.3425119,
+    "lon": 105.678594,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -46976,7 +46976,7 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280240",
-    "lat": 21.347787,
+    "lat": 21.3477873,
     "lon": 105.6749,
     "vip": "NO",
     "is_vip": false,
@@ -47064,8 +47064,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280100",
-    "lat": 21.297758,
-    "lon": 105.66925,
+    "lat": 21.29762,
+    "lon": 105.6692,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47108,7 +47108,7 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280036",
-    "lat": 21.336694,
+    "lat": 21.3366944,
     "lon": 105.664,
     "vip": "NO",
     "is_vip": false,
@@ -47152,8 +47152,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Binh Xuyen",
     "enodeb_id": "280193",
-    "lat": 21.35201,
-    "lon": 105.68337,
+    "lat": 21.3520095,
+    "lon": 105.683373,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47175,7 +47175,7 @@ const rolloutData = [
     "district": "Lap Thach",
     "enodeb_id": "280038",
     "lat": 21.414233,
-    "lon": 105.46402,
+    "lon": 105.464017,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47219,7 +47219,7 @@ const rolloutData = [
     "district": "Lap Thach",
     "enodeb_id": "874293",
     "lat": 21.333737,
-    "lon": 105.4715,
+    "lon": 105.471496,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47262,8 +47262,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phuc Yen",
     "enodeb_id": "280049",
-    "lat": 21.237203,
-    "lon": 105.71977,
+    "lat": 21.2372034,
+    "lon": 105.719771,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47285,7 +47285,7 @@ const rolloutData = [
     "district": "Phuc Yen",
     "enodeb_id": "280021",
     "lat": 21.231309,
-    "lon": 105.70896,
+    "lon": 105.708959,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47307,7 +47307,7 @@ const rolloutData = [
     "district": "Phuc Yen",
     "enodeb_id": "280051",
     "lat": 21.235609,
-    "lon": 105.72621,
+    "lon": 105.726207,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47329,7 +47329,7 @@ const rolloutData = [
     "district": "Phuc Yen",
     "enodeb_id": "874175",
     "lat": 21.23308,
-    "lon": 105.71631,
+    "lon": 105.716308,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47351,7 +47351,7 @@ const rolloutData = [
     "district": "Phuc Yen",
     "enodeb_id": "280052",
     "lat": 21.233426,
-    "lon": 105.7052,
+    "lon": 105.705197,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47373,7 +47373,7 @@ const rolloutData = [
     "district": "Phuc Yen",
     "enodeb_id": "280022",
     "lat": 21.241763,
-    "lon": 105.70144,
+    "lon": 105.701441,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47394,8 +47394,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phuc Yen",
     "enodeb_id": "280053",
-    "lat": 21.256996,
-    "lon": 105.68961,
+    "lat": 21.2569959,
+    "lon": 105.689615,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47460,8 +47460,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Phuc Yen",
     "enodeb_id": "280316",
-    "lat": 21.27984,
-    "lon": 105.72319,
+    "lat": 21.27843,
+    "lon": 105.7226,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47483,7 +47483,7 @@ const rolloutData = [
     "district": "Tam Dao",
     "enodeb_id": "-",
     "lat": 21.4596248,
-    "lon": 105.5797339,
+    "lon": 105.579734,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47549,7 +47549,7 @@ const rolloutData = [
     "district": "Tam Dao",
     "enodeb_id": "280025",
     "lat": 21.456542,
-    "lon": 105.6456,
+    "lon": 105.645595,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47614,8 +47614,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280076",
-    "lat": 21.31919,
-    "lon": 105.61293,
+    "lat": 21.31916,
+    "lon": 105.61288,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47636,8 +47636,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "874276",
-    "lat": 21.319459,
-    "lon": 105.60437,
+    "lat": 21.31772,
+    "lon": 105.6044,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47658,8 +47658,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280402",
-    "lat": 21.312637,
-    "lon": 105.61203,
+    "lat": 21.3127,
+    "lon": 105.61214,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47680,8 +47680,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280077",
-    "lat": 21.298583,
-    "lon": 105.62775,
+    "lat": 21.29865,
+    "lon": 105.6277,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47702,8 +47702,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280026",
-    "lat": 21.30445,
-    "lon": 105.62444,
+    "lat": 21.30462,
+    "lon": 105.6243,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47724,8 +47724,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "874277",
-    "lat": 21.315722,
-    "lon": 105.58253,
+    "lat": 21.3157222,
+    "lon": 105.582528,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47769,7 +47769,7 @@ const rolloutData = [
     "district": "Vinh Yen",
     "enodeb_id": "280080",
     "lat": 21.335925,
-    "lon": 105.602,
+    "lon": 105.601998,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47856,8 +47856,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280082",
-    "lat": 21.29595,
-    "lon": 105.57977,
+    "lat": 21.29599,
+    "lon": 105.5798,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47900,8 +47900,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280084",
-    "lat": 21.29247,
-    "lon": 105.58845,
+    "lat": 21.2925,
+    "lon": 105.5884,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -47966,8 +47966,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280006",
-    "lat": 21.312156,
-    "lon": 105.60157,
+    "lat": 21.31203,
+    "lon": 105.60177,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48010,8 +48010,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280163",
-    "lat": 21.29932,
-    "lon": 105.62283,
+    "lat": 21.29941,
+    "lon": 105.62278,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48054,8 +48054,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280164",
-    "lat": 21.324611,
-    "lon": 105.61783,
+    "lat": 21.3246111,
+    "lon": 105.617833,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48099,7 +48099,7 @@ const rolloutData = [
     "district": "Vinh Yen",
     "enodeb_id": "280254",
     "lat": 21.305273,
-    "lon": 105.62902,
+    "lon": 105.629023,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48121,7 +48121,7 @@ const rolloutData = [
     "district": "Vinh Yen",
     "enodeb_id": "280254",
     "lat": 21.305273,
-    "lon": 105.62902,
+    "lon": 105.629023,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48142,8 +48142,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280282",
-    "lat": 21.297233,
-    "lon": 105.63265,
+    "lat": 21.2972333,
+    "lon": 105.632647,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48164,8 +48164,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280282",
-    "lat": 21.297233,
-    "lon": 105.63265,
+    "lat": 21.2972333,
+    "lon": 105.632647,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48186,8 +48186,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280027",
-    "lat": 21.31086,
-    "lon": 105.6265,
+    "lat": 21.3108595,
+    "lon": 105.626495,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48231,7 +48231,7 @@ const rolloutData = [
     "district": "Vinh Yen",
     "enodeb_id": "874181",
     "lat": 21.30674,
-    "lon": 105.57234,
+    "lon": 105.572338,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48252,8 +48252,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "874279",
-    "lat": 21.29973,
-    "lon": 105.58585,
+    "lat": 21.29977,
+    "lon": 105.58583,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48318,8 +48318,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280085",
-    "lat": 21.31671,
-    "lon": 105.63074,
+    "lat": 21.31673,
+    "lon": 105.63069,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48340,8 +48340,8 @@ const rolloutData = [
     "province": "Phu Tho",
     "district": "Vinh Yen",
     "enodeb_id": "280013",
-    "lat": 21.299723,
-    "lon": 105.56444,
+    "lat": 21.2997235,
+    "lon": 105.564442,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48385,7 +48385,7 @@ const rolloutData = [
     "district": "Vinh Yen",
     "enodeb_id": "280028",
     "lat": 21.322401,
-    "lon": 105.59997,
+    "lon": 105.599969,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48428,8 +48428,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Tran Yen",
     "enodeb_id": "290044",
-    "lat": 21.700633,
-    "lon": 104.84074,
+    "lat": 21.7006327,
+    "lon": 104.840736,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48450,8 +48450,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Van Yen",
     "enodeb_id": "874140",
-    "lat": 22.010925,
-    "lon": 104.53271,
+    "lat": 22.0109253,
+    "lon": 104.532713,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48472,8 +48472,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Van Yen",
     "enodeb_id": "290056",
-    "lat": 22.050096,
-    "lon": 104.47408,
+    "lat": 22.0500959,
+    "lon": 104.474084,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48494,7 +48494,7 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Van Yen",
     "enodeb_id": "290003",
-    "lat": 21.934049,
+    "lat": 21.9340494,
     "lon": 104.60867,
     "vip": "NO",
     "is_vip": false,
@@ -48538,8 +48538,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Van Yen",
     "enodeb_id": "290005",
-    "lat": 21.881805,
-    "lon": 104.6885,
+    "lat": 21.8818045,
+    "lon": 104.688502,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48561,7 +48561,7 @@ const rolloutData = [
     "district": "Yen Bai",
     "enodeb_id": "874103",
     "lat": 21.704014,
-    "lon": 104.8692,
+    "lon": 104.869198,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48604,8 +48604,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Yen Bai",
     "enodeb_id": "290010",
-    "lat": 21.694936,
-    "lon": 104.92084,
+    "lat": 21.6949362,
+    "lon": 104.920838,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48714,8 +48714,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Yen Bai",
     "enodeb_id": "290016",
-    "lat": 21.703424,
-    "lon": 104.88065,
+    "lat": 21.7034239,
+    "lon": 104.880652,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48736,7 +48736,7 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Yen Bai",
     "enodeb_id": "290017",
-    "lat": 21.707164,
+    "lat": 21.7071639,
     "lon": 104.87637,
     "vip": "NO",
     "is_vip": false,
@@ -48759,7 +48759,7 @@ const rolloutData = [
     "district": "Yen Bai",
     "enodeb_id": "874282",
     "lat": 21.704014,
-    "lon": 104.8692,
+    "lon": 104.869198,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48780,8 +48780,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Yen Bai",
     "enodeb_id": "290019",
-    "lat": 21.739356,
-    "lon": 104.91431,
+    "lat": 21.7393562,
+    "lon": 104.914314,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48803,7 +48803,7 @@ const rolloutData = [
     "district": "Yen Bai",
     "enodeb_id": "290021",
     "lat": 21.717036,
-    "lon": 104.89621,
+    "lon": 104.896208,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -48846,8 +48846,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Yen Bai",
     "enodeb_id": "290023",
-    "lat": 21.719952,
-    "lon": 104.88501,
+    "lat": 21.7199521,
+    "lon": 104.885012,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48868,8 +48868,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Yen Bai",
     "enodeb_id": "874299",
-    "lat": 21.725842,
-    "lon": 104.8746,
+    "lat": 21.7258423,
+    "lon": 104.874598,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48913,7 +48913,7 @@ const rolloutData = [
     "district": "Yen Bai",
     "enodeb_id": "290224",
     "lat": 21.682186,
-    "lon": 104.90302,
+    "lon": 104.903019,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48934,8 +48934,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Yen Bai",
     "enodeb_id": "874108",
-    "lat": 21.723072,
-    "lon": 104.92645,
+    "lat": 21.7230719,
+    "lon": 104.926455,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48956,8 +48956,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Yen Bai",
     "enodeb_id": "290025",
-    "lat": 21.724722,
-    "lon": 104.94139,
+    "lat": 21.7247222,
+    "lon": 104.941389,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -48978,8 +48978,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Yen Bai",
     "enodeb_id": "290028",
-    "lat": 21.730514,
-    "lon": 104.8465,
+    "lat": 21.7305137,
+    "lon": 104.846502,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -49022,8 +49022,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Yen Bai",
     "enodeb_id": "290280",
-    "lat": 21.72496,
-    "lon": 104.89038,
+    "lat": 21.72477,
+    "lon": 104.8903,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -49044,8 +49044,8 @@ const rolloutData = [
     "province": "Lao Cai",
     "district": "Yen Bai",
     "enodeb_id": "290035",
-    "lat": 21.732677,
-    "lon": 104.92929,
+    "lat": 21.7326771,
+    "lon": 104.929295,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -51090,8 +51090,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "101218",
-    "lat": 20.92211,
-    "lon": 105.7238,
+    "lat": 20.92215,
+    "lon": 105.72376,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -51442,8 +51442,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "105003",
-    "lat": 20.886615,
-    "lon": 105.73792,
+    "lat": 20.88652,
+    "lon": 105.73791,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -51596,8 +51596,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "102925",
-    "lat": 20.886701,
-    "lon": 105.70189,
+    "lat": 20.8865,
+    "lon": 105.70222,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -51618,8 +51618,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "101746",
-    "lat": 20.82275,
-    "lon": 105.6851,
+    "lat": 20.82299,
+    "lon": 105.68497,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -51663,7 +51663,7 @@ const rolloutData = [
     "district": "Chuong My",
     "enodeb_id": "102107",
     "lat": 20.83146,
-    "lon": 105.7118,
+    "lon": 105.71188,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -51816,8 +51816,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "104817",
-    "lat": 20.82668,
-    "lon": 105.6759,
+    "lat": 20.82664,
+    "lon": 105.67593,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -51882,8 +51882,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "101224",
-    "lat": 20.877367,
-    "lon": 105.73373,
+    "lat": 20.87715,
+    "lon": 105.7336,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -51904,8 +51904,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "102928",
-    "lat": 20.86101,
-    "lon": 105.62578,
+    "lat": 20.86102,
+    "lon": 105.6258,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -51970,8 +51970,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "101225",
-    "lat": 20.87811,
-    "lon": 105.6984,
+    "lat": 20.87862,
+    "lon": 105.6974,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -51992,8 +51992,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "102113",
-    "lat": 20.868605,
-    "lon": 105.65905,
+    "lat": 20.86259,
+    "lon": 105.65506,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -52146,8 +52146,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "102114",
-    "lat": 20.82211,
-    "lon": 105.64436,
+    "lat": 20.8221,
+    "lon": 105.64433,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -52410,7 +52410,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "102119",
-    "lat": 20.86422,
+    "lat": 20.86418,
     "lon": 105.6981,
     "vip": "NO",
     "is_vip": false,
@@ -52608,8 +52608,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "101229",
-    "lat": 20.850799,
-    "lon": 105.75253,
+    "lat": 20.85071,
+    "lon": 105.75256,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -52696,7 +52696,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "101231",
-    "lat": 20.90487,
+    "lat": 20.90482,
     "lon": 105.7178,
     "vip": "NO",
     "is_vip": false,
@@ -52740,8 +52740,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "103349",
-    "lat": 20.9103,
-    "lon": 105.73314,
+    "lat": 20.9101,
+    "lon": 105.73305,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -52982,8 +52982,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "101235",
-    "lat": 20.83309,
-    "lon": 105.6704,
+    "lat": 20.83315,
+    "lon": 105.6703,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -53026,8 +53026,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Chuong My",
     "enodeb_id": "102938",
-    "lat": 20.81473,
-    "lon": 105.6453,
+    "lat": 20.81482,
+    "lon": 105.6454,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -55006,7 +55006,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "My Duc",
     "enodeb_id": "100039",
-    "lat": 20.61538,
+    "lat": 20.6153,
     "lon": 105.78696,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
@@ -55138,8 +55138,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "My Duc",
     "enodeb_id": "101803",
-    "lat": 20.61297,
-    "lon": 105.7351,
+    "lat": 20.61307,
+    "lon": 105.73537,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -55160,8 +55160,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "My Duc",
     "enodeb_id": "101522",
-    "lat": 20.80123,
-    "lon": 105.67637,
+    "lat": 20.8012,
+    "lon": 105.67638,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -55226,8 +55226,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "My Duc",
     "enodeb_id": "103074",
-    "lat": 20.73436,
-    "lon": 105.70239,
+    "lat": 20.73434,
+    "lon": 105.70238,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -55424,8 +55424,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "My Duc",
     "enodeb_id": "103079",
-    "lat": 20.75427,
-    "lon": 105.6982,
+    "lat": 20.75429,
+    "lon": 105.69812,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -55534,8 +55534,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "My Duc",
     "enodeb_id": "101081",
-    "lat": 20.685551,
-    "lon": 105.73959,
+    "lat": 20.68538,
+    "lon": 105.73952,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -55556,8 +55556,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "My Duc",
     "enodeb_id": "102409",
-    "lat": 20.69871,
-    "lon": 105.74735,
+    "lat": 20.69867,
+    "lon": 105.74734,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -55798,8 +55798,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "My Duc",
     "enodeb_id": "101801",
-    "lat": 20.62002,
-    "lon": 105.74579,
+    "lat": 20.61959,
+    "lon": 105.74608,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -55886,8 +55886,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "My Duc",
     "enodeb_id": "103085",
-    "lat": 20.782052,
-    "lon": 105.68139,
+    "lat": 20.78144,
+    "lon": 105.68317,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -55952,8 +55952,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "My Duc",
     "enodeb_id": "103086",
-    "lat": 20.65051,
-    "lon": 105.78363,
+    "lat": 20.65044,
+    "lon": 105.78365,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -56326,8 +56326,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Me Linh",
     "enodeb_id": "101511",
-    "lat": 21.19166,
-    "lon": 105.65558,
+    "lat": 21.191658,
+    "lon": 105.655583,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -56336,7 +56336,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "NOK",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56348,8 +56348,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Me Linh",
     "enodeb_id": "101511",
-    "lat": 21.19485,
-    "lon": 105.64733,
+    "lat": 21.194847,
+    "lon": 105.647325,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -56502,8 +56502,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Me Linh",
     "enodeb_id": "100933",
-    "lat": 21.1532,
-    "lon": 105.76006,
+    "lat": 21.153203,
+    "lon": 105.760058,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -56635,7 +56635,7 @@ const rolloutData = [
     "district": "Me Linh",
     "enodeb_id": "102398",
     "lat": 21.2046,
-    "lon": 105.68557,
+    "lon": 105.685572,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -56685,10 +56685,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "H2_MLH_THACH_DA",
     "bbu_solution": "Combine BBU H2_MLH_THACH_DA",
     "timeline": "-"
@@ -56732,7 +56732,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "NOK",
+    "on_air_date": "5G:",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56876,8 +56876,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Me Linh",
     "enodeb_id": "104996",
-    "lat": 21.16138,
-    "lon": 105.76601,
+    "lat": 21.161383,
+    "lon": 105.766011,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -57084,7 +57084,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "1",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -57096,7 +57096,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Me Linh",
     "enodeb_id": "102395",
-    "lat": 21.16217,
+    "lat": 21.162167,
     "lon": 105.71345,
     "vip": "NO",
     "is_vip": false,
@@ -57998,8 +57998,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102453",
-    "lat": 20.70144,
-    "lon": 105.9361,
+    "lat": 20.70149,
+    "lon": 105.93603,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -58020,8 +58020,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103109",
-    "lat": 20.69329,
-    "lon": 105.95301,
+    "lat": 20.69327,
+    "lon": 105.95313,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -58042,8 +58042,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103111",
-    "lat": 20.67883,
-    "lon": 105.90133,
+    "lat": 20.67889,
+    "lon": 105.90141,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -58064,8 +58064,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "101546",
-    "lat": 20.6819,
-    "lon": 105.9341,
+    "lat": 20.68198,
+    "lon": 105.93404,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -58130,8 +58130,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102456",
-    "lat": 20.67503,
-    "lon": 105.97137,
+    "lat": 20.67508,
+    "lon": 105.97136,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -58262,8 +58262,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103132",
-    "lat": 20.68991,
-    "lon": 105.96301,
+    "lat": 20.68986,
+    "lon": 105.9631,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -58867,7 +58867,7 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "H2_QOI_PHU_MAN",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -60792,8 +60792,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thanh Oai",
     "enodeb_id": "102535",
-    "lat": 20.89453,
-    "lon": 105.7462,
+    "lat": 20.89477,
+    "lon": 105.74628,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -60880,8 +60880,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thanh Oai",
     "enodeb_id": "103096",
-    "lat": 20.80562,
-    "lon": 105.78196,
+    "lat": 20.80568,
+    "lon": 105.782,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -60924,8 +60924,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thanh Oai",
     "enodeb_id": "103205",
-    "lat": 20.84005,
-    "lon": 105.7354,
+    "lat": 20.84002,
+    "lon": 105.73547,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -60968,8 +60968,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thanh Oai",
     "enodeb_id": "102538",
-    "lat": 20.86672,
-    "lon": 105.73816,
+    "lat": 20.86598,
+    "lon": 105.7395,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -60990,8 +60990,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thanh Oai",
     "enodeb_id": "103203",
-    "lat": 20.81256,
-    "lon": 105.7794,
+    "lat": 20.80867,
+    "lon": 105.772,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -61210,8 +61210,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thanh Oai",
     "enodeb_id": "102546",
-    "lat": 20.789902,
-    "lon": 105.71461,
+    "lat": 20.78997,
+    "lon": 105.7146,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -61232,8 +61232,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thanh Oai",
     "enodeb_id": "102547",
-    "lat": 20.80178,
-    "lon": 105.7445,
+    "lat": 20.80176,
+    "lon": 105.74456,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -62970,8 +62970,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103233",
-    "lat": 20.6472,
-    "lon": 105.86328,
+    "lat": 20.64714,
+    "lon": 105.86333,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -63014,7 +63014,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103234",
-    "lat": 20.65847,
+    "lat": 20.65849,
     "lon": 105.81808,
     "vip": "NO",
     "is_vip": false,
@@ -63036,7 +63036,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103235",
-    "lat": 20.66222,
+    "lat": 20.6623,
     "lon": 105.84155,
     "vip": "NO",
     "is_vip": false,
@@ -63102,8 +63102,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "102636",
-    "lat": 20.7381,
-    "lon": 105.7425,
+    "lat": 20.73827,
+    "lon": 105.74239,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -63168,8 +63168,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "101709",
-    "lat": 20.66626,
-    "lon": 105.78298,
+    "lat": 20.66623,
+    "lon": 105.78295,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -63190,8 +63190,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103361",
-    "lat": 20.6721,
-    "lon": 105.77792,
+    "lat": 20.671918,
+    "lon": 105.777929,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -63212,8 +63212,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "102265",
-    "lat": 20.77619,
-    "lon": 105.75187,
+    "lat": 20.77617,
+    "lon": 105.75185,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -63278,8 +63278,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103243",
-    "lat": 20.62237,
-    "lon": 105.7905,
+    "lat": 20.62251,
+    "lon": 105.79056,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -63300,7 +63300,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103244",
-    "lat": 20.74034,
+    "lat": 20.74029,
     "lon": 105.72124,
     "vip": "NO",
     "is_vip": false,
@@ -63322,8 +63322,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103245",
-    "lat": 20.66997,
-    "lon": 105.86634,
+    "lat": 20.66993,
+    "lon": 105.86637,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -63344,8 +63344,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103246",
-    "lat": 20.75965,
-    "lon": 105.77506,
+    "lat": 20.75964,
+    "lon": 105.77509,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -63366,8 +63366,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "102639",
-    "lat": 20.74537,
-    "lon": 105.77051,
+    "lat": 20.74531,
+    "lon": 105.7706,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -63454,8 +63454,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "102640",
-    "lat": 20.7281,
-    "lon": 105.7967,
+    "lat": 20.72801,
+    "lon": 105.79675,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -63520,8 +63520,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103381",
-    "lat": 20.75468,
-    "lon": 105.7176,
+    "lat": 20.755,
+    "lon": 105.718,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -63630,8 +63630,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103255",
-    "lat": 20.76277,
-    "lon": 105.73364,
+    "lat": 20.75979,
+    "lon": 105.73404,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -63652,8 +63652,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "102643",
-    "lat": 20.73214,
-    "lon": 105.77119,
+    "lat": 20.73209,
+    "lon": 105.77133,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -67756,7 +67756,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HBL012",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HBL012",
     "timeline": "-"
   },
   {
@@ -69076,7 +69076,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HBL012",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HBL012",
     "timeline": "-"
   },
   {
@@ -71011,8 +71011,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HBL700",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -71209,8 +71209,8 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HCY329",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -71319,8 +71319,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HBL012",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -73058,7 +73058,7 @@ const rolloutData = [
     "rfi_date": "2026-05-16 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HCY154",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HCY154",
     "timeline": "-"
   },
   {
@@ -73497,8 +73497,8 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "2026-05-16 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "HCY187",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -73916,7 +73916,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HCY154",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HCY154",
     "timeline": "-"
   },
   {
@@ -73938,7 +73938,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HCY154",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HCY154",
     "timeline": "-"
   },
   {
@@ -74400,7 +74400,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HCY212",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HCY212",
     "timeline": "-"
   },
   {
@@ -75565,8 +75565,8 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HCY200",
-    "bbu_solution": "Combine",
+    "bbu_location": "HTH703",
+    "bbu_solution": "Combine BBU HTH703",
     "timeline": "-"
   },
   {
@@ -76379,8 +76379,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HCY212",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -76819,8 +76819,8 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HCY109",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -77303,8 +77303,8 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HCY212",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -77590,7 +77590,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HCY212",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HCY212",
     "timeline": "-"
   },
   {
@@ -77611,8 +77611,8 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HCY154",
-    "bbu_solution": "Combine",
+    "bbu_location": "HCY738",
+    "bbu_solution": "Combine BBU HCY738",
     "timeline": "-"
   },
   {
@@ -77633,8 +77633,8 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HCY154",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -78667,7 +78667,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HDD240",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -80515,8 +80515,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HDD121",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -81286,7 +81286,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HDD159",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HDD159",
     "timeline": "-"
   },
   {
@@ -82253,8 +82253,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HDD014",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -82320,7 +82320,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -82847,8 +82847,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HDD156",
-    "bbu_solution": "Combine",
+    "bbu_location": "HDD096",
+    "bbu_solution": "Combine BBU HDD096",
     "timeline": "-"
   },
   {
@@ -82951,14 +82951,14 @@ const rolloutData = [
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Problem",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HDD156",
-    "bbu_solution": "Problem",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -82979,8 +82979,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HDD162",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -83287,8 +83287,8 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HDD159",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -84321,8 +84321,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HHB003",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -93562,7 +93562,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HHD010",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HHD010",
     "timeline": "-"
   },
   {
@@ -95189,8 +95189,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HHD010",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -95629,8 +95629,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HHD817",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -95651,8 +95651,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HHD818",
-    "bbu_solution": "Combine",
+    "bbu_location": "HHD817",
+    "bbu_solution": "Combine BBU HHD817",
     "timeline": "-"
   },
   {
@@ -95849,7 +95849,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HHI079",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -105892,8 +105892,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "104201",
-    "lat": 21.111807,
-    "lon": 105.78215,
+    "lat": 21.1123,
+    "lon": 105.7824,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -106200,8 +106200,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "100604",
-    "lat": 21.1172,
-    "lon": 105.78335,
+    "lat": 21.11762,
+    "lon": 105.78345,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -106332,8 +106332,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "105014",
-    "lat": 21.124042,
-    "lon": 105.77929,
+    "lat": 21.12405,
+    "lon": 105.7793,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -106376,8 +106376,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "101250",
-    "lat": 21.153297,
-    "lon": 105.83266,
+    "lat": 21.15196,
+    "lon": 105.8334,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -106728,8 +106728,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "100609",
-    "lat": 21.141605,
-    "lon": 105.84663,
+    "lat": 21.14161,
+    "lon": 105.8465,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -106772,8 +106772,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "101253",
-    "lat": 21.127149,
-    "lon": 105.8441,
+    "lat": 21.12725,
+    "lon": 105.84415,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -107058,8 +107058,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "100613",
-    "lat": 21.120528,
-    "lon": 105.78909,
+    "lat": 21.12062,
+    "lon": 105.78876,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -107103,7 +107103,7 @@ const rolloutData = [
     "district": "Dong Anh",
     "enodeb_id": "100612",
     "lat": 21.10505,
-    "lon": 105.7975,
+    "lon": 105.79754,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -107586,8 +107586,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "103682",
-    "lat": 21.118148,
-    "lon": 105.77624,
+    "lat": 21.110881,
+    "lon": 105.78257,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -108027,7 +108027,7 @@ const rolloutData = [
     "district": "Dong Anh",
     "enodeb_id": "102948",
     "lat": 21.16188,
-    "lon": 105.8542,
+    "lon": 105.85418,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -108246,8 +108246,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "100623",
-    "lat": 21.12797,
-    "lon": 105.78315,
+    "lat": 21.127908,
+    "lon": 105.783164,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -108290,8 +108290,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "100624",
-    "lat": 21.11092,
-    "lon": 105.84041,
+    "lat": 21.11106,
+    "lon": 105.84029,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -108444,8 +108444,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "-",
-    "lat": 21.10466,
-    "lon": 105.8563,
+    "lat": 21.10462,
+    "lon": 105.8562,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -108752,8 +108752,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Dong Anh",
     "enodeb_id": "101255",
-    "lat": 21.14111,
-    "lon": 105.86851,
+    "lat": 21.141091,
+    "lon": 105.86852,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -109192,8 +109192,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "101313",
-    "lat": 20.966713,
-    "lon": 105.94957,
+    "lat": 20.96801,
+    "lon": 105.94894,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -109214,8 +109214,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "101314",
-    "lat": 20.981347,
-    "lon": 105.91738,
+    "lat": 20.98124,
+    "lon": 105.91802,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -109654,8 +109654,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "103331",
-    "lat": 21.033734,
-    "lon": 105.94898,
+    "lat": 21.0337,
+    "lon": 105.94873,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -109720,8 +109720,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "101322",
-    "lat": 20.986177,
-    "lon": 105.93017,
+    "lat": 20.98588,
+    "lon": 105.93002,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -109874,8 +109874,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "100931",
-    "lat": 21.07884,
-    "lon": 105.93806,
+    "lat": 21.078839,
+    "lon": 105.938064,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -109906,7 +109906,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "2026-05-15",
+    "on_air_date": "5G_2",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -110028,8 +110028,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "101327",
-    "lat": 21.006258,
-    "lon": 105.99741,
+    "lat": 21.00646,
+    "lon": 105.99745,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -110204,8 +110204,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "101329",
-    "lat": 20.975842,
-    "lon": 105.95801,
+    "lat": 20.9784,
+    "lon": 105.9585,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -110270,8 +110270,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "101330",
-    "lat": 20.95937,
-    "lon": 105.90257,
+    "lat": 20.95942,
+    "lon": 105.9026,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -110314,8 +110314,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "101331",
-    "lat": 21.02511,
-    "lon": 105.98768,
+    "lat": 21.02512,
+    "lon": 105.98769,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -110336,8 +110336,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "-",
-    "lat": 21.00074,
-    "lon": 105.94343,
+    "lat": 21.00006,
+    "lon": 105.9435,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -110468,7 +110468,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "102197",
-    "lat": 21.04948,
+    "lat": 21.04943,
     "lon": 106.00816,
     "vip": "NO",
     "is_vip": false,
@@ -110732,8 +110732,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "103264",
-    "lat": 20.991778,
-    "lon": 105.9434,
+    "lat": 20.99173,
+    "lon": 105.94256,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -110776,8 +110776,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "103265",
-    "lat": 20.990947,
-    "lon": 105.94087,
+    "lat": 20.99192,
+    "lon": 105.94,
     "vip": "VIP",
     "is_vip": true,
     "scenario": "Swap 4G only",
@@ -111062,8 +111062,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "102961",
-    "lat": 21.01433,
-    "lon": 105.93593,
+    "lat": 21.014592,
+    "lon": 105.936206,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -111084,8 +111084,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "104862",
-    "lat": 21.0066,
-    "lon": 105.95,
+    "lat": 21.0067,
+    "lon": 105.94996,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G+ Swap 5G",
@@ -111106,8 +111106,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "104863",
-    "lat": 21.0098,
-    "lon": 105.9402,
+    "lat": 21.009606,
+    "lon": 105.940039,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G+ Swap 5G",
@@ -111128,8 +111128,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "101341",
-    "lat": 21.002,
-    "lon": 105.93716,
+    "lat": 21.00202,
+    "lon": 105.93719,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G+ Swap 5G",
@@ -111260,8 +111260,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "102969",
-    "lat": 20.987467,
-    "lon": 105.95304,
+    "lat": 20.98773,
+    "lon": 105.95256,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -111304,8 +111304,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "105018",
-    "lat": 20.99077,
-    "lon": 105.9567,
+    "lat": 20.99084,
+    "lon": 105.95668,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G+ Swap 5G",
@@ -111392,8 +111392,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "105022",
-    "lat": 20.99055,
-    "lon": 105.9603,
+    "lat": 20.99059,
+    "lon": 105.96024,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -111568,8 +111568,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "103455",
-    "lat": 20.988938,
-    "lon": 105.94201,
+    "lat": 20.989,
+    "lon": 105.94158,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New build 5G IBC",
@@ -111612,7 +111612,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "100633",
-    "lat": 21.09032,
+    "lat": 21.090315,
     "lon": 105.90513,
     "vip": "NO",
     "is_vip": false,
@@ -111622,7 +111622,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "2026-05-15",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -111700,8 +111700,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "104864",
-    "lat": 21.08422,
-    "lon": 105.92189,
+    "lat": 21.084217,
+    "lon": 105.921892,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -112404,8 +112404,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "102380",
-    "lat": 21.04913,
-    "lon": 105.90835,
+    "lat": 21.049129,
+    "lon": 105.908354,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -112559,7 +112559,7 @@ const rolloutData = [
     "district": "Long Bien",
     "enodeb_id": "101484",
     "lat": 21.07022,
-    "lon": 105.88484,
+    "lon": 105.8848,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -112756,8 +112756,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "101486",
-    "lat": 21.07286,
-    "lon": 105.8884,
+    "lat": 21.07322,
+    "lon": 105.8881,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -113130,8 +113130,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "100671",
-    "lat": 21.029846,
-    "lon": 105.92383,
+    "lat": 21.02865,
+    "lon": 105.9236,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -113218,8 +113218,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "100696",
-    "lat": 21.038365,
-    "lon": 105.88229,
+    "lat": 21.038337,
+    "lon": 105.882153,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -113328,8 +113328,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "103048",
-    "lat": 21.035586,
-    "lon": 105.90789,
+    "lat": 21.0356,
+    "lon": 105.9078,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -113724,8 +113724,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "104866",
-    "lat": 21.0569,
-    "lon": 105.8642,
+    "lat": 21.05692,
+    "lon": 105.86407,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -113911,7 +113911,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "HN_LBN_HOANG_NHU_TIEP",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -114208,8 +114208,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "101100",
-    "lat": 21.0566,
-    "lon": 105.8883,
+    "lat": 21.05654,
+    "lon": 105.88831,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -114230,7 +114230,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "100690",
-    "lat": 21.032512,
+    "lat": 21.03252,
     "lon": 105.8703,
     "vip": "NO",
     "is_vip": false,
@@ -114428,8 +114428,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "101498",
-    "lat": 21.05316,
-    "lon": 105.92253,
+    "lat": 21.05322,
+    "lon": 105.9224,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -114450,8 +114450,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "101499",
-    "lat": 21.03463,
-    "lon": 105.93447,
+    "lat": 21.03459,
+    "lon": 105.93446,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -114472,8 +114472,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "101498",
-    "lat": 21.04842,
-    "lon": 105.92458,
+    "lat": 21.04868,
+    "lon": 105.9245,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -114494,8 +114494,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "104868",
-    "lat": 21.0392,
-    "lon": 105.9349,
+    "lat": 21.03917,
+    "lon": 105.9348,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -114714,8 +114714,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "102384",
-    "lat": 21.05064,
-    "lon": 105.89427,
+    "lat": 21.05035,
+    "lon": 105.89441,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -114890,8 +114890,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "104869",
-    "lat": 21.0215,
-    "lon": 105.913,
+    "lat": 21.0209,
+    "lon": 105.91283,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -114912,8 +114912,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "104960",
-    "lat": 21.016466,
-    "lon": 105.9052,
+    "lat": 21.0163,
+    "lon": 105.9051,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -115000,8 +115000,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "105126",
-    "lat": 21.02161,
-    "lon": 105.89762,
+    "lat": 21.02358,
+    "lon": 105.89911,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -115594,8 +115594,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Long Bien",
     "enodeb_id": "876080",
-    "lat": 21.054,
-    "lon": 105.91,
+    "lat": 21.05409,
+    "lon": 105.91018,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -115912,7 +115912,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "GPS",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -115975,10 +115975,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116000,7 +116000,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "2026-05-26",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116041,10 +116041,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "HN_SSN_BAC_SON",
     "bbu_solution": "Combine BBU HN_BAC_SON",
     "timeline": "-"
@@ -116264,7 +116264,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "2026-05-25",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116418,7 +116418,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "2",
+    "on_air_date": "2026-05-25",
     "bbu_location": "HN_SSN_DONG_DO_4_CRAN",
     "bbu_solution": "Combine BBU HN_SSN_DONG_DO_4_CRAN",
     "timeline": "-"
@@ -116440,7 +116440,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "2",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116748,7 +116748,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "2026-05-26",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116902,7 +116902,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "2026-05-25",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -117012,7 +117012,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "2026-05-25",
+    "on_air_date": "gnb",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -117122,7 +117122,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "2026-05-25",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -117310,8 +117310,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Soc Son",
     "enodeb_id": "100720",
-    "lat": 21.21549,
-    "lon": 105.78025,
+    "lat": 21.21492,
+    "lon": 105.78059,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -118354,7 +118354,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "2026-05-25",
+    "on_air_date": "NOT",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -118388,8 +118388,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Soc Son",
     "enodeb_id": "101613",
-    "lat": 21.25189,
-    "lon": 105.75031,
+    "lat": 21.251888,
+    "lon": 105.750313,
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -118398,7 +118398,7 @@ const rolloutData = [
     "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "2026-05-25",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -118745,14 +118745,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "CRAN-IBC",
+    "site_type": "Macro + IBC",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HNT005",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -118767,14 +118767,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "IBC",
+    "site_type": "CRAN-IBC",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "-",
-    "bbu_solution": "New BBU",
+    "bbu_location": "HNT004",
+    "bbu_solution": "Combine BBU HNT004",
     "timeline": "-"
   },
   {
@@ -119785,7 +119785,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HNT054",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -120819,7 +120819,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HNT058",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -120885,7 +120885,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HNT056",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -121083,7 +121083,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HNT089",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -121743,7 +121743,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HNT039",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -124306,8 +124306,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "100055",
-    "lat": 20.73879,
-    "lon": 105.91351,
+    "lat": 20.73888,
+    "lon": 105.91366,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -124328,8 +124328,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "100054",
-    "lat": 20.7242539,
-    "lon": 105.92322,
+    "lat": 20.72417,
+    "lon": 105.92315,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -124350,8 +124350,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103133",
-    "lat": 20.72556,
-    "lon": 105.9061,
+    "lat": 20.72552,
+    "lon": 105.90614,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -124394,8 +124394,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103112",
-    "lat": 20.73779,
-    "lon": 105.86971,
+    "lat": 20.73783,
+    "lon": 105.86974,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -124416,7 +124416,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103113",
-    "lat": 20.71748,
+    "lat": 20.71764,
     "lon": 105.864,
     "vip": "NO",
     "is_vip": false,
@@ -124460,8 +124460,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103115",
-    "lat": 20.77457,
-    "lon": 105.88293,
+    "lat": 20.77456,
+    "lon": 105.883,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -124504,8 +124504,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "100051",
-    "lat": 20.69704,
-    "lon": 105.91453,
+    "lat": 20.6971,
+    "lon": 105.91457,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -124526,8 +124526,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "101547",
-    "lat": 20.71077,
-    "lon": 105.91113,
+    "lat": 20.71084,
+    "lon": 105.9111,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -124570,8 +124570,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102454",
-    "lat": 20.75211,
-    "lon": 105.8331,
+    "lat": 20.752123,
+    "lon": 105.833188,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -124614,8 +124614,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102455",
-    "lat": 20.74743,
-    "lon": 105.9604,
+    "lat": 20.7474,
+    "lon": 105.96044,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -124658,8 +124658,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "101548",
-    "lat": 20.76429,
-    "lon": 105.90663,
+    "lat": 20.76424,
+    "lon": 105.90662,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -124680,8 +124680,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102457",
-    "lat": 20.730735,
-    "lon": 105.9125,
+    "lat": 20.729125,
+    "lon": 105.912733,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -124702,8 +124702,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102458",
-    "lat": 20.74956,
-    "lon": 105.93134,
+    "lat": 20.74954,
+    "lon": 105.93132,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -124746,8 +124746,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103122",
-    "lat": 20.7834217,
-    "lon": 105.926371,
+    "lat": 20.78223,
+    "lon": 105.92642,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -124768,8 +124768,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "101549",
-    "lat": 20.77772,
-    "lon": 105.90712,
+    "lat": 20.77719,
+    "lon": 105.90695,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -124790,8 +124790,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103123",
-    "lat": 20.780228,
-    "lon": 105.914783,
+    "lat": 20.78022,
+    "lon": 105.91483,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -124812,8 +124812,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "100053",
-    "lat": 20.75678,
-    "lon": 105.90822,
+    "lat": 20.75688,
+    "lon": 105.908321,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -124834,8 +124834,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102459",
-    "lat": 20.746755,
-    "lon": 105.912129,
+    "lat": 20.746847,
+    "lon": 105.912227,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -124856,8 +124856,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103124",
-    "lat": 20.779915,
-    "lon": 105.805048,
+    "lat": 20.78018,
+    "lon": 105.8052,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -124878,8 +124878,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102460",
-    "lat": 20.76171,
-    "lon": 105.8072,
+    "lat": 20.76176,
+    "lon": 105.807193,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -124900,8 +124900,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102461",
-    "lat": 20.7146328,
-    "lon": 105.929434,
+    "lat": 20.71457,
+    "lon": 105.9292,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -124922,8 +124922,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102462",
-    "lat": 20.7204,
-    "lon": 105.915744,
+    "lat": 20.72041,
+    "lon": 105.91576,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -125032,8 +125032,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103127",
-    "lat": 20.74205,
-    "lon": 105.890413,
+    "lat": 20.74209,
+    "lon": 105.89038,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125076,7 +125076,7 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103129",
-    "lat": 20.7814,
+    "lat": 20.78144,
     "lon": 105.8699,
     "vip": "NO",
     "is_vip": false,
@@ -125098,8 +125098,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103130",
-    "lat": 20.7974694,
-    "lon": 105.912411,
+    "lat": 20.796314,
+    "lon": 105.913218,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125120,8 +125120,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102465",
-    "lat": 20.77683,
-    "lon": 105.9445,
+    "lat": 20.77672,
+    "lon": 105.94448,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125142,8 +125142,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102516",
-    "lat": 20.77691,
-    "lon": 105.82877,
+    "lat": 20.7771,
+    "lon": 105.82714,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125186,8 +125186,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102467",
-    "lat": 20.7704,
-    "lon": 105.85,
+    "lat": 20.7702,
+    "lon": 105.8495,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125208,8 +125208,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "102454",
-    "lat": 20.7552,
-    "lon": 105.8324,
+    "lat": 20.755027,
+    "lon": 105.832288,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125230,8 +125230,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103429",
-    "lat": 20.76466,
-    "lon": 105.92535,
+    "lat": 20.76584,
+    "lon": 105.92285,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125252,8 +125252,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103136",
-    "lat": 20.77209,
-    "lon": 105.92069,
+    "lat": 20.772141,
+    "lon": 105.920687,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125274,8 +125274,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103118",
-    "lat": 20.72558,
-    "lon": 105.956,
+    "lat": 20.72485,
+    "lon": 105.95776,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125296,8 +125296,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "103112",
-    "lat": 20.730917,
-    "lon": 105.87682,
+    "lat": 20.73096,
+    "lon": 105.8768,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125318,8 +125318,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "104973",
-    "lat": 20.721933,
-    "lon": 105.930793,
+    "lat": 20.72181,
+    "lon": 105.9311,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125340,8 +125340,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "104972",
-    "lat": 20.772347,
-    "lon": 105.956314,
+    "lat": 20.77247,
+    "lon": 105.95637,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125362,8 +125362,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "104971",
-    "lat": 20.779121,
-    "lon": 105.841176,
+    "lat": 20.77901,
+    "lon": 105.84102,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125384,8 +125384,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "105043",
-    "lat": 20.7675,
-    "lon": 105.8335,
+    "lat": 20.769737,
+    "lon": 105.832185,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -125406,8 +125406,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Phu Xuyen",
     "enodeb_id": "105054",
-    "lat": 20.6907,
-    "lon": 105.9224,
+    "lat": 20.69081,
+    "lon": 105.92245,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -126451,7 +126451,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HTH135",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -126825,7 +126825,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "HTH125",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -127112,7 +127112,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HTH125",
-    "bbu_solution": "New BBU",
+    "bbu_solution": "Combine BBU HTH125",
     "timeline": "-"
   },
   {
@@ -128102,7 +128102,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HCY200",
-    "bbu_solution": "Combine",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -129531,7 +129531,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "HTI140",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -132512,8 +132512,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thuong Tin",
     "enodeb_id": "100077",
-    "lat": 20.77573,
-    "lon": 105.89971,
+    "lat": 20.77569,
+    "lon": 105.8997,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -132622,8 +132622,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thuong Tin",
     "enodeb_id": "100078",
-    "lat": 20.78226,
-    "lon": 105.91151,
+    "lat": 20.78227,
+    "lon": 105.91153,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -132974,8 +132974,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thuong Tin",
     "enodeb_id": "100085",
-    "lat": 20.79194,
-    "lon": 105.89254,
+    "lat": 20.79193,
+    "lon": 105.89256,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -133238,8 +133238,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thuong Tin",
     "enodeb_id": "104970",
-    "lat": 20.768892,
-    "lon": 105.90241,
+    "lat": 20.76934,
+    "lon": 105.90235,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -133634,8 +133634,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Thuong Tin",
     "enodeb_id": "100078",
-    "lat": 20.78676,
-    "lon": 105.91106,
+    "lat": 20.78678,
+    "lon": 105.9111,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -134635,7 +134635,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HTX012",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -136923,7 +136923,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HTX114",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -137275,7 +137275,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HTX018",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -138309,7 +138309,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HTX042",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -139222,8 +139222,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "102633",
-    "lat": 20.71853,
-    "lon": 105.8339,
+    "lat": 20.718603,
+    "lon": 105.834028,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -139244,8 +139244,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103237",
-    "lat": 20.70863,
-    "lon": 105.8417,
+    "lat": 20.70866,
+    "lon": 105.84171,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -139266,8 +139266,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Ung Hoa",
     "enodeb_id": "103239",
-    "lat": 20.70639,
-    "lon": 105.8138,
+    "lat": 20.70482,
+    "lon": 105.81513,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -139574,8 +139574,8 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Soc Son",
     "enodeb_id": "-",
-    "lat": 21.22056,
-    "lon": 105.77085,
+    "lat": 21.220558,
+    "lon": 105.770853,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -140212,8 +140212,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hong Bang",
     "enodeb_id": "-",
-    "lat": 20.855929,
-    "lon": 106.6613171,
+    "lat": 20.85575,
+    "lon": 106.66138,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140234,8 +140234,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hong Bang",
     "enodeb_id": "-",
-    "lat": 20.864252,
-    "lon": 106.660578,
+    "lat": 20.86427,
+    "lon": 106.66055,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140278,8 +140278,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Binh Luc",
     "enodeb_id": "200033",
-    "lat": 20.5421182,
-    "lon": 105.9662505,
+    "lat": 20.541988,
+    "lon": 105.966048,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140322,8 +140322,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "200070",
-    "lat": 20.53791,
-    "lon": 105.92318,
+    "lat": 20.537898,
+    "lon": 105.923132,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140344,8 +140344,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Phu Ly",
     "enodeb_id": "-",
-    "lat": 20.535011,
-    "lon": 105.917406,
+    "lat": 20.535004,
+    "lon": 105.91735,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140366,8 +140366,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "-",
-    "lat": 20.635557,
-    "lon": 105.921148,
+    "lat": 20.635606,
+    "lon": 105.921144,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140388,8 +140388,8 @@ const rolloutData = [
     "province": "Ninh Binh",
     "district": "Duy Tien",
     "enodeb_id": "-",
-    "lat": 20.644785,
-    "lon": 105.926055,
+    "lat": 20.644756,
+    "lon": 105.926446,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140432,7 +140432,7 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Do Son",
     "enodeb_id": "-",
-    "lat": 20.71427946,
+    "lat": 20.7142795,
     "lon": 106.782145,
     "vip": "NO",
     "is_vip": false,
@@ -140542,8 +140542,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "-",
-    "lat": 20.93518,
-    "lon": 106.33123,
+    "lat": 20.935098,
+    "lon": 106.331192,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140828,8 +140828,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "-",
-    "lat": 20.84601,
-    "lon": 106.70685,
+    "lat": 20.8827914,
+    "lon": 106.731364,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140850,8 +140850,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Do Son",
     "enodeb_id": "-",
-    "lat": 20.74908,
-    "lon": 106.7503,
+    "lat": 20.749509,
+    "lon": 106.749621,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140894,8 +140894,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Kien Thuy",
     "enodeb_id": "-",
-    "lat": 20.71568,
-    "lon": 106.6704,
+    "lat": 20.71566,
+    "lon": 106.67039,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140916,8 +140916,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Thuy Nguyen",
     "enodeb_id": "-",
-    "lat": 20.88044,
-    "lon": 106.6809,
+    "lat": 20.880436,
+    "lon": 106.680887,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140938,8 +140938,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Le Chan",
     "enodeb_id": "-",
-    "lat": 20.832113,
-    "lon": 106.681809,
+    "lat": 20.8324551,
+    "lon": 106.682404,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -140960,8 +140960,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Duong Kinh",
     "enodeb_id": "360019",
-    "lat": 20.818274,
-    "lon": 106.697777,
+    "lat": 20.818361,
+    "lon": 106.697851,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -141026,8 +141026,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Tien Lang",
     "enodeb_id": "-",
-    "lat": 20.662055,
-    "lon": 106.6813881,
+    "lat": 20.6624,
+    "lon": 106.68129,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141092,8 +141092,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Binh Giang",
     "enodeb_id": "-",
-    "lat": 20.9009,
-    "lon": 106.17596,
+    "lat": 20.898841,
+    "lon": 106.179309,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141114,8 +141114,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Binh Giang",
     "enodeb_id": "-",
-    "lat": 20.853163,
-    "lon": 106.20564,
+    "lat": 20.85362,
+    "lon": 106.21323,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141136,8 +141136,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "-",
-    "lat": 20.979452,
-    "lon": 106.353501,
+    "lat": 20.97671,
+    "lon": 106.34357,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141158,8 +141158,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "-",
-    "lat": 20.9851,
-    "lon": 106.342,
+    "lat": 20.986615,
+    "lon": 106.340791,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141180,8 +141180,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "-",
-    "lat": 20.991202,
-    "lon": 106.340237,
+    "lat": 21.0022803,
+    "lon": 106.335752,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141202,8 +141202,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Binh Giang",
     "enodeb_id": "-",
-    "lat": 20.909493,
-    "lon": 106.153231,
+    "lat": 20.90852,
+    "lon": 106.14849,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141224,8 +141224,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Nam Sach",
     "enodeb_id": "-",
-    "lat": 20.94605,
-    "lon": 106.32417,
+    "lat": 20.9901219,
+    "lon": 106.3344,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141246,8 +141246,8 @@ const rolloutData = [
     "province": "Hai Phong",
     "district": "Hai Duong",
     "enodeb_id": "-",
-    "lat": 20.92957,
-    "lon": 106.33304,
+    "lat": 20.9296866,
+    "lon": 106.336961,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141467,7 +141467,7 @@ const rolloutData = [
     "district": "Bo Trach",
     "enodeb_id": "-",
     "lat": 17.6178869,
-    "lon": 106.2675035,
+    "lon": 106.267504,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141554,8 +141554,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Dong Hoi",
     "enodeb_id": "-",
-    "lat": 17.5038,
-    "lon": 106.59832,
+    "lat": 17.50379,
+    "lon": 106.5983,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141576,8 +141576,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Le Thuy",
     "enodeb_id": "-",
-    "lat": 17.21639,
-    "lon": 106.79183,
+    "lat": 17.21643,
+    "lon": 106.79182,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141598,8 +141598,8 @@ const rolloutData = [
     "province": "Quang Tri",
     "district": "Minh Hoa",
     "enodeb_id": "-",
-    "lat": 17.89619,
-    "lon": 105.9152,
+    "lat": 17.896409,
+    "lon": 105.914488,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141819,7 +141819,7 @@ const rolloutData = [
     "district": "Quang Trach",
     "enodeb_id": "-",
     "lat": 17.8702692,
-    "lon": 106.4041335,
+    "lon": 106.404134,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141885,7 +141885,7 @@ const rolloutData = [
     "district": "Quang Trach",
     "enodeb_id": "-",
     "lat": 17.776787,
-    "lon": 106.3815727,
+    "lon": 106.381573,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -141995,7 +141995,7 @@ const rolloutData = [
     "district": "Tuyen Hoa",
     "enodeb_id": "-",
     "lat": 17.852412,
-    "lon": 106.1149455,
+    "lon": 106.114946,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -142060,11 +142060,11 @@ const rolloutData = [
     "province": "Ha Noi",
     "district": "Gia Lam",
     "enodeb_id": "-",
-    "lat": 21.0134,
-    "lon": 105.953,
+    "lat": 21.013996,
+    "lon": 105.95185,
     "vip": "NO",
     "is_vip": false,
-    "scenario": "Swap 4G only",
+    "scenario": "Swap 4G + New 5G",
     "site_type": "-",
     "detailed_type": "-",
     "status": "Pending",
@@ -180142,8 +180142,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "LongXuyên",
     "enodeb_id": "614458",
-    "lat": 10.3597,
-    "lon": 105.445,
+    "lat": 10.359635,
+    "lon": 105.445111,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -180274,8 +180274,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "LongXuyên",
     "enodeb_id": "613526",
-    "lat": 10.4161,
-    "lon": 105.4224,
+    "lat": 10.416107,
+    "lon": 105.422419,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -183596,8 +183596,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "BaTri",
     "enodeb_id": "635901",
-    "lat": 10.0916,
-    "lon": 106.6264,
+    "lat": 10.09158,
+    "lon": 106.626365,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -185092,8 +185092,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "ChâuThành",
     "enodeb_id": "635817",
-    "lat": 10.3086,
-    "lon": 106.2742,
+    "lat": 10.30862,
+    "lon": 106.274255,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -194135,7 +194135,7 @@ const rolloutData = [
     "district": "ÔMôn",
     "enodeb_id": "651487",
     "lat": 10.11008,
-    "lon": 105.61919,
+    "lon": 105.61917,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -198908,8 +198908,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "CaoLãnh(Thànhphố)",
     "enodeb_id": "662307",
-    "lat": 10.4499,
-    "lon": 105.634,
+    "lat": 10.4500082,
+    "lon": 105.6342479,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -198930,8 +198930,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "CaoLãnh(Thànhphố)",
     "enodeb_id": "662309",
-    "lat": 10.4278,
-    "lon": 105.6368,
+    "lat": 10.4277567,
+    "lon": 105.636825,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -199018,8 +199018,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "CaoLãnh(Thànhphố)",
     "enodeb_id": "662394",
-    "lat": 10.4682,
-    "lon": 105.6279,
+    "lat": 10.4681005,
+    "lon": 105.6282045,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -199062,8 +199062,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "CaoLãnh(Thànhphố)",
     "enodeb_id": "662405",
-    "lat": 10.4179,
-    "lon": 105.6468,
+    "lat": 10.4179283,
+    "lon": 105.6467076,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -199128,8 +199128,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "CaoLãnh(Thànhphố)",
     "enodeb_id": "665028",
-    "lat": 10.4543,
-    "lon": 105.6397,
+    "lat": 10.454345,
+    "lon": 105.6398283,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -200118,8 +200118,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "HồngNgự(Thịxã)",
     "enodeb_id": "662189",
-    "lat": 10.8043,
-    "lon": 105.3544,
+    "lat": 10.80453,
+    "lon": 105.354656,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -202670,8 +202670,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "SaĐéc",
     "enodeb_id": "662395",
-    "lat": 10.2862,
-    "lon": 105.7543,
+    "lat": 10.28656,
+    "lon": 105.754247,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -204254,8 +204254,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "ChâuThànhA",
     "enodeb_id": "671992",
-    "lat": 9.966,
-    "lon": 105.7318,
+    "lat": 9.9659,
+    "lon": 105.7317,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -205288,8 +205288,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "LongMỹ(Thịxã)",
     "enodeb_id": "-",
-    "lat": 9.6808,
-    "lon": 105.5719,
+    "lat": 9.6807,
+    "lon": 105.5718,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -205487,7 +205487,7 @@ const rolloutData = [
     "district": "LongMỹ(Thịxã)",
     "enodeb_id": "671798",
     "lat": 9.7264,
-    "lon": 105.6154,
+    "lon": 105.6153,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -205531,7 +205531,7 @@ const rolloutData = [
     "district": "LongMỹ(Thịxã)",
     "enodeb_id": "671854",
     "lat": 9.6717,
-    "lon": 105.6378,
+    "lon": 105.6377,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -205619,7 +205619,7 @@ const rolloutData = [
     "district": "LongMỹ(Thịxã)",
     "enodeb_id": "671872",
     "lat": 9.6736,
-    "lon": 105.555,
+    "lon": 105.5549,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -205662,8 +205662,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "LongMỹ(Thịxã)",
     "enodeb_id": "671886",
-    "lat": 9.6468,
-    "lon": 105.6192,
+    "lat": 9.64684,
+    "lon": 105.61918,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -207400,8 +207400,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "VịThanh",
     "enodeb_id": "671717",
-    "lat": 9.7262,
-    "lon": 105.4583,
+    "lat": 9.726166,
+    "lon": 105.458372,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -207444,8 +207444,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "VịThanh",
     "enodeb_id": "671866",
-    "lat": 9.6921,
-    "lon": 105.3374,
+    "lat": 9.6919,
+    "lon": 105.3373,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -208808,8 +208808,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "GòQuao",
     "enodeb_id": "684626",
-    "lat": 9.74417,
-    "lon": 105.22111,
+    "lat": 9.744349,
+    "lon": 105.221102,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -208830,8 +208830,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "GòQuao",
     "enodeb_id": "684628",
-    "lat": 9.79051,
-    "lon": 105.37382,
+    "lat": 9.790468,
+    "lon": 105.373793,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -208962,8 +208962,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "GòQuao",
     "enodeb_id": "684554",
-    "lat": 9.77535,
-    "lon": 105.29052,
+    "lat": 9.775392,
+    "lon": 105.290517,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -209094,8 +209094,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "GiồngRiềng",
     "enodeb_id": "-",
-    "lat": 9.91945,
-    "lon": 105.23741,
+    "lat": 9.919443,
+    "lon": 105.237562,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -210546,8 +210546,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "HàTiên",
     "enodeb_id": "-",
-    "lat": 10.35595,
-    "lon": 105.45812,
+    "lat": 10.383,
+    "lon": 104.445479,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -218752,8 +218752,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Cái Bè",
     "enodeb_id": "702607",
-    "lat": 10.39729,
-    "lon": 106.00919,
+    "lat": 10.3974,
+    "lon": 106.0095,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + Swap 5G",
@@ -218906,8 +218906,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Cái Bè",
     "enodeb_id": "702849",
-    "lat": 10.40564,
-    "lon": 105.91194,
+    "lat": 10.405512,
+    "lon": 105.911973,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -220182,8 +220182,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Cái Bè",
     "enodeb_id": "702696",
-    "lat": 10.3688,
-    "lon": 105.8261,
+    "lat": 10.368848,
+    "lon": 105.826066,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -230192,8 +230192,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Mỹ Tho",
     "enodeb_id": "702887",
-    "lat": 10.38516,
-    "lon": 106.36092,
+    "lat": 10.38508,
+    "lon": 106.360904,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -231204,8 +231204,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Tân Phú Đông",
     "enodeb_id": "705510",
-    "lat": 10.25556,
-    "lon": 106.6405,
+    "lat": 10.25256,
+    "lon": 106.63923,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -234020,8 +234020,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "DuyênHải",
     "enodeb_id": "713821",
-    "lat": 9.6087,
-    "lon": 106.4403,
+    "lat": 9.608711,
+    "lon": 106.440174,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -234108,8 +234108,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "DuyênHải",
     "enodeb_id": "897327",
-    "lat": 9.6471,
-    "lon": 106.3493,
+    "lat": 9.64703,
+    "lon": 106.34934,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -234218,8 +234218,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "DuyênHải(Thịxã)",
     "enodeb_id": "713548",
-    "lat": 9.6388,
-    "lon": 106.5021,
+    "lat": 9.638763,
+    "lon": 106.502129,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -234724,8 +234724,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TiểuCần",
     "enodeb_id": "897337",
-    "lat": 9.7552,
-    "lon": 106.1419,
+    "lat": 9.755256,
+    "lon": 106.141933,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -235745,7 +235745,7 @@ const rolloutData = [
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "5G",
-    "rfi_date": "2026-04-30 00:00:00",
+    "rfi_date": "2026-04-28 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
@@ -235934,8 +235934,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "BìnhMinh",
     "enodeb_id": "723346",
-    "lat": 10.0636,
-    "lon": 105.7979,
+    "lat": 10.06362,
+    "lon": 105.79789,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -236484,8 +236484,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "BìnhTân",
     "enodeb_id": "723133",
-    "lat": 10.1195,
-    "lon": 105.7481,
+    "lat": 10.11951,
+    "lon": 105.74815,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -237320,8 +237320,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "LongHồ",
     "enodeb_id": "723023",
-    "lat": 10.1474,
-    "lon": 106.12296,
+    "lat": 10.147509,
+    "lon": 105.923312,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -237936,30 +237936,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "LongHồ",
     "enodeb_id": "723029",
-    "lat": 10.17782,
-    "lon": 105.93721,
-    "vip": "NO",
-    "is_vip": false,
-    "scenario": "Upgrade 5G",
-    "site_type": "CRAN-R",
-    "detailed_type": "-",
-    "status": "RFI Ready",
-    "rat": "5G",
-    "rfi_date": "2026-05-19 00:00:00",
-    "on_air_date": "-",
-    "bbu_location": "VLLH14",
-    "bbu_solution": "Reuse BBU",
-    "timeline": "W08"
-  },
-  {
-    "region": "South",
-    "po": "PO1.1",
-    "site_name": "VLLHX5",
-    "province": "Vinh Long",
-    "district": "LongHồ",
-    "enodeb_id": "723029",
-    "lat": 10.16644,
-    "lon": 105.93374,
+    "lat": 10.177845,
+    "lon": 105.937247,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -238112,8 +238090,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723052",
-    "lat": 10.2196,
-    "lon": 106.1008,
+    "lat": 10.219558,
+    "lon": 106.100813,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238156,8 +238134,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723141",
-    "lat": 10.1821,
-    "lon": 106.0437,
+    "lat": 10.182008,
+    "lon": 106.043632,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238178,8 +238156,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723144",
-    "lat": 10.2026,
-    "lon": 106.0222,
+    "lat": 10.202573,
+    "lon": 106.022168,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238222,8 +238200,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723150",
-    "lat": 10.1913,
-    "lon": 106.1265,
+    "lat": 10.19122,
+    "lon": 106.126395,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238244,8 +238222,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723152",
-    "lat": 10.193,
-    "lon": 106.0979,
+    "lat": 10.193033,
+    "lon": 106.097776,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238266,8 +238244,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723153",
-    "lat": 10.1758,
-    "lon": 106.10622,
+    "lat": 10.175848,
+    "lon": 106.106185,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238332,8 +238310,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723157",
-    "lat": 10.2179,
-    "lon": 106.1203,
+    "lat": 10.217787,
+    "lon": 106.12036,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238354,8 +238332,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723175",
-    "lat": 10.1865,
-    "lon": 106.072,
+    "lat": 10.186531,
+    "lon": 106.071996,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238376,8 +238354,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723010",
-    "lat": 10.174,
-    "lon": 106.1365,
+    "lat": 10.174021,
+    "lon": 106.136497,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238442,8 +238420,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723237",
-    "lat": 10.2011,
-    "lon": 106.0378,
+    "lat": 10.201014,
+    "lon": 106.037752,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238464,7 +238442,7 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723238",
-    "lat": 10.2045,
+    "lat": 10.204531,
     "lon": 106.1121,
     "vip": "NO",
     "is_vip": false,
@@ -238486,8 +238464,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723239",
-    "lat": 10.1726,
-    "lon": 106.0593,
+    "lat": 10.172613,
+    "lon": 106.059263,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238552,8 +238530,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723042",
-    "lat": 10.2266,
-    "lon": 106.022,
+    "lat": 10.226653,
+    "lon": 106.021988,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238574,8 +238552,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723078",
-    "lat": 10.1431,
-    "lon": 106.075,
+    "lat": 10.143095,
+    "lon": 106.075042,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238618,8 +238596,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "MangThít",
     "enodeb_id": "723043",
-    "lat": 10.2136,
-    "lon": 106.0504,
+    "lat": 10.2134,
+    "lon": 106.050398,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238662,8 +238640,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723069",
-    "lat": 10.1023,
-    "lon": 105.9319,
+    "lat": 10.102286,
+    "lon": 105.93195,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238706,8 +238684,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723049",
-    "lat": 10.057,
-    "lon": 105.9567,
+    "lat": 10.056988,
+    "lon": 105.956639,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238772,8 +238750,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723192",
-    "lat": 10.1118,
-    "lon": 105.9668,
+    "lat": 10.111711,
+    "lon": 105.966787,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238948,8 +238926,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723246",
-    "lat": 10.134,
-    "lon": 105.994,
+    "lat": 10.134027,
+    "lon": 105.99398,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239014,8 +238992,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723164",
-    "lat": 10.0888,
-    "lon": 105.8911,
+    "lat": 10.088796,
+    "lon": 105.891145,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239036,8 +239014,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723241",
-    "lat": 9.9841,
-    "lon": 105.9321,
+    "lat": 9.984078,
+    "lon": 105.931985,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239102,8 +239080,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723246",
-    "lat": 10.10913,
-    "lon": 105.99244,
+    "lat": 10.109113,
+    "lon": 105.992409,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239124,8 +239102,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723248",
-    "lat": 10.1319,
-    "lon": 105.8888,
+    "lat": 10.131885,
+    "lon": 105.888719,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239146,8 +239124,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "-",
-    "lat": 10.0833,
-    "lon": 105.8626,
+    "lat": 10.083403,
+    "lon": 105.862603,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239190,8 +239168,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723244",
-    "lat": 10.0942,
-    "lon": 105.9531,
+    "lat": 10.094317,
+    "lon": 105.953089,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239212,8 +239190,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723037",
-    "lat": 9.9988,
-    "lon": 105.9526,
+    "lat": 9.999004,
+    "lon": 105.952545,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239234,8 +239212,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723332",
-    "lat": 10.1048,
-    "lon": 106.0358,
+    "lat": 10.104626,
+    "lon": 106.035622,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239256,8 +239234,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723124",
-    "lat": 10.1467,
-    "lon": 105.9122,
+    "lat": 10.146627,
+    "lon": 105.912236,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239278,8 +239256,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723185",
-    "lat": 9.9777,
-    "lon": 105.9185,
+    "lat": 9.97766,
+    "lon": 105.918415,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239300,8 +239278,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723037",
-    "lat": 10.0381,
-    "lon": 105.9843,
+    "lat": 10.03811,
+    "lon": 105.984362,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239322,8 +239300,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723241",
-    "lat": 9.9992,
-    "lon": 105.9368,
+    "lat": 9.999264,
+    "lon": 105.936758,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239344,8 +239322,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "-",
-    "lat": 10.04488,
-    "lon": 105.98673,
+    "lat": 10.044889,
+    "lon": 105.986737,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239432,8 +239410,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TràÔn",
     "enodeb_id": "723119",
-    "lat": 10.0754,
-    "lon": 106.0499,
+    "lat": 10.075388,
+    "lon": 106.049811,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239498,8 +239476,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TràÔn",
     "enodeb_id": "723165",
-    "lat": 9.9501,
-    "lon": 105.9109,
+    "lat": 9.950072,
+    "lon": 105.910706,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239542,8 +239520,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TràÔn",
     "enodeb_id": "723211",
-    "lat": 9.9313,
-    "lon": 105.992,
+    "lat": 9.931282,
+    "lon": 105.992047,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -240924,56 +240902,56 @@ const rolloutData = [
 ];
 const coordLookup = {
   "BCN_BBE_BA_BE": [
-    22.411895,
-    105.6277
+    22.411783,
+    105.627811
   ],
   "872000": [
-    22.411895,
-    105.6277
+    22.411783,
+    105.627811
   ],
   "BCN_BBE_NAM_MAU_2": [
-    22.39823,
-    105.61726
+    22.398247,
+    105.617246
   ],
   "300264": [
-    22.39823,
-    105.61726
+    22.398247,
+    105.617246
   ],
   "BCN_BCN_BAN_ANG": [
-    22.13775,
-    105.83955
+    22.137849,
+    105.839702
   ],
   "300004": [
-    22.13775,
-    105.83955
+    22.137849,
+    105.839702
   ],
   "BCN_BCN_MINH_KHAI_2": [
-    22.168086,
-    105.84589
+    22.16792,
+    105.84606
   ],
   "300010": [
-    22.168086,
-    105.84589
+    22.16792,
+    105.84606
   ],
   "BCN_BCN_SONG_CAU": [
-    22.141428,
-    105.80987
+    22.141387,
+    105.809836
   ],
   "300012": [
-    22.141428,
-    105.80987
+    22.141387,
+    105.809836
   ],
   "BCN_CMI_THANH_BINH_3": [
-    21.9408,
-    105.80968
+    21.940268,
+    105.809694
   ],
   "300030": [
-    21.9408,
-    105.80968
+    21.940268,
+    105.809694
   ],
   "BGG_BGG_BAC_GIANG_PT": [
-    21.277717,
-    106.19378
+    21.27766,
+    106.19372
   ],
   "310000": [
     21.27303,
@@ -240981,11 +240959,11 @@ const coordLookup = {
   ],
   "BGG_BGG_CA_TINH": [
     21.258129,
-    106.22573
+    106.225726
   ],
   "310033": [
     21.258129,
-    106.22573
+    106.225726
   ],
   "BGG_BGG_DINH_KE_2": [
     21.2887,
@@ -240996,12 +240974,12 @@ const coordLookup = {
     106.21897
   ],
   "BGG_BGG_DINH_KE_3": [
-    21.2869,
-    106.22933
+    21.2869003,
+    106.229332
   ],
   "872025": [
-    21.2869,
-    106.22933
+    21.2869003,
+    106.229332
   ],
   "BGG_BGG_DINH_KE_6": [
     21.2821,
@@ -241012,12 +240990,12 @@ const coordLookup = {
     106.22
   ],
   "BGG_BGG_DONG_SON": [
-    21.261894,
-    106.19533
+    21.2623,
+    106.19553
   ],
   "310001": [
-    21.261894,
-    106.19533
+    21.2623,
+    106.19553
   ],
   "BGG_BGG_HOANG_VAN_THU": [
     21.28273,
@@ -241029,39 +241007,39 @@ const coordLookup = {
   ],
   "BGG_BGG_HUNG_VUONG_2": [
     21.267336,
-    106.20736
+    106.207362
   ],
   "872275": [
     21.267336,
-    106.20736
+    106.207362
   ],
   "BGG_BGG_LE_LOI_3": [
-    21.28261,
-    106.21207
+    21.28258,
+    106.2121
   ],
   "310038": [
-    21.28261,
-    106.21207
+    21.28258,
+    106.2121
   ],
   "BGG_BGG_NGO_QUYEN": [
-    21.283679,
-    106.20554
+    21.28357,
+    106.20547
   ],
   "872322": [
     21.282502,
-    106.20013
+    106.200127
   ],
   "BGG_BGG_NGO_QUYEN_2": [
     21.279424,
-    106.1994
+    106.199398
   ],
   "310540": [
     21.279424,
-    106.1994
+    106.199398
   ],
   "BGG_BGG_NGUYEN_VAN_CU": [
     21.282502,
-    106.20013
+    106.200127
   ],
   "BGG_BGG_NM_HOA_CHAT": [
     21.30927,
@@ -241081,11 +241059,11 @@ const coordLookup = {
   ],
   "BGG_BGG_QUAN_THANH": [
     21.294341,
-    106.21156
+    106.211559
   ],
   "872184": [
     21.294341,
-    106.21156
+    106.211559
   ],
   "BGG_BGG_QUANG_TRUNG": [
     21.27528,
@@ -241096,32 +241074,32 @@ const coordLookup = {
     106.188
   ],
   "BGG_BGG_SONG_KHE": [
-    21.250336,
-    106.1738
+    21.25039,
+    106.17386
   ],
   "872276": [
-    21.250336,
-    106.1738
+    21.25039,
+    106.17386
   ],
   "BGG_BGG_SONG_MAI": [
     21.302777,
-    106.1691
+    106.169097
   ],
   "310010": [
     21.302777,
-    106.1691
+    106.169097
   ],
   "BGG_BGG_TAN_MY": [
-    21.268781,
+    21.26878,
     106.16565
   ],
   "310011": [
-    21.268781,
+    21.26878,
     106.16565
   ],
   "BGG_BGG_THO_XUONG": [
-    21.294896,
-    106.19996
+    21.29488,
+    106.2
   ],
   "310042": [
     21.2888,
@@ -241137,50 +241115,50 @@ const coordLookup = {
   ],
   "BGG_BGG_VUONG_VAN_TRA": [
     21.279144,
-    106.1881
+    106.188095
   ],
   "872027": [
     21.279144,
-    106.1881
+    106.188095
   ],
   "BGG_BGG_XUONG_GIANG": [
-    21.289344,
-    106.19726
+    21.28933,
+    106.19721
   ],
   "310013": [
-    21.289344,
-    106.19726
+    21.28933,
+    106.19721
   ],
   "BGG_HHA_DANH_THANG": [
-    21.328052,
-    105.97302
+    21.328067,
+    105.973034
   ],
   "310067": [
-    21.328052,
-    105.97302
+    21.328067,
+    105.973034
   ],
   "BGG_HHA_KCN_HOA_PHU_1": [
-    21.24047,
-    105.97189
+    21.24036,
+    105.97187
   ],
   "310330": [
-    21.24047,
-    105.97189
+    21.24036,
+    105.97187
   ],
   "BGG_HHA_KCN_HOA_PHU_2": [
-    21.23448,
-    105.96134
+    21.23465,
+    105.96166
   ],
   "310331": [
-    21.23448,
-    105.96134
+    21.23465,
+    105.96166
   ],
   "BGG_LGG_CAU_LUONG": [
-    21.442773,
+    21.4427725,
     106.2913
   ],
   "310080": [
-    21.442773,
+    21.4427725,
     106.2913
   ],
   "BGG_LGG_DONG_SON_2": [
@@ -241193,19 +241171,19 @@ const coordLookup = {
   ],
   "BGG_LGG_HUONG_LAC": [
     21.383383,
-    106.26719
+    106.267193
   ],
   "310083": [
     21.383383,
-    106.26719
+    106.267193
   ],
   "BGG_LGG_THAI_DAO": [
     21.292045,
-    106.27255
+    106.272548
   ],
   "310088": [
     21.292045,
-    106.27255
+    106.272548
   ],
   "BGG_LGG_THAI_DAO_3": [
     21.3071,
@@ -241225,83 +241203,83 @@ const coordLookup = {
   ],
   "BGG_LNM_CHU_DIEN_2": [
     21.318609,
-    106.35606
+    106.356064
   ],
   "310052": [
     21.318609,
-    106.35606
+    106.356064
   ],
   "BGG_LNM_LAN_MAU": [
     21.271916,
-    106.31834
+    106.318341
   ],
   "310053": [
     21.271916,
-    106.31834
+    106.318341
   ],
   "BGG_LNN_GIAP_SON": [
     21.394875,
-    106.6341
+    106.634097
   ],
   "310107": [
     21.394875,
-    106.6341
+    106.634097
   ],
   "BGG_LNN_KIEN_THANH": [
     21.421861,
-    106.56314
+    106.563136
   ],
   "310057": [
     21.421861,
-    106.56314
+    106.563136
   ],
   "BGG_LNN_LUC_NGAN": [
-    21.372419,
-    106.56777
+    21.37241,
+    106.56779
   ],
   "310058": [
-    21.372419,
-    106.56777
+    21.37241,
+    106.56779
   ],
   "BGG_LNN_NGHIA_HO": [
     21.385568,
-    106.59747
+    106.597465
   ],
   "310059": [
     21.385568,
-    106.59747
+    106.597465
   ],
   "BGG_TYN_TAN_YEN": [
     21.388522,
-    106.12585
+    106.125851
   ],
   "310061": [
     21.388522,
-    106.12585
+    106.125851
   ],
   "BGG_TYN_VIET_LAP": [
     21.347088,
-    106.13456
+    106.134555
   ],
   "310126": [
     21.347088,
-    106.13456
+    106.134555
   ],
   "BGG_VYN_BICH_SON_2": [
-    21.28004,
-    106.0889
+    21.27989,
+    106.08895
   ],
   "310014": [
-    21.28004,
-    106.0889
+    21.27989,
+    106.08895
   ],
   "BGG_VYN_HOANG_NINH": [
-    21.2516,
-    106.1053
+    21.25245,
+    106.10582
   ],
   "310016": [
     21.240912,
-    106.10918
+    106.109181
   ],
   "BGG_VYN_HOANG_NINH_2": [
     21.2501,
@@ -241309,39 +241287,39 @@ const coordLookup = {
   ],
   "310017": [
     21.237643,
-    106.15265
+    106.152645
   ],
   "BGG_VYN_HONG_THAI": [
     21.273589,
-    106.13782
+    106.137822
   ],
   "310018": [
     21.273589,
-    106.13782
+    106.137822
   ],
   "BGG_VYN_KCN_QUANG_CHAU": [
-    21.214624,
-    106.11802
+    21.2146244,
+    106.118021
   ],
   "310020": [
-    21.214624,
-    106.11802
+    21.2146244,
+    106.118021
   ],
   "BGG_VYN_KCN_QUANG_CHAU_2": [
     21.21611,
-    106.10303
+    106.103033
   ],
   "310127": [
     21.21611,
-    106.10303
+    106.103033
   ],
   "BGG_VYN_KCN_QUANG_CHAU_3": [
-    21.217708,
-    106.10244
+    21.21791,
+    106.10256
   ],
   "310181": [
-    21.217708,
-    106.10244
+    21.21791,
+    106.10256
   ],
   "BGG_VYN_KCN_VAN_TRUNG_CRAN_2": [
     21.244416,
@@ -241352,64 +241330,64 @@ const coordLookup = {
     106.14939
   ],
   "BGG_VYN_MY_DIEN": [
-    21.26388,
-    106.12376
+    21.26396,
+    106.1238
   ],
   "310021": [
-    21.26388,
-    106.12376
+    21.26396,
+    106.1238
   ],
   "BGG_VYN_NENH": [
-    21.235676,
-    106.10701
+    21.2356759,
+    106.107011
   ],
   "310022": [
-    21.235676,
-    106.10701
+    21.2356759,
+    106.107011
   ],
   "BGG_VYN_NENH_3": [
     21.240912,
-    106.10918
+    106.109181
   ],
   "BGG_VYN_NENH_5": [
-    21.225031,
-    106.10788
+    21.2249,
+    106.10776
   ],
   "310310": [
-    21.225031,
-    106.10788
+    21.2249,
+    106.10776
   ],
   "BGG_VYN_PSDT_DINH_TRAM_3": [
     21.257217,
-    106.12188
+    106.121881
   ],
   "310142": [
     21.257217,
-    106.12188
+    106.121881
   ],
   "BGG_VYN_PSDT_DINH_TRAM_4": [
     21.261344,
-    106.12673
+    106.126727
   ],
   "310145": [
     21.261344,
-    106.12673
+    106.126727
   ],
   "BGG_VYN_PSDT_HOANG_MAI_2": [
     21.250547,
-    106.1157
+    106.115704
   ],
   "310063": [
-    21.221043,
-    106.10772
+    21.22104,
+    106.10764
   ],
   "BGG_VYN_PSDT_NENH_4": [
-    21.2319,
-    106.1105
+    21.23199,
+    106.11063
   ],
   "310044": [
-    21.2319,
-    106.1105
+    21.23199,
+    106.11063
   ],
   "BGG_VYN_PSDT_QUANG_CHAU_1": [
     21.22353,
@@ -241421,23 +241399,23 @@ const coordLookup = {
   ],
   "BGG_VYN_PSDT_QUANG_CHAU_10": [
     21.22977,
-    106.12279
+    106.122789
   ],
   "310135": [
     21.22977,
-    106.12279
+    106.122789
   ],
   "BGG_VYN_PSDT_QUANG_CHAU_11": [
     21.214507,
-    106.11278
+    106.112775
   ],
   "310134": [
     21.214507,
-    106.11278
+    106.112775
   ],
   "BGG_VYN_PSDT_QUANG_CHAU_12": [
-    21.20051,
-    106.12124
+    21.20976,
+    106.10482
   ],
   "310039": [
     21.20051,
@@ -241449,11 +241427,11 @@ const coordLookup = {
   ],
   "310043": [
     21.208573,
-    106.10938
+    106.109382
   ],
   "BGG_VYN_PSDT_QUANG_CHAU_16": [
     21.208573,
-    106.10938
+    106.109382
   ],
   "BGG_VYN_PSDT_QUANG_CHAU_17": [
     21.20051,
@@ -241469,27 +241447,27 @@ const coordLookup = {
   ],
   "BGG_VYN_PSDT_QUANG_CHAU_5": [
     21.22845,
-    106.11871
+    106.118713
   ],
   "310037": [
     21.22845,
-    106.11871
+    106.118713
   ],
   "BGG_VYN_PSDT_QUANG_CHAU_6": [
     21.22348,
-    106.10962
+    106.109615
   ],
   "310121": [
     21.22348,
-    106.10962
+    106.109615
   ],
   "BGG_VYN_PSDT_QUANG_CHAU_7": [
-    21.21751,
-    106.11296
+    21.21762,
+    106.11299
   ],
   "310125": [
-    21.21751,
-    106.11296
+    21.21762,
+    106.11299
   ],
   "BGG_VYN_PSDT_QUANG_CHAU_8": [
     21.2191,
@@ -241501,11 +241479,11 @@ const coordLookup = {
   ],
   "BGG_VYN_PSDT_QUANG_CHAU_9": [
     21.235201,
-    106.11452
+    106.114515
   ],
   "310101": [
     21.235201,
-    106.11452
+    106.114515
   ],
   "BGG_VYN_PSDT_SONG_KHE_1": [
     21.24693,
@@ -241513,19 +241491,19 @@ const coordLookup = {
   ],
   "310302": [
     21.249878,
-    106.18002
+    106.180024
   ],
   "BGG_VYN_PSDT_SONG_KHE_4": [
     21.249878,
-    106.18002
+    106.180024
   ],
   "BGG_VYN_PSDT_VAN_TRUNG_1": [
-    21.24735,
-    106.14643
+    21.24728,
+    106.1478
   ],
   "310295": [
     21.246108,
-    106.15359
+    106.153592
   ],
   "BGG_VYN_PSDT_VAN_TRUNG_2": [
     21.24285,
@@ -241537,11 +241515,11 @@ const coordLookup = {
   ],
   "BGG_VYN_PSDT_VAN_TRUNG_6": [
     21.237643,
-    106.15265
+    106.152645
   ],
   "BGG_VYN_PSDT_VAN_TRUNG_7": [
     21.246108,
-    106.15359
+    106.153592
   ],
   "BGG_VYN_QUANG_CHAU_2": [
     21.2086,
@@ -241552,16 +241530,16 @@ const coordLookup = {
     106.09299
   ],
   "BGG_VYN_QUANG_CHAU_3": [
-    21.22177,
-    106.0962
+    21.22182,
+    106.0963
   ],
   "310521": [
-    21.22177,
-    106.0962
+    21.22182,
+    106.0963
   ],
   "BGG_VYN_TAN_MY_2": [
-    21.221043,
-    106.10772
+    21.22104,
+    106.10764
   ],
   "BGG_VYN_TANG_TIEN": [
     21.25646,
@@ -241573,19 +241551,19 @@ const coordLookup = {
   ],
   "BGG_VYN_TU_LAN": [
     21.292627,
-    106.06696
+    106.066958
   ],
   "310004": [
     21.292627,
-    106.06696
+    106.066958
   ],
   "BGG_VYN_VAN_TRUNG": [
     21.228398,
-    106.13278
+    106.132782
   ],
   "310235": [
     21.228398,
-    106.13278
+    106.132782
   ],
   "BGG_VYN_VAN_TRUNG_01R": [
     21.24373,
@@ -241596,20 +241574,20 @@ const coordLookup = {
     106.12179
   ],
   "BGG_VYN_VIET_TIEN": [
-    21.306445,
-    106.04371
+    21.30654,
+    106.04369
   ],
   "310023": [
-    21.306445,
-    106.04371
+    21.30654,
+    106.04369
   ],
   "BGG_VYN_VIET_YEN": [
-    21.273474,
-    106.0993
+    21.27336,
+    106.09929
   ],
   "310024": [
-    21.273474,
-    106.0993
+    21.27336,
+    106.09929
   ],
   "BGG_YDG_DONG_SON": [
     21.248691,
@@ -241621,7 +241599,7 @@ const coordLookup = {
   ],
   "BGG_YDG_NOI_HOANG": [
     21.239823,
-    106.15533
+    106.155332
   ],
   "310132": [
     21.23221,
@@ -241633,35 +241611,35 @@ const coordLookup = {
   ],
   "BGG_YDG_TAN_AN": [
     21.264589,
-    106.27303
+    106.273027
   ],
   "310186": [
     21.264589,
-    106.27303
+    106.273027
   ],
   "BNH_BNH_BAC_NINH": [
-    21.19196,
-    106.07764
+    21.19201,
+    106.07757
   ],
   "320053": [
-    21.19196,
-    106.07764
+    21.19201,
+    106.07757
   ],
   "BNH_BNH_BAC_NINH_3": [
-    21.176738,
-    106.07483
+    21.17685,
+    106.0749
   ],
   "320001": [
     21.174577,
-    106.07563
+    106.075629
   ],
   "BNH_BNH_BD_BAC_NINH": [
-    21.180057,
-    106.07204
+    21.1800573,
+    106.072044
   ],
   "320000": [
-    21.180057,
-    106.07204
+    21.1800573,
+    106.072044
   ],
   "BNH_BNH_DAI_PHUC": [
     21.17141,
@@ -241673,19 +241651,19 @@ const coordLookup = {
   ],
   "BNH_BNH_DAI_PHUC_4": [
     21.178087,
-    106.06868
+    106.068677
   ],
   "872193": [
     21.178087,
-    106.06868
+    106.068677
   ],
   "BNH_BNH_DAI_PHUC_6": [
     21.174577,
-    106.07563
+    106.075629
   ],
   "BNH_BNH_DAI_PHUC_9": [
     21.165858,
-    106.07453
+    106.074526
   ],
   "320022": [
     21.149045,
@@ -241693,11 +241671,11 @@ const coordLookup = {
   ],
   "BNH_BNH_DAP_CAU": [
     21.201849,
-    106.09619
+    106.096185
   ],
   "320002": [
     21.201849,
-    106.09619
+    106.096185
   ],
   "BNH_BNH_DAP_CAU_2": [
     21.19888,
@@ -241716,28 +241694,28 @@ const coordLookup = {
     106.07359
   ],
   "BNH_BNH_HO_NGOC_LAN": [
-    21.19329,
-    106.06619
+    21.19338,
+    106.06632
   ],
   "320068": [
-    21.19329,
-    106.06619
+    21.19338,
+    106.06632
   ],
   "BNH_BNH_HOANG_HOA_THAM": [
-    21.164367,
-    106.06545
+    21.16448,
+    106.0654
   ],
   "320024": [
-    21.164367,
-    106.06545
+    21.16448,
+    106.0654
   ],
   "BNH_BNH_KCN_KHAC_NIEM": [
     21.14586,
     106.07359
   ],
   "BNH_BNH_KDT_HIMLAM": [
-    21.170248,
-    106.09876
+    21.17014,
+    106.09861
   ],
   "320063": [
     21.16892,
@@ -241748,60 +241726,60 @@ const coordLookup = {
     106.09477
   ],
   "BNH_BNH_KHAC_NIEM_2": [
-    21.157099,
-    106.0813
+    21.1570989,
+    106.081302
   ],
   "872344": [
-    21.157099,
-    106.0813
+    21.1570989,
+    106.081302
   ],
   "BNH_BNH_KHUC_XUYEN": [
     21.18618,
-    106.05083
+    106.050827
   ],
   "320214": [
     21.18618,
-    106.05083
+    106.050827
   ],
   "BNH_BNH_KINH_BAC": [
-    21.18735,
-    106.06784
+    21.18627,
+    106.06796
   ],
   "320003": [
-    21.18735,
-    106.06784
+    21.18627,
+    106.06796
   ],
   "BNH_BNH_NAM_SON": [
-    21.143087,
+    21.1430869,
     106.09447
   ],
   "872199": [
-    21.143087,
+    21.1430869,
     106.09447
   ],
   "BNH_BNH_NGO_GIA_TU": [
-    21.189439,
+    21.1894389,
     106.0705
   ],
   "320004": [
-    21.189439,
+    21.1894389,
     106.0705
   ],
   "BNH_BNH_NGO_SY_LIEN": [
     21.190261,
-    106.06183
+    106.061833
   ],
   "872346": [
     21.190261,
-    106.06183
+    106.061833
   ],
   "BNH_BNH_NGUYEN_CAO": [
     21.174117,
-    106.05845
+    106.058445
   ],
   "320005": [
     21.174117,
-    106.05845
+    106.058445
   ],
   "BNH_BNH_NGUYEN_DANG_DAO": [
     21.1631,
@@ -241809,27 +241787,27 @@ const coordLookup = {
   ],
   "BNH_BNH_NGUYEN_TRAI": [
     21.167996,
-    106.0651
+    106.065104
   ],
   "320006": [
     21.167996,
-    106.0651
+    106.065104
   ],
   "BNH_BNH_NINH_XA": [
     21.173465,
-    106.05306
+    106.053064
   ],
   "320007": [
     21.173465,
-    106.05306
+    106.053064
   ],
   "BNH_BNH_NINH_XA_2": [
-    21.17641,
-    106.065
+    21.17634,
+    106.06509
   ],
   "320217": [
-    21.17641,
-    106.065
+    21.17634,
+    106.06509
   ],
   "BNH_BNH_NINH_XA_3": [
     21.17829,
@@ -241841,7 +241819,7 @@ const coordLookup = {
   ],
   "BNH_BNH_PSDT_GOERTEK_HL_2": [
     21.131136,
-    106.0926
+    106.092595
   ],
   "320415": [
     21.13202,
@@ -241849,11 +241827,11 @@ const coordLookup = {
   ],
   "BNH_BNH_PSDT_GOERTEK_HL_3": [
     21.133151,
-    106.09677
+    106.096769
   ],
   "320541": [
     21.133151,
-    106.09677
+    106.096769
   ],
   "BNH_BNH_PSLD_GOERTEK_HL": [
     21.13202,
@@ -241884,12 +241862,12 @@ const coordLookup = {
     106.06449
   ],
   "BNH_BNH_VAN_AN": [
-    21.1952,
-    106.0501
+    21.19433,
+    106.0494
   ],
   "320222": [
-    21.1952,
-    106.0501
+    21.19433,
+    106.0494
   ],
   "BNH_BNH_VAN_DUONG": [
     21.16218,
@@ -241905,19 +241883,19 @@ const coordLookup = {
   ],
   "BNH_BNH_VE_AN": [
     21.173172,
-    106.07127
+    106.071274
   ],
   "320223": [
     21.173172,
-    106.07127
+    106.071274
   ],
   "BNH_BNH_VE_AN_2": [
     21.1883,
-    106.05745
+    106.057449
   ],
   "320116": [
     21.1883,
-    106.05745
+    106.057449
   ],
   "BNH_BNH_VE_AN_3": [
     21.1845,
@@ -241937,31 +241915,31 @@ const coordLookup = {
   ],
   "BNH_BNH_VO_CUONG_2": [
     21.168519,
-    106.04775
+    106.047754
   ],
   "320033": [
     21.168519,
-    106.04775
+    106.047754
   ],
   "BNH_BNH_VO_CUONG_3": [
     21.169725,
-    106.05181
+    106.051812
   ],
   "320034": [
     21.169725,
-    106.05181
+    106.051812
   ],
   "BNH_BNH_VO_CUONG_4": [
     21.1654,
-    106.05065
+    106.050646
   ],
   "872209": [
     21.1654,
-    106.05065
+    106.050646
   ],
   "BNH_BNH_VO_CUONG_7": [
     21.169725,
-    106.05181
+    106.051812
   ],
   "BNH_BNH_VO_CUONG_8": [
     21.167482,
@@ -241972,12 +241950,12 @@ const coordLookup = {
     106.05916
   ],
   "BNH_BNH_VU_KIET": [
-    21.18099,
-    106.06706
+    21.1809895,
+    106.067062
   ],
   "320015": [
-    21.18099,
-    106.06706
+    21.1809895,
+    106.067062
   ],
   "BNH_GBH_GIA_BINH": [
     21.06749,
@@ -242017,11 +241995,11 @@ const coordLookup = {
   ],
   "BNH_QVO_KCN_QUE_VO_3_PSDT_10": [
     21.152431,
-    106.17621
+    106.176211
   ],
   "320023": [
     21.152431,
-    106.17621
+    106.176211
   ],
   "BNH_QVO_MO_DAO": [
     21.12775,
@@ -242041,11 +242019,11 @@ const coordLookup = {
   ],
   "BNH_QVO_NGOC_XA_5": [
     21.136426,
-    106.21801
+    106.218011
   ],
   "320256": [
     21.136426,
-    106.21801
+    106.218011
   ],
   "BNH_QVO_PHO_MOI": [
     21.15881,
@@ -242085,11 +242063,11 @@ const coordLookup = {
   ],
   "320070": [
     21.162848,
-    106.12529
+    106.125289
   ],
   "BNH_QVO_PHUONG_LIEU_5": [
     21.162848,
-    106.12529
+    106.125289
   ],
   "BNH_QVO_PHUONG_MAO": [
     21.144,
@@ -242097,63 +242075,63 @@ const coordLookup = {
   ],
   "320071": [
     21.15057,
-    106.13644
+    106.136435
   ],
   "BNH_QVO_PHUONG_MAO_2": [
     21.152965,
-    106.1433
+    106.143295
   ],
   "320138": [
     21.152965,
-    106.1433
+    106.143295
   ],
   "BNH_QVO_PHUONG_MAO_3": [
     21.15057,
-    106.13644
+    106.136435
   ],
   "BNH_QVO_PSDT_QUE_VO_1": [
     21.158091,
-    106.09923
+    106.099233
   ],
   "320194": [
     21.159523,
-    106.11357
+    106.113573
   ],
   "BNH_QVO_PSDT_QUE_VO_2": [
     21.159523,
-    106.11357
+    106.113573
   ],
   "BNH_QVO_PSDT_QUE_VO_3": [
     21.152264,
-    106.13242
+    106.132415
   ],
   "320196": [
     21.152264,
-    106.13242
+    106.132415
   ],
   "BNH_QVO_PSDT_QUE_VO_4": [
     21.141398,
-    106.1316
+    106.131603
   ],
   "320197": [
     21.141398,
-    106.1316
+    106.131603
   ],
   "BNH_QVO_PSDT_QUE_VO_5": [
     21.159222,
-    106.1078
+    106.107803
   ],
   "320198": [
     21.16268,
-    106.10258
+    106.102582
   ],
   "BNH_QVO_PSDT_QUE_VO_6": [
     21.141398,
-    106.1316
+    106.131603
   ],
   "BNH_QVO_PSDT_QUE_VO_7": [
     21.16268,
-    106.10258
+    106.102582
   ],
   "BNH_QVO_QUE_VO": [
     21.15088,
@@ -242172,44 +242150,44 @@ const coordLookup = {
     106.17465
   ],
   "BNH_TDU_CANH_HUNG": [
-    21.08311,
-    106.0026
+    21.08004,
+    106.00553
   ],
   "320109": [
-    21.08311,
-    106.0026
+    21.08004,
+    106.00553
   ],
   "BNH_TDU_CHO_SON": [
-    21.11028,
-    106.03624
+    21.110131,
+    106.036322
   ],
   "872068": [
-    21.11028,
-    106.03624
+    21.110131,
+    106.036322
   ],
   "BNH_TDU_DAI_DONG_2": [
-    21.102567,
-    105.98561
+    21.10243,
+    105.9855
   ],
   "872293": [
-    21.102567,
-    105.98561
+    21.10243,
+    105.9855
   ],
   "BNH_TDU_DAI_DONG_3": [
-    21.104447,
-    105.99203
+    21.10427,
+    105.99234
   ],
   "320075": [
-    21.104447,
-    105.99203
+    21.10427,
+    105.99234
   ],
   "BNH_TDU_DAI_DONG_5_01R": [
-    21.086615,
-    105.99579
+    21.08667,
+    105.9959
   ],
   "320035": [
-    21.086615,
-    105.99579
+    21.08667,
+    105.9959
   ],
   "BNH_TDU_HO_VE": [
     21.12298,
@@ -242232,36 +242210,36 @@ const coordLookup = {
     106.07738
   ],
   "BNH_TDU_LIEN_BAO": [
-    21.12817,
-    106.02757
+    21.1282,
+    106.02756
   ],
   "320077": [
-    21.12817,
-    106.02757
+    21.1282,
+    106.02756
   ],
   "BNH_TDU_LIEN_BAO_2": [
-    21.121258,
-    106.00918
+    21.12086,
+    106.00864
   ],
   "320141": [
-    21.121258,
-    106.00918
+    21.12086,
+    106.00864
   ],
   "BNH_TDU_LIM": [
-    21.14337,
-    106.01918
+    21.14335,
+    106.0192
   ],
   "320272": [
-    21.14337,
-    106.01918
+    21.14335,
+    106.0192
   ],
   "BNH_TDU_LIM_3": [
-    21.13951,
-    106.01438
+    21.13965,
+    106.0143
   ],
   "320264": [
-    21.13951,
-    106.01438
+    21.13965,
+    106.0143
   ],
   "BNH_TDU_MINH_DAO_2": [
     21.087252,
@@ -242280,36 +242258,36 @@ const coordLookup = {
     105.9922
   ],
   "BNH_TDU_NOI_DUE": [
-    21.13683,
-    106.00911
+    21.13686,
+    106.00922
   ],
   "320040": [
-    21.13683,
-    106.00911
+    21.13686,
+    106.00922
   ],
   "BNH_TDU_PSDT_DAI_DONG_2": [
     21.098041,
-    106.0034
+    106.003404
   ],
   "872294": [
-    21.106141,
-    105.98857
+    21.10584,
+    105.98874
   ],
   "BNH_TDU_PSDT_DAI_DONG_3": [
     21.096478,
-    106.00725
+    106.007253
   ],
   "BNH_TDU_PSDT_DAI_DONG_4": [
-    21.106141,
-    105.98857
+    21.10584,
+    105.98874
   ],
   "BNH_TDU_PSDT_TIEN_SON_1": [
-    21.129238,
-    106.0015
+    21.12926,
+    106.00149
   ],
   "320191": [
-    21.129238,
-    106.0015
+    21.12926,
+    106.00149
   ],
   "BNH_TDU_PSDT_TIEN_SON_3": [
     21.12058,
@@ -242320,19 +242298,19 @@ const coordLookup = {
     105.99212
   ],
   "BNH_TDU_PSDT_TIEN_SON_6": [
-    21.116917,
-    105.97637
+    21.1173,
+    105.9768
   ],
   "320501": [
-    21.116917,
-    105.97637
+    21.1173,
+    105.9768
   ],
   "BNH_TDU_PSDT_TIEN_SON_7": [
-    21.11366,
+    21.11371,
     105.985
   ],
   "320195": [
-    21.11366,
+    21.11371,
     105.985
   ],
   "BNH_TDU_TAN_CHI": [
@@ -242344,164 +242322,164 @@ const coordLookup = {
     106.0856
   ],
   "BNH_TDU_TIEN_SON": [
-    21.13419,
-    106.00231
+    21.13428,
+    106.0025
   ],
   "320080": [
-    21.13419,
-    106.00231
+    21.13428,
+    106.0025
   ],
   "BNH_TSN_CHAU_KHE": [
-    21.11427,
-    105.92942
+    21.11422,
+    105.92945
   ],
   "320271": [
-    21.11427,
-    105.92942
+    21.11422,
+    105.92945
   ],
   "BNH_TSN_CHUA_DAN": [
-    21.11111,
-    105.94686
+    21.11106,
+    105.94675
   ],
   "320106": [
-    21.11111,
-    105.94686
+    21.11106,
+    105.94675
   ],
   "BNH_TSN_DA_HOI_2": [
-    21.123143,
-    105.91725
+    21.1231432,
+    105.917254
   ],
   "320243": [
-    21.123143,
-    105.91725
+    21.1231432,
+    105.917254
   ],
   "BNH_TSN_DINH_BANG": [
-    21.1035,
-    105.93677
+    21.10356,
+    105.93674
   ],
   "872295": [
-    21.1035,
-    105.93677
+    21.10356,
+    105.93674
   ],
   "BNH_TSN_DINH_BANG_2": [
-    21.11167,
-    105.95537
+    21.1119,
+    105.95528
   ],
   "320042": [
-    21.11167,
-    105.95537
+    21.1119,
+    105.95528
   ],
   "BNH_TSN_DINH_BANG_3": [
-    21.112178,
-    105.95133
+    21.11311,
+    105.95163
   ],
   "872296": [
-    21.112178,
-    105.95133
+    21.11311,
+    105.95163
   ],
   "BNH_TSN_DINH_BANG_3_CRAN": [
-    21.108799,
-    105.95133
+    21.10865,
+    105.95137
   ],
   "320442": [
-    21.108799,
-    105.95133
+    21.10865,
+    105.95137
   ],
   "BNH_TSN_DINH_BANG_4": [
-    21.10577,
-    105.96228
+    21.10575,
+    105.962281
   ],
   "320083": [
-    21.10577,
-    105.96228
+    21.10575,
+    105.962281
   ],
   "BNH_TSN_DINH_BANG_5": [
-    21.09472,
-    105.93683
+    21.09475,
+    105.93695
   ],
   "320045": [
-    21.09472,
-    105.93683
+    21.09475,
+    105.93695
   ],
   "BNH_TSN_DONG_KY": [
-    21.132711,
-    105.94778
+    21.13263,
+    105.94785
   ],
   "320018": [
-    21.132711,
-    105.94778
+    21.13263,
+    105.94785
   ],
   "BNH_TSN_DONG_NGUYEN": [
-    21.12478,
-    105.97363
+    21.12471,
+    105.9735
   ],
   "320019": [
-    21.12478,
-    105.97363
+    21.12471,
+    105.9735
   ],
   "BNH_TSN_DONG_NGUYEN_4": [
-    21.12256,
-    105.98589
+    21.12252,
+    105.98576
   ],
   "320084": [
-    21.12256,
-    105.98589
+    21.12252,
+    105.98576
   ],
   "BNH_TSN_DONG_NGUYEN_5": [
-    21.13167,
-    105.99616
+    21.1197638,
+    105.954916
   ],
   "320085": [
-    21.13167,
-    105.99616
+    21.1197638,
+    105.954916
   ],
   "BNH_TSN_DONG_QUANG": [
-    21.1293,
-    105.95221
+    21.12933,
+    105.95219
   ],
   "320274": [
-    21.1293,
-    105.95221
+    21.12933,
+    105.95219
   ],
   "BNH_TSN_DONG_QUANG_CRAN": [
-    21.126873,
-    105.94776
+    21.12691,
+    105.9476
   ],
   "320483": [
-    21.126873,
-    105.94776
+    21.12691,
+    105.9476
   ],
   "BNH_TSN_KCN_VSIP": [
     21.081151,
-    105.99311
+    105.993105
   ],
   "320086": [
     21.081151,
-    105.99311
+    105.993105
   ],
   "BNH_TSN_LE_QUANG_DAO": [
-    21.11488,
-    105.9717
+    21.114672,
+    105.97185
   ],
   "320171": [
-    21.11488,
-    105.9717
+    21.114672,
+    105.97185
   ],
   "BNH_TSN_NGO_GIA_TU_2": [
     21.12191,
-    105.967
+    105.967003
   ],
   "320020": [
     21.12191,
-    105.967
+    105.967003
   ],
   "BNH_TSN_NINH_HIEP_3": [
-    21.087,
-    105.94754
+    21.08698,
+    105.94757
   ],
   "320528": [
-    21.087,
-    105.94754
+    21.08698,
+    105.94757
   ],
   "BNH_TSN_PHU_CHAN": [
     21.09446,
@@ -242520,20 +242498,20 @@ const coordLookup = {
     105.98353
   ],
   "BNH_TSN_PSDT_VSIP_1": [
-    21.075204,
-    105.98818
+    21.0752035,
+    105.988181
   ],
   "872298": [
-    21.075204,
-    105.98818
+    21.0752035,
+    105.988181
   ],
   "BNH_TSN_PSDT_VSIP_2": [
-    21.076147,
-    105.98009
+    21.0761465,
+    105.980092
   ],
   "320492": [
-    21.076147,
-    105.98009
+    21.0761465,
+    105.980092
   ],
   "BNH_TSN_SINGARDEN": [
     21.0941,
@@ -242544,36 +242522,36 @@ const coordLookup = {
     105.97337
   ],
   "BNH_TSN_TAN_HONG": [
-    21.11439,
-    105.95977
+    21.11448,
+    105.95993
   ],
   "320021": [
-    21.11439,
-    105.95977
+    21.11448,
+    105.95993
   ],
   "BNH_TSN_TAN_HONG_3": [
-    21.11439,
-    105.97937
+    21.114367,
+    105.979336
   ],
   "320087": [
-    21.11439,
-    105.97937
+    21.114367,
+    105.979336
   ],
   "BNH_TSN_TRANG_HA": [
-    21.119719,
-    105.95489
+    21.11956,
+    105.95485
   ],
   "320049": [
-    21.119719,
-    105.95489
+    21.11956,
+    105.95485
   ],
   "BNH_TSN_TU_SON": [
-    21.11919,
-    105.96286
+    21.1191,
+    105.96239
   ],
   "320050": [
-    21.11919,
-    105.96286
+    21.1191,
+    105.96239
   ],
   "BNH_TSN_TUONG_GIANG": [
     21.13146,
@@ -242585,19 +242563,19 @@ const coordLookup = {
   ],
   "BNH_TSN_VSIP_2": [
     21.069617,
-    105.99345
+    105.993454
   ],
   "320039": [
     21.069617,
-    105.99345
+    105.993454
   ],
   "BNH_TTH_AN_BINH_2": [
     21.043539,
-    106.10889
+    106.108892
   ],
   "320146": [
     21.043539,
-    106.10889
+    106.108892
   ],
   "BNH_TTH_DONG_COI": [
     21.036228,
@@ -242620,20 +242598,20 @@ const coordLookup = {
     106.09376
   ],
   "BNH_TTH_DONG_DONG": [
-    21.069736,
-    106.07022
+    21.0697363,
+    106.070224
   ],
   "320089": [
-    21.069736,
-    106.07022
+    21.0697363,
+    106.070224
   ],
   "BNH_TTH_GIA_DONG_2": [
     21.041234,
-    106.09034
+    106.090343
   ],
   "320452": [
     21.041234,
-    106.09034
+    106.090343
   ],
   "BNH_TTH_KCN_THUAN_THANH_II": [
     21.05977,
@@ -242693,11 +242671,11 @@ const coordLookup = {
   ],
   "BNH_TTH_TT_HO_2": [
     21.067129,
-    106.09419
+    106.094193
   ],
   "320093": [
     21.067129,
-    106.09419
+    106.094193
   ],
   "BNH_TTH_TT_HO_3": [
     21.05447,
@@ -242717,11 +242695,11 @@ const coordLookup = {
   ],
   "BNH_TTH_XUAN_LAM_2": [
     21.028245,
-    106.00911
+    106.009114
   ],
   "872436": [
     21.028245,
-    106.00911
+    106.009114
   ],
   "BNH_YPG_DONG_PHONG_2": [
     21.19339,
@@ -242749,27 +242727,27 @@ const coordLookup = {
   ],
   "BNH_YPG_KCN_YEN_PHONG_3": [
     21.20011,
-    106.00644
+    106.006436
   ],
   "320043": [
     21.20011,
-    106.00644
+    106.006436
   ],
   "BNH_YPG_KCN_YEN_PHONG_MO_RONG_PSDT_1": [
     21.223765,
     106.00033
   ],
   "320176": [
-    21.231534,
-    106.00242
+    21.23161,
+    106.0017
   ],
   "BNH_YPG_KTX_SAMSUNG": [
     21.205469,
-    105.98438
+    105.984384
   ],
   "320321": [
     21.205469,
-    105.98438
+    105.984384
   ],
   "BNH_YPG_LONG_CHAU_3": [
     21.19211,
@@ -242781,11 +242759,11 @@ const coordLookup = {
   ],
   "BNH_YPG_LONG_CHAU_4": [
     21.1879,
-    106.00517
+    106.005172
   ],
   "320299": [
     21.1879,
-    106.00517
+    106.005172
   ],
   "BNH_YPG_MAN_XA": [
     21.16901,
@@ -242821,11 +242799,11 @@ const coordLookup = {
   ],
   "BNH_YPG_SAMSUNG_2": [
     21.193257,
-    106.00018
+    106.000184
   ],
   "320029": [
     21.193257,
-    106.00018
+    106.000184
   ],
   "BNH_YPG_SAMSUNG_3": [
     21.206316,
@@ -242848,28 +242826,28 @@ const coordLookup = {
     105.93516
   ],
   "320156": [
-    21.227621,
-    105.94477
+    21.2276213,
+    105.944766
   ],
   "BNH_YPG_TAM_GIANG_2_01R": [
-    21.227621,
-    105.94477
+    21.2276213,
+    105.944766
   ],
   "BNH_YPG_YEN_PHONG": [
-    21.19506,
-    105.95216
+    21.19496,
+    105.9522
   ],
   "320104": [
-    21.19506,
-    105.95216
+    21.19496,
+    105.9522
   ],
   "BNH_YPG_YEN_TRUNG": [
-    21.21597,
-    105.98714
+    21.21584,
+    105.9869
   ],
   "320105": [
-    21.21067,
-    105.98418
+    21.21069,
+    105.9842
   ],
   "BNH_YPG_YEN_TRUNG_2": [
     21.20622,
@@ -242877,19 +242855,19 @@ const coordLookup = {
   ],
   "320030": [
     21.20854,
-    105.99615
+    105.996153
   ],
   "BNH_YPG_YEN_TRUNG_4": [
-    21.231534,
-    106.00242
+    21.23161,
+    106.0017
   ],
   "BNH_YPG_YEN_TRUNG_7_01R": [
     21.20854,
-    105.99615
+    105.996153
   ],
   "BNH_YPG_YEN_TRUNG_8_01R": [
-    21.21067,
-    105.98418
+    21.21069,
+    105.9842
   ],
   "HB_HBH_CTY_MEIKO": [
     20.873744,
@@ -242900,60 +242878,60 @@ const coordLookup = {
     105.22569
   ],
   "HB_HBH_CHAM_MAT": [
-    20.787681,
-    105.34672
+    20.787354,
+    105.346725
   ],
   "210001": [
-    20.787681,
-    105.34672
+    20.787354,
+    105.346725
   ],
   "HB_HBH_CU_CHINH_LAN": [
     20.821507,
-    105.34324
+    105.343236
   ],
   "210003": [
     20.821507,
-    105.34324
+    105.343236
   ],
   "HB_HBH_DAN_CHU": [
-    20.79413,
-    105.3537
+    20.794366,
+    105.35375
   ],
   "875127": [
-    20.79413,
-    105.3537
+    20.794366,
+    105.35375
   ],
   "HB_HBH_DOC_CUN": [
-    20.790916,
-    105.32309
+    20.79083,
+    105.323121
   ],
   "210032": [
-    20.790916,
-    105.32309
+    20.79083,
+    105.323121
   ],
   "HB_HBH_DONG_TIEN": [
-    20.82744,
-    105.3539
+    20.827458,
+    105.35393
   ],
   "210004": [
-    20.82744,
-    105.3539
+    20.827458,
+    105.35393
   ],
   "HB_HBH_DONG_TIEN_3": [
-    20.814872,
-    105.34775
+    20.813328,
+    105.34477
   ],
   "210202": [
-    20.814872,
-    105.34775
+    20.813328,
+    105.34477
   ],
   "HB_HBH_HUU_NGHI_2": [
-    20.829641,
-    105.33487
+    20.829607,
+    105.3349
   ],
   "210008": [
-    20.829641,
-    105.33487
+    20.829607,
+    105.3349
   ],
   "HB_HBH_HUU_NGHI_4": [
     20.83797,
@@ -242964,12 +242942,12 @@ const coordLookup = {
     105.34235
   ],
   "HB_HBH_TAN_HOA": [
-    20.844752,
-    105.33264
+    20.844686,
+    105.33267
   ],
   "210010": [
-    20.844752,
-    105.33264
+    20.844686,
+    105.33267
   ],
   "HB_HBH_TAN_THINH": [
     20.829833,
@@ -242996,308 +242974,308 @@ const coordLookup = {
     105.3495
   ],
   "HB_HBH_THONG_NHAT": [
-    20.77811,
-    105.3398
+    20.778088,
+    105.339745
   ],
   "210098": [
-    20.77811,
-    105.3398
+    20.778088,
+    105.339745
   ],
   "HB_HBH_TRAN_QUY_CAP": [
     20.853016,
-    105.33446
+    105.334458
   ],
   "875008": [
     20.853016,
-    105.33446
+    105.334458
   ],
   "HB_KBI_SERENA_RESORT": [
-    20.592412,
-    105.58465
+    20.592369,
+    105.584629
   ],
   "210021": [
-    20.592412,
-    105.58465
+    20.592369,
+    105.584629
   ],
   "HB_LSN_CAO_THANG": [
-    20.66836,
-    105.66214
+    20.668466,
+    105.66217
   ],
   "875015": [
-    20.66836,
-    105.66214
+    20.668466,
+    105.66217
   ],
   "HB_LSN_CN_LUONG_SON": [
-    20.880582,
-    105.54775
+    20.880529,
+    105.547799
   ],
   "875016": [
-    20.880582,
-    105.54775
+    20.880529,
+    105.547799
   ],
   "HB_LSN_CN_LUONG_SON_2": [
-    20.89117,
+    20.8914,
     105.5371
   ],
   "875017": [
-    20.89117,
+    20.8914,
     105.5371
   ],
   "HB_LSN_GOLF_LUONG_SON": [
-    20.902931,
-    105.48219
+    20.902016,
+    105.48387
   ],
   "210119": [
-    20.902931,
-    105.48219
+    20.902016,
+    105.48387
   ],
   "HB_LSN_HOA_SON": [
-    20.91155,
-    105.551
+    20.906762,
+    105.55295
   ],
   "210047": [
-    20.91155,
-    105.551
+    20.906762,
+    105.55295
   ],
   "HB_LSN_HOA_SON_2": [
-    20.916349,
-    105.56277
+    20.915465,
+    105.561865
   ],
   "210025": [
-    20.916349,
-    105.56277
+    20.915465,
+    105.561865
   ],
   "HB_LSN_HOA_SON_3": [
-    20.90117,
-    105.5514
+    20.901212,
+    105.551389
   ],
   "210176": [
-    20.90117,
-    105.5514
+    20.901212,
+    105.551389
   ],
   "HB_LSN_LUONG_SON_2": [
-    20.87075,
-    105.5242
+    20.870549,
+    105.52417
   ],
   "210052": [
-    20.87075,
-    105.5242
+    20.870549,
+    105.52417
   ],
   "HB_LSN_LUONG_SON_3": [
-    20.87714,
-    105.53783
+    20.87708,
+    105.53762
   ],
   "875130": [
-    20.87714,
-    105.53783
+    20.87708,
+    105.53762
   ],
   "HB_LSN_NHUAN_TRACH": [
-    20.86386,
-    105.5569
+    20.863821,
+    105.556938
   ],
   "210123": [
-    20.86386,
-    105.5569
+    20.863821,
+    105.556938
   ],
   "HDG_BGG_BINH_MINH": [
-    20.88441,
-    106.17887
+    20.884402,
+    106.178857
   ],
   "877084": [
-    20.88441,
-    106.17887
+    20.884402,
+    106.178857
   ],
   "HDG_BGG_HUNG_THANG": [
-    20.9082,
+    20.90827,
     106.20771
   ],
   "350287": [
-    20.9082,
+    20.90827,
     106.20771
   ],
   "HDG_BGG_TRANG_LIET": [
-    20.90334,
-    106.14537
+    20.90342,
+    106.14536
   ],
   "350429": [
-    20.90334,
-    106.14537
+    20.90342,
+    106.14536
   ],
   "HDG_CGG_CAM_BINH": [
     20.933678,
-    106.24965
+    106.249654
   ],
   "350101": [
     20.933678,
-    106.24965
+    106.249654
   ],
   "HDG_CGG_CAM_BINH_2": [
-    20.927901,
-    106.24589
+    20.927866,
+    106.245842
   ],
   "350219": [
-    20.927901,
-    106.24589
+    20.927866,
+    106.245842
   ],
   "HDG_CGG_CAM_DIEN": [
-    20.93068,
-    106.18285
+    20.9306,
+    106.18284
   ],
   "350102": [
-    20.93068,
-    106.18285
+    20.9306,
+    106.18284
   ],
   "HDG_CGG_CAM_DINH": [
-    20.96202,
-    106.23323
+    20.96206,
+    106.233273
   ],
   "350372": [
-    20.96202,
-    106.23323
+    20.96206,
+    106.233273
   ],
   "HDG_CGG_CAM_DOAI": [
-    20.91472,
-    106.25096
+    20.91478,
+    106.25098
   ],
   "350441": [
-    20.91472,
-    106.25096
+    20.91478,
+    106.25098
   ],
   "HDG_CGG_CAM_DONG_2": [
-    20.929762,
-    106.21753
+    20.929677,
+    106.217577
   ],
   "350220": [
-    20.929762,
-    106.21753
+    20.929677,
+    106.217577
   ],
   "HDG_CGG_CAM_GIANG_2": [
-    20.96778,
-    106.16268
+    20.96775,
+    106.1628
   ],
   "350433": [
-    20.96778,
-    106.16268
+    20.96775,
+    106.1628
   ],
   "HDG_CGG_CAM_HOANG": [
-    20.97173,
-    106.22954
+    20.97181,
+    106.2295
   ],
   "350117": [
-    20.97173,
-    106.22954
+    20.97181,
+    106.2295
   ],
   "HDG_CGG_CAM_PHUC": [
-    20.93717,
-    106.20996
+    20.93707,
+    106.21005
   ],
   "350007": [
-    20.93717,
-    106.20996
+    20.93707,
+    106.21005
   ],
   "HDG_CGG_CAM_VU": [
-    20.97067,
-    106.25061
+    20.9706,
+    106.2508
   ],
   "350289": [
-    20.97067,
-    106.25061
+    20.9706,
+    106.2508
   ],
   "HDG_CGG_CAO_AN": [
-    20.94756,
-    106.26173
+    20.9477,
+    106.2635
   ],
   "350222": [
-    20.94756,
-    106.26173
+    20.9477,
+    106.2635
   ],
   "HDG_CGG_CAO_AN_2": [
-    20.951131,
-    106.24046
+    20.95111,
+    106.24056
   ],
   "350669": [
-    20.951131,
-    106.24046
+    20.95111,
+    106.24056
   ],
   "HDG_CGG_CAO_XA_01R": [
-    20.947679,
-    106.25146
+    20.94764,
+    106.2515
   ],
   "350674": [
-    20.947679,
-    106.25146
+    20.94764,
+    106.2515
   ],
   "HDG_CGG_CN_LAI_CACH": [
-    20.93419,
-    106.25844
+    20.935995,
+    106.269814
   ],
   "350223": [
-    20.93419,
-    106.25844
+    20.935995,
+    106.269814
   ],
   "HDG_CGG_DONG_GIAO": [
-    20.936317,
-    106.1608
+    20.93626,
+    106.1609
   ],
   "877002": [
-    20.936317,
-    106.1608
+    20.93626,
+    106.1609
   ],
   "HDG_CGG_DUC_CHINH_2": [
-    20.96866,
-    106.2773
+    20.9686,
+    106.27743
   ],
   "350442": [
-    20.96866,
-    106.2773
+    20.9686,
+    106.27743
   ],
   "HDG_CGG_DUC_CHINH_3": [
-    20.952118,
-    106.27992
+    20.952126,
+    106.279818
   ],
   "877003": [
-    20.952118,
-    106.27992
+    20.952126,
+    106.279818
   ],
   "HDG_CGG_GA_CAM_GIANG": [
-    20.96721,
-    106.17296
+    20.967277,
+    106.173036
   ],
   "350225": [
-    20.96721,
-    106.17296
+    20.967277,
+    106.173036
   ],
   "HDG_CGG_KIM_GIANG": [
-    20.952827,
-    106.19865
+    20.949206,
+    106.203157
   ],
   "877085": [
-    20.952827,
-    106.19865
+    20.949206,
+    106.203157
   ],
   "HDG_CGG_LAI_CACH": [
-    20.93721,
-    106.26682
+    20.934106,
+    106.258336
   ],
   "350105": [
-    20.93721,
-    106.26682
+    20.934106,
+    106.258336
   ],
   "HDG_CGG_LAI_CACH_2": [
-    20.93586,
-    106.24181
+    20.936775,
+    106.241275
   ],
   "350010": [
-    20.93586,
-    106.24181
+    20.936775,
+    106.241275
   ],
   "HDG_CGG_PHUC_XA": [
-    20.94184,
-    106.19642
+    20.94183,
+    106.19638
   ],
   "877183": [
-    20.94184,
-    106.19642
+    20.94183,
+    106.19638
   ],
   "HDG_CGG_PSDT_DAI_AN_1": [
     20.92084,
@@ -243316,8 +243294,8 @@ const coordLookup = {
     106.25856
   ],
   "HDG_CGG_PSDT_DAI_AN_4": [
-    20.9295,
-    106.26446
+    20.92951,
+    106.2646
   ],
   "350460": [
     20.92711,
@@ -243328,412 +243306,412 @@ const coordLookup = {
     106.26938
   ],
   "HDG_CGG_PSDT_PHUC_DIEN_1": [
-    20.927405,
-    106.1882
+    20.92754,
+    106.188127
   ],
   "350454": [
-    20.927405,
-    106.1882
+    20.92754,
+    106.188127
   ],
   "HDG_CGG_PSDT_PHUC_DIEN_2": [
-    20.925364,
-    106.19684
+    20.925185,
+    106.196657
   ],
   "350455": [
-    20.930272,
-    106.19566
+    20.930181,
+    106.195736
   ],
   "HDG_CGG_PSDT_PHUC_DIEN_3": [
-    20.930272,
-    106.19566
+    20.930181,
+    106.195736
   ],
   "HDG_CGG_PSDT_TAN_TRUONG_1": [
     20.931022,
-    106.22189
+    106.221893
   ],
   "350449": [
     20.926517,
-    106.23085
+    106.230845
   ],
   "HDG_CGG_PSDT_TAN_TRUONG_2": [
-    20.926624,
-    106.22318
+    20.93103,
+    106.22198
   ],
   "350450": [
-    20.931627,
-    106.22837
+    20.93165,
+    106.22844
   ],
   "HDG_CGG_PSDT_TAN_TRUONG_3": [
-    20.920255,
-    106.22313
+    20.9203,
+    106.22321
   ],
   "HDG_CGG_PSDT_TAN_TRUONG_4": [
-    20.931627,
-    106.22837
+    20.93165,
+    106.22844
   ],
   "HDG_CGG_PSDT_TAN_TRUONG_5": [
     20.926517,
-    106.23085
+    106.230845
   ],
   "HDG_CGG_TAN_TRUONG": [
-    20.93956,
-    106.2238
+    20.93957,
+    106.22377
   ],
   "350011": [
-    20.93956,
-    106.2238
+    20.93957,
+    106.22377
   ],
   "HDG_CGG_TAN_TRUONG_2": [
-    20.93587,
+    20.9358698,
     106.23145
   ],
   "350118": [
-    20.93587,
+    20.9358698,
     106.23145
   ],
   "HDG_CLH_CHI_LINH": [
-    21.092,
-    106.38987
+    21.09205,
+    106.3899
   ],
   "350121": [
-    21.092,
-    106.38987
+    21.09205,
+    106.3899
   ],
   "HDG_CLH_CHI_MINH": [
-    21.08775,
-    106.37121
+    21.087735,
+    106.371235
   ],
   "350074": [
-    21.08775,
-    106.37121
+    21.087735,
+    106.371235
   ],
   "HDG_CLH_CONG_HOA": [
-    21.12981,
-    106.41188
+    21.129755,
+    106.41181
   ],
   "350075": [
-    21.12981,
-    106.41188
+    21.129755,
+    106.41181
   ],
   "HDG_CLH_CONG_HOA_2": [
-    21.12837,
-    106.39426
+    21.12828,
+    106.3943
   ],
   "350227": [
-    21.12837,
-    106.39426
+    21.12828,
+    106.3943
   ],
   "HDG_CLH_CONG_HOA_3": [
-    21.11724,
-    106.3991
+    21.117283,
+    106.399017
   ],
   "350012": [
-    21.11724,
-    106.3991
+    21.117283,
+    106.399017
   ],
   "HDG_CLH_CONG_HOA_4": [
-    21.12074,
-    106.38675
+    21.120785,
+    106.386765
   ],
   "350228": [
-    21.12074,
-    106.38675
+    21.120785,
+    106.386765
   ],
   "HDG_CLH_CONG_HOA_5": [
-    21.1235,
-    106.37241
+    21.123512,
+    106.372387
   ],
   "877007": [
-    21.1235,
-    106.37241
+    21.123512,
+    106.372387
   ],
   "HDG_CLH_CONG_HOA_6": [
-    21.136,
-    106.3911
+    21.136045,
+    106.391304
   ],
   "877008": [
-    21.136,
-    106.3911
+    21.136045,
+    106.391304
   ],
   "HDG_CLH_DH_SAO_DO": [
-    21.11293,
-    106.39524
+    21.112969,
+    106.395194
   ],
   "350124": [
-    21.11293,
-    106.39524
+    21.112969,
+    106.395194
   ],
   "HDG_CLH_DONG_LAC": [
-    21.037353,
-    106.38069
+    21.037282,
+    106.380748
   ],
   "877184": [
-    21.037353,
-    106.38069
+    21.037282,
+    106.380748
   ],
   "HDG_CLH_DONG_LAC_2": [
-    21.04876,
-    106.37636
+    21.048612,
+    106.376377
   ],
   "350295": [
-    21.04876,
-    106.37636
+    21.048612,
+    106.376377
   ],
   "HDG_CLH_HOANG_TIEN": [
-    21.133618,
-    106.42828
+    21.133452,
+    106.428507
   ],
   "350125": [
-    21.133618,
-    106.42828
+    21.133452,
+    106.428507
   ],
   "HDG_CLH_MAT_SON": [
-    21.10296,
-    106.38027
+    21.106019,
+    106.380085
   ],
   "350233": [
-    21.10296,
-    106.38027
+    21.106019,
+    106.380085
   ],
   "HDG_CLH_MAT_SON_2": [
-    21.09807,
-    106.38041
+    21.098032,
+    106.380441
   ],
   "350617": [
-    21.09807,
-    106.38041
+    21.098032,
+    106.380441
   ],
   "HDG_CLH_PHA_LAI_2": [
-    21.11101,
-    106.30266
+    21.110977,
+    106.3027
   ],
   "350013": [
-    21.11101,
-    106.30266
+    21.110977,
+    106.3027
   ],
   "HDG_CLH_SAO_DO": [
-    21.110194,
-    106.38922
+    21.10989,
+    106.3891
   ],
   "350128": [
-    21.110194,
-    106.38922
+    21.10989,
+    106.3891
   ],
   "HDG_CLH_SAO_DO_3": [
-    21.10191,
-    106.39443
+    21.10187,
+    106.3944
   ],
   "350382": [
-    21.10191,
-    106.39443
+    21.10187,
+    106.3944
   ],
   "HDG_CLH_SAO_DO_4": [
-    21.107409,
-    106.40429
+    21.107052,
+    106.404326
   ],
   "350234": [
-    21.107409,
-    106.40429
+    21.107052,
+    106.404326
   ],
   "HDG_CLH_SAO_DO_5": [
-    21.111207,
-    106.40015
+    21.111213,
+    106.400323
   ],
   "350430": [
-    21.111207,
-    106.40015
+    21.111213,
+    106.400323
   ],
   "HDG_CLH_SAO_DO_6": [
-    21.104222,
-    106.39699
+    21.10442,
+    106.396
   ],
   "350652": [
-    21.104222,
-    106.39699
+    21.10442,
+    106.396
   ],
   "HDG_CLH_TAN_DAN": [
-    21.05773,
-    106.38198
+    21.057744,
+    106.382022
   ],
   "350129": [
-    21.05773,
-    106.38198
+    21.057744,
+    106.382022
   ],
   "HDG_CLH_TRAI_GIAM_HOANG_TIEN": [
-    21.130388,
-    106.47676
+    21.133313,
+    106.476433
   ],
   "350384": [
-    21.130388,
-    106.47676
+    21.133313,
+    106.476433
   ],
   "HDG_CLH_VAN_AN": [
-    21.10668,
-    106.35322
+    21.106677,
+    106.35326
   ],
   "350130": [
-    21.10668,
-    106.35322
+    21.106677,
+    106.35326
   ],
   "HDG_CLH_VAN_AN_4": [
-    21.10566,
-    106.36626
+    21.105682,
+    106.366237
   ],
   "350235": [
-    21.10566,
-    106.36626
+    21.105682,
+    106.366237
   ],
   "HDG_GLC_DONG_BAO": [
-    20.88729,
-    106.3268
+    20.887,
+    106.32696
   ],
   "877186": [
-    20.88729,
-    106.3268
+    20.887,
+    106.32696
   ],
   "HDG_GLC_GIA_HOA_2": [
-    20.86153,
-    106.25916
+    20.861589,
+    106.2598
   ],
   "877014": [
-    20.86153,
-    106.25916
+    20.861589,
+    106.2598
   ],
   "HDG_GLC_GIA_KHANH_2": [
-    20.8641,
+    20.86402,
     106.31644
   ],
   "350303": [
-    20.8641,
+    20.86402,
     106.31644
   ],
   "HDG_GLC_GIA_TAN": [
-    20.878171,
-    106.30609
+    20.87763,
+    106.306009
   ],
   "350079": [
-    20.878171,
-    106.30609
+    20.87763,
+    106.306009
   ],
   "HDG_GLC_GIA_TAN_2": [
-    20.871476,
-    106.30911
+    20.87157,
+    106.30883
   ],
   "877160": [
-    20.871476,
-    106.30911
+    20.87157,
+    106.30883
   ],
   "HDG_GLC_GIA_XUYEN": [
-    20.8898,
-    106.30739
+    20.888867,
+    106.307596
   ],
   "350080": [
-    20.8898,
-    106.30739
+    20.888867,
+    106.307596
   ],
   "HDG_GLC_HOANG_DIEU_2": [
-    20.847494,
-    106.30794
+    20.850801,
+    106.307387
   ],
   "350438": [
-    20.847494,
-    106.30794
+    20.850801,
+    106.307387
   ],
   "HDG_GLC_LIEN_HONG": [
-    20.90709,
-    106.28588
+    20.9072,
+    106.28596
   ],
   "350304": [
-    20.90709,
-    106.28588
+    20.9072,
+    106.28596
   ],
   "HDG_GLC_TAN_HUNG": [
-    20.90143,
-    106.32491
+    20.901461,
+    106.324971
   ],
   "350307": [
-    20.90143,
-    106.32491
+    20.901461,
+    106.324971
   ],
   "HDG_GLC_TAN_TIEN": [
-    20.88109,
-    106.3357
+    20.881062,
+    106.33574
   ],
   "350388": [
-    20.88109,
-    106.3357
+    20.881062,
+    106.33574
   ],
   "HDG_GLC_THACH_KHOI": [
-    20.90764,
-    106.3069
+    20.907489,
+    106.306925
   ],
   "350240": [
-    20.90764,
-    106.3069
+    20.907489,
+    106.306925
   ],
   "HDG_GLC_THACH_KHOI_2": [
-    20.91458,
-    106.31483
+    20.914531,
+    106.314936
   ],
   "350014": [
-    20.91458,
-    106.31483
+    20.914531,
+    106.314936
   ],
   "HDG_GLC_THACH_KHOI_3": [
-    20.901147,
-    106.30984
+    20.901,
+    106.31008
   ],
   "350308": [
-    20.901147,
-    106.30984
+    20.901,
+    106.31008
   ],
   "HDG_GLC_THONG_NHAT": [
-    20.895758,
-    106.27412
+    20.89594,
+    106.27416
   ],
   "877016": [
-    20.895758,
-    106.27412
+    20.89594,
+    106.27416
   ],
   "HDG_GLC_TOAN_THANG": [
-    20.852062,
-    106.2861
+    20.852381,
+    106.285628
   ],
   "877090": [
-    20.852062,
-    106.2861
+    20.852381,
+    106.285628
   ],
   "HDG_GLC_TRUNG_KHANH": [
-    20.89141,
-    106.24797
+    20.89145,
+    106.24818
   ],
   "350310": [
-    20.89141,
-    106.24797
+    20.89145,
+    106.24818
   ],
   "HDG_GLC_YET_KIEU_2": [
-    20.88055,
-    106.25682
+    20.88061,
+    106.25684
   ],
   "350241": [
-    20.88055,
-    106.25682
+    20.88061,
+    106.25684
   ],
   "HDG_HDG_AI_QUOC_2": [
-    20.977317,
+    20.9773174,
     106.37881
   ],
   "877187": [
-    20.977317,
+    20.9773174,
     106.37881
   ],
   "HDG_HDG_AN_LAC": [
-    20.945746,
-    106.31339
+    20.9457461,
+    106.313388
   ],
   "350242": [
-    20.945746,
-    106.31339
+    20.9457461,
+    106.313388
   ],
   "HDG_HDG_BINH_HAN_2": [
     20.94605,
@@ -243769,27 +243747,27 @@ const coordLookup = {
   ],
   "HDG_HDG_CAM_THUONG_4": [
     20.95001,
-    106.31276
+    106.312755
   ],
   "350470": [
     20.95001,
-    106.31276
+    106.312755
   ],
   "HDG_HDG_DUONG_QUANG": [
     20.937322,
-    106.29116
+    106.291162
   ],
   "350390": [
     20.937322,
-    106.29116
+    106.291162
   ],
   "HDG_HDG_HAI_DUONG": [
-    20.939917,
-    106.32992
+    20.939966,
+    106.329929
   ],
   "350023": [
-    20.939917,
-    106.32992
+    20.939966,
+    106.329929
   ],
   "HDG_HDG_HAI_DUONG_3": [
     20.93652,
@@ -243808,44 +243786,44 @@ const coordLookup = {
     106.33929
   ],
   "HDG_HDG_HAI_TAN_2": [
-    20.91336,
-    106.34033
+    20.9134,
+    106.340352
   ],
   "350026": [
-    20.91336,
-    106.34033
+    20.9134,
+    106.340352
   ],
   "HDG_HDG_KCN_NAM_SACH": [
-    20.9611,
-    106.3666
+    20.961674,
+    106.366786
   ],
   "350605": [
-    20.9611,
-    106.3666
+    20.961674,
+    106.366786
   ],
   "HDG_HDG_LE_THANH_NGHI": [
-    20.92771,
-    106.32069
+    20.927817,
+    106.320708
   ],
   "350027": [
-    20.92771,
-    106.32069
+    20.927817,
+    106.320708
   ],
   "HDG_HDG_MOBIFONE_HAI_DUONG": [
-    20.920594,
-    106.29294
+    20.920854,
+    106.293184
   ],
   "350189": [
-    20.920594,
-    106.29294
+    20.920854,
+    106.293184
   ],
   "HDG_HDG_NAM_DONG_2": [
-    20.94153,
-    106.36744
+    20.941456,
+    106.367429
   ],
   "350138": [
-    20.94153,
-    106.36744
+    20.941456,
+    106.367429
   ],
   "HDG_HDG_NGOC_CHAU": [
     20.92515,
@@ -243864,20 +243842,20 @@ const coordLookup = {
     106.34895
   ],
   "HDG_HDG_NGOC_CHAU_6": [
-    20.92733,
-    106.34409
+    20.927257,
+    106.344034
   ],
   "350466": [
-    20.92733,
-    106.34409
+    20.927257,
+    106.344034
   ],
   "HDG_HDG_NGUYEN_TRAI": [
-    20.94304,
-    106.32822
+    20.942992,
+    106.328226
   ],
   "350082": [
-    20.94304,
-    106.32822
+    20.942992,
+    106.328226
   ],
   "HDG_HDG_PHU_TAO": [
     20.92351,
@@ -243888,44 +243866,44 @@ const coordLookup = {
     106.31399
   ],
   "HDG_HDG_QUANG_TRUNG_3": [
-    20.94027,
-    106.33345
+    20.940248,
+    106.333482
   ],
   "350038": [
-    20.94027,
-    106.33345
+    20.940248,
+    106.333482
   ],
   "HDG_HDG_SO_TTTT": [
     20.93686,
-    106.31136
+    106.311361
   ],
   "350040": [
     20.93686,
-    106.31136
+    106.311361
   ],
   "HDG_HDG_TAN_BINH": [
     20.933981,
-    106.32001
+    106.320009
   ],
   "350042": [
     20.933981,
-    106.32001
+    106.320009
   ],
   "HDG_HDG_TAN_HUNG_2": [
-    20.91185,
-    106.32672
+    20.911846,
+    106.326756
   ],
   "350044": [
-    20.91185,
-    106.32672
+    20.911846,
+    106.326756
   ],
   "HDG_HDG_THANH_BINH_2": [
     20.937539,
-    106.30632
+    106.306317
   ],
   "350107": [
     20.937539,
-    106.30632
+    106.306317
   ],
   "HDG_HDG_THANH_BINH_4": [
     20.9285,
@@ -243936,20 +243914,20 @@ const coordLookup = {
     106.30863
   ],
   "HDG_HDG_THUONG_DAT": [
-    20.965,
-    106.31777
+    20.964972,
+    106.317827
   ],
   "350445": [
-    20.965,
-    106.31777
+    20.964972,
+    106.317827
   ],
   "HDG_HDG_TRAN_HUNG_DAO": [
     20.940114,
-    106.34243
+    106.342425
   ],
   "350050": [
     20.940114,
-    106.34243
+    106.342425
   ],
   "HDG_HDG_TRUONG_CHINH": [
     20.92491,
@@ -243968,12 +243946,12 @@ const coordLookup = {
     106.27998
   ],
   "HDG_HDG_TU_MINH_3": [
-    20.9292,
-    106.2974
+    20.929176,
+    106.297724
   ],
   "350469": [
-    20.9292,
-    106.2974
+    20.929176,
+    106.297724
   ],
   "HDG_HDG_VIET_HOA": [
     20.94659,
@@ -243992,52 +243970,52 @@ const coordLookup = {
     106.2915
   ],
   "HDG_HDG_VU_HUU": [
-    20.930685,
-    106.30327
+    20.9306853,
+    106.303267
   ],
   "350398": [
-    20.930685,
-    106.30327
+    20.9306853,
+    106.303267
   ],
   "HDG_HDG_YET_KIEU": [
-    20.92164,
-    106.3305
+    20.921517,
+    106.330506
   ],
   "350055": [
-    20.92164,
-    106.3305
+    20.921517,
+    106.330506
   ],
   "HDG_KMN_AN_LUU": [
-    21.00169,
+    21.00175,
     106.51221
   ],
   "350139": [
-    21.00169,
+    21.00175,
     106.51221
   ],
   "HDG_KMN_AN_PHU": [
-    20.99022,
-    106.5224
+    20.99032,
+    106.52243
   ],
   "877098": [
-    20.99022,
-    106.5224
+    20.99032,
+    106.52243
   ],
   "HDG_KMN_BD_KINH_MON": [
-    20.99489,
-    106.5469
+    20.9949,
+    106.54692
   ],
   "350142": [
-    20.99489,
-    106.5469
+    20.9949,
+    106.54692
   ],
   "HDG_KMN_DUY_TAN": [
-    21.03096,
-    106.53008
+    21.03119,
+    106.53025
   ],
   "350143": [
-    21.03096,
-    106.53008
+    21.03119,
+    106.53025
   ],
   "HDG_KMN_DUY_TAN_4": [
     21.05195,
@@ -244048,28 +244026,28 @@ const coordLookup = {
     106.52817
   ],
   "HDG_KMN_HIEN_THANH": [
-    20.95427,
-    106.5512
+    20.95426,
+    106.55126
   ],
   "350144": [
-    20.95427,
-    106.5512
+    20.95426,
+    106.55126
   ],
   "HDG_KMN_HIEP_AN": [
-    20.98537,
-    106.54391
+    20.98539,
+    106.5439
   ],
   "877100": [
-    20.98537,
-    106.54391
+    20.98539,
+    106.5439
   ],
   "HDG_KMN_HIEP_SON_2": [
-    21.00382,
-    106.53622
+    21.004212,
+    106.536165
   ],
   "350146": [
-    21.00382,
-    106.53622
+    21.004212,
+    106.536165
   ],
   "HDG_KMN_HOA_PHAT": [
     21.014442,
@@ -244136,12 +244114,12 @@ const coordLookup = {
     106.5648
   ],
   "HDG_KMN_PHU_THU": [
-    21.018579,
-    106.54546
+    21.0185791,
+    106.545461
   ],
   "350152": [
-    21.018579,
-    106.54546
+    21.0185791,
+    106.545461
   ],
   "HDG_KMN_PHUC_THANH": [
     21.02356,
@@ -244152,36 +244130,36 @@ const coordLookup = {
     106.42632
   ],
   "HDG_KMN_PHUC_THANH_3": [
-    21.036938,
-    106.42046
+    21.0369378,
+    106.420464
   ],
   "350403": [
-    21.036938,
-    106.42046
+    21.0369378,
+    106.420464
   ],
   "HDG_KMN_THAI_THINH": [
-    20.96515,
-    106.56195
+    20.965252,
+    106.561895
   ],
   "350258": [
-    20.96515,
-    106.56195
+    20.965252,
+    106.561895
   ],
   "HDG_KMN_THANG_LONG": [
-    21.00466,
-    106.42999
+    21.004572,
+    106.430008
   ],
   "350084": [
-    21.00466,
-    106.42999
+    21.004572,
+    106.430008
   ],
   "HDG_KMN_TU_LAC": [
-    21.037612,
-    106.5964
+    21.0376116,
+    106.596398
   ],
   "350156": [
-    21.037612,
-    106.5964
+    21.0376116,
+    106.596398
   ],
   "HDG_KMN_XM_PHUC_SON": [
     21.02219,
@@ -244192,644 +244170,644 @@ const coordLookup = {
     106.56161
   ],
   "HDG_KTH_KIM_DINH": [
-    20.92217,
-    106.49002
+    20.92205,
+    106.49
   ],
   "350159": [
-    20.92217,
-    106.49002
+    20.92205,
+    106.49
   ],
   "HDG_KTH_NGU_PHUC": [
-    20.93934,
-    106.49419
+    20.93925,
+    106.49411
   ],
   "350162": [
-    20.93934,
-    106.49419
+    20.93925,
+    106.49411
   ],
   "HDG_KTH_PHUC_THANH_3": [
-    20.9681,
-    106.5061
+    20.96814,
+    106.50607
   ],
   "350113": [
-    20.9681,
-    106.5061
+    20.96814,
+    106.50607
   ],
   "HDG_KTH_PSDT_PHU_THAI_1": [
-    20.963503,
-    106.52215
+    20.96281,
+    106.5234
   ],
   "877232": [
-    20.958465,
-    106.52799
+    20.95858,
+    106.52642
   ],
   "HDG_KTH_PSDT_PHU_THAI_2": [
-    20.958465,
-    106.52799
+    20.95858,
+    106.52642
   ],
   "HDG_KTH_THUONG_VU": [
-    20.99358,
-    106.42692
+    20.99355,
+    106.4269
   ],
   "350408": [
-    20.99358,
-    106.42692
+    20.99355,
+    106.4269
   ],
   "HDG_NSH_AI_QUOC": [
-    20.95896,
-    106.37271
+    20.958952,
+    106.372453
   ],
   "877101": [
-    20.95896,
-    106.37271
+    20.958952,
+    106.372453
   ],
   "HDG_NSH_AN_BINH": [
-    21.02382,
-    106.35924
+    21.02374,
+    106.35925
   ],
   "350087": [
-    21.02382,
-    106.35924
+    21.02374,
+    106.35925
   ],
   "HDG_NSH_AN_CHAU": [
-    20.97737,
-    106.3358
+    20.977375,
+    106.335803
   ],
   "350266": [
-    20.97737,
-    106.3358
+    20.977375,
+    106.335803
   ],
   "HDG_NSH_AN_CHAU_2": [
-    20.96257,
-    106.33427
+    20.96258,
+    106.3343
   ],
   "877196": [
-    20.96257,
-    106.33427
+    20.96258,
+    106.3343
   ],
   "HDG_NSH_HIEP_CAT": [
-    21.04368,
-    106.30412
+    21.043662,
+    106.304112
   ],
   "350325": [
-    21.04368,
-    106.30412
+    21.043662,
+    106.304112
   ],
   "HDG_NSH_HOP_TIEN": [
-    21.04758,
-    106.33957
+    21.04808,
+    106.33757
   ],
   "350326": [
-    21.04758,
-    106.33957
+    21.04808,
+    106.33757
   ],
   "HDG_NSH_LAI_VU": [
-    20.96782,
-    106.37737
+    20.967728,
+    106.377362
   ],
   "350115": [
-    20.96782,
-    106.37737
+    20.967728,
+    106.377362
   ],
   "HDG_NSH_NAM_CHINH": [
-    21.03169,
-    106.32487
+    21.031622,
+    106.32475
   ],
   "350327": [
-    21.03169,
-    106.32487
+    21.031622,
+    106.32475
   ],
   "HDG_NSH_NAM_DONG": [
-    20.95102,
-    106.36447
+    20.951035,
+    106.364713
   ],
   "350069": [
-    20.95102,
-    106.36447
+    20.951035,
+    106.364713
   ],
   "HDG_NSH_NAM_HONG": [
-    20.997141,
-    106.32611
+    20.99721,
+    106.32615
   ],
   "350268": [
-    20.997141,
-    106.32611
+    20.99721,
+    106.32615
   ],
   "HDG_NSH_PHU_DIEN_2": [
-    20.986415,
-    106.37611
+    20.986462,
+    106.376198
   ],
   "350171": [
-    20.986415,
-    106.37611
+    20.986462,
+    106.376198
   ],
   "HDG_NSH_PHU_DIEN_3": [
-    21.011564,
-    106.40033
+    21.011743,
+    106.39989
   ],
   "350417": [
-    21.011564,
-    106.40033
+    21.011743,
+    106.39989
   ],
   "HDG_NSH_PSDT_KCN_NAM_SACH_1": [
-    20.962175,
-    106.37118
+    20.962242,
+    106.371243
   ],
   "877233": [
-    20.972368,
-    106.37105
+    20.972378,
+    106.370953
   ],
   "HDG_NSH_PSDT_KCN_NAM_SACH_2": [
-    20.968253,
-    106.3693
+    20.968352,
+    106.369407
   ],
   "HDG_NSH_PSDT_KCN_NAM_SACH_3": [
-    20.972368,
-    106.37105
+    20.972378,
+    106.370953
   ],
   "HDG_NSH_THANH_QUANG": [
-    21.04495,
-    106.3574
+    21.044923,
+    106.357436
   ],
   "350088": [
-    21.04495,
-    106.3574
+    21.044923,
+    106.357436
   ],
   "HDG_NSH_THANH_QUANG_2": [
-    21.038936,
-    106.35005
+    21.038943,
+    106.349738
   ],
   "350481": [
-    21.038936,
-    106.35005
+    21.038943,
+    106.349738
   ],
   "HDG_THA_AN_LUONG": [
-    20.87111,
-    106.41333
+    20.871052,
+    106.413517
   ],
   "350332": [
-    20.87111,
-    106.41333
+    20.871052,
+    106.413517
   ],
   "HDG_THA_HOP_DUC": [
-    20.86459,
-    106.46239
+    20.8645,
+    106.462427
   ],
   "350175": [
-    20.86459,
-    106.46239
+    20.8645,
+    106.462427
   ],
   "HDG_THA_QUYET_THANG": [
-    20.93051,
-    106.3823
+    20.93056,
+    106.382487
   ],
   "350178": [
-    20.93051,
-    106.3823
+    20.93056,
+    106.382487
   ],
   "HDG_THA_THANH_AN": [
-    20.94609,
-    106.44574
+    20.946017,
+    106.445728
   ],
   "350089": [
-    20.94609,
-    106.44574
+    20.946017,
+    106.445728
   ],
   "HDG_THA_THANH_HAI": [
-    20.89352,
-    106.40157
+    20.893527,
+    106.401555
   ],
   "877106": [
-    20.89352,
-    106.40157
+    20.893527,
+    106.401555
   ],
   "HDG_THA_THANH_HONG": [
-    20.82508,
-    106.44095
+    20.824907,
+    106.441228
   ],
   "350183": [
-    20.82508,
-    106.44095
+    20.824907,
+    106.441228
   ],
   "HDG_THA_THANH_HONG_2": [
-    20.8314,
-    106.45699
+    20.831413,
+    106.456945
   ],
   "350184": [
-    20.8314,
-    106.45699
+    20.831413,
+    106.456945
   ],
   "HDG_THA_THANH_HONG_3": [
-    20.82396,
-    106.47971
+    20.823945,
+    106.4797
   ],
   "350185": [
-    20.82396,
-    106.47971
+    20.823945,
+    106.4797
   ],
   "HDG_THA_THANH_LANG": [
-    20.9319,
-    106.46788
+    20.932,
+    106.4679
   ],
   "350186": [
-    20.9319,
-    106.46788
+    20.932,
+    106.4679
   ],
   "HDG_THA_THANH_LANG_2": [
-    20.94673,
-    106.46671
+    20.946712,
+    106.466803
   ],
   "877032": [
-    20.94673,
-    106.46671
+    20.946712,
+    106.466803
   ],
   "HDG_THA_THANH_SON": [
-    20.87033,
-    106.44521
+    20.870403,
+    106.44509
   ],
   "877169": [
-    20.87033,
-    106.44521
+    20.870403,
+    106.44509
   ],
   "HDG_THA_THANH_THUY": [
-    20.88031,
-    106.44785
+    20.879955,
+    106.447908
   ],
   "350616": [
-    20.88031,
-    106.44785
+    20.879955,
+    106.447908
   ],
   "HDG_TMN_CAO_THANG": [
-    20.76103,
-    106.21651
+    20.7611,
+    106.21648
   ],
   "350448": [
-    20.76103,
-    106.21651
+    20.7611,
+    106.21648
   ],
   "HDG_TMN_CHI_LANG_BAC": [
-    20.74037,
-    106.23286
+    20.740368,
+    106.232955
   ],
   "350279": [
-    20.74037,
-    106.23286
+    20.740368,
+    106.232955
   ],
   "HDG_TMN_DOAN_KET": [
-    20.77783,
-    106.17609
+    20.783397,
+    106.169811
   ],
   "350281": [
-    20.77783,
-    106.17609
+    20.783397,
+    106.169811
   ],
   "HDG_TMN_THANH_GIANG": [
-    20.72187,
-    106.25111
+    20.721937,
+    106.251196
   ],
   "350203": [
-    20.72187,
-    106.25111
+    20.721937,
+    106.251196
   ],
   "HDG_TMN_TU_CUONG": [
-    20.7693,
-    106.23067
+    20.770086,
+    106.229353
   ],
   "350205": [
-    20.7693,
-    106.23067
+    20.770086,
+    106.229353
   ],
   "HDG_TMN_TU_CUONG_2": [
-    20.777965,
-    106.24271
+    20.777834,
+    106.242591
   ],
   "877038": [
-    20.777965,
-    106.24271
+    20.777834,
+    106.242591
   ],
   "HM_BLC_BINH_LUC": [
     20.491778,
-    106.00761
+    106.007609
   ],
   "200032": [
     20.491778,
-    106.00761
+    106.007609
   ],
   "HM_BLC_TRANG_AN": [
-    20.55648,
-    106.00251
+    20.556338,
+    106.00259
   ],
   "200037": [
-    20.55648,
-    106.00251
+    20.556338,
+    106.00259
   ],
   "HM_BLC_TRUNG_LUONG_4": [
-    20.481906,
-    106.05067
+    20.481904,
+    106.050591
   ],
   "200263": [
-    20.481906,
-    106.05067
+    20.481904,
+    106.050591
   ],
   "HM_DTN_BACH_THUONG": [
-    20.66415,
-    105.94071
+    20.664287,
+    105.940989
   ],
   "200000": [
-    20.66415,
-    105.94071
+    20.664287,
+    105.940989
   ],
   "HM_DTN_CN_DONG_VAN": [
-    20.65746,
-    105.92443
+    20.657851,
+    105.925022
   ],
   "200001": [
-    20.65746,
-    105.92443
+    20.657851,
+    105.925022
   ],
   "HM_DTN_DONG_VAN": [
-    20.644036,
-    105.91994
+    20.645398,
+    105.920417
   ],
   "200002": [
-    20.644036,
-    105.91994
+    20.645398,
+    105.920417
   ],
   "HM_DTN_DONG_VAN_2": [
-    20.638316,
-    105.93554
+    20.637921,
+    105.935463
   ],
   "200003": [
-    20.638316,
-    105.93554
+    20.637921,
+    105.935463
   ],
   "HM_DTN_DONG_VAN_4": [
-    20.668494,
-    105.93187
+    20.668606,
+    105.931811
   ],
   "875118": [
-    20.669634,
-    105.91618
+    20.6697,
+    105.91612
   ],
   "HM_DTN_DONG_VAN_5": [
-    20.645937,
-    105.93465
+    20.64592,
+    105.9346
   ],
   "200154": [
-    20.656606,
-    105.93563
+    20.65661,
+    105.93545
   ],
   "HM_DTN_HOANG_DONG": [
-    20.621015,
-    105.92181
+    20.621001,
+    105.921908
   ],
   "200004": [
-    20.621015,
-    105.92181
+    20.621001,
+    105.921908
   ],
   "HM_DTN_HOANG_DONG_2": [
-    20.60382,
-    105.92867
+    20.60386,
+    105.928585
   ],
   "200044": [
-    20.60382,
-    105.92867
+    20.60386,
+    105.928585
   ],
   "HM_DTN_HOANG_DONG_3": [
-    20.617969,
-    105.94153
+    20.618202,
+    105.941511
   ],
   "875139": [
-    20.617969,
-    105.94153
+    20.618202,
+    105.941511
   ],
   "HM_DTN_KCN_HOA_MAC": [
-    20.64858,
-    105.9996
+    20.648619,
+    105.999553
   ],
   "875117": [
-    20.64858,
-    105.9996
+    20.648619,
+    105.999553
   ],
   "HM_DTN_PSDT_DONG_VAN_2_1": [
-    20.663705,
-    105.92802
+    20.663628,
+    105.927888
   ],
   "HM_DTN_PSDT_DONG_VAN_2_2": [
-    20.656606,
-    105.93563
+    20.65661,
+    105.93545
   ],
   "HM_DTN_PSDT_DONG_VAN_2_5": [
-    20.669634,
-    105.91618
+    20.6697,
+    105.91612
   ],
   "HM_DTN_TIEN_HIEP": [
-    20.580691,
-    105.94925
+    20.58062,
+    105.949304
   ],
   "200006": [
-    20.580691,
-    105.94925
+    20.58062,
+    105.949304
   ],
   "HM_DTN_TIEN_TAN": [
-    20.586435,
-    105.93116
+    20.586332,
+    105.931146
   ],
   "200106": [
-    20.586435,
-    105.93116
+    20.586332,
+    105.931146
   ],
   "HM_DTN_TIEN_TAN_2": [
-    20.576332,
-    105.92572
+    20.576426,
+    105.925726
   ],
   "200105": [
     20.566667,
-    105.93722
+    105.937222
   ],
   "HM_KBG_CHUA_TAM_CHUC": [
-    20.551237,
-    105.7951
+    20.551574,
+    105.792574
   ],
   "200016": [
-    20.551237,
-    105.7951
+    20.551574,
+    105.792574
   ],
   "HM_KBG_CHUA_TAM_CHUC_2": [
-    20.562177,
-    105.81823
+    20.562243,
+    105.8183
   ],
   "200219": [
-    20.562177,
-    105.81823
+    20.562243,
+    105.8183
   ],
   "HM_KBG_CHUA_TAM_CHUC_3": [
-    20.57042,
-    105.8262
+    20.570617,
+    105.826181
   ],
   "200022": [
-    20.57042,
-    105.8262
+    20.570617,
+    105.826181
   ],
   "HM_KBG_DAI_CUONG": [
-    20.639694,
-    105.88243
+    20.639709,
+    105.882351
   ],
   "200048": [
-    20.639694,
-    105.88243
+    20.639709,
+    105.882351
   ],
   "HM_KBG_KIM_BINH_2": [
-    20.572416,
-    105.91653
+    20.572392,
+    105.916431
   ],
   "200108": [
-    20.572416,
-    105.91653
+    20.572392,
+    105.916431
   ],
   "HM_LNN_HOA_HAU": [
-    20.47603,
-    106.14721
+    20.476157,
+    106.14728
   ],
   "200112": [
-    20.47603,
-    106.14721
+    20.476157,
+    106.14728
   ],
   "HM_LNN_LY_NHAN": [
-    20.558752,
-    106.03057
+    20.55879,
+    106.0306
   ],
   "200060": [
-    20.558752,
-    106.03057
+    20.55879,
+    106.0306
   ],
   "HM_PLY_CAU_PHU_LY": [
-    20.528522,
-    105.916
+    20.528596,
+    105.915988
   ],
   "200008": [
-    20.528522,
-    105.916
+    20.528596,
+    105.915988
   ],
   "HM_PLY_CHAU_SON": [
-    20.529783,
-    105.89775
+    20.529826,
+    105.897717
   ],
   "200064": [
-    20.529783,
-    105.89775
+    20.529826,
+    105.897717
   ],
   "HM_PLY_CHAU_SON_3": [
-    20.513941,
-    105.89385
+    20.51395,
+    105.893787
   ],
   "200195": [
-    20.513941,
-    105.89385
+    20.51395,
+    105.893787
   ],
   "HM_PLY_CHO_PHU_LY": [
-    20.54377,
-    105.91652
+    20.543852,
+    105.916479
   ],
   "200009": [
-    20.54377,
-    105.91652
+    20.543852,
+    105.916479
   ],
   "HM_PLY_CN_CHAU_SON": [
-    20.52164,
-    105.89967
+    20.521448,
+    105.899846
   ],
   "200066": [
-    20.52164,
-    105.89967
+    20.521448,
+    105.899846
   ],
   "HM_PLY_KCN_CHAU_SON_2": [
-    20.519252,
-    105.89241
+    20.51932,
+    105.892207
   ],
   "200317": [
-    20.519252,
-    105.89241
+    20.51932,
+    105.892207
   ],
   "HM_PLY_LAM_HA": [
-    20.551607,
-    105.93361
+    20.551869,
+    105.933894
   ],
   "200198": [
-    20.551607,
-    105.93361
+    20.551869,
+    105.933894
   ],
   "HM_PLY_LAM_HA_2": [
-    20.546879,
-    105.92223
+    20.546835,
+    105.922219
   ],
   "200121": [
-    20.546879,
-    105.92223
+    20.546835,
+    105.922219
   ],
   "HM_PLY_LE_HONG_PHONG": [
-    20.54562,
-    105.89755
+    20.545605,
+    105.897368
   ],
   "200067": [
-    20.54562,
-    105.89755
+    20.545605,
+    105.897368
   ],
   "HM_PLY_LE_HONG_PHONG_2": [
-    20.54323,
-    105.90567
+    20.542523,
+    105.905699
   ],
   "200011": [
-    20.54323,
-    105.90567
+    20.542523,
+    105.905699
   ],
   "HM_PLY_LE_HONG_PHONG_4": [
-    20.531733,
-    105.9013
+    20.533572,
+    105.900526
   ],
   "200199": [
-    20.531733,
-    105.9013
+    20.533572,
+    105.900526
   ],
   "HM_PLY_LE_HONG_PHONG_5": [
-    20.52591,
-    105.88587
+    20.525914,
+    105.885865
   ],
   "200086": [
-    20.52591,
-    105.88587
+    20.525914,
+    105.885865
   ],
   "HM_PLY_LIEM_CHINH_3": [
-    20.535203,
-    105.94134
+    20.535154,
+    105.941065
   ],
   "200404": [
     20.515867,
     105.95085
   ],
   "HM_PLY_LIEM_TIET_2": [
-    20.526217,
-    105.97132
+    20.526271,
+    105.971408
   ],
   "HM_PLY_LIEM_TUYEN_2": [
-    20.543378,
-    105.94651
+    20.543341,
+    105.94653
   ],
   "HM_PLY_MINH_KHAI": [
-    20.538004,
-    105.91431
+    20.537995,
+    105.914309
   ],
   "200013": [
-    20.538004,
-    105.91431
+    20.537995,
+    105.914309
   ],
   "HM_PLY_PHU_LY_3": [
     20.551291,
-    105.89403
+    105.894034
   ],
   "200072": [
     20.551291,
-    105.89403
+    105.894034
   ],
   "HM_PLY_PHU_VAN": [
     20.55381,
@@ -244840,12 +244818,12 @@ const coordLookup = {
     105.90302
   ],
   "HM_PLY_PHU_VAN_2": [
-    20.54177,
-    105.88762
+    20.5417695,
+    105.887623
   ],
   "200201": [
-    20.54177,
-    105.88762
+    20.5417695,
+    105.887623
   ],
   "HM_PLY_THANH_HA_4": [
     20.515867,
@@ -244853,7 +244831,7 @@ const coordLookup = {
   ],
   "HM_PLY_TIEN_TAN_3": [
     20.566667,
-    105.93722
+    105.937222
   ],
   "HM_DTN_HOANG_DONG_4": [
     20.630007,
@@ -244864,80 +244842,80 @@ const coordLookup = {
     105.934408
   ],
   "HM_TLM_LIEM_SON": [
-    20.436071,
-    105.97056
+    20.43604,
+    105.970567
   ],
   "875044": [
-    20.436071,
-    105.97056
+    20.43604,
+    105.970567
   ],
   "HM_TLM_LIEM_TUC": [
-    20.457229,
-    105.9682
+    20.457239,
+    105.968323
   ],
   "200125": [
-    20.457229,
-    105.9682
+    20.457239,
+    105.968323
   ],
   "HM_TLM_LIEM_TUYEN": [
-    20.536444,
-    105.95206
+    20.536783,
+    105.952221
   ],
   "200077": [
-    20.536444,
-    105.95206
+    20.536783,
+    105.952221
   ],
   "HM_TLM_PHU_LY_4": [
-    20.525231,
-    105.93327
+    20.525353,
+    105.933786
   ],
   "200078": [
-    20.525231,
-    105.93327
+    20.525353,
+    105.933786
   ],
   "HM_TLM_THANH_HUONG_3": [
-    20.433533,
-    105.92778
+    20.433994,
+    105.926601
   ],
   "200128": [
-    20.433533,
-    105.92778
+    20.433994,
+    105.926601
   ],
   "HM_TLM_THANH_LIEM_2": [
-    20.416486,
-    105.91958
+    20.41646,
+    105.91954
   ],
   "200082": [
-    20.417569,
-    105.93406
+    20.41943,
+    105.93462
   ],
   "HM_TLM_THANH_TAM_2": [
-    20.417569,
-    105.93406
+    20.41943,
+    105.93462
   ],
   "HM_TLM_TT_NON": [
-    20.474567,
-    105.95026
+    20.47486,
+    105.95036
   ],
   "200089": [
-    20.474567,
-    105.95026
+    20.47486,
+    105.95036
   ],
   "HPG_ADG_AN_DONG_3": [
     20.84887,
-    106.65497
+    106.65495
   ],
   "360234": [
     20.84887,
-    106.65497
+    106.65495
   ],
   "HPG_CHI_CAT_BA_4": [
-    20.72467,
-    107.04953
+    20.72491,
+    107.0497
   ],
   "360279": [
-    20.72467,
-    107.04953
+    20.72491,
+    107.0497
   ],
   "HPG_ADG_AN_DONG_9_01R": [
     20.84588,
@@ -244957,27 +244935,27 @@ const coordLookup = {
   ],
   "HPG_ADG_AN_DUONG_4": [
     20.86409,
-    106.60824
+    106.60831
   ],
   "360237": [
     20.86409,
-    106.60824
+    106.60831
   ],
   "HPG_ADG_AN_HOA_2_01R": [
-    20.901533,
-    106.54422
+    20.9015326,
+    106.544219
   ],
   "360562": [
-    20.901533,
-    106.54422
+    20.9015326,
+    106.544219
   ],
   "HPG_ADG_AN_HUNG": [
-    20.91068,
-    106.58887
+    20.91159,
+    106.5889
   ],
   "360224": [
-    20.91068,
-    106.58887
+    20.91159,
+    106.5889
   ],
   "HPG_ADG_BAC_SON_3": [
     20.87634,
@@ -244988,36 +244966,36 @@ const coordLookup = {
     106.59389
   ],
   "HPG_ADG_BDVHX_AN_HOA": [
-    20.88585,
-    106.54908
+    20.885436,
+    106.549407
   ],
   "360239": [
-    20.88585,
-    106.54908
+    20.885436,
+    106.549407
   ],
   "HPG_ADG_BLUECOM": [
-    20.8578,
-    106.5686
+    20.857907,
+    106.568586
   ],
   "360099": [
-    20.8578,
-    106.5686
+    20.857907,
+    106.568586
   ],
   "HPG_ADG_CHO_AN_DONG": [
-    20.85193,
-    106.65548
+    20.85179,
+    106.65551
   ],
   "360240": [
-    20.85193,
-    106.65548
+    20.85179,
+    106.65551
   ],
   "HPG_ADG_CHO_HO": [
-    20.90508,
-    106.57607
+    20.905003,
+    106.576142
   ],
   "360001": [
-    20.90508,
-    106.57607
+    20.905003,
+    106.576142
   ],
   "HPG_ADG_CSCD_DONG_GIOI": [
     20.86201,
@@ -245036,84 +245014,84 @@ const coordLookup = {
     106.59165
   ],
   "HPG_ADG_DAI_BAN_3_01R": [
-    20.92287,
-    106.55971
+    20.922875,
+    106.559709
   ],
   "360243": [
-    20.92287,
-    106.55971
+    20.922875,
+    106.559709
   ],
   "HPG_ADG_DANG_CUONG": [
-    20.84828,
-    106.61576
+    20.848292,
+    106.615629
   ],
   "360244": [
-    20.84828,
-    106.61576
+    20.848292,
+    106.615629
   ],
   "HPG_ADG_DONG_THAI_2_01R": [
     20.904966,
-    106.59095
+    106.590946
   ],
   "364057": [
     20.904966,
-    106.59095
+    106.590946
   ],
   "HPG_ADG_DONG_THAI_3_01R": [
     20.908073,
-    106.59433
+    106.594329
   ],
   "360457": [
     20.908073,
-    106.59433
+    106.594329
   ],
   "HPG_ADG_HONG_PHONG": [
-    20.870175,
-    106.5791
+    20.870187,
+    106.57915
   ],
   "360246": [
-    20.870175,
-    106.5791
+    20.870187,
+    106.57915
   ],
   "HPG_ADG_HONG_PHONG_2": [
-    20.874835,
-    106.56383
+    20.87492,
+    106.5638
   ],
   "360398": [
-    20.874835,
-    106.56383
+    20.87492,
+    106.5638
   ],
   "HPG_ADG_HONG_PHONG_3": [
-    20.894523,
-    106.56405
+    20.89449,
+    106.56397
   ],
   "360248": [
-    20.894523,
-    106.56405
+    20.89449,
+    106.56397
   ],
   "HPG_ADG_HONG_THAI_2": [
-    20.83444,
-    106.63689
+    20.834387,
+    106.636888
   ],
   "360250": [
-    20.83444,
-    106.63689
+    20.834387,
+    106.636888
   ],
   "HPG_ADG_HONG_THAI_4": [
     20.839811,
-    106.63794
+    106.637935
   ],
   "360459": [
     20.839811,
-    106.63794
+    106.637935
   ],
   "HPG_ADG_KCN_AN_DUONG": [
-    20.880046,
-    106.57371
+    20.880026,
+    106.573575
   ],
   "360584": [
-    20.880046,
-    106.57371
+    20.880026,
+    106.573575
   ],
   "HPG_ADG_KCN_AN_DUONG_11": [
     20.8906,
@@ -245132,28 +245110,28 @@ const coordLookup = {
     106.5701
   ],
   "HPG_ADG_KCN_AN_DUONG_2": [
-    20.884166,
-    106.56261
+    20.884159,
+    106.562562
   ],
   "361046": [
-    20.884166,
-    106.56261
+    20.884159,
+    106.562562
   ],
   "HPG_ADG_KCN_AN_DUONG_3": [
     20.879302,
-    106.57054
+    106.570537
   ],
   "361047": [
     20.879302,
-    106.57054
+    106.570537
   ],
   "HPG_ADG_KCN_TRANG_DUE": [
-    20.861898,
-    106.56622
+    20.8618985,
+    106.566219
   ],
   "360198": [
-    20.861898,
-    106.56622
+    20.8618985,
+    106.566219
   ],
   "HPG_ADG_KCN_TRANG_DUE_2": [
     20.8538,
@@ -245164,28 +245142,28 @@ const coordLookup = {
     106.5705
   ],
   "HPG_ADG_KCN_TRANG_DUE_4": [
-    20.862392,
-    106.56368
+    20.86252,
+    106.563653
   ],
   "364080": [
-    20.862392,
-    106.56368
+    20.86252,
+    106.563653
   ],
   "HPG_ADG_KCN_TRANG_DUE_5": [
     20.867479,
-    106.56493
+    106.564932
   ],
   "361001": [
     20.867479,
-    106.56493
+    106.564932
   ],
   "HPG_ADG_KCN_TRANG_DUE_6": [
-    20.858644,
-    106.57272
+    20.8586437,
+    106.572719
   ],
   "361048": [
-    20.858644,
-    106.57272
+    20.8586437,
+    106.572719
   ],
   "HPG_ADG_KCN_TRANG_DUE_7": [
     20.855,
@@ -245196,36 +245174,36 @@ const coordLookup = {
     106.565
   ],
   "HPG_ADG_KCN_TRANG_DUE_9": [
-    20.86056,
-    106.5763
+    20.860633,
+    106.57638
   ],
   "370465": [
-    20.86056,
-    106.5763
+    20.860633,
+    106.57638
   ],
   "HPG_ADG_LE_LOI_01R": [
     20.86392,
-    106.59185
+    106.591853
   ],
   "364058": [
     20.86392,
-    106.59185
+    106.591853
   ],
   "HPG_ADG_LE_LOI_2": [
-    20.86165,
-    106.60374
+    20.861643,
+    106.603667
   ],
   "360251": [
-    20.86165,
-    106.60374
+    20.861643,
+    106.603667
   ],
   "HPG_ADG_LE_THIEN": [
-    20.93185,
-    106.55405
+    20.93181,
+    106.554
   ],
   "360004": [
-    20.93185,
-    106.55405
+    20.93181,
+    106.554
   ],
   "HPG_ADG_LE_THIEN_2": [
     20.91452,
@@ -245236,28 +245214,28 @@ const coordLookup = {
     106.55039
   ],
   "HPG_ADG_LE_THIEN_3": [
-    20.9087,
-    106.56413
+    20.90881,
+    106.56408
   ],
   "360252": [
-    20.9087,
-    106.56413
+    20.90881,
+    106.56408
   ],
   "HPG_ADG_LG_DISPLAY": [
     20.864323,
-    106.56561
+    106.565612
   ],
   "360976": [
     20.864323,
-    106.56561
+    106.565612
   ],
   "HPG_ADG_LG_INNOTEK": [
-    20.862628,
-    106.55702
+    20.8626279,
+    106.557025
   ],
   "360402": [
-    20.862628,
-    106.55702
+    20.8626279,
+    106.557025
   ],
   "HPG_ADG_LG_INNOTEK_V2": [
     20.866,
@@ -245268,84 +245246,84 @@ const coordLookup = {
     106.5564
   ],
   "HPG_ADG_NAM_SON_3": [
-    20.874903,
-    106.61879
+    20.87499,
+    106.61881
   ],
   "360006": [
-    20.874903,
-    106.61879
+    20.87499,
+    106.61881
   ],
   "HPG_ADG_PHAN_DANG_LUU_5": [
-    20.87179,
-    106.60675
+    20.87184,
+    106.60671
   ],
   "360461": [
-    20.87179,
-    106.60675
+    20.87184,
+    106.60671
   ],
   "HPG_ADG_PSDT_KCN_AN_DUONG_2": [
-    20.874894,
-    106.57209
+    20.87486,
+    106.5721
   ],
   "360009": [
-    20.874894,
-    106.57209
+    20.87486,
+    106.5721
   ],
   "HPG_ADG_PSDT_KCN_AN_DUONG_3": [
-    20.88039,
-    106.56161
+    20.8803895,
+    106.561614
   ],
   "360027": [
-    20.88039,
-    106.56161
+    20.8803895,
+    106.561614
   ],
   "HPG_ADG_PSDT_KCN_AN_DUONG_5": [
-    20.892128,
-    106.56211
+    20.8921283,
+    106.562111
   ],
   "360582": [
-    20.892128,
-    106.56211
+    20.8921283,
+    106.562111
   ],
   "HPG_ADG_PSDT_NOMURA_1": [
     20.900518,
-    106.59528
+    106.595277
   ],
   "364061": [
     20.900518,
-    106.59528
+    106.595277
   ],
   "HPG_ADG_PSDT_NOMURA_1_02R": [
     20.900518,
-    106.59528
+    106.595277
   ],
   "HPG_ADG_PSDT_NOMURA_1_03R": [
     20.900518,
-    106.59528
+    106.595277
   ],
   "HPG_ADG_PSDT_TRANG_DUE_1": [
     20.869354,
-    106.57062
+    106.570617
   ],
   "360207": [
     20.869005,
-    106.56765
+    106.567654
   ],
   "HPG_ADG_PSDT_TRANG_DUE_1_01R": [
     20.869005,
-    106.56765
+    106.567654
   ],
   "HPG_ADG_PSDT_TRANG_DUE_2": [
     20.85942,
-    106.56267
+    106.562673
   ],
   "360208": [
     20.85942,
-    106.56267
+    106.562673
   ],
   "HPG_ADG_QUOC_TUAN": [
-    20.84429,
-    106.59567
+    20.84423,
+    106.59566
   ],
   "360256": [
     20.833,
@@ -245356,12 +245334,12 @@ const coordLookup = {
     106.5969
   ],
   "HPG_ADG_TAN_TIEN_01R": [
-    20.89112,
-    106.58406
+    20.89114,
+    106.58405
   ],
   "360531": [
-    20.89112,
-    106.58406
+    20.89114,
+    106.58405
   ],
   "HPG_ADG_TD_TON_DUC_THANG": [
     20.85842,
@@ -245372,12 +245350,12 @@ const coordLookup = {
     106.65076
   ],
   "HPG_ADG_VINH_KHE": [
-    20.85806,
-    106.63828
+    20.857977,
+    106.638395
   ],
   "364060": [
-    20.85806,
-    106.63828
+    20.857977,
+    106.638395
   ],
   "HPG_ADG_VINH_KHE_2": [
     20.856089,
@@ -245396,12 +245374,12 @@ const coordLookup = {
     106.87421
   ],
   "HPG_CHI_VINFAST_2": [
-    20.799134,
-    106.87105
+    20.7991343,
+    106.871048
   ],
   "360411": [
-    20.799134,
-    106.87105
+    20.7991343,
+    106.871048
   ],
   "HPG_CHI_VINFAST_3": [
     20.79349,
@@ -245420,12 +245398,12 @@ const coordLookup = {
     106.86742
   ],
   "HPG_CHI_VINFAST_5": [
-    20.792651,
-    106.86267
+    20.7926512,
+    106.862674
   ],
   "360613": [
-    20.792651,
-    106.86267
+    20.7926512,
+    106.862674
   ],
   "HPG_CHI_VINFAST_6": [
     20.7972,
@@ -245436,19 +245414,19 @@ const coordLookup = {
     106.8603
   ],
   "HPG_HAN_AN_KHE": [
-    20.82475,
-    106.71154
+    20.82464,
+    106.7116
   ],
   "360030": [
-    20.82475,
-    106.71154
+    20.82464,
+    106.7116
   ],
   "HPG_HAN_BEN_LANG": [
-    20.838965,
+    20.83897,
     106.70743
   ],
   "360031": [
-    20.838965,
+    20.83897,
     106.70743
   ],
   "HPG_HAN_BRIGHTONE": [
@@ -245469,19 +245447,19 @@ const coordLookup = {
   ],
   "HPG_HAN_CANG_DINH_VU_2": [
     20.824367,
-    106.77267
+    106.772669
   ],
   "360199": [
     20.824367,
-    106.77267
+    106.772669
   ],
   "HPG_HAN_CANG_DINH_VU_3": [
-    20.837605,
-    106.75882
+    20.83758,
+    106.758791
   ],
   "360032": [
-    20.837605,
-    106.75882
+    20.83758,
+    106.758791
   ],
   "HPG_HAN_CANG_DINH_VU_4": [
     20.83538,
@@ -245493,19 +245471,19 @@ const coordLookup = {
   ],
   "HPG_HAN_CANG_DINH_VU_5": [
     20.82662,
-    106.7816
+    106.781602
   ],
   "360348": [
     20.82662,
-    106.7816
+    106.781602
   ],
   "HPG_HAN_CANG_DINH_VU_6": [
-    20.84097,
-    106.76747
+    20.84098,
+    106.7675
   ],
   "360420": [
-    20.84097,
-    106.76747
+    20.84098,
+    106.7675
   ],
   "HPG_HAN_CANG_DINH_VU_8": [
     20.83207,
@@ -245516,36 +245494,36 @@ const coordLookup = {
     106.76855
   ],
   "HPG_HAN_CANG_DINH_VU_9": [
-    20.825449,
-    106.79432
+    20.825466,
+    106.794304
   ],
   "361049": [
-    20.825449,
-    106.79432
+    20.825466,
+    106.794304
   ],
   "HPG_HAN_CAT_BI": [
-    20.829856,
-    106.7171
+    20.82979,
+    106.71711
   ],
   "360033": [
-    20.829856,
-    106.7171
+    20.82979,
+    106.71711
   ],
   "HPG_HAN_CHO_LUNG": [
-    20.84184,
-    106.7158
+    20.841896,
+    106.715803
   ],
   "360034": [
-    20.84184,
-    106.7158
+    20.841896,
+    106.715803
   ],
   "HPG_HAN_CN_DINH_VU_2": [
-    20.82496,
-    106.76504
+    20.825072,
+    106.765045
   ],
   "360035": [
-    20.82496,
-    106.76504
+    20.825072,
+    106.765045
   ],
   "HPG_HAN_CN_DINH_VU_3": [
     20.84603,
@@ -245564,68 +245542,68 @@ const coordLookup = {
     106.71833
   ],
   "HPG_HAN_DANG_HAI": [
-    20.8369,
-    106.72127
+    20.837059,
+    106.721395
   ],
   "360038": [
-    20.8369,
-    106.72127
+    20.837059,
+    106.721395
   ],
   "HPG_HAN_DANG_HAI_3_01R": [
-    20.835164,
-    106.72436
+    20.8353,
+    106.72439
   ],
   "360230": [
-    20.835164,
-    106.72436
+    20.8353,
+    106.72439
   ],
   "HPG_HAN_DANG_HAI_6": [
-    20.8444,
-    106.7125
+    20.844178,
+    106.712373
   ],
   "365010": [
-    20.8444,
-    106.7125
+    20.844178,
+    106.712373
   ],
   "HPG_HAN_DANG_LAM_2_01R": [
     20.830616,
-    106.71046
+    106.710459
   ],
   "360422": [
     20.830616,
-    106.71046
+    106.710459
   ],
   "HPG_HAN_DANG_LAM_3_01R": [
     20.836694,
-    106.70998
+    106.709975
   ],
   "360616": [
     20.836694,
-    106.70998
+    106.709975
   ],
   "HPG_HAN_DANG_LAM_4_01R": [
-    20.838223,
-    106.70451
+    20.8382227,
+    106.704514
   ],
   "360617": [
-    20.838223,
-    106.70451
+    20.8382227,
+    106.704514
   ],
   "HPG_HAN_DINH_VU": [
-    20.857989,
-    106.72598
+    20.858618,
+    106.725923
   ],
   "360040": [
-    20.857989,
-    106.72598
+    20.858618,
+    106.725923
   ],
   "HPG_HAN_DONG_HAI": [
-    20.844687,
-    106.728
+    20.84474,
+    106.72799
   ],
   "360042": [
-    20.844687,
-    106.728
+    20.84474,
+    106.72799
   ],
   "HPG_HAN_DONG_HAI_2": [
     20.83902,
@@ -245637,43 +245615,43 @@ const coordLookup = {
   ],
   "HPG_HAN_DONG_HAI_4_01R": [
     20.850953,
-    106.72792
+    106.727915
   ],
   "364082": [
     20.850953,
-    106.72792
+    106.727915
   ],
   "HPG_HAN_DONG_HAI_5": [
     20.857341,
-    106.71591
+    106.715914
   ],
   "364081": [
     20.857341,
-    106.71591
+    106.715914
   ],
   "HPG_HAN_DONG_XA": [
     20.824411,
-    106.69946
+    106.699458
   ],
   "360566": [
     20.824411,
-    106.69946
+    106.699458
   ],
   "HPG_HAN_DUONG_CAT_BI_01R": [
     20.82386,
     106.71523
   ],
   "360044": [
-    20.828443,
-    106.70868
+    20.82844,
+    106.70866
   ],
   "HPG_HAN_FLAT_HP": [
-    20.812482,
-    106.77846
+    20.81206,
+    106.77817
   ],
   "360588": [
-    20.812482,
-    106.77846
+    20.81206,
+    106.77817
   ],
   "HPG_HAN_HA_DOAN_2": [
     20.84885,
@@ -245692,20 +245670,20 @@ const coordLookup = {
     106.7169
   ],
   "HPG_HAN_KDT_SAO_SANG_01R": [
-    20.82796,
+    20.82804,
     106.72276
   ],
   "360047": [
-    20.82796,
+    20.82804,
     106.72276
   ],
   "HPG_HAN_KTX_PEGATRON": [
     20.830126,
-    106.75907
+    106.759071
   ],
   "362015": [
     20.830126,
-    106.75907
+    106.759071
   ],
   "HPG_HAN_LE_LOI": [
     20.83104,
@@ -245724,12 +245702,12 @@ const coordLookup = {
     106.73735
   ],
   "HPG_HAN_NAM_HAI_2": [
-    20.832503,
-    106.72769
+    20.83249,
+    106.727733
   ],
   "360050": [
-    20.832503,
-    106.72769
+    20.83249,
+    106.727733
   ],
   "HPG_HAN_NAM_HAI_3": [
     20.84021,
@@ -245740,8 +245718,8 @@ const coordLookup = {
     106.73255
   ],
   "HPG_HAN_NGO_GIA_TU": [
-    20.828443,
-    106.70868
+    20.82844,
+    106.70866
   ],
   "HPG_HAN_NGO_GIA_TU_2": [
     20.82916,
@@ -245769,11 +245747,11 @@ const coordLookup = {
   ],
   "HPG_HAN_NGUYEN_BINH_KHIEM_3": [
     20.849174,
-    106.72136
+    106.721363
   ],
   "360483": [
     20.849174,
-    106.72136
+    106.721363
   ],
   "HPG_HAN_NGUYEN_BINH_KHIEM_4_01R": [
     20.847,
@@ -245793,11 +245771,11 @@ const coordLookup = {
   ],
   "HPG_HAN_PHA_DINH_VU": [
     20.820919,
-    106.81788
+    106.817875
   ],
   "360057": [
     20.820919,
-    106.81788
+    106.817875
   ],
   "HPG_HAN_PHUONG_LUU": [
     20.85322,
@@ -245825,27 +245803,27 @@ const coordLookup = {
   ],
   "HPG_HAN_PSDT_DEEP_C": [
     20.7985,
-    106.79312
+    106.793115
   ],
   "361066": [
     20.7985,
-    106.79312
+    106.793115
   ],
   "HPG_HAN_PSDT_DEEPC_2": [
     20.798663,
-    106.77985
+    106.779852
   ],
   "365001": [
     20.798663,
-    106.77985
+    106.779852
   ],
   "HPG_HAN_PSDT_DEEPC_4": [
     20.812475,
-    106.80817
+    106.808174
   ],
   "365101": [
     20.812475,
-    106.80817
+    106.808174
   ],
   "HPG_HAN_TASA": [
     20.84556,
@@ -245857,19 +245835,19 @@ const coordLookup = {
   ],
   "HPG_HAN_THANH_TO": [
     20.827411,
-    106.71414
+    106.714144
   ],
   "360618": [
     20.827411,
-    106.71414
+    106.714144
   ],
   "HPG_HAN_TRANG_CAT": [
-    20.807831,
-    106.74003
+    20.8079,
+    106.74004
   ],
   "360060": [
-    20.807831,
-    106.74003
+    20.8079,
+    106.74004
   ],
   "HPG_HAN_TRUNG_HANH_01R": [
     20.83689,
@@ -245880,12 +245858,12 @@ const coordLookup = {
     106.71367
   ],
   "HPG_HAN_TRUNG_LUC": [
-    20.834332,
-    106.70751
+    20.8343323,
+    106.707508
   ],
   "360294": [
-    20.834332,
-    106.70751
+    20.8343323,
+    106.707508
   ],
   "HPG_HAN_VAN_CAO_6": [
     20.8333,
@@ -245896,12 +245874,12 @@ const coordLookup = {
     106.70124
   ],
   "HPG_HBG_BACH_DANG": [
-    20.8625,
-    106.6757
+    20.86256,
+    106.67573
   ],
   "360568": [
-    20.8625,
-    106.6757
+    20.86256,
+    106.67573
   ],
   "HPG_HBG_BD_CANG_MOI": [
     20.88696,
@@ -245913,11 +245891,11 @@ const coordLookup = {
   ],
   "HPG_HBG_CA_HAI_PHONG": [
     20.863399,
-    106.68321
+    106.683205
   ],
   "362010": [
     20.863399,
-    106.68321
+    106.683205
   ],
   "HPG_HBG_CAU_BINH": [
     20.8742,
@@ -245936,11 +245914,11 @@ const coordLookup = {
     106.68212
   ],
   "HPG_HBG_HONG_BANG": [
-    20.863883,
+    20.86388,
     106.65072
   ],
   "360063": [
-    20.863883,
+    20.86388,
     106.65072
   ],
   "HPG_HBG_HUNG_VUONG": [
@@ -245969,11 +245947,11 @@ const coordLookup = {
   ],
   "HPG_HBG_HUNG_VUONG_4": [
     20.86896,
-    106.64161
+    106.641611
   ],
   "360067": [
     20.86896,
-    106.64161
+    106.641611
   ],
   "HPG_HBG_HUNG_VUONG_5_01R": [
     20.87547,
@@ -246000,20 +245978,20 @@ const coordLookup = {
     106.67857
   ],
   "HPG_HBG_LY_TU_TRONG": [
-    20.86399,
-    106.68517
+    20.86401,
+    106.685112
   ],
   "360485": [
-    20.86399,
-    106.68517
+    20.86401,
+    106.685112
   ],
   "HPG_HBG_MINH_KHAI": [
     20.864376,
-    106.68154
+    106.681539
   ],
   "360071": [
     20.864376,
-    106.68154
+    106.681539
   ],
   "HPG_HBG_NGA_4_QUAN_TOAN": [
     20.88956,
@@ -246024,12 +246002,12 @@ const coordLookup = {
     106.60519
   ],
   "HPG_HBG_NGUYEN_THAI_HOC": [
-    20.85656,
-    106.67159
+    20.856504,
+    106.67165
   ],
   "360072": [
-    20.85656,
-    106.67159
+    20.856504,
+    106.67165
   ],
   "HPG_HBG_PHAN_BOI_CHAU": [
     20.85605,
@@ -246040,20 +246018,20 @@ const coordLookup = {
     106.67503
   ],
   "HPG_HBG_QUAN_TOAN_2": [
-    20.90126,
-    106.60616
+    20.90114,
+    106.60618
   ],
   "360488": [
-    20.90126,
-    106.60616
+    20.90114,
+    106.60618
   ],
   "HPG_HBG_QUAN_TOAN_3": [
-    20.89382,
-    106.59913
+    20.89395,
+    106.5991
   ],
   "360426": [
-    20.89382,
-    106.59913
+    20.89395,
+    106.5991
   ],
   "HPG_HBG_QUAN_TOAN_4": [
     20.893,
@@ -246072,28 +246050,28 @@ const coordLookup = {
     106.65599
   ],
   "HPG_CHI_DONG_BAI": [
-    20.8136,
-    106.8849
+    20.81363,
+    106.88502
   ],
   "360612": [
-    20.8136,
-    106.8849
+    20.81363,
+    106.88502
   ],
   "HPG_HBG_SO_DAU_3": [
     20.870557,
-    106.66138
+    106.661384
   ],
   "361041": [
     20.870557,
-    106.66138
+    106.661384
   ],
   "HPG_HBG_SO_Y_TE": [
-    20.858941,
-    106.68365
+    20.85896,
+    106.68369
   ],
   "360602": [
-    20.858941,
-    106.68365
+    20.85896,
+    106.68369
   ],
   "HPG_HBG_THUONG_LY": [
     20.86164,
@@ -246152,20 +246130,20 @@ const coordLookup = {
     106.6645
   ],
   "HPG_KAN_BAC_SON": [
-    20.81645,
-    106.62544
+    20.81654,
+    106.62548
   ],
   "360084": [
-    20.81645,
-    106.62544
+    20.81654,
+    106.62548
   ],
   "HPG_KAN_CUU_VIEN": [
-    20.82382,
-    106.63539
+    20.82391,
+    106.6353
   ],
   "360086": [
-    20.82382,
-    106.63539
+    20.82391,
+    106.6353
   ],
   "HPG_KAN_CUU_VIEN_2": [
     20.8198,
@@ -246176,84 +246154,84 @@ const coordLookup = {
     106.6396
   ],
   "HPG_KAN_DAU_SON_01R": [
-    20.78769,
-    106.64712
+    20.787707,
+    106.647178
   ],
   "360554": [
-    20.78769,
-    106.64712
+    20.787707,
+    106.647178
   ],
   "HPG_KAN_DH_HAI_PHONG_1": [
     20.807846,
-    106.61792
+    106.617924
   ],
   "360177": [
     20.807846,
-    106.61792
+    106.617924
   ],
   "HPG_KAN_DH_HAI_PHONG_2": [
     20.808882,
-    106.62287
+    106.622868
   ],
   "360254": [
     20.808882,
-    106.62287
+    106.622868
   ],
   "HPG_KAN_DONG_KHE_2_01R": [
-    20.81493,
-    106.6683
+    20.814962,
+    106.668364
   ],
   "360603": [
-    20.81493,
-    106.6683
+    20.814962,
+    106.668364
   ],
   "HPG_KAN_NGOC_SON": [
-    20.814569,
-    106.62177
+    20.8145691,
+    106.621769
   ],
   "364065": [
-    20.814569,
-    106.62177
+    20.8145691,
+    106.621769
   ],
   "HPG_KAN_NGUYEN_CONG_MY": [
-    20.80525,
-    106.61935
+    20.805209,
+    106.619383
   ],
   "360375": [
-    20.80525,
-    106.61935
+    20.805209,
+    106.619383
   ],
   "HPG_KAN_PHAN_DANG_LUU_01R": [
     20.808676,
-    106.62431
+    106.624312
   ],
   "360570": [
     20.808676,
-    106.62431
+    106.624312
   ],
   "HPG_KAN_PHUONG_LUU_3": [
-    20.81303,
-    106.64457
+    20.81311,
+    106.64463
   ],
   "360091": [
-    20.81303,
-    106.64457
+    20.81311,
+    106.64463
   ],
   "HPG_KAN_QUAN_TRU": [
-    20.82239,
-    106.64505
+    20.82232,
+    106.64509
   ],
   "360092": [
-    20.82239,
-    106.64505
+    20.82232,
+    106.64509
   ],
   "HPG_KAN_QUAN_TRU_2": [
-    20.82235,
-    106.65018
+    20.82238,
+    106.65021
   ],
   "360093": [
-    20.82235,
-    106.65018
+    20.82238,
+    106.65021
   ],
   "HPG_KAN_QUAN_TRU_2_01R": [
     20.82235,
@@ -246265,55 +246243,55 @@ const coordLookup = {
   ],
   "HPG_KAN_TAY_SON": [
     20.81347,
-    106.62833
+    106.628333
   ],
   "360432": [
     20.81347,
-    106.62833
+    106.628333
   ],
   "HPG_KAN_TRAN_NHAN_TONG": [
-    20.80671,
-    106.63872
+    20.80676,
+    106.63879
   ],
   "360094": [
-    20.80671,
-    106.63872
+    20.80676,
+    106.63879
   ],
   "HPG_KAN_TRAN_NHAN_TONG_2": [
-    20.81917,
-    106.64742
+    20.8192,
+    106.6474
   ],
   "360095": [
-    20.81917,
-    106.64742
+    20.8192,
+    106.6474
   ],
   "HPG_KAN_TRANG_MINH": [
-    20.79181,
-    106.62454
+    20.79178,
+    106.6245
   ],
   "360097": [
-    20.79181,
-    106.62454
+    20.79178,
+    106.6245
   ],
   "HPG_LCN_AN_DUONG_2": [
-    20.84889,
-    106.6676
+    20.848884,
+    106.667547
   ],
   "360100": [
-    20.852327,
-    106.6708
+    20.852077,
+    106.670893
   ],
   "HPG_LCN_BV_QUOC_TE": [
-    20.853594,
-    106.67275
+    20.8535944,
+    106.672753
   ],
   "360405": [
-    20.853594,
-    106.67275
+    20.8535944,
+    106.672753
   ],
   "HPG_LCN_BV_TIEP_02R": [
-    20.852327,
-    106.6708
+    20.852077,
+    106.670893
   ],
   "HPG_LCN_BX_NIEM_NGHIA_01R": [
     20.83916,
@@ -246325,11 +246303,11 @@ const coordLookup = {
   ],
   "HPG_LCN_CAT_DAI": [
     20.852802,
-    106.67724
+    106.677239
   ],
   "360102": [
     20.852802,
-    106.67724
+    106.677239
   ],
   "HPG_LCN_CAT_DAI_2": [
     20.85269,
@@ -246340,36 +246318,36 @@ const coordLookup = {
     106.67466
   ],
   "HPG_LCN_CAU_NIEM": [
-    20.84458,
-    106.67031
+    20.84446,
+    106.6703
   ],
   "360103": [
-    20.84458,
-    106.67031
+    20.84446,
+    106.6703
   ],
   "HPG_LCN_CAU_RAO_2": [
-    20.82255,
-    106.69281
+    20.822463,
+    106.692805
   ],
   "360401": [
-    20.82255,
-    106.69281
+    20.822463,
+    106.692805
   ],
   "HPG_LCN_CHO_HANG": [
-    20.844744,
+    20.8447439,
     106.68438
   ],
   "360104": [
-    20.844744,
+    20.8447439,
     106.68438
   ],
   "HPG_LCN_CHO_HANG_2_01R": [
-    20.841353,
-    106.68442
+    20.8413525,
+    106.684425
   ],
   "360105": [
-    20.841353,
-    106.68442
+    20.8413525,
+    106.684425
   ],
   "HPG_LCN_CHO_SAT": [
     20.85273,
@@ -246421,11 +246399,11 @@ const coordLookup = {
   ],
   "HPG_LCN_DINH_DONG_2": [
     20.843737,
-    106.69099
+    106.690992
   ],
   "360111": [
     20.843737,
-    106.69099
+    106.690992
   ],
   "HPG_LCN_DU_HANG": [
     20.84791,
@@ -246436,52 +246414,52 @@ const coordLookup = {
     106.67943
   ],
   "HPG_LCN_DU_HANG_KENH": [
-    20.833647,
-    106.67742
+    20.833533,
+    106.677406
   ],
   "364067": [
-    20.833647,
-    106.67742
+    20.833533,
+    106.677406
   ],
   "HPG_LCN_HAI_BA_TRUNG": [
     20.851376,
-    106.67248
+    106.672483
   ],
   "361063": [
     20.851376,
-    106.67248
+    106.672483
   ],
   "HPG_LCN_HANG_KENH": [
-    20.846807,
-    106.68552
+    20.8468066,
+    106.685515
   ],
   "360114": [
-    20.846807,
-    106.68552
+    20.8468066,
+    106.685515
   ],
   "HPG_LCN_HAO_KHE_2": [
-    20.834051,
-    106.6966
+    20.833951,
+    106.696492
   ],
   "360115": [
-    20.834051,
-    106.6966
+    20.833951,
+    106.696492
   ],
   "HPG_LCN_HO_SEN": [
-    20.843547,
-    106.68114
+    20.843582,
+    106.681176
   ],
   "360116": [
-    20.843547,
-    106.68114
+    20.843582,
+    106.681176
   ],
   "HPG_LCN_HO_SEN_2_01R": [
     20.84992,
-    106.6828
+    106.682802
   ],
   "360117": [
     20.84992,
-    106.6828
+    106.682802
   ],
   "HPG_LCN_HO_SEN_3": [
     20.84757,
@@ -246517,59 +246495,59 @@ const coordLookup = {
   ],
   "HPG_LCN_LACH_TRAY_2": [
     20.84676,
-    106.68968
+    106.689678
   ],
   "360120": [
     20.84676,
-    106.68968
+    106.689678
   ],
   "HPG_LCN_LACH_TRAY_5": [
     20.849479,
-    106.68896
+    106.688958
   ],
   "360121": [
     20.849479,
-    106.68896
+    106.688958
   ],
   "HPG_LCN_LAM_SON": [
-    20.848369,
-    106.66326
+    20.84825,
+    106.66316
   ],
   "360122": [
-    20.848369,
-    106.66326
+    20.84825,
+    106.66316
   ],
   "HPG_LCN_LE_CHAN": [
-    20.85416,
-    106.68134
+    20.854773,
+    106.681704
   ],
   "360123": [
-    20.85416,
-    106.68134
+    20.854773,
+    106.681704
   ],
   "HPG_LCN_MIEU_HAI_XA": [
     20.845052,
-    106.67747
+    106.677471
   ],
   "360497": [
     20.845052,
-    106.67747
+    106.677471
   ],
   "HPG_LCN_MIEU_HAI_XA_2": [
-    20.837373,
-    106.67851
+    20.83731,
+    106.67854
   ],
   "360125": [
-    20.837373,
-    106.67851
+    20.83731,
+    106.67854
   ],
   "HPG_LCN_NGA_4_AN_DUONG": [
-    20.850028,
-    106.67128
+    20.8491,
+    106.67067
   ],
   "360126": [
-    20.850028,
-    106.67128
+    20.8491,
+    106.67067
   ],
   "HPG_LCN_NGHIA_XA": [
     20.84004,
@@ -246588,56 +246566,56 @@ const coordLookup = {
     106.66813
   ],
   "HPG_LCN_NGUYEN_BINH_KHIEM_5": [
-    20.836169,
-    106.68626
+    20.8361691,
+    106.686263
   ],
   "360438": [
-    20.836169,
-    106.68626
+    20.8361691,
+    106.686263
   ],
   "HPG_LCN_NGUYEN_CONG_TRU": [
-    20.847868,
-    106.68427
+    20.8478683,
+    106.684269
   ],
   "360128": [
-    20.847868,
-    106.68427
+    20.8478683,
+    106.684269
   ],
   "HPG_LCN_NGUYEN_TUONG_LOAN_01R": [
-    20.842681,
-    106.67314
+    20.8426807,
+    106.673142
   ],
   "360129": [
-    20.842681,
-    106.67314
+    20.8426807,
+    106.673142
   ],
   "HPG_LCN_NGUYEN_VAN_LINH_2": [
-    20.837922,
-    106.68892
+    20.837791,
+    106.689013
   ],
   "360130": [
-    20.837922,
-    106.68892
+    20.837791,
+    106.689013
   ],
   "HPG_LCN_NGUYEN_VAN_LINH_3_01R": [
-    20.835579,
-    106.66838
+    20.8355788,
+    106.668379
   ],
   "360131": [
-    20.835579,
-    106.66838
+    20.8355788,
+    106.668379
   ],
   "HPG_LCN_QUAN_NAM_01R": [
     20.83232,
     106.69472
   ],
   "360133": [
-    20.835276,
-    106.68939
+    20.835195,
+    106.689413
   ],
   "HPG_LCN_QUAN_NAM_2": [
-    20.835276,
-    106.68939
+    20.835195,
+    106.689413
   ],
   "HPG_LCN_QUAN_SOI": [
     20.84057,
@@ -246656,20 +246634,20 @@ const coordLookup = {
     106.66502
   ],
   "HPG_LCN_THIEN_LOI": [
-    20.830145,
-    106.69022
+    20.83008,
+    106.6903
   ],
   "360136": [
-    20.830145,
-    106.69022
+    20.83008,
+    106.6903
   ],
   "HPG_LCN_THIEN_LOI_2_01R": [
     20.829985,
-    106.69586
+    106.695857
   ],
   "360439": [
     20.829985,
-    106.69586
+    106.695857
   ],
   "HPG_LCN_THIEN_LOI_3": [
     20.83714,
@@ -246684,8 +246662,8 @@ const coordLookup = {
     106.68248
   ],
   "360138": [
-    20.82096,
-    106.68386
+    20.82101,
+    106.68387
   ],
   "HPG_LCN_TO_HIEU_01R": [
     20.85054,
@@ -246705,11 +246683,11 @@ const coordLookup = {
   ],
   "HPG_LCN_TRAN_NGUYEN_HAN": [
     20.84427,
-    106.67405
+    106.674052
   ],
   "360142": [
     20.84427,
-    106.67405
+    106.674052
   ],
   "HPG_LCN_TRAN_NGUYEN_HAN_2": [
     20.84938,
@@ -246720,12 +246698,12 @@ const coordLookup = {
     106.67451
   ],
   "HPG_LCN_VINH_NIEM": [
-    20.838567,
-    106.68479
+    20.83848,
+    106.68481
   ],
   "360144": [
-    20.838567,
-    106.68479
+    20.83848,
+    106.68481
   ],
   "HPG_LCN_VINH_NIEM_2": [
     20.83718,
@@ -246744,8 +246722,8 @@ const coordLookup = {
     106.67625
   ],
   "HPG_LCN_VINH_NIEM_4": [
-    20.82096,
-    106.68386
+    20.82101,
+    106.68387
   ],
   "HPG_LCN_VINH_NIEM_9": [
     20.8238,
@@ -246757,43 +246735,43 @@ const coordLookup = {
   ],
   "HPG_LCN_VINMEC_HAI_PHONG": [
     20.822854,
-    106.68771
+    106.687711
   ],
   "365132": [
     20.822854,
-    106.68771
+    106.687711
   ],
   "HPG_LCN_VO_NGUYEN_GIAP_01R": [
     20.829859,
-    106.68605
+    106.686052
   ],
   "360361": [
     20.829859,
-    106.68605
+    106.686052
   ],
   "HPG_NQN_AN_DA": [
-    20.844746,
+    20.84476,
     106.69754
   ],
   "360148": [
-    20.844746,
+    20.84476,
     106.69754
   ],
   "HPG_NQN_AN_DA_2": [
-    20.84418,
+    20.84415,
     106.7019
   ],
   "360149": [
-    20.84418,
+    20.84415,
     106.7019
   ],
   "HPG_NQN_BO_KENH_01R": [
     20.857075,
-    106.70608
+    106.706077
   ],
   "360203": [
     20.857075,
-    106.70608
+    106.706077
   ],
   "HPG_NQN_CANG_HP": [
     20.86253,
@@ -246812,20 +246790,20 @@ const coordLookup = {
     106.698
   ],
   "HPG_NQN_CAU_DAT": [
-    20.854142,
-    106.68391
+    20.8541,
+    106.6839
   ],
   "360151": [
-    20.854142,
-    106.68391
+    20.8541,
+    106.6839
   ],
   "HPG_NQN_CAU_RAO": [
     20.839024,
-    106.69559
+    106.695592
   ],
   "360152": [
     20.839024,
-    106.69559
+    106.695592
   ],
   "HPG_NQN_CAU_TRE_3_01R": [
     20.86146,
@@ -246845,11 +246823,11 @@ const coordLookup = {
   ],
   "HPG_NQN_CHUA_DONG_KHE": [
     20.850994,
-    106.69549
+    106.695487
   ],
   "360153": [
     20.850994,
-    106.69549
+    106.695487
   ],
   "HPG_NQN_DA_NANG": [
     20.8615,
@@ -246925,19 +246903,19 @@ const coordLookup = {
   ],
   "HPG_NQN_LAC_VIEN_01R": [
     20.861629,
-    106.69951
+    106.699511
   ],
   "364069": [
     20.861629,
-    106.69951
+    106.699511
   ],
   "HPG_NQN_LACH_TRAY_3": [
     20.841622,
-    106.69392
+    106.693923
   ],
   "360163": [
     20.841622,
-    106.69392
+    106.693923
   ],
   "HPG_NQN_LE_HONG_PHONG": [
     20.856604,
@@ -246972,12 +246950,12 @@ const coordLookup = {
     106.69725
   ],
   "HPG_NQN_LE_LAI": [
-    20.86391,
-    106.69841
+    20.86392,
+    106.69844
   ],
   "360168": [
-    20.86391,
-    106.69841
+    20.86392,
+    106.69844
   ],
   "HPG_NQN_LE_THANH_TONG": [
     20.86688,
@@ -247004,20 +246982,20 @@ const coordLookup = {
     106.7172
   ],
   "HPG_NQN_LUONG_VAN_CAN": [
-    20.860675,
-    106.69416
+    20.86065,
+    106.69418
   ],
   "360173": [
-    20.860675,
-    106.69416
+    20.86065,
+    106.69418
   ],
   "HPG_NQN_MAY_CHAI": [
     20.8703,
-    106.70144
+    106.7015
   ],
   "360174": [
     20.8703,
-    106.70144
+    106.7015
   ],
   "HPG_NQN_MAY_TO": [
     20.86319,
@@ -247028,28 +247006,28 @@ const coordLookup = {
     106.69492
   ],
   "HPG_NQN_NGO_QUYEN_2": [
-    20.865641,
-    106.71246
+    20.8656,
+    106.71244
   ],
   "360178": [
-    20.865641,
-    106.71246
+    20.8656,
+    106.71244
   ],
   "HPG_NQN_THUY_DUONG_PLAZA": [
-    20.84601,
-    106.70685
+    20.84618,
+    106.707
   ],
   "360622": [
-    20.84601,
-    106.70685
+    20.84618,
+    106.707
   ],
   "HPG_NQN_TRAN_PHU": [
-    20.86093,
-    106.68889
+    20.86102,
+    106.68887
   ],
   "360180": [
-    20.86093,
-    106.68889
+    20.86102,
+    106.68887
   ],
   "HPG_NQN_VAN_CAO": [
     20.83608,
@@ -247077,11 +247055,11 @@ const coordLookup = {
   ],
   "HPG_NQN_VAN_CAO_5": [
     20.83605,
-    106.69961
+    106.699606
   ],
   "360231": [
     20.83605,
-    106.69961
+    106.699606
   ],
   "HPG_NQN_VAN_CAO_8": [
     20.839153,
@@ -247100,208 +247078,208 @@ const coordLookup = {
     106.71268
   ],
   "HPG_TLG_BAC_HUNG_2": [
-    20.673833,
-    106.6297
+    20.67379,
+    106.62973
   ],
   "360583": [
-    20.673833,
-    106.6297
+    20.67379,
+    106.62973
   ],
   "HPG_TLG_BACH_DANG_3_01R": [
-    20.714,
-    106.5534
+    20.71384,
+    106.55333
   ],
   "360312": [
-    20.70664,
-    106.54247
+    20.70673,
+    106.5425
   ],
   "HPG_TLG_CAP_TIEN": [
-    20.70664,
-    106.54247
+    20.70673,
+    106.5425
   ],
   "HPG_TLG_CAU_DAM": [
-    20.69772,
-    106.55396
+    20.69775,
+    106.55386
   ],
   "360313": [
-    20.69772,
-    106.55396
+    20.69775,
+    106.55386
   ],
   "HPG_TLG_DAI_THANG": [
-    20.78876,
-    106.50596
+    20.78532,
+    106.5
   ],
   "360499": [
-    20.78876,
-    106.50596
+    20.78532,
+    106.5
   ],
   "HPG_TLG_DOAN_LAP": [
-    20.6856,
-    106.57408
+    20.68561,
+    106.574
   ],
   "360314": [
-    20.6856,
-    106.57408
+    20.68561,
+    106.574
   ],
   "HPG_TLG_DONG_CAU": [
-    20.73579,
-    106.57271
+    20.73602,
+    106.5728
   ],
   "360558": [
-    20.73579,
-    106.57271
+    20.73602,
+    106.5728
   ],
   "HPG_TLG_DONG_QUY": [
-    20.70093,
-    106.59869
+    20.700886,
+    106.59882
   ],
   "360315": [
-    20.70093,
-    106.59869
+    20.700886,
+    106.59882
   ],
   "HPG_TLG_HUNG_THANG": [
-    20.66489,
-    106.66062
+    20.66465,
+    106.6607
   ],
   "360501": [
-    20.66489,
-    106.66062
+    20.66465,
+    106.6607
   ],
   "HPG_TLG_HUNG_THANG_2_01R": [
-    20.677105,
-    106.65666
+    20.677132,
+    106.656789
   ],
   "360316": [
-    20.677105,
-    106.65666
+    20.677132,
+    106.656789
   ],
   "HPG_TLG_KIEN_THIET": [
-    20.6873,
-    106.54176
+    20.687348,
+    106.541841
   ],
   "360502": [
-    20.6873,
-    106.54176
+    20.687348,
+    106.541841
   ],
   "HPG_TLG_KIEN_THIET_2": [
-    20.68108,
-    106.52389
+    20.68115,
+    106.524
   ],
   "360317": [
-    20.68108,
-    106.52389
+    20.68115,
+    106.524
   ],
   "HPG_TLG_NAM_HUNG": [
-    20.66208,
-    106.63668
+    20.66204,
+    106.6367
   ],
   "360318": [
-    20.66208,
-    106.63668
+    20.66204,
+    106.6367
   ],
   "HPG_TLG_QUANG_PHUC": [
-    20.71346,
-    106.58172
+    20.71344,
+    106.5818
   ],
   "360319": [
-    20.71346,
-    106.58172
+    20.71344,
+    106.5818
   ],
   "HPG_TLG_QUANG_PHUC_2": [
-    20.724804,
-    106.57144
+    20.72458,
+    106.5715
   ],
   "360320": [
-    20.724804,
-    106.57144
+    20.72458,
+    106.5715
   ],
   "HPG_TLG_QUYET_TIEN": [
-    20.73851,
-    106.54881
+    20.73864,
+    106.5488
   ],
   "360503": [
-    20.73851,
-    106.54881
+    20.73864,
+    106.5488
   ],
   "HPG_TLG_TAN_HUNG": [
-    20.646133,
-    106.60952
+    20.64619,
+    106.6096
   ],
   "360559": [
-    20.646133,
-    106.60952
+    20.64619,
+    106.6096
   ],
   "HPG_TLG_TAY_HUNG_2": [
-    20.641378,
-    106.62904
+    20.641228,
+    106.629176
   ],
   "360442": [
-    20.641378,
-    106.62904
+    20.641228,
+    106.629176
   ],
   "HPG_TLG_TIEN_CUONG": [
-    20.77518,
-    106.51643
+    20.7762,
+    106.5159
   ],
   "360321": [
-    20.77518,
-    106.51643
+    20.7762,
+    106.5159
   ],
   "HPG_TLG_TIEN_THANG_01R": [
-    20.69094,
-    106.62305
+    20.690923,
+    106.623076
   ],
   "360325": [
-    20.69094,
-    106.62305
+    20.690923,
+    106.623076
   ],
   "HPG_TLG_TIEN_THANH_2": [
-    20.71239,
-    106.53272
+    20.71248,
+    106.5327
   ],
   "360443": [
-    20.71239,
-    106.53272
+    20.71248,
+    106.5327
   ],
   "HPG_TLG_TIEN_TIEN": [
-    20.755127,
-    106.53156
+    20.75512,
+    106.5315
   ],
   "364071": [
-    20.755127,
-    106.53156
+    20.75512,
+    106.5315
   ],
   "HPG_TLG_TU_CUONG": [
-    20.77237,
-    106.53176
+    20.772378,
+    106.53194
   ],
   "360506": [
-    20.77237,
-    106.53176
+    20.772378,
+    106.53194
   ],
   "HPG_TLG_TU_TIEN_01R": [
-    20.689557,
-    106.59199
+    20.68935,
+    106.5921
   ],
   "360327": [
-    20.689557,
-    106.59199
+    20.68935,
+    106.5921
   ],
   "HPG_TLG_VINH_QUANG_2": [
-    20.66957,
-    106.69431
+    20.66958,
+    106.6942
   ],
   "360444": [
-    20.66957,
-    106.69431
+    20.66958,
+    106.6942
   ],
   "HPG_TLG_VINH_QUANG_3": [
-    20.65195,
-    106.69092
+    20.65198,
+    106.691
   ],
   "360507": [
-    20.65195,
-    106.69092
+    20.65198,
+    106.691
   ],
   "HPG_TNN_AMTRAN": [
     20.9059,
@@ -247312,44 +247290,44 @@ const coordLookup = {
     106.7102
   ],
   "HPG_TNN_AN_LU": [
-    20.92395,
-    106.69894
+    20.923977,
+    106.69891
   ],
   "360328": [
-    20.92395,
-    106.69894
+    20.923977,
+    106.69891
   ],
   "HPG_TNN_AN_SON": [
-    20.98549,
-    106.57442
+    20.98543,
+    106.5744
   ],
   "360329": [
-    20.98549,
-    106.57442
+    20.98543,
+    106.5744
   ],
   "HPG_TNN_BAC_CAU_BINH_01R": [
     20.889604,
-    106.67265
+    106.672645
   ],
   "360212": [
     20.889604,
-    106.67265
+    106.672645
   ],
   "HPG_TNN_BV_MINH_DUC": [
-    20.95928,
+    20.95913,
     106.7437
   ],
   "360330": [
-    20.95928,
+    20.95913,
     106.7437
   ],
   "HPG_TNN_CANG_MOI": [
-    20.88603,
-    106.62918
+    20.88611,
+    106.62916
   ],
   "360509": [
-    20.88603,
-    106.62918
+    20.88611,
+    106.62916
   ],
   "HPG_TNN_CAO_NHAN_01R": [
     20.93282,
@@ -247360,12 +247338,12 @@ const coordLookup = {
     106.61945
   ],
   "HPG_TNN_CAO_NHAN_3": [
-    20.942868,
-    106.62169
+    20.94285,
+    106.6218
   ],
   "364072": [
-    20.942868,
-    106.62169
+    20.94285,
+    106.6218
   ],
   "HPG_TNN_CHINH_MY": [
     20.96364,
@@ -247376,20 +247354,20 @@ const coordLookup = {
     106.62518
   ],
   "HPG_TNN_DONG_SON": [
-    20.94473,
-    106.67278
+    20.94455,
+    106.67044
   ],
   "360335": [
-    20.94473,
-    106.67278
+    20.94455,
+    106.67044
   ],
   "HPG_TNN_DONG_SON_2": [
-    20.931875,
-    106.65465
+    20.93068,
+    106.65604
   ],
   "360336": [
-    20.931875,
-    106.65465
+    20.93068,
+    106.65604
   ],
   "HPG_TNN_DONG_SON_4": [
     20.93458,
@@ -247400,36 +247378,36 @@ const coordLookup = {
     106.6542
   ],
   "HPG_TNN_DUONG_QUAN_2": [
-    20.88832,
-    106.70677
+    20.88828,
+    106.706695
   ],
   "360338": [
-    20.88832,
-    106.70677
+    20.88828,
+    106.706695
   ],
   "HPG_TNN_DUONG_QUAN_3": [
     20.895355,
-    106.68734
+    106.687341
   ],
   "361036": [
     20.895355,
-    106.68734
+    106.687341
   ],
   "HPG_TNN_GIA_DUC": [
-    20.98681,
-    106.73729
+    20.98683,
+    106.7373
   ],
   "360339": [
-    20.98681,
-    106.73729
+    20.98683,
+    106.7373
   ],
   "HPG_TNN_GIA_MINH": [
-    20.99167,
-    106.70152
+    20.99355,
+    106.6979
   ],
   "360340": [
-    20.99167,
-    106.70152
+    20.99355,
+    106.6979
   ],
   "HPG_TNN_HA_PHU_01R": [
     20.95478,
@@ -247456,20 +247434,20 @@ const coordLookup = {
     106.63237
   ],
   "HPG_TNN_HOP_THANH": [
-    20.95456,
-    106.60159
+    20.95506,
+    106.6023
   ],
   "360342": [
-    20.95456,
-    106.60159
+    20.95506,
+    106.6023
   ],
   "HPG_TNN_HUU_QUAN": [
-    20.889,
-    106.69252
+    20.8889,
+    106.6925
   ],
   "360446": [
-    20.889,
-    106.69252
+    20.8889,
+    106.6925
   ],
   "HPG_TNN_KCN_VSIP": [
     20.9118,
@@ -247488,44 +247466,44 @@ const coordLookup = {
     106.6886
   ],
   "HPG_TNN_KCN_VSIP_3": [
-    20.914218,
+    20.91426,
     106.71324
   ],
   "360188": [
-    20.914218,
+    20.91426,
     106.71324
   ],
   "HPG_TNN_KENH_GIANG_2_01R": [
-    20.96558,
-    106.64647
+    20.96557,
+    106.6465
   ],
   "360511": [
-    20.96558,
-    106.64647
+    20.96557,
+    106.6465
   ],
   "HPG_TNN_KIEN_BAI": [
-    20.91707,
-    106.63573
+    20.91701,
+    106.6357
   ],
   "360345": [
-    20.91707,
-    106.63573
+    20.91701,
+    106.6357
   ],
   "HPG_TNN_KIEN_BAI_2": [
-    20.92319,
-    106.63751
+    20.92316,
+    106.6374
   ],
   "360346": [
-    20.92319,
-    106.63751
+    20.92316,
+    106.6374
   ],
   "HPG_TNN_KIEN_BAI_4": [
-    20.93074,
-    106.63823
+    20.93146,
+    106.642
   ],
   "364062": [
-    20.93074,
-    106.63823
+    20.93146,
+    106.642
   ],
   "HPG_TNN_KY_SON": [
     20.99396,
@@ -247536,28 +247514,28 @@ const coordLookup = {
     106.6076
   ],
   "HPG_TNN_LAI_XUAN_3": [
-    21.01159,
-    106.60978
+    21.01138,
+    106.60979
   ],
   "360350": [
-    21.01159,
-    106.60978
+    21.01138,
+    106.60979
   ],
   "HPG_TNN_LAP_LE": [
-    20.90827,
-    106.73956
+    20.90752,
+    106.73791
   ],
   "360448": [
-    20.90827,
-    106.73956
+    20.90752,
+    106.73791
   ],
   "HPG_TNN_LIEN_KHE": [
-    20.99493,
-    106.64602
+    20.99415,
+    106.64701
   ],
   "360354": [
-    20.99493,
-    106.64602
+    20.99415,
+    106.64701
   ],
   "HPG_TNN_LIEN_KHE_2": [
     21.01001,
@@ -247568,36 +247546,36 @@ const coordLookup = {
     106.64423
   ],
   "HPG_TNN_LUU_KIEM": [
-    20.97156,
-    106.67117
+    20.97152,
+    106.6712
   ],
   "360218": [
-    20.97156,
-    106.67117
+    20.97152,
+    106.6712
   ],
   "HPG_TNN_LUU_KIEM_3": [
-    20.986029,
-    106.65633
+    20.98605,
+    106.65629
   ],
   "360513": [
-    20.986029,
-    106.65633
+    20.98605,
+    106.65629
   ],
   "HPG_TNN_LUU_KY": [
-    21.00265,
-    106.68153
+    21.00263,
+    106.68145
   ],
   "360355": [
-    21.00265,
-    106.68153
+    21.00263,
+    106.68145
   ],
   "HPG_TNN_LUU_KY_2": [
-    20.99908,
-    106.66987
+    20.99906,
+    106.67
   ],
   "360356": [
-    20.99908,
-    106.66987
+    20.99906,
+    106.67
   ],
   "HPG_TNN_MAPPLE": [
     20.9127,
@@ -247608,28 +247586,28 @@ const coordLookup = {
     106.72
   ],
   "HPG_TNN_MINH_DUC_2_01R": [
-    20.96324,
-    106.73806
+    20.96296,
+    106.7378
   ],
   "360514": [
-    20.96324,
-    106.73806
+    20.96296,
+    106.7378
   ],
   "HPG_TNN_MINH_TAN": [
-    20.96405,
-    106.69068
+    20.96398,
+    106.69072
   ],
   "360358": [
-    20.96405,
-    106.69068
+    20.96398,
+    106.69072
   ],
   "HPG_TNN_MINH_TAN_3": [
-    20.96247,
-    106.70237
+    20.96251,
+    106.7023
   ],
   "360359": [
-    20.96247,
-    106.70237
+    20.96251,
+    106.7023
   ],
   "HPG_TNN_MINH_TAN_4": [
     20.95781,
@@ -247640,36 +247618,36 @@ const coordLookup = {
     106.7251
   ],
   "HPG_TNN_NGU_LAO": [
-    20.93829,
-    106.72266
+    20.940715,
+    106.724939
   ],
   "365109": [
-    20.93829,
-    106.72266
+    20.940715,
+    106.724939
   ],
   "HPG_TNN_NUI_DEO": [
-    20.91774,
-    106.67592
+    20.91766,
+    106.67576
   ],
   "360190": [
-    20.91774,
-    106.67592
+    20.91766,
+    106.67576
   ],
   "HPG_TNN_NUI_DEO_2": [
-    20.92169,
-    106.67997
+    20.921607,
+    106.67991
   ],
   "360214": [
-    20.92169,
-    106.67997
+    20.921607,
+    106.67991
   ],
   "HPG_TNN_PHA_LE": [
-    20.91737,
-    106.74152
+    20.91742,
+    106.74154
   ],
   "360191": [
-    20.91737,
-    106.74152
+    20.91742,
+    106.74154
   ],
   "HPG_TNN_PHA_LE_2": [
     20.927959,
@@ -247680,60 +247658,60 @@ const coordLookup = {
     106.74318
   ],
   "HPG_TNN_PHU_NINH": [
-    20.98377,
-    106.59013
+    20.9836,
+    106.589959
   ],
   "360362": [
-    20.98377,
-    106.59013
+    20.9836,
+    106.589959
   ],
   "HPG_TNN_PHU_NINH_2": [
-    20.97499,
-    106.5928
+    20.97486,
+    106.59277
   ],
   "360363": [
-    20.97499,
-    106.5928
+    20.97486,
+    106.59277
   ],
   "HPG_TNN_PHUC_LE": [
     20.931208,
-    106.73818
+    106.738178
   ],
   "365143": [
     20.931208,
-    106.73818
+    106.738178
   ],
   "HPG_TNN_QUANG_CU": [
-    20.951545,
-    106.61395
+    20.95132,
+    106.61432
   ],
   "360517": [
-    20.951545,
-    106.61395
+    20.95132,
+    106.61432
   ],
   "HPG_TNN_REGINA_A": [
-    20.905259,
-    106.68751
+    20.90569,
+    106.68862
   ],
   "360292": [
-    20.905259,
-    106.68751
+    20.90569,
+    106.68862
   ],
   "HPG_TNN_REGINA_B": [
-    20.9056,
-    106.7152
+    20.90585,
+    106.71416
   ],
   "360241": [
-    20.9056,
-    106.7152
+    20.90585,
+    106.71416
   ],
   "HPG_TNN_REGINA_C": [
-    20.90867,
-    106.72024
+    20.90791,
+    106.72122
   ],
   "360450": [
-    20.90867,
-    106.72024
+    20.90791,
+    106.72122
   ],
   "HPG_TNN_REGINA_D": [
     20.91231,
@@ -247744,12 +247722,12 @@ const coordLookup = {
     106.72301
   ],
   "HPG_TNN_TAM_HUNG_01R": [
-    20.93611,
-    106.75767
+    20.93601,
+    106.7577
   ],
   "360365": [
-    20.93611,
-    106.75767
+    20.93601,
+    106.7577
   ],
   "HPG_TNN_TAM_HUNG_2": [
     20.94018,
@@ -247760,28 +247738,28 @@ const coordLookup = {
     106.74965
   ],
   "HPG_TNN_TAM_HUNG_4": [
-    20.930589,
-    106.75954
+    20.93055,
+    106.7595
   ],
   "364074": [
-    20.930589,
-    106.75954
+    20.93055,
+    106.7595
   ],
   "HPG_TNN_TAN_DUONG": [
-    20.897416,
-    106.67203
+    20.89732,
+    106.67191
   ],
   "360366": [
-    20.897416,
-    106.67203
+    20.89732,
+    106.67191
   ],
   "HPG_TNN_THIEN_HUONG": [
-    20.9073,
-    106.64426
+    20.90735,
+    106.64425
   ],
   "360367": [
-    20.9073,
-    106.64426
+    20.90735,
+    106.64425
   ],
   "HPG_TNN_THIEN_HUONG_2": [
     20.92131,
@@ -247792,36 +247770,36 @@ const coordLookup = {
     106.6482
   ],
   "HPG_TNN_THIEN_HUONG_3": [
-    20.91299,
-    106.63214
+    20.91302,
+    106.63209
   ],
   "360368": [
-    20.91299,
-    106.63214
+    20.91302,
+    106.63209
   ],
   "HPG_TNN_THIEN_HUONG_4": [
-    20.902259,
-    106.63206
+    20.9022593,
+    106.632061
   ],
   "360520": [
-    20.902259,
-    106.63206
+    20.9022593,
+    106.632061
   ],
   "HPG_TNN_THUY_DUONG_2": [
-    20.915955,
-    106.68411
+    20.91467,
+    106.68441
   ],
   "364079": [
-    20.915955,
-    106.68411
+    20.91467,
+    106.68441
   ],
   "HPG_TNN_THUY_SON_3": [
-    20.913378,
-    106.66955
+    20.91333,
+    106.66956
   ],
   "364077": [
-    20.913378,
-    106.66955
+    20.91333,
+    106.66956
   ],
   "HPG_TNN_TRUNG_HA": [
     20.94552,
@@ -247832,19 +247810,19 @@ const coordLookup = {
     106.69691
   ],
   "HPG_TNN_TRUNG_HA_2_01R": [
-    20.930111,
-    106.69994
+    20.93009,
+    106.6999
   ],
   "360522": [
-    20.930111,
-    106.69994
+    20.93009,
+    106.6999
   ],
   "HPG_TNN_TT_HANH_CHINH_2_01R": [
-    20.886688,
+    20.88675,
     106.68088
   ],
   "362004": [
-    20.886688,
+    20.88675,
     106.68088
   ],
   "HPG_TNN_VU_YEN_6": [
@@ -247856,12 +247834,12 @@ const coordLookup = {
     106.72406
   ],
   "HPG_TNN_VU_YEN_7": [
-    20.867443,
-    106.72879
+    20.86748,
+    106.7288
   ],
   "362002": [
-    20.867443,
-    106.72879
+    20.86748,
+    106.7288
   ],
   "HPG_TNN_VU_YEN_8": [
     20.873691,
@@ -247872,148 +247850,148 @@ const coordLookup = {
     106.74811
   ],
   "HPG_TNN_XM_HAI_PHONG": [
-    20.96445,
-    106.75392
+    20.96717,
+    106.75667
   ],
   "360220": [
-    20.96445,
-    106.75392
+    20.96717,
+    106.75667
   ],
   "HPG_VBO_AN_HOA": [
-    20.68529,
-    106.43735
+    20.68515,
+    106.4373
   ],
   "360523": [
-    20.68529,
-    106.43735
+    20.68515,
+    106.4373
   ],
   "HPG_VBO_BXE_VINH_BAO_01R": [
-    20.682423,
-    106.47892
+    20.68244,
+    106.4789
   ],
   "360524": [
-    20.682423,
-    106.47892
+    20.68244,
+    106.4789
   ],
   "HPG_VBO_CAO_MINH": [
-    20.63426,
-    106.51875
+    20.63408,
+    106.5187
   ],
   "360371": [
-    20.63426,
-    106.51875
+    20.63408,
+    106.5187
   ],
   "HPG_VBO_CO_AM": [
-    20.639962,
-    106.53876
+    20.64,
+    106.5385
   ],
   "360373": [
-    20.639962,
-    106.53876
+    20.64,
+    106.5385
   ],
   "HPG_VBO_CO_AM_2": [
-    20.63595,
-    106.54318
+    20.63583,
+    106.5431
   ],
   "360374": [
-    20.63595,
-    106.54318
+    20.63583,
+    106.5431
   ],
   "HPG_VBO_CONG_HIEN": [
-    20.62886,
-    106.48621
+    20.62887,
+    106.4862
   ],
   "360451": [
-    20.62886,
-    106.48621
+    20.62887,
+    106.4862
   ],
   "HPG_VBO_DONG_MINH_01R": [
-    20.65261,
-    106.46786
+    20.65238,
+    106.4679
   ],
   "360525": [
-    20.65261,
-    106.46786
+    20.65238,
+    106.4679
   ],
   "HPG_VBO_DUNG_TIEN_01R": [
-    20.74009,
-    106.48363
+    20.740055,
+    106.483561
   ],
   "360376": [
-    20.74009,
-    106.48363
+    20.740055,
+    106.483561
   ],
   "HPG_VBO_GIANG_BIEN": [
-    20.74327,
-    106.50146
+    20.74885,
+    106.49957
   ],
   "360377": [
-    20.74327,
-    106.50146
+    20.74885,
+    106.49957
   ],
   "HPG_VBO_HIEP_HOA_01R": [
-    20.69232,
-    106.42451
+    20.692452,
+    106.424471
   ],
   "360378": [
-    20.69232,
-    106.42451
+    20.692452,
+    106.424471
   ],
   "HPG_VBO_HOA_BINH_2": [
-    20.65677,
-    106.55595
+    20.65673,
+    106.5559
   ],
   "360380": [
-    20.65677,
-    106.55595
+    20.65673,
+    106.5559
   ],
   "HPG_VBO_HUNG_NHAN": [
-    20.66482,
-    106.45264
+    20.66483,
+    106.4526
   ],
   "360381": [
-    20.66482,
-    106.45264
+    20.66483,
+    106.4526
   ],
   "HPG_VBO_HUNG_TIEN_01R": [
-    20.70024,
-    106.45135
+    20.700071,
+    106.451448
   ],
   "360526": [
-    20.70024,
-    106.45135
+    20.700071,
+    106.451448
   ],
   "HPG_VBO_THANG_THUY": [
-    20.71375,
-    106.43119
+    20.713469,
+    106.431128
   ],
   "360386": [
-    20.71375,
-    106.43119
+    20.713469,
+    106.431128
   ],
   "HPG_VBO_TRUNG_LAP": [
-    20.70908,
-    106.46246
+    20.70685,
+    106.46469
   ],
   "360388": [
-    20.70908,
-    106.46246
+    20.70685,
+    106.46469
   ],
   "HPG_VBO_VINH_QUANG": [
-    20.657783,
-    106.49753
+    20.65766,
+    106.4976
   ],
   "360392": [
-    20.657783,
-    106.49753
+    20.65766,
+    106.4976
   ],
   "HT_CLC_CAN_LOC": [
-    18.452669,
-    105.77712
+    18.4526694,
+    105.777122
   ],
   "430048": [
-    18.452669,
-    105.77712
+    18.4526694,
+    105.777122
   ],
   "HT_CLC_CAN_LOC_2": [
     18.46073,
@@ -248024,12 +248002,12 @@ const coordLookup = {
     105.7723
   ],
   "HT_CLC_THIEN_LOC": [
-    18.475591,
-    105.75859
+    18.4755908,
+    105.758591
   ],
   "430024": [
-    18.475591,
-    105.75859
+    18.4755908,
+    105.758591
   ],
   "HT_CLC_THIEN_LOC_3": [
     18.46809,
@@ -248040,20 +248018,20 @@ const coordLookup = {
     105.79662
   ],
   "HT_CLC_TUNG_LOC": [
-    18.45768,
-    105.81443
+    18.4576805,
+    105.814426
   ],
   "430065": [
-    18.45768,
-    105.81443
+    18.4576805,
+    105.814426
   ],
   "HT_CLC_TUNG_LOC_2": [
     18.452992,
-    105.81157
+    105.811566
   ],
   "430217": [
     18.452992,
-    105.81157
+    105.811566
   ],
   "HT_CLC_XUAN_LOC": [
     18.42095,
@@ -248072,12 +248050,12 @@ const coordLookup = {
     106.08818
   ],
   "HT_CXN_CAM_LAC_2": [
-    18.202454,
-    106.09945
+    18.2024543,
+    106.099449
   ],
   "430386": [
-    18.202454,
-    106.09945
+    18.2024543,
+    106.099449
   ],
   "HT_CXN_CAM_THINH_2": [
     18.22065,
@@ -248088,12 +248066,12 @@ const coordLookup = {
     106.06321
   ],
   "HT_CXN_CAM_XUYEN": [
-    18.250444,
-    106.00072
+    18.2504443,
+    106.000717
   ],
   "430028": [
-    18.250444,
-    106.00072
+    18.2504443,
+    106.000717
   ],
   "HT_CXN_CAM_XUYEN_2": [
     18.21746,
@@ -248120,52 +248098,52 @@ const coordLookup = {
     105.58633
   ],
   "HT_DTO_TUNG_ANH": [
-    18.534713,
-    105.56594
+    18.5347133,
+    105.565942
   ],
   "430087": [
-    18.534713,
-    105.56594
+    18.5347133,
+    105.565942
   ],
   "HT_HKE_HUONG_BINH": [
-    18.227612,
-    105.64192
+    18.2276116,
+    105.641919
   ],
   "430317": [
-    18.227612,
-    105.64192
+    18.2276116,
+    105.641919
   ],
   "HT_HKE_HUONG_KHE": [
     18.17269,
-    105.7023
+    105.702302
   ],
   "430090": [
     18.17269,
-    105.7023
+    105.702302
   ],
   "HT_HKE_HUONG_LAM_2": [
-    18.108927,
+    18.1089266,
     105.67999
   ],
   "430207": [
-    18.108927,
+    18.1089266,
     105.67999
   ],
   "HT_HKE_HUONG_LIEN": [
-    18.071517,
-    105.74175
+    18.0715168,
+    105.741748
   ],
   "430208": [
-    18.071517,
-    105.74175
+    18.0715168,
+    105.741748
   ],
   "HT_HKE_HUONG_TRACH": [
     18.068825,
-    105.81307
+    105.813067
   ],
   "430212": [
     18.068825,
-    105.81307
+    105.813067
   ],
   "HT_HKE_HUONG_TRACH_2": [
     18.09472,
@@ -248184,60 +248162,60 @@ const coordLookup = {
     105.70314
   ],
   "HT_HLH_DUC_THUAN": [
-    18.536714,
-    105.67058
+    18.5367144,
+    105.670575
   ],
   "430218": [
-    18.536714,
-    105.67058
+    18.5367144,
+    105.670575
   ],
   "HT_HLH_NAM_HONG_2_U2100": [
-    18.5231,
+    18.5230962,
     105.71329
   ],
   "430032": [
-    18.5231,
+    18.5230962,
     105.71329
   ],
   "HT_HLH_NAM_HONG_LINH": [
-    18.511493,
-    105.72278
+    18.5114925,
+    105.722776
   ],
   "430034": [
-    18.511493,
-    105.72278
+    18.5114925,
+    105.722776
   ],
   "HT_HSN_NAM": [
-    18.513957,
-    105.49321
+    18.5139565,
+    105.493208
   ],
   "430100": [
-    18.513957,
-    105.49321
+    18.5139565,
+    105.493208
   ],
   "HT_HSN_PHO_CHAU": [
-    18.512267,
-    105.42401
+    18.5122668,
+    105.424013
   ],
   "430101": [
-    18.512267,
-    105.42401
+    18.5122668,
+    105.424013
   ],
   "HT_HSN_SON_THUY": [
-    18.488644,
-    105.49541
+    18.4886435,
+    105.495415
   ],
   "870313": [
-    18.488644,
-    105.49541
+    18.4886435,
+    105.495415
   ],
   "HT_HTH_BAC_HA_TINH": [
-    18.351624,
-    105.88094
+    18.3516236,
+    105.880939
   ],
   "430000": [
-    18.351624,
-    105.88094
+    18.3516236,
+    105.880939
   ],
   "HT_HTH_BAC_HA_3": [
     18.34559,
@@ -248260,12 +248238,12 @@ const coordLookup = {
     105.9542
   ],
   "HT_HTH_CHO_HA_TINH": [
-    18.337687,
-    105.90548
+    18.3376866,
+    105.905476
   ],
   "430001": [
-    18.337687,
-    105.90548
+    18.3376866,
+    105.905476
   ],
   "HT_HTH_DH_HA_TINH": [
     18.29955,
@@ -248277,11 +248255,11 @@ const coordLookup = {
   ],
   "HT_HTH_HA_HUY_TAP": [
     18.33145,
-    105.89871
+    105.898714
   ],
   "430003": [
     18.33145,
-    105.89871
+    105.898714
   ],
   "HT_HTH_KHU_DT_WINCOM": [
     18.33399,
@@ -248293,11 +248271,11 @@ const coordLookup = {
   ],
   "HT_HTH_KTX_DH_HA_TINH": [
     18.307375,
-    105.94228
+    105.942275
   ],
   "430137": [
     18.307375,
-    105.94228
+    105.942275
   ],
   "HT_HTH_LE_DUAN": [
     18.34052,
@@ -248380,20 +248358,20 @@ const coordLookup = {
     105.8773
   ],
   "HT_HTH_THACH_MON": [
-    18.370318,
-    105.92158
+    18.3703182,
+    105.921584
   ],
   "430329": [
-    18.370318,
-    105.92158
+    18.3703182,
+    105.921584
   ],
   "HT_HTH_THACH_TAN_2": [
-    18.320847,
-    105.89312
+    18.3208472,
+    105.893122
   ],
   "430118": [
-    18.320847,
-    105.89312
+    18.3208472,
+    105.893122
   ],
   "HT_HTH_THACH_TRUNG_2": [
     18.35931,
@@ -248412,12 +248390,12 @@ const coordLookup = {
     105.8787
   ],
   "HT_HTH_TICH_GIANG": [
-    18.343375,
-    105.90035
+    18.3433747,
+    105.900353
   ],
   "430013": [
-    18.343375,
-    105.90035
+    18.3433747,
+    105.900353
   ],
   "HT_HTH_NGUYEN_HUY_TU": [
     18.353828,
@@ -248445,11 +248423,11 @@ const coordLookup = {
   ],
   "HT_KAH_KY_ANH_3": [
     18.060342,
-    106.277
+    106.277002
   ],
   "430120": [
     18.060342,
-    106.277
+    106.277002
   ],
   "HT_KAH_KY_GIANG": [
     18.17986,
@@ -248460,12 +248438,12 @@ const coordLookup = {
     106.20764
   ],
   "HT_KAH_KY_THO": [
-    18.128563,
-    106.25794
+    18.1285626,
+    106.257943
   ],
   "430042": [
-    18.128563,
-    106.25794
+    18.1285626,
+    106.257943
   ],
   "HT_KYH_KY_ANH": [
     18.07816,
@@ -248492,12 +248470,12 @@ const coordLookup = {
     106.4101
   ],
   "HT_KYH_KY_LIEN_2": [
-    18.017398,
-    106.41096
+    18.0173983,
+    106.410959
   ],
   "430133": [
-    18.017398,
-    106.41096
+    18.0173983,
+    106.410959
   ],
   "HT_KYH_KY_LIEN_3": [
     18.01581,
@@ -248532,52 +248510,52 @@ const coordLookup = {
     106.3835
   ],
   "HT_KYH_KY_THINH_2": [
-    18.059537,
-    106.36854
+    18.0595366,
+    106.368544
   ],
   "430250": [
-    18.059537,
-    106.36854
+    18.0595366,
+    106.368544
   ],
   "HT_KYH_KY_THINH_3": [
     18.049375,
-    106.35751
+    106.357514
   ],
   "430251": [
     18.049375,
-    106.35751
+    106.357514
   ],
   "HT_KYH_KY_TRINH_3": [
-    18.059418,
-    106.30679
+    18.0594175,
+    106.306789
   ],
   "430349": [
-    18.059418,
-    106.30679
+    18.0594175,
+    106.306789
   ],
   "HT_KYH_NHIET_DIEN_FORMOSA": [
-    18.019357,
-    106.43955
+    18.0193568,
+    106.439553
   ],
   "430021": [
-    18.019357,
-    106.43955
+    18.0193568,
+    106.439553
   ],
   "HT_KYH_NHIET_DIEN_VUNG_ANG": [
-    18.096883,
-    106.3928
+    18.0968828,
+    106.392795
   ],
   "430138": [
-    18.096883,
-    106.3928
+    18.0968828,
+    106.392795
   ],
   "HT_KYH_VINFAST": [
-    18.060718,
-    106.42267
+    18.0607183,
+    106.422673
   ],
   "430525": [
-    18.060718,
-    106.42267
+    18.0607183,
+    106.422673
   ],
   "HT_KYH_VINFAST_2": [
     18.06931,
@@ -248588,20 +248566,20 @@ const coordLookup = {
     106.42365
   ],
   "HT_KYH_VUNG_ANG_2": [
-    18.098727,
-    106.37751
+    18.0987272,
+    106.377509
   ],
   "430295": [
-    18.098727,
-    106.37751
+    18.0987272,
+    106.377509
   ],
   "HT_LHA_BINH_LOC": [
-    18.464657,
-    105.8546
+    18.4646572,
+    105.854602
   ],
   "430139": [
-    18.464657,
-    105.8546
+    18.4646572,
+    105.854602
   ],
   "HT_LHA_HO_DO": [
     18.40949,
@@ -248613,11 +248591,11 @@ const coordLookup = {
   ],
   "HT_LHA_HONG_LOC": [
     18.485705,
-    105.83549
+    105.835492
   ],
   "430140": [
     18.485705,
-    105.83549
+    105.835492
   ],
   "HT_LHA_ICH_HAU": [
     18.45172,
@@ -248644,11 +248622,11 @@ const coordLookup = {
     105.80598
   ],
   "HT_NXN_GIA_LACH": [
-    18.638881,
+    18.6388806,
     105.7113
   ],
   "430046": [
-    18.638881,
+    18.6388806,
     105.7113
   ],
   "HT_NXN_KDT_XUAN_AN": [
@@ -248676,11 +248654,11 @@ const coordLookup = {
     105.77055
   ],
   "HT_NXN_XUAN_DAN": [
-    18.712094,
+    18.7120942,
     105.77916
   ],
   "430152": [
-    18.712094,
+    18.7120942,
     105.77916
   ],
   "HT_NXN_XUAN_GIANG": [
@@ -248692,20 +248670,20 @@ const coordLookup = {
     105.78228
   ],
   "HT_NXN_XUAN_HONG": [
-    18.6107,
-    105.69513
+    18.6107001,
+    105.695129
   ],
   "430155": [
-    18.6107,
-    105.69513
+    18.6107001,
+    105.695129
   ],
   "HT_THA_PHU_VIET": [
-    18.390546,
-    105.8356
+    18.3905458,
+    105.835598
   ],
   "430161": [
-    18.390546,
-    105.8356
+    18.3905458,
+    105.835598
   ],
   "HT_THA_THACH_HA": [
     18.36656,
@@ -248717,27 +248695,27 @@ const coordLookup = {
   ],
   "HT_VQG_VU_QUANG": [
     18.382685,
-    105.50563
+    105.505629
   ],
   "430175": [
     18.382685,
-    105.50563
+    105.505629
   ],
   "HYN_HYN_AN_TAO": [
-    20.66727,
-    106.06402
+    20.667373,
+    106.064072
   ],
   "370221": [
-    20.66727,
-    106.06402
+    20.667373,
+    106.064072
   ],
   "HYN_HYN_AN_TAO_2": [
-    20.67404,
-    106.06547
+    20.674015,
+    106.065515
   ],
   "370153": [
-    20.67404,
-    106.06547
+    20.674015,
+    106.065515
   ],
   "HYN_HYN_AN_TAO_3": [
     20.67767,
@@ -248748,100 +248726,100 @@ const coordLookup = {
     106.06358
   ],
   "HYN_HYN_AN_TAO_4": [
-    20.676898,
-    106.05801
+    20.6768976,
+    106.058006
   ],
   "370322": [
-    20.676898,
-    106.05801
+    20.6768976,
+    106.058006
   ],
   "HYN_HYN_BAO_KHE": [
     20.70746,
-    106.054
+    106.054037
   ],
   "370023": [
     20.70746,
-    106.054
+    106.054037
   ],
   "HYN_HYN_BAO_KHE_3": [
-    20.6926,
-    106.06269
+    20.692637,
+    106.062676
   ],
   "370101": [
-    20.6926,
-    106.06269
+    20.692637,
+    106.062676
   ],
   "HYN_HYN_BAO_KHE_4": [
-    20.69864,
-    106.05876
+    20.698573,
+    106.058943
   ],
   "370222": [
-    20.69864,
-    106.05876
+    20.698573,
+    106.058943
   ],
   "HYN_HYN_CHO_GAO_2": [
-    20.67935,
+    20.679283,
     106.07454
   ],
   "370223": [
-    20.67935,
+    20.679283,
     106.07454
   ],
   "HYN_HYN_HIEN_NAM_2": [
-    20.66459,
-    106.05883
+    20.66454,
+    106.05881
   ],
   "370002": [
-    20.66459,
-    106.05883
+    20.66454,
+    106.05881
   ],
   "HYN_HYN_HIEN_NAM_3": [
-    20.65966,
-    106.06107
+    20.659647,
+    106.061098
   ],
   "370024": [
-    20.65966,
-    106.06107
+    20.659647,
+    106.061098
   ],
   "HYN_HYN_HIEN_NAM_9": [
-    20.667208,
-    106.05437
+    20.667105,
+    106.054358
   ],
   "370311": [
-    20.667208,
-    106.05437
+    20.667105,
+    106.054358
   ],
   "HYN_HYN_HUNG_YEN": [
     20.655517,
-    106.05649
+    106.056488
   ],
   "370003": [
     20.655517,
-    106.05649
+    106.056488
   ],
   "HYN_HYN_HUNG_YEN_3": [
-    20.64394,
-    106.0611
+    20.643954,
+    106.061173
   ],
   "370053": [
-    20.64394,
-    106.0611
+    20.643954,
+    106.061173
   ],
   "HYN_HYN_LAM_SON_3": [
-    20.67219,
-    106.05257
+    20.672168,
+    106.05259
   ],
   "370230": [
-    20.67219,
-    106.05257
+    20.672168,
+    106.05259
   ],
   "HYN_HYN_LIEN_PHUONG": [
-    20.65044,
-    106.07286
+    20.650425,
+    106.072803
   ],
   "370232": [
-    20.65044,
-    106.07286
+    20.650425,
+    106.072803
   ],
   "HYN_HYN_MINH_KHAI_2": [
     20.64835,
@@ -248852,44 +248830,44 @@ const coordLookup = {
     106.0496
   ],
   "HYN_HYN_MINH_KHAI_3": [
-    20.64479,
-    106.04193
+    20.644824,
+    106.041938
   ],
   "370102": [
-    20.64479,
-    106.04193
+    20.644824,
+    106.041938
   ],
   "HYN_HYN_PHO_HIEN": [
-    20.63613,
-    106.06471
+    20.636098,
+    106.064697
   ],
   "370103": [
-    20.63613,
-    106.06471
+    20.636098,
+    106.064697
   ],
   "HYN_HYN_PHUONG_LIEN_2": [
-    20.64526,
-    106.08575
+    20.645226,
+    106.085759
   ],
   "370451": [
-    20.64526,
-    106.08575
+    20.645226,
+    106.085759
   ],
   "HYN_HYN_QUANG_CHAU": [
-    20.62921,
-    106.05443
+    20.629117,
+    106.054453
   ],
   "370104": [
-    20.62921,
-    106.05443
+    20.629117,
+    106.054453
   ],
   "HYN_HYN_QUANG_CHAU_3": [
-    20.63053,
-    106.06553
+    20.630215,
+    106.065218
   ],
   "370294": [
-    20.63053,
-    106.06553
+    20.630215,
+    106.065218
   ],
   "HYN_HYN_QUANG_TRUNG": [
     20.64623,
@@ -248908,44 +248886,44 @@ const coordLookup = {
     106.05647
   ],
   "HYN_HYN_TRUNG_NGHIA": [
-    20.68081,
-    106.08267
+    20.680843,
+    106.0827
   ],
   "370026": [
-    20.68081,
-    106.08267
+    20.680843,
+    106.0827
   ],
   "HYN_KCU_DAN_TIEN": [
-    20.84157,
-    106.0049
+    20.841625,
+    106.0044
   ],
   "370028": [
-    20.84157,
-    106.0049
+    20.841625,
+    106.0044
   ],
   "HYN_KCU_DONG_TIEN": [
-    20.837424,
-    106.01114
+    20.837582,
+    106.011355
   ],
   "370312": [
-    20.837424,
-    106.01114
+    20.837582,
+    106.011355
   ],
   "HYN_KCU_HUNG_YEN_TV_2": [
-    20.852264,
-    106.00405
+    20.850838,
+    106.002097
   ],
   "370109": [
-    20.852264,
-    106.00405
+    20.850838,
+    106.002097
   ],
   "HYN_KDG_KCN_SACH_KIM_DONG": [
-    20.752905,
-    106.0526
+    20.752859,
+    106.052512
   ],
   "370123": [
-    20.785944,
-    106.04815
+    20.787686,
+    106.04731
   ],
   "HYN_KDG_KIM_DONG": [
     20.7408,
@@ -248956,204 +248934,204 @@ const coordLookup = {
     106.0587
   ],
   "HYN_KDG_NGU_LAO": [
-    20.7704,
-    106.0517
+    20.770405,
+    106.051627
   ],
   "370031": [
-    20.7704,
-    106.0517
+    20.770405,
+    106.051627
   ],
   "HYN_KDG_NGUYEN_LUONG_BANG": [
-    20.74882,
-    106.04951
+    20.748827,
+    106.049554
   ],
   "370119": [
-    20.74882,
-    106.04951
+    20.748827,
+    106.049554
   ],
   "HYN_KDG_TOAN_THANG": [
-    20.785944,
-    106.04815
+    20.787686,
+    106.04731
   ],
   "HYN_MHO_BACH_SAM": [
-    20.91236,
-    106.11129
+    20.914682,
+    106.110114
   ],
   "370006": [
-    20.91236,
-    106.11129
+    20.914682,
+    106.110114
   ],
   "HYN_MHO_BACH_SAM_3": [
-    20.915,
-    106.11734
+    20.914966,
+    106.117307
   ],
   "370124": [
-    20.915,
-    106.11734
+    20.914966,
+    106.117307
   ],
   "HYN_MHO_BAN_2": [
-    20.93977,
-    106.03908
+    20.939719,
+    106.039059
   ],
   "370059": [
-    20.93977,
-    106.03908
+    20.939719,
+    106.039059
   ],
   "HYN_MHO_BAN_YEN_NHAN_2": [
-    20.933245,
-    106.06081
+    20.930972,
+    106.067141
   ],
   "370125": [
-    20.933245,
-    106.06081
+    20.930972,
+    106.067141
   ],
   "HYN_MHO_CHO_THUA_2": [
-    20.9216,
-    106.09909
+    20.921559,
+    106.0991
   ],
   "370250": [
-    20.9216,
-    106.09909
+    20.921559,
+    106.0991
   ],
   "HYN_MHO_DI_SU_2": [
-    20.92849,
-    106.07304
+    20.92851,
+    106.073
   ],
   "370033": [
-    20.92849,
-    106.07304
+    20.92851,
+    106.073
   ],
   "HYN_MHO_DI_SU_3": [
-    20.931368,
-    106.0835
+    20.931371,
+    106.083584
   ],
   "370491": [
-    20.931368,
-    106.0835
+    20.931371,
+    106.083584
   ],
   "HYN_MHO_DUONG_QUANG": [
-    20.95038,
-    106.12012
+    20.950348,
+    106.120065
   ],
   "370251": [
-    20.95038,
-    106.12012
+    20.950348,
+    106.120065
   ],
   "HYN_MHO_HOA_PHONG": [
-    20.937955,
-    106.14726
+    20.937989,
+    106.147279
   ],
   "370483": [
-    20.937955,
-    106.14726
+    20.937989,
+    106.147279
   ],
   "HYN_MHO_HUNG_LONG": [
-    20.87891,
-    106.0962
+    20.891738,
+    106.098627
   ],
   "370126": [
-    20.87891,
-    106.0962
+    20.891738,
+    106.098627
   ],
   "HYN_MHO_KCN_MINH_QUANG_2": [
-    20.921314,
-    106.12013
+    20.92123,
+    106.1201
   ],
   "370405": [
-    20.921314,
-    106.12013
+    20.92123,
+    106.1201
   ],
   "HYN_MHO_KCN_THANG_LONG_2": [
-    20.92174,
-    106.07024
+    20.921753,
+    106.070239
   ],
   "370060": [
-    20.92174,
-    106.07024
+    20.921753,
+    106.070239
   ],
   "HYN_MHO_MY_HAO": [
-    20.940992,
-    106.05205
+    20.940851,
+    106.051941
   ],
   "370061": [
-    20.940992,
-    106.05205
+    20.940851,
+    106.051941
   ],
   "HYN_MHO_NHAN_HOA_2": [
-    20.94187,
-    106.06796
+    20.94188,
+    106.067973
   ],
   "370063": [
-    20.94187,
-    106.06796
+    20.94188,
+    106.067973
   ],
   "HYN_MHO_PHAN_DINH_PHUNG": [
-    20.964938,
-    106.07521
+    20.964909,
+    106.075147
   ],
   "370286": [
-    20.964938,
-    106.07521
+    20.964909,
+    106.075147
   ],
   "HYN_MHO_PSDT_THANG_LONG_2_1": [
-    20.922872,
-    106.08112
+    20.92775,
+    106.06689
   ],
   "370190": [
-    20.922872,
-    106.08112
+    20.92285,
+    106.08111
   ],
   "HYN_MHO_PSDT_THANG_LONG_2_2": [
-    20.922872,
-    106.08112
+    20.92285,
+    106.08111
   ],
   "HYN_MHO_PSDT_THANG_LONG_2_3": [
-    20.918747,
-    106.06373
+    20.911786,
+    106.079803
   ],
   "370180": [
-    20.918747,
-    106.06373
+    20.911786,
+    106.079803
   ],
   "HYN_MHO_REGINA": [
-    20.91785,
-    106.07796
+    20.91769,
+    106.078388
   ],
   "370310": [
-    20.91785,
-    106.07796
+    20.91769,
+    106.078388
   ],
   "HYN_TLU_CAO_DONG": [
-    20.69555,
-    106.08982
+    20.695507,
+    106.089937
   ],
   "370134": [
-    20.69555,
-    106.08982
+    20.695507,
+    106.089937
   ],
   "HYN_TLU_TIEN_LU": [
-    20.699282,
-    106.11827
+    20.699273,
+    106.118281
   ],
   "370036": [
-    20.699282,
-    106.11827
+    20.699273,
+    106.118281
   ],
   "HYN_VGG_HOC_VIEN_PVF": [
-    20.925864,
-    105.94116
+    20.928339,
+    105.944058
   ],
   "370234": [
-    20.925864,
-    105.94116
+    20.928339,
+    105.944058
   ],
   "HYN_VGG_LONG_HUNG_2": [
-    20.950352,
-    105.96021
+    20.950316,
+    105.960195
   ],
   "370449": [
-    20.950352,
-    105.96021
+    20.950316,
+    105.960195
   ],
   "HYN_VGG_NGHIA_TRU": [
     20.95329,
@@ -249165,35 +249143,35 @@ const coordLookup = {
   ],
   "HYN_VGG_PSDT_ECOPARK_3": [
     20.971392,
-    105.9321
+    105.932104
   ],
   "370196": [
     20.971392,
-    105.9321
+    105.932104
   ],
   "HYN_VGG_PSDT_ECOPARK_5": [
     20.956172,
-    105.93
+    105.930002
   ],
   "370170": [
     20.956172,
-    105.93
+    105.930002
   ],
   "HYN_VGG_PSDT_ECOPARK_9": [
     20.949133,
-    105.94098
+    105.940975
   ],
   "370453": [
     20.949133,
-    105.94098
+    105.940975
   ],
   "HYN_VGG_TAN_TIEN": [
-    20.92253,
-    105.96368
+    20.922492,
+    105.963721
   ],
   "370144": [
-    20.92253,
-    105.96368
+    20.922492,
+    105.963721
   ],
   "HYN_VGG_VAN_GIANG": [
     20.94615,
@@ -249204,52 +249182,52 @@ const coordLookup = {
     105.92835
   ],
   "HYN_VGG_VAN_GIANG_2": [
-    20.94638,
-    105.94287
+    20.94627,
+    105.942927
   ],
   "370040": [
-    20.94638,
-    105.94287
+    20.94627,
+    105.942927
   ],
   "HYN_VGG_VINH_KHUC_2": [
-    20.946881,
-    106.00093
+    20.947147,
+    106.000591
   ],
   "370145": [
-    20.946881,
-    106.00093
+    20.947147,
+    106.000591
   ],
   "HYN_VGG_VINHOMES_DAI_AN_5": [
     20.955192,
-    105.97263
+    105.972634
   ],
   "370335": [
     20.955192,
-    105.97263
+    105.972634
   ],
   "HYN_VGG_VINHOMES_DAI_AN_8": [
     20.946709,
-    105.97697
+    105.976974
   ],
   "370458": [
     20.946709,
-    105.97697
+    105.976974
   ],
   "HYN_VGG_VINHOMES_DREAM_CITY_1": [
-    20.950718,
-    105.98189
+    20.951311,
+    105.981
   ],
   "370454": [
-    20.950718,
-    105.98189
+    20.951311,
+    105.981
   ],
   "HYN_VGG_VINHOMES_DREAM_CITY_10": [
     20.944299,
-    105.97553
+    105.975533
   ],
   "370301": [
     20.944299,
-    105.97553
+    105.975533
   ],
   "HYN_VGG_VINHOMES_DREAM_CITY_6": [
     20.9503,
@@ -249260,420 +249238,420 @@ const coordLookup = {
     105.969
   ],
   "HYN_VGG_VINHOMES_DREAM_CITY_8": [
-    20.950815,
-    105.97788
+    20.9508146,
+    105.977882
   ],
   "370211": [
-    20.950815,
-    105.97788
+    20.9508146,
+    105.977882
   ],
   "HYN_VLM_CHI_DAO_2": [
     20.9833,
-    106.04478
+    106.04482
   ],
   "370076": [
     20.9833,
-    106.04478
+    106.04482
   ],
   "HYN_VLM_CHO_DUONG_CAI": [
-    20.96135,
-    105.99591
+    20.9613,
+    105.99594
   ],
   "370010": [
-    20.96135,
-    105.99591
+    20.9613,
+    105.99594
   ],
   "HYN_VLM_CN_PHO_NOI": [
-    20.95668,
-    106.02554
+    20.95671,
+    106.0255
   ],
   "370011": [
-    20.95668,
-    106.02554
+    20.95671,
+    106.0255
   ],
   "HYN_VLM_DINH_DU": [
-    20.97231,
-    106.01173
+    20.97309,
+    106.01176
   ],
   "877116": [
-    20.97231,
-    106.01173
+    20.97309,
+    106.01176
   ],
   "HYN_VLM_GA_LAC_DAO": [
-    20.98326,
-    106.02857
+    20.983133,
+    106.028853
   ],
   "370021": [
-    20.98326,
-    106.02857
+    20.983133,
+    106.028853
   ],
   "HYN_VLM_KCN_NHU_QUYNH": [
-    20.99265,
-    105.97461
+    20.992726,
+    105.974728
   ],
   "370041": [
-    20.99265,
-    105.97461
+    20.992726,
+    105.974728
   ],
   "HYN_VLM_LAC_HONG": [
-    20.9548,
-    106.00587
+    20.954808,
+    106.00589
   ],
   "370013": [
-    20.9548,
-    106.00587
+    20.954808,
+    106.00589
   ],
   "HYN_VLM_LUONG_TAI": [
-    20.974339,
-    106.10976
+    20.974259,
+    106.109694
   ],
   "877044": [
-    20.974339,
-    106.10976
+    20.974259,
+    106.109694
   ],
   "HYN_VLM_NHU_QUYNH": [
-    20.98231,
-    105.98101
+    20.982272,
+    105.981079
   ],
   "370042": [
-    20.98231,
-    105.98101
+    20.982272,
+    105.981079
   ],
   "HYN_VLM_NHU_QUYNH_2": [
-    20.97801,
-    105.99865
+    20.981453,
+    105.999945
   ],
   "370014": [
-    20.97801,
-    105.99865
+    20.981453,
+    105.999945
   ],
   "HYN_VLM_NHU_QUYNH_3": [
-    20.97918,
-    105.99038
+    20.979105,
+    105.990317
   ],
   "370043": [
-    20.97918,
-    105.99038
+    20.979105,
+    105.990317
   ],
   "HYN_VLM_NHU_QUYNH_9": [
-    20.985245,
-    105.97807
+    20.98728,
+    105.97635
   ],
   "370044": [
-    20.985245,
-    105.97807
+    20.98728,
+    105.97635
   ],
   "HYN_VLM_PSDT_PHO_NOI_A_1": [
-    20.973752,
-    106.02719
+    20.97563,
+    106.02721
   ],
   "370182": [
-    20.96882,
-    106.02177
+    20.96888,
+    106.02178
   ],
   "HYN_VLM_PSDT_PHO_NOI_A_3": [
-    20.96274,
-    106.02589
+    20.962808,
+    106.026009
   ],
   "370184": [
-    20.966835,
-    106.0329
+    20.96679,
+    106.03283
   ],
   "HYN_VLM_PSDT_PHO_NOI_A_5": [
-    20.948164,
-    106.03112
+    20.94809,
+    106.03108
   ],
   "370185": [
-    20.948164,
-    106.03112
+    20.94809,
+    106.03108
   ],
   "HYN_VLM_PSDT_PHO_NOI_A_6": [
-    20.959161,
-    106.01656
+    20.95919,
+    106.02
   ],
   "370187": [
-    20.959161,
-    106.01656
+    20.95919,
+    106.02
   ],
   "HYN_VLM_PSDT_PHO_NOI_A_8": [
-    20.96882,
-    106.02177
+    20.96888,
+    106.02178
   ],
   "HYN_VLM_PSDT_PHO_NOI_A_9": [
-    20.966835,
-    106.0329
+    20.96679,
+    106.03283
   ],
   "HYN_VLM_TAN_QUANG": [
-    20.98241,
-    105.96458
+    20.982427,
+    105.964532
   ],
   "370015": [
-    20.98241,
-    105.96458
+    20.982427,
+    105.964532
   ],
   "HYN_VLM_TAN_QUANG_4": [
-    20.978342,
-    105.9709
+    20.978387,
+    105.970857
   ],
   "370486": [
-    20.978342,
-    105.9709
+    20.978387,
+    105.970857
   ],
   "HYN_VLM_TRUNG_TRAC_3": [
-    20.943131,
-    106.01425
+    20.939745,
+    106.017253
   ],
   "370274": [
-    20.943131,
-    106.01425
+    20.939745,
+    106.017253
   ],
   "HYN_VLM_TRUNG_TRAC_4": [
-    20.947316,
-    106.0138
+    20.947308,
+    106.01391
   ],
   "370081": [
-    20.947316,
-    106.0138
+    20.947308,
+    106.01391
   ],
   "HYN_VLM_VIET_HUNG": [
-    20.98736,
-    106.09353
+    20.987351,
+    106.09354
   ],
   "370275": [
-    20.98736,
-    106.09353
+    20.987351,
+    106.09354
   ],
   "HYN_YMY_CN_YEN_MY": [
-    20.90183,
-    106.04851
+    20.90179,
+    106.04849
   ],
   "370045": [
-    20.90183,
-    106.04851
+    20.90179,
+    106.04849
   ],
   "HYN_YMY_DONG_THAN": [
-    20.91433,
-    106.00582
+    20.914593,
+    106.005498
   ],
   "370304": [
-    20.91433,
-    106.00582
+    20.914593,
+    106.005498
   ],
   "HYN_YMY_DONG_THAN_2": [
-    20.92468,
-    106.01427
+    20.924352,
+    106.014299
   ],
   "370148": [
-    20.92468,
-    106.01427
+    20.924352,
+    106.014299
   ],
   "HYN_YMY_KCN_YEN_MY_2_2": [
-    20.874302,
-    106.04256
+    20.874286,
+    106.042544
   ],
   "370487": [
-    20.874302,
-    106.04256
+    20.874286,
+    106.042544
   ],
   "HYN_YMY_KCN_YEN_MY_2_3": [
-    20.866607,
-    106.04275
+    20.86663,
+    106.042898
   ],
   "370488": [
-    20.866607,
-    106.04275
+    20.86663,
+    106.042898
   ],
   "HYN_YMY_LIEU_XA_3": [
-    20.91043,
-    106.05727
+    20.9105,
+    106.0572
   ],
   "370019": [
-    20.91043,
-    106.05727
+    20.9105,
+    106.0572
   ],
   "HYN_YMY_LY_THUONG_KIET": [
-    20.84481,
-    106.0431
+    20.84489,
+    106.043119
   ],
   "370082": [
-    20.84481,
-    106.0431
+    20.84489,
+    106.043119
   ],
   "HYN_YMY_MINH_CHAU": [
-    20.85441,
-    106.01648
+    20.854465,
+    106.016695
   ],
   "370277": [
-    20.85441,
-    106.01648
+    20.854465,
+    106.016695
   ],
   "HYN_YMY_MINH_CHAU_2": [
-    20.86288,
-    106.02591
+    20.862874,
+    106.026014
   ],
   "370083": [
-    20.86288,
-    106.02591
+    20.862874,
+    106.026014
   ],
   "HYN_YMY_NGHIA_HIEP": [
-    20.92672,
-    106.05843
+    20.92675,
+    106.05842
   ],
   "370084": [
-    20.92672,
-    106.05843
+    20.92675,
+    106.05842
   ],
   "HYN_YMY_NGHIA_HIEP_2": [
-    20.93249,
-    106.04308
+    20.932533,
+    106.043241
   ],
   "370085": [
-    20.93249,
-    106.04308
+    20.932533,
+    106.043241
   ],
   "HYN_YMY_NGHIA_HIEP_3": [
-    20.928029,
-    106.05123
+    20.928115,
+    106.05126
   ],
   "370225": [
-    20.928029,
-    106.05123
+    20.928115,
+    106.05126
   ],
   "HYN_YMY_NGOC_LONG_2": [
-    20.91171,
-    106.0331
+    20.910998,
+    106.03375
   ],
   "370278": [
-    20.91171,
-    106.0331
+    20.910998,
+    106.03375
   ],
   "HYN_YMY_PSDT_THANG_LONG_2_4": [
-    20.909681,
-    106.06621
+    20.910186,
+    106.064922
   ],
   "370181": [
-    20.909681,
-    106.06621
+    20.910186,
+    106.064922
   ],
   "HYN_YMY_PSDT_THANG_LONG_2_5": [
-    20.924081,
+    20.92413,
     106.0613
   ],
   "370192": [
-    20.924081,
+    20.92413,
     106.0613
   ],
   "HYN_YMY_TAM_TRACH": [
-    20.87689,
-    106.07169
+    20.87685,
+    106.07172
   ],
   "370086": [
-    20.87689,
-    106.07169
+    20.87685,
+    106.07172
   ],
   "HYN_YMY_TAN_LAP": [
-    20.89205,
-    106.04584
+    20.89215,
+    106.0456
   ],
   "370087": [
-    20.89205,
-    106.04584
+    20.89215,
+    106.0456
   ],
   "HYN_YMY_TAN_VIET": [
-    20.86142,
+    20.86143,
     106.07221
   ],
   "370149": [
-    20.86142,
+    20.86143,
     106.07221
   ],
   "HYN_YMY_TRUNG_HOA": [
-    20.87871,
-    106.05482
+    20.8786,
+    106.05489
   ],
   "370088": [
-    20.87871,
-    106.05482
+    20.8786,
+    106.05489
   ],
   "HYN_YMY_TRUNG_HOA_2": [
-    20.86022,
-    106.06471
+    20.86027,
+    106.0647
   ],
   "370150": [
-    20.86022,
-    106.06471
+    20.86027,
+    106.0647
   ],
   "HYN_YMY_TRUNG_HOA_3": [
-    20.8887,
-    106.0698
+    20.888795,
+    106.069645
   ],
   "370489": [
-    20.8887,
-    106.0698
+    20.888795,
+    106.069645
   ],
   "HYN_YMY_TRUNG_HUNG": [
-    20.8608,
-    106.04892
+    20.86076,
+    106.04883
   ],
   "370166": [
-    20.8608,
-    106.04892
+    20.86076,
+    106.04883
   ],
   "HYN_YMY_TRUNG_HUNG_2": [
-    20.87067,
-    106.03785
+    20.87056,
+    106.0379
   ],
   "370089": [
-    20.87067,
-    106.03785
+    20.87056,
+    106.0379
   ],
   "HYN_YMY_VIET_CUONG_2": [
-    20.88225,
-    106.00356
+    20.882796,
+    106.002752
   ],
   "370279": [
-    20.88225,
-    106.00356
+    20.882796,
+    106.002752
   ],
   "HYN_YMY_YEN_HOA": [
-    20.87141,
-    105.99209
+    20.871308,
+    105.992114
   ],
   "370280": [
-    20.87141,
-    105.99209
+    20.871308,
+    105.992114
   ],
   "HYN_YMY_YEN_MY": [
-    20.88559,
-    106.03576
+    20.88548,
+    106.0358
   ],
   "370090": [
-    20.88559,
-    106.03576
+    20.88548,
+    106.0358
   ],
   "HYN_YMY_YEN_MY_3": [
-    20.878524,
-    106.03391
+    20.87859,
+    106.0339
   ],
   "370151": [
-    20.878524,
-    106.03391
+    20.87859,
+    106.0339
   ],
   "HYN_YMY_YEN_PHU_3": [
-    20.876788,
-    105.9889
+    20.88274,
+    105.98806
   ],
   "370282": [
-    20.876788,
-    105.9889
+    20.88274,
+    105.98806
   ],
   "HYN_YMY_YEN_PHU_4": [
-    20.8923,
-    105.9742
+    20.89249,
+    105.97408
   ],
   "370490": [
-    20.8923,
-    105.9742
+    20.89249,
+    105.97408
   ],
   "NA_CLO_CUA_LO_3": [
     18.8231,
@@ -249700,52 +249678,52 @@ const coordLookup = {
     105.6058
   ],
   "NA_DCU_DIEN_HANH": [
-    18.9924,
-    105.5675
+    18.99232,
+    105.56757
   ],
   "440124": [
-    18.9924,
-    105.5675
+    18.99232,
+    105.56757
   ],
   "NA_DCU_DIEN_HONG": [
-    19.0474,
-    105.5822
+    19.04659,
+    105.5819
   ],
   "440059": [
-    19.0474,
-    105.5822
+    19.04659,
+    105.5819
   ],
   "NA_DCU_DIEN_LIEN": [
-    19.0302,
-    105.5569
+    19.03028,
+    105.55707
   ],
   "440128": [
-    19.0302,
-    105.5569
+    19.03028,
+    105.55707
   ],
   "NA_DCU_DIEN_LOI": [
-    18.9102,
-    105.5442
+    18.91024,
+    105.54428
   ],
   "440274": [
-    18.9102,
-    105.5442
+    18.91024,
+    105.54428
   ],
   "NA_DCU_DIEN_PHU": [
-    18.8963,
-    105.573
+    18.89628,
+    105.57309
   ],
   "440131": [
-    18.8963,
-    105.573
+    18.89628,
+    105.57309
   ],
   "NA_DCU_DIEN_THAP": [
-    19.0468,
-    105.5611
+    19.04675,
+    105.56097
   ],
   "440278": [
-    19.0468,
-    105.5611
+    19.04675,
+    105.56097
   ],
   "NA_DCU_DIEN_TRUNG": [
     18.9169,
@@ -249764,20 +249742,20 @@ const coordLookup = {
     105.611
   ],
   "NA_DCU_DIEN_XUAN": [
-    19.0171,
-    105.5667
+    19.01725,
+    105.56677
   ],
   "870051": [
-    19.0171,
-    105.5667
+    19.01725,
+    105.56677
   ],
   "NA_DCU_VIET_GLORY": [
     19.110983,
-    105.60487
+    105.604868
   ],
   "440931": [
     19.110983,
-    105.60487
+    105.604868
   ],
   "NA_DLG_DAI_SON": [
     18.8446,
@@ -249800,16 +249778,16 @@ const coordLookup = {
     105.726
   ],
   "440068": [
-    19.303109,
+    19.3031092,
     105.72422
   ],
   "NA_HMA_CN_HOANG_MAI_2": [
     19.304616,
-    105.73682
+    105.736818
   ],
   "440924": [
     19.304616,
-    105.73682
+    105.736818
   ],
   "NA_HMA_HOANG_MAI_2": [
     19.2341,
@@ -249820,7 +249798,7 @@ const coordLookup = {
     105.6972
   ],
   "NA_HMA_KCN_HOANG_MAI_4": [
-    19.303109,
+    19.3031092,
     105.72422
   ],
   "NA_HMA_MAI_HUNG": [
@@ -249952,12 +249930,12 @@ const coordLookup = {
     105.5929
   ],
   "NA_HNN_HUNG_NGUYEN_01R": [
-    18.671197,
-    105.62796
+    18.671,
+    105.628
   ],
   "440075": [
-    18.671197,
-    105.62796
+    18.671,
+    105.628
   ],
   "NA_HNN_HUNG_NGUYEN_3": [
     18.6834,
@@ -249984,20 +249962,20 @@ const coordLookup = {
     105.6243
   ],
   "NA_VIH_PHONG_CSGT": [
-    18.7028,
-    105.6812
+    18.70289,
+    105.68061
   ],
   "440958": [
-    18.7028,
-    105.6812
+    18.70289,
+    105.68061
   ],
   "NA_HNN_HUNG_XA": [
     18.616595,
-    105.61492
+    105.614919
   ],
   "440304": [
     18.616595,
-    105.61492
+    105.614919
   ],
   "NA_HNN_KCN_VSIP": [
     18.702405,
@@ -250009,35 +249987,35 @@ const coordLookup = {
   ],
   "NA_HNN_KCN_VSIP_3": [
     18.693506,
-    105.63232
+    105.632321
   ],
   "440932": [
     18.693506,
-    105.63232
+    105.632321
   ],
   "NA_HNN_KCN_VSIP_4": [
-    18.690133,
-    105.6276
+    18.6901327,
+    105.627603
   ],
   "440934": [
-    18.690133,
-    105.6276
+    18.6901327,
+    105.627603
   ],
   "NA_HNN_KCN_VSIP_5": [
-    18.679528,
-    105.62602
+    18.6795282,
+    105.626022
   ],
   "440935": [
-    18.679528,
-    105.62602
+    18.6795282,
+    105.626022
   ],
   "NA_HNN_KCN_VSIP_NAN_PSDT_2": [
     18.699538,
-    105.63215
+    105.632154
   ],
   "440917": [
     18.699538,
-    105.63215
+    105.632154
   ],
   "NA_NAD_NGHIA_BINH": [
     19.3393,
@@ -250096,12 +250074,12 @@ const coordLookup = {
     105.5569
   ],
   "NA_NDN_LANG_SEN": [
-    18.671811,
-    105.55461
+    18.6718109,
+    105.554612
   ],
   "440080": [
-    18.671811,
-    105.55461
+    18.6718109,
+    105.554612
   ],
   "NA_NDN_NAM_ANH": [
     18.7144,
@@ -250112,20 +250090,20 @@ const coordLookup = {
     105.528
   ],
   "NA_NDN_NAM_ANH_3": [
-    18.740561,
-    105.53704
+    18.7405605,
+    105.537042
   ],
   "440173": [
-    18.740561,
-    105.53704
+    18.7405605,
+    105.537042
   ],
   "NA_DCU_CAU_BUNG": [
     19.013164,
-    105.58758
+    105.587577
   ],
   "440054": [
     19.013164,
-    105.58758
+    105.587577
   ],
   "NA_NDN_NAM_PHUC": [
     18.5745,
@@ -250144,28 +250122,28 @@ const coordLookup = {
     105.5227
   ],
   "NA_NDN_NAM_XUAN": [
-    18.725754,
-    105.55285
+    18.7257542,
+    105.552851
   ],
   "440333": [
-    18.725754,
-    105.55285
+    18.7257542,
+    105.552851
   ],
   "NA_NDN_NAM_XUAN_2": [
-    18.737985,
-    105.54896
+    18.7379853,
+    105.548963
   ],
   "440667": [
-    18.737985,
-    105.54896
+    18.7379853,
+    105.548963
   ],
   "NA_NDN_XUAN_LAM_2": [
-    18.657474,
-    105.55449
+    18.6574738,
+    105.554492
   ],
   "440183": [
-    18.657474,
-    105.55449
+    18.6574738,
+    105.554492
   ],
   "NA_NLC_BAI_LU": [
     18.883,
@@ -250185,27 +250163,27 @@ const coordLookup = {
   ],
   "NA_NLC_KCN_NAM_CAM_PSDT_2": [
     18.831282,
-    105.66083
+    105.660826
   ],
   "440083": [
     18.831282,
-    105.66083
+    105.660826
   ],
   "NA_NLC_KCN_WHA_NAN_PSDT_1": [
     18.819481,
-    105.65013
+    105.650128
   ],
   "440880": [
     18.819481,
-    105.65013
+    105.650128
   ],
   "NA_NLC_KCN_WHA2_1": [
     18.833367,
-    105.6091
+    105.609095
   ],
   "440941": [
     18.833367,
-    105.6091
+    105.609095
   ],
   "NA_NLC_NGHI_CONG_BAC": [
     18.798,
@@ -250224,12 +250202,12 @@ const coordLookup = {
     105.5618
   ],
   "NA_NLC_NGHI_DONG_CRAN": [
-    18.788388,
-    105.60162
+    18.7883882,
+    105.601625
   ],
   "440872": [
-    18.788388,
-    105.60162
+    18.7883882,
+    105.601625
   ],
   "NA_NLC_NGHI_DUC": [
     18.733,
@@ -250256,12 +250234,12 @@ const coordLookup = {
     105.605
   ],
   "NA_NLC_NGHI_KIEU_4": [
-    18.803984,
-    105.48348
+    18.8039836,
+    105.483483
   ],
   "440699": [
-    18.803984,
-    105.48348
+    18.8039836,
+    105.483483
   ],
   "NA_NLC_NGHI_LAM": [
     18.8201,
@@ -250288,12 +250266,12 @@ const coordLookup = {
     105.6603
   ],
   "NA_NLC_NGHI_LOC": [
-    18.855405,
-    105.64909
+    18.8554051,
+    105.649087
   ],
   "440086": [
-    18.855405,
-    105.64909
+    18.8554051,
+    105.649087
   ],
   "NA_NLC_NGHI_MY": [
     18.8199,
@@ -250304,12 +250282,12 @@ const coordLookup = {
     105.5588
   ],
   "NA_NLC_NGHI_MY_3": [
-    18.817002,
-    105.5472
+    18.8170021,
+    105.547195
   ],
   "440911": [
-    18.817002,
-    105.5472
+    18.8170021,
+    105.547195
   ],
   "NA_NLC_NGHI_PHONG": [
     18.7395,
@@ -250352,20 +250330,20 @@ const coordLookup = {
     105.6205
   ],
   "NA_NLC_NGHI_VAN_3": [
-    18.862115,
-    105.48204
+    18.8621154,
+    105.482042
   ],
   "440661": [
-    18.862115,
-    105.48204
+    18.8621154,
+    105.482042
   ],
   "NA_NLC_NGHI_YEN": [
     18.866458,
-    105.62245
+    105.622454
   ],
   "440912": [
     18.866458,
-    105.62245
+    105.622454
   ],
   "NA_NLC_QUAN_HANH": [
     18.7793,
@@ -250412,12 +250390,12 @@ const coordLookup = {
     105.6058
   ],
   "NA_QLU_QUYNH_GIANG_2": [
-    19.13,
-    105.6185
+    19.13004,
+    105.61855
   ],
   "870334": [
-    19.13,
-    105.6185
+    19.13004,
+    105.61855
   ],
   "NA_QLU_QUYNH_HOA": [
     19.1745,
@@ -250452,12 +250430,12 @@ const coordLookup = {
     105.6605
   ],
   "NA_QLU_QUYNH_THANG_2": [
-    19.30728,
-    105.59209
+    19.3072799,
+    105.592087
   ],
   "440215": [
-    19.30728,
-    105.59209
+    19.3072799,
+    105.592087
   ],
   "NA_QLU_QUYNH_THANH": [
     19.1676,
@@ -250541,11 +250519,11 @@ const coordLookup = {
   ],
   "NA_VIH_BV_115": [
     18.709982,
-    105.67665
+    105.676652
   ],
   "440939": [
     18.709982,
-    105.67665
+    105.676652
   ],
   "NA_VIH_BV_DA_KHOA_NGHE_AN": [
     18.7064,
@@ -250564,12 +250542,12 @@ const coordLookup = {
     105.6722
   ],
   "NA_VIH_CC_CUA_TIEN": [
-    18.662274,
-    105.66617
+    18.6622736,
+    105.666169
   ],
   "440635": [
-    18.662274,
-    105.66617
+    18.6622736,
+    105.666169
   ],
   "NA_VIH_CN_BAC_VINH": [
     18.7114,
@@ -250580,12 +250558,12 @@ const coordLookup = {
     105.657
   ],
   "NA_VIH_DANG_THAI_MAI": [
-    18.713357,
-    105.66464
+    18.7133567,
+    105.664638
   ],
   "870004": [
-    18.713357,
-    105.66464
+    18.7133567,
+    105.664638
   ],
   "NA_VIH_DH_KINH_TE": [
     18.6925,
@@ -250597,11 +250575,11 @@ const coordLookup = {
   ],
   "NA_VIH_DH_Y_KHOA": [
     18.686248,
-    105.69775
+    105.697748
   ],
   "440930": [
     18.686248,
-    105.69775
+    105.697748
   ],
   "NA_VIH_HUNG_HOA": [
     18.6767,
@@ -250612,12 +250590,12 @@ const coordLookup = {
     105.7261
   ],
   "NA_VIH_HUNG_LOC_2": [
-    18.6943,
-    105.69571
+    18.6942998,
+    105.695708
   ],
   "870006": [
-    18.6943,
-    105.69571
+    18.6942998,
+    105.695708
   ],
   "NA_VIH_HUNG_LOC_4": [
     18.6972,
@@ -250628,20 +250606,20 @@ const coordLookup = {
     105.7048
   ],
   "NA_VIH_HUNG_PHUC": [
-    18.680666,
-    105.68693
+    18.6806664,
+    105.686933
   ],
   "440922": [
-    18.680666,
-    105.68693
+    18.6806664,
+    105.686933
   ],
   "NA_VIH_KS_AMAZON": [
-    18.684709,
-    105.70233
+    18.6847092,
+    105.702331
   ],
   "440395": [
-    18.684709,
-    105.70233
+    18.6847092,
+    105.702331
   ],
   "NA_VIH_KS_PHUONG_DONG": [
     18.6654,
@@ -250661,11 +250639,11 @@ const coordLookup = {
   ],
   "NA_VIH_LE_NIN": [
     18.695756,
-    105.6866
+    105.686604
   ],
   "440105": [
     18.695756,
-    105.6866
+    105.686604
   ],
   "NA_VIH_NGHI_DUC_3": [
     18.7179,
@@ -250700,12 +250678,12 @@ const coordLookup = {
     105.6542
   ],
   "NA_VIH_NGHI_PHU": [
-    18.711479,
-    105.68443
+    18.7114792,
+    105.684434
   ],
   "440023": [
-    18.711479,
-    105.68443
+    18.7114792,
+    105.684434
   ],
   "NA_VIH_NGO_DUC_KE": [
     18.6651,
@@ -250725,11 +250703,11 @@ const coordLookup = {
   ],
   "NA_VIH_NGUYEN_SY_SACH_3": [
     18.685725,
-    105.67854
+    105.678539
   ],
   "440026": [
     18.685725,
-    105.67854
+    105.678539
   ],
   "NA_VIH_NGUYEN_THAI_HOC": [
     18.6757,
@@ -250788,12 +250766,12 @@ const coordLookup = {
     105.6965
   ],
   "NA_VIH_QUAN_BAU": [
-    18.69775,
-    105.67444
+    18.6977496,
+    105.674437
   ],
   "440037": [
-    18.69775,
-    105.67444
+    18.6977496,
+    105.674437
   ],
   "NA_VIH_SARA_VINH": [
     18.6622,
@@ -250805,19 +250783,19 @@ const coordLookup = {
   ],
   "NA_VIH_SU_PHAM_KY_THUAT_2": [
     18.673909,
-    105.70746
+    105.707458
   ],
   "440039": [
     18.673909,
-    105.70746
+    105.707458
   ],
   "NA_VIH_TRUNG_DO": [
-    18.6609,
-    105.68501
+    18.6608995,
+    105.685012
   ],
   "440043": [
-    18.6609,
-    105.68501
+    18.6608995,
+    105.685012
   ],
   "NA_VIH_TRUNG_DO_2": [
     18.6602,
@@ -250844,264 +250822,264 @@ const coordLookup = {
     105.6929
   ],
   "NA_YTH_LY_THANH": [
-    18.946854,
-    105.41638
+    18.9468544,
+    105.416375
   ],
   "440255": [
-    18.946854,
-    105.41638
+    18.9468544,
+    105.416375
   ],
   "NB_GVN_CN_GIA_VIEN": [
-    20.3396,
-    105.9289
+    20.33956,
+    105.9292
   ],
   "250000": [
-    20.3396,
-    105.9289
+    20.33956,
+    105.9292
   ],
   "NB_GVN_CN_GIA_VIEN_2": [
-    20.33638,
-    105.92302
+    20.336487,
+    105.923049
   ],
   "250032": [
-    20.33638,
-    105.92302
+    20.336487,
+    105.923049
   ],
   "NB_GVN_GIA_SINH_2": [
-    20.266636,
-    105.85984
+    20.26997,
+    105.8603
   ],
   "250015": [
-    20.266636,
-    105.85984
+    20.26997,
+    105.8603
   ],
   "NB_GVN_GIA_THANH": [
-    20.36341,
-    105.91852
+    20.3634,
+    105.9183
   ],
   "250001": [
-    20.36341,
-    105.91852
+    20.3634,
+    105.9183
   ],
   "NB_GVN_GIA_VIEN_PT": [
-    20.347188,
-    105.83693
+    20.34672,
+    105.8371
   ],
   "250041": [
-    20.347188,
-    105.83693
+    20.34672,
+    105.8371
   ],
   "NB_HLU_HOA_LU": [
-    20.298081,
-    105.95298
+    20.298071,
+    105.952841
   ],
   "250045": [
-    20.298081,
-    105.95298
+    20.298071,
+    105.952841
   ],
   "NB_HLU_NINH_GIANG": [
-    20.3116,
-    105.94793
+    20.311468,
+    105.947961
   ],
   "250047": [
-    20.3116,
-    105.94793
+    20.311468,
+    105.947961
   ],
   "NB_HLU_NINH_AN": [
     20.1968,
     105.9642
   ],
   "NB_HLU_TAM_COC": [
-    20.21862,
-    105.93985
+    20.218698,
+    105.939755
   ],
   "250051": [
-    20.21862,
-    105.93985
+    20.218698,
+    105.939755
   ],
   "NB_KSN_KIM_CHINH_2": [
-    20.096504,
-    106.10112
+    20.09652,
+    106.101163
   ],
   "250057": [
-    20.096504,
-    106.10112
+    20.09652,
+    106.101163
   ],
   "NB_HLU_NINH_THANG": [
     20.2066008,
     105.94791
   ],
   "NB_KSN_LUU_PHUONG": [
-    20.08779,
-    106.0796
+    20.087709,
+    106.079451
   ],
   "250066": [
-    20.08779,
-    106.0796
+    20.087709,
+    106.079451
   ],
   "NB_KSN_PHAT_DIEM": [
-    20.09297,
-    106.08952
+    20.093381,
+    106.089396
   ],
   "250067": [
-    20.09297,
-    106.08952
+    20.093381,
+    106.089396
   ],
   "NB_NBH_BICH_DAO_2": [
-    20.24703,
-    105.98764
+    20.247203,
+    105.987765
   ],
   "250139": [
-    20.24703,
-    105.98764
+    20.247203,
+    105.987765
   ],
   "NB_NBH_BICH_DAO_4": [
-    20.24642,
+    20.246333,
     105.99986
   ],
   "875134": [
-    20.24642,
+    20.246333,
     105.99986
   ],
   "NB_NBH_DONG_THANH": [
-    20.26177,
-    105.96998
+    20.26162,
+    105.9699
   ],
   "250007": [
-    20.26177,
-    105.96998
+    20.26162,
+    105.9699
   ],
   "NB_NBH_DONG_THANH_3": [
-    20.26059,
-    105.97365
+    20.260567,
+    105.973758
   ],
   "250141": [
-    20.26059,
-    105.97365
+    20.260567,
+    105.973758
   ],
   "NB_NBH_LE_THAI_TO": [
-    20.255936,
-    105.96201
+    20.256881,
+    105.960008
   ],
   "250142": [
-    20.255936,
-    105.96201
+    20.256881,
+    105.960008
   ],
   "NB_NBH_LE_THAI_TO_2": [
-    20.26842,
-    105.95948
+    20.268043,
+    105.959273
   ],
   "250143": [
-    20.26842,
-    105.95948
+    20.268043,
+    105.959273
   ],
   "NB_NBH_NAM_BINH": [
-    20.24364,
-    105.97984
+    20.243672,
+    105.979833
   ],
   "250144": [
-    20.24364,
-    105.97984
+    20.243672,
+    105.979833
   ],
   "NB_NBH_NAM_THANH": [
-    20.24283,
-    105.96921
+    20.241619,
+    105.969727
   ],
   "250230": [
-    20.24283,
-    105.96921
+    20.241619,
+    105.969727
   ],
   "NB_NBH_NAM_THANH_2": [
-    20.25625,
-    105.9529
+    20.25642,
+    105.9531
   ],
   "250145": [
-    20.25625,
-    105.9529
+    20.25642,
+    105.9531
   ],
   "NB_NBH_NINH_BINH_4": [
-    20.250066,
-    105.97869
+    20.250025,
+    105.97868
   ],
   "250231": [
-    20.250066,
-    105.97869
+    20.250025,
+    105.97868
   ],
   "NB_NBH_NINH_BINH_PT": [
-    20.25094,
-    105.9743
+    20.251022,
+    105.974161
   ],
   "250009": [
-    20.25094,
-    105.9743
+    20.251022,
+    105.974161
   ],
   "NB_NBH_NINH_KHANH_4": [
-    20.28225,
-    105.96521
+    20.282272,
+    105.965208
   ],
   "250147": [
-    20.28225,
-    105.96521
+    20.282272,
+    105.965208
   ],
   "NB_NBH_NINH_NHAT": [
-    20.26761,
-    105.94308
+    20.26756,
+    105.9431
   ],
   "250148": [
-    20.26761,
-    105.94308
+    20.26756,
+    105.9431
   ],
   "NB_NBH_NINH_NHAT_3": [
-    20.251512,
-    105.95722
+    20.251531,
+    105.957237
   ],
   "250149": [
-    20.251512,
-    105.95722
+    20.251531,
+    105.957237
   ],
   "NB_TDP_GIAY_TAM_DIEP_2": [
     20.152475,
     105.883662
   ],
   "NB_NBH_NINH_PHONG": [
-    20.2344,
-    105.9685
+    20.234429,
+    105.968555
   ],
   "250010": [
-    20.2344,
-    105.9685
+    20.234429,
+    105.968555
   ],
   "NB_NBH_NINH_PHUC_3": [
-    20.22115,
-    105.99514
+    20.221161,
+    105.995135
   ],
   "250270": [
-    20.22115,
-    105.99514
+    20.221161,
+    105.995135
   ],
   "NB_NBH_NINH_PHUC_4": [
-    20.216241,
-    105.98959
+    20.21625,
+    105.989544
   ],
   "250315": [
-    20.216241,
-    105.98959
+    20.21625,
+    105.989544
   ],
   "NB_NBH_NINH_PHUC_5_01R": [
-    20.239203,
-    106.00464
+    20.239204,
+    106.004604
   ],
   "250370": [
-    20.239203,
-    106.00464
+    20.239204,
+    106.004604
   ],
   "NB_NBH_NINH_SON_2": [
     20.232112,
-    105.99144
+    105.991445
   ],
   "250151": [
     20.232112,
-    105.99144
+    105.991445
   ],
   "NB_NBH_SVD_NINH_BINH": [
     20.26648,
@@ -251153,119 +251131,119 @@ const coordLookup = {
   ],
   "NB_NBH_VAN_GIANG": [
     20.25988,
-    105.97728
+    105.9773
   ],
   "250241": [
     20.25988,
-    105.97728
+    105.9773
   ],
   "NB_HLU_CA_HOA_LU": [
     20.30317,
     105.94863
   ],
   "NB_NQN_NHO_QUAN": [
-    20.32348,
-    105.75202
+    20.323239,
+    105.7518
   ],
   "250077": [
-    20.32348,
-    105.75202
+    20.323239,
+    105.7518
   ],
   "NB_TDP_BAC_TAM_DIEP": [
-    20.16235,
-    105.92986
+    20.162154,
+    105.929818
   ],
   "250168": [
-    20.16235,
-    105.92986
+    20.162154,
+    105.929818
   ],
   "NB_YKH_KHANH_NHAC_3": [
     20.16904,
     106.07464
   ],
   "NB_TDP_DTM_TAM_DIEP": [
-    20.157891,
-    105.90736
+    20.15794,
+    105.907273
   ],
   "250251": [
-    20.157891,
-    105.90736
+    20.15794,
+    105.907273
   ],
   "NB_TDP_GIAY_TAM_DIEP": [
-    20.155234,
-    105.88072
+    20.155265,
+    105.88054
   ],
   "250081": [
-    20.155234,
-    105.88072
+    20.155265,
+    105.88054
   ],
   "NB_GVN_VAN_LONG": [
     20.34408,
     105.88184
   ],
   "NB_TDP_QUANG_SON_4": [
-    20.1496,
-    105.886
+    20.149513,
+    105.886131
   ],
   "250166": [
-    20.1496,
-    105.886
+    20.149513,
+    105.886131
   ],
   "NB_TDP_TAM_DIEP": [
-    20.15459,
-    105.91549
+    20.15413,
+    105.91529
   ],
   "250019": [
-    20.15459,
-    105.91549
+    20.15413,
+    105.91529
   ],
   "NB_YKH_CN_KHANH_CU": [
-    20.211573,
-    106.05151
+    20.210985,
+    106.051082
   ],
   "250180": [
-    20.211573,
-    106.05151
+    20.210985,
+    106.051082
   ],
   "NB_YKH_CN_KHANH_PHU": [
-    20.243594,
-    106.02258
+    20.243566,
+    106.022654
   ],
   "250022": [
-    20.243594,
-    106.02258
+    20.243566,
+    106.022654
   ],
   "NB_YKH_KHANH_NHAC_2": [
-    20.17095,
-    106.08642
+    20.170936,
+    106.086458
   ],
   "250092": [
-    20.17095,
-    106.08642
+    20.170936,
+    106.086458
   ],
   "NB_YKH_KHANH_PHU": [
-    20.229955,
-    106.02101
+    20.229739,
+    106.02098
   ],
   "250093": [
-    20.229955,
-    106.02101
+    20.229739,
+    106.02098
   ],
   "NB_YKH_YEN_KHANH": [
-    20.214215,
-    106.10291
+    20.214168,
+    106.103007
   ],
   "250097": [
-    20.214215,
-    106.10291
+    20.214168,
+    106.103007
   ],
   "NB_YKH_YEN_NINH": [
-    20.184207,
-    106.06189
+    20.18456,
+    106.06217
   ],
   "250098": [
-    20.184207,
-    106.06189
+    20.18456,
+    106.06217
   ],
   "NB_YMO_KCN_KHANH_THUONG": [
     20.1669,
@@ -251276,28 +251254,28 @@ const coordLookup = {
     105.9766
   ],
   "NB_YMO_KHANH_THUONG_3": [
-    20.175434,
-    105.97418
+    20.1754342,
+    105.974184
   ],
   "250256": [
-    20.175434,
-    105.97418
+    20.1754342,
+    105.974184
   ],
   "NB_YMO_NINH_AN_2": [
-    20.18668,
-    105.96318
+    20.186771,
+    105.963305
   ],
   "250024": [
-    20.18668,
-    105.96318
+    20.186771,
+    105.963305
   ],
   "NB_YMO_YEN_LAM_3": [
-    20.089653,
-    106.02154
+    20.090403,
+    106.022308
   ],
   "250342": [
-    20.089653,
-    106.02154
+    20.090403,
+    106.022308
   ],
   "NB_YMO_YEN_MO": [
     20.16147,
@@ -251308,588 +251286,588 @@ const coordLookup = {
     106.0059
   ],
   "NDH_GTY_GIAO_THUY": [
-    20.283037,
-    106.44082
+    20.283,
+    106.4408
   ],
   "240025": [
-    20.283037,
-    106.44082
+    20.283,
+    106.4408
   ],
   "NDH_GTY_GIAO_TIEN": [
-    20.27404,
-    106.39532
+    20.2743,
+    106.39515
   ],
   "240076": [
-    20.27404,
-    106.39532
+    20.2743,
+    106.39515
   ],
   "NDH_GTY_QUAT_LAM": [
-    20.19875,
-    106.37251
+    20.198854,
+    106.371633
   ],
   "240026": [
-    20.19875,
-    106.37251
+    20.198854,
+    106.371633
   ],
   "NDH_HHU_CON": [
-    20.125324,
+    20.12529,
     106.27936
   ],
   "240502": [
-    20.125626,
-    106.29427
+    20.12559,
+    106.2943
   ],
   "NDH_HHU_CON_3": [
-    20.134084,
-    106.27806
+    20.134,
+    106.27804
   ],
   "240086": [
-    20.134084,
-    106.27806
+    20.134,
+    106.27804
   ],
   "NDH_HHU_HAI_AN": [
-    20.14366,
-    106.19836
+    20.14371,
+    106.1983
   ],
   "240087": [
-    20.14366,
-    106.19836
+    20.14371,
+    106.1983
   ],
   "NDH_HHU_HAI_ANH": [
-    20.204172,
-    106.26509
+    20.20431,
+    106.26527
   ],
   "240088": [
-    20.204172,
-    106.26509
+    20.20431,
+    106.26527
   ],
   "NDH_HHU_HAI_BAC": [
-    20.23182,
-    106.30578
+    20.231851,
+    106.305722
   ],
   "240182": [
-    20.23182,
-    106.30578
+    20.231851,
+    106.305722
   ],
   "NDH_HHU_HAI_BAC_2": [
-    20.209149,
-    106.29458
+    20.20975,
+    106.29454
   ],
   "240089": [
-    20.209149,
-    106.29458
+    20.20975,
+    106.29454
   ],
   "NDH_HHU_HAI_CHAU_2": [
-    20.071775,
-    106.23313
+    20.07134,
+    106.23305
   ],
   "240091": [
-    20.071775,
-    106.23313
+    20.07134,
+    106.23305
   ],
   "NDH_HHU_HAI_CHAU_3": [
-    20.083587,
-    106.222
+    20.08359,
+    106.22169
   ],
   "240563": [
-    20.083587,
-    106.222
+    20.08359,
+    106.22169
   ],
   "NDH_HHU_HAI_CHINH": [
-    20.1159,
-    106.278
+    20.1161,
+    106.2785
   ],
   "240330": [
-    20.1159,
-    106.278
+    20.1161,
+    106.2785
   ],
   "NDH_HHU_HAI_CUONG": [
-    20.111234,
-    106.25128
+    20.1111,
+    106.25118
   ],
   "240092": [
-    20.111234,
-    106.25128
+    20.1111,
+    106.25118
   ],
   "NDH_HHU_HAI_DONG": [
-    20.15347,
-    106.32437
+    20.1535,
+    106.32441
   ],
   "240093": [
-    20.15347,
-    106.32437
+    20.1535,
+    106.32441
   ],
   "NDH_HHU_HAI_DUONG": [
-    20.194049,
-    106.26069
+    20.19406,
+    106.26075
   ],
   "240183": [
-    20.194049,
-    106.26069
+    20.19406,
+    106.26075
   ],
   "NDH_HHU_HAI_GIANG": [
-    20.12586,
-    106.21136
+    20.12589,
+    106.21139
   ],
   "240094": [
-    20.12586,
-    106.21136
+    20.12589,
+    106.21139
   ],
   "NDH_HHU_HAI_HAU": [
-    20.197131,
-    106.29608
+    20.19694,
+    106.2961
   ],
   "240028": [
-    20.197131,
-    106.29608
+    20.19694,
+    106.2961
   ],
   "NDH_HHU_HAI_HUNG": [
-    20.17835,
-    106.28743
+    20.17842,
+    106.2874
   ],
   "875053": [
-    20.16563,
-    106.2798
+    20.16342,
+    106.27902
   ],
   "NDH_HHU_HAI_HUNG_3": [
-    20.211103,
-    106.30597
+    20.21113,
+    106.30596
   ],
   "240185": [
-    20.211103,
-    106.30597
+    20.21113,
+    106.30596
   ],
   "NDH_HHU_HAI_HUNG_II": [
-    20.201706,
-    106.30715
+    20.20185,
+    106.3072
   ],
   "240186": [
-    20.201706,
-    106.30715
+    20.20185,
+    106.3072
   ],
   "NDH_HHU_HAI_LOC": [
-    20.185881,
-    106.33166
+    20.18539,
+    106.33167
   ],
   "240318": [
-    20.185881,
-    106.33166
+    20.18539,
+    106.33167
   ],
   "NDH_HHU_HAI_LY_2": [
-    20.125626,
-    106.29427
+    20.12559,
+    106.2943
   ],
   "NDH_HHU_HAI_MINH": [
-    20.22828,
-    106.26236
+    20.22825,
+    106.2623
   ],
   "240096": [
-    20.22828,
-    106.26236
+    20.22825,
+    106.2623
   ],
   "NDH_HHU_HAI_NAM_2": [
-    20.228259,
-    106.33505
+    20.22792,
+    106.33664
   ],
   "240188": [
-    20.228259,
-    106.33505
+    20.22792,
+    106.33664
   ],
   "NDH_HHU_HAI_PHONG": [
-    20.123,
-    106.22673
+    20.12303,
+    106.22667
   ],
   "240097": [
-    20.123,
-    106.22673
+    20.12303,
+    106.22667
   ],
   "NDH_HHU_HAI_PHUC": [
-    20.19667,
-    106.32436
+    20.19668,
+    106.32434
   ],
   "240190": [
-    20.19667,
-    106.32436
+    20.19668,
+    106.32434
   ],
   "NDH_HHU_HAI_SON": [
-    20.16052,
+    20.16056,
     106.24857
   ],
   "875054": [
-    20.16052,
+    20.16056,
     106.24857
   ],
   "NDH_HHU_HAI_TAN": [
-    20.16563,
-    106.2798
+    20.16342,
+    106.27902
   ],
   "NDH_HHU_HAI_THANH": [
-    20.193813,
-    106.30989
+    20.19395,
+    106.31007
   ],
   "240192": [
-    20.193813,
-    106.30989
+    20.19395,
+    106.31007
   ],
   "NDH_HHU_HAI_TRIEU": [
-    20.0762,
-    106.24675
+    20.07633,
+    106.2467
   ],
   "240101": [
-    20.0762,
-    106.24675
+    20.07633,
+    106.2467
   ],
   "NDH_HHU_HAI_TRIEU_2": [
-    20.088116,
-    106.27444
+    20.08808,
+    106.27449
   ],
   "240194": [
-    20.088116,
-    106.27444
+    20.08808,
+    106.27449
   ],
   "NDH_HHU_HAI_TRUNG": [
-    20.2253,
-    106.2897
+    20.22541,
+    106.28964
   ],
   "240319": [
-    20.2253,
-    106.2897
+    20.22541,
+    106.28964
   ],
   "NDH_HHU_HAI_VAN": [
-    20.230222,
-    106.32936
+    20.230336,
+    106.329264
   ],
   "240029": [
-    20.230222,
-    106.32936
+    20.230336,
+    106.329264
   ],
   "NDH_HHU_HAI_XUAN": [
-    20.103357,
-    106.26978
+    20.10332,
+    106.26974
   ],
   "240195": [
-    20.103357,
-    106.26978
+    20.10332,
+    106.26974
   ],
   "NDH_HHU_THINH_LONG": [
-    20.025016,
-    106.21753
+    20.02495,
+    106.21735
   ],
   "240030": [
-    20.025016,
-    106.21753
+    20.02495,
+    106.21735
   ],
   "NDH_HHU_THINH_LONG_2": [
-    20.04145,
-    106.21818
+    20.04151,
+    106.21828
   ],
   "240196": [
-    20.04145,
-    106.21818
+    20.04151,
+    106.21828
   ],
   "NDH_HHU_THINH_LONG_3": [
-    20.045758,
-    106.23538
+    20.04563,
+    106.23486
   ],
   "240197": [
-    20.045758,
-    106.23538
+    20.04563,
+    106.23486
   ],
   "NDH_HHU_THINH_LONG_4": [
-    20.061686,
-    106.21687
+    20.061636,
+    106.216784
   ],
   "240198": [
-    20.061686,
-    106.21687
+    20.061636,
+    106.216784
   ],
   "NDH_HHU_YEN_DINH": [
-    20.199515,
-    106.28605
+    20.19942,
+    106.28568
   ],
   "240199": [
-    20.199515,
-    106.28605
+    20.19942,
+    106.28568
   ],
   "NDH_NDH_BEN_NGU": [
-    20.42537,
-    106.17799
+    20.425577,
+    106.177549
   ],
   "240000": [
-    20.42537,
-    106.17799
+    20.425577,
+    106.177549
   ],
   "NDH_NDH_BEN_XE_NAM_DINH": [
-    20.437414,
-    106.15113
+    20.437354,
+    106.1511
   ],
   "240352": [
-    20.437414,
-    106.15113
+    20.437354,
+    106.1511
   ],
   "NDH_NDH_BUI_DANG_DOAN": [
-    20.44804,
-    106.18442
+    20.448048,
+    106.184633
   ],
   "240001": [
-    20.44804,
-    106.18442
+    20.448048,
+    106.184633
   ],
   "NDH_NDH_BV_TINH_THUONG": [
-    20.44587,
-    106.19962
+    20.445956,
+    106.199606
   ],
   "240373": [
-    20.44587,
-    106.19962
+    20.445956,
+    106.199606
   ],
   "NDH_NDH_CA_THANH_PHO_NAM_DINH": [
-    20.439192,
-    106.17555
+    20.438968,
+    106.175566
   ],
   "240701": [
-    20.439192,
-    106.17555
+    20.438968,
+    106.175566
   ],
   "NDH_NDH_CA_TINH_NAM_DINH": [
-    20.4469,
-    106.16259
+    20.446646,
+    106.162436
   ],
   "240603": [
-    20.4469,
-    106.16259
+    20.446646,
+    106.162436
   ],
   "NDH_NDH_CAU_OC": [
-    20.436213,
-    106.14004
+    20.436235,
+    106.140014
   ],
   "240209": [
-    20.436213,
-    106.14004
+    20.436235,
+    106.140014
   ],
   "NDH_NDH_CHO_DAU_MOI": [
-    20.422439,
-    106.15315
+    20.422398,
+    106.153207
   ],
   "240031": [
-    20.422439,
-    106.15315
+    20.422398,
+    106.153207
   ],
   "NDH_NDH_DE_TU": [
-    20.45355,
-    106.18243
+    20.45359,
+    106.18242
   ],
   "240210": [
-    20.45355,
-    106.18243
+    20.45359,
+    106.18242
   ],
   "NDH_NDH_DEN_TRAN_3": [
-    20.44934,
-    106.16122
+    20.44953,
+    106.1613
   ],
   "240106": [
-    20.44934,
-    106.16122
+    20.44953,
+    106.1613
   ],
   "NDH_NDH_DIEN_BIEN": [
-    20.42904,
-    106.1657
+    20.428516,
+    106.165546
   ],
   "240003": [
-    20.42904,
-    106.1657
+    20.428516,
+    106.165546
   ],
   "NDH_NDH_DO_MANH_DAO": [
-    20.427283,
-    106.15729
+    20.427349,
+    106.157389
   ],
   "240571": [
-    20.427283,
-    106.15729
+    20.427349,
+    106.157389
   ],
   "NDH_NDH_DOC_LO_CHAU": [
-    20.431971,
-    106.17175
+    20.43164,
+    106.17174
   ],
   "240107": [
-    20.431971,
-    106.17175
+    20.43164,
+    106.17174
   ],
   "NDH_NDH_DUONG_KENH": [
-    20.43134,
-    106.1613
+    20.431383,
+    106.161365
   ],
   "240108": [
-    20.43134,
-    106.1613
+    20.431383,
+    106.161365
   ],
   "NDH_NDH_GIAI_PHONG": [
-    20.42854,
-    106.16024
+    20.42863,
+    106.16028
   ],
   "240505": [
-    20.42854,
-    106.16024
+    20.42863,
+    106.16028
   ],
   "NDH_NDH_HA_LONG_3": [
-    20.44459,
-    106.19538
+    20.444141,
+    106.19534
   ],
   "240112": [
     20.44036,
     106.18886
   ],
   "NDH_NDH_HA_LONG_4": [
-    20.441113,
-    106.18165
+    20.441146,
+    106.181671
   ],
   "240356": [
-    20.441113,
-    106.18165
+    20.441146,
+    106.181671
   ],
   "NDH_NDH_HA_LONG_5": [
-    20.445423,
-    106.1835
+    20.44546,
+    106.183498
   ],
   "240548": [
-    20.445423,
-    106.1835
+    20.44546,
+    106.183498
   ],
   "NDH_NDH_HUNG_VUONG": [
-    20.43518,
-    106.18295
+    20.434313,
+    106.183673
   ],
   "240021": [
-    20.43518,
-    106.18295
+    20.434313,
+    106.183673
   ],
   "NDH_NDH_KCN_AN_XA": [
-    20.407026,
-    106.15021
+    20.4069,
+    106.1502
   ],
   "875097": [
-    20.407026,
-    106.15021
+    20.4069,
+    106.1502
   ],
   "NDH_NDH_KCN_AN_XA_2": [
-    20.393378,
-    106.14774
+    20.393468,
+    106.1478
   ],
   "240584": [
-    20.393378,
-    106.14774
+    20.393468,
+    106.1478
   ],
   "NDH_NDH_KCN_HOA_XA": [
-    20.4354,
-    106.16344
+    20.435375,
+    106.163513
   ],
   "240007": [
-    20.4354,
-    106.16344
+    20.435375,
+    106.163513
   ],
   "NDH_NDH_KCN_HOA_XA_2": [
-    20.43061,
-    106.14828
+    20.430666,
+    106.148388
   ],
   "240329": [
-    20.43061,
-    106.14828
+    20.430666,
+    106.148388
   ],
   "NDH_NDH_LE_HONG_PHONG": [
-    20.42917,
-    106.182
+    20.42891,
+    106.1818
   ],
   "240216": [
-    20.42917,
-    106.182
+    20.42891,
+    106.1818
   ],
   "NDH_NDH_LOC_VUONG": [
-    20.44793,
-    106.17045
+    20.448093,
+    106.171281
   ],
   "240109": [
-    20.44793,
-    106.17045
+    20.448093,
+    106.171281
   ],
   "NDH_NDH_MAI_XA": [
-    20.40564,
-    106.13761
+    20.405556,
+    106.137583
   ],
   "875098": [
-    20.40564,
-    106.13761
+    20.405556,
+    106.137583
   ],
   "NDH_NDH_MY_XA": [
-    20.40564,
-    106.13761
+    20.41122,
+    106.14535
   ],
   "240010": [
-    20.40564,
-    106.13761
+    20.41122,
+    106.14535
   ],
   "NDH_NDH_MY_XA_2": [
-    20.42421,
-    106.14163
+    20.424156,
+    106.141809
   ],
   "240217": [
-    20.42421,
-    106.14163
+    20.424156,
+    106.141809
   ],
   "NDH_NDH_MY_XA_3": [
-    20.4175,
-    106.15933
+    20.417696,
+    106.159373
   ],
   "240386": [
-    20.4175,
-    106.15933
+    20.417696,
+    106.159373
   ],
   "NDH_NDH_NAM_DINH_2": [
-    20.44515,
-    106.17927
+    20.445126,
+    106.179283
   ],
   "240011": [
-    20.44515,
-    106.17927
+    20.445126,
+    106.179283
   ],
   "NDH_NDH_NAM_DINH_III": [
-    20.41381,
-    106.15446
+    20.413869,
+    106.154428
   ],
   "240219": [
-    20.41381,
-    106.15446
+    20.413869,
+    106.154428
   ],
   "NDH_NDH_NAM_VAN": [
-    20.39799,
-    106.18171
+    20.397709,
+    106.182055
   ],
   "240035": [
-    20.39799,
-    106.18171
+    20.397709,
+    106.182055
   ],
   "NDH_NDH_NGO_GIA_TU": [
-    20.434692,
-    106.17501
+    20.434771,
+    106.175443
   ],
   "240110": [
-    20.434692,
-    106.17501
+    20.434771,
+    106.175443
   ],
   "NDH_NDH_NGUYEN_BINH": [
-    20.413128,
-    106.15939
+    20.413176,
+    106.159508
   ],
   "240223": [
-    20.413128,
-    106.15939
+    20.413176,
+    106.159508
   ],
   "NDH_NDH_NGUYEN_KHUYEN_2": [
-    20.42332,
-    106.16114
+    20.423218,
+    106.161146
   ],
   "240224": [
-    20.42332,
-    106.16114
+    20.423218,
+    106.161146
   ],
   "NDH_NDH_NGUYEN_VAN_TROI": [
     20.4174,
@@ -251900,12 +251878,12 @@ const coordLookup = {
     106.17065
   ],
   "NDH_NDH_PHAM_NGU_LAO": [
-    20.424578,
-    106.14892
+    20.424527,
+    106.148865
   ],
   "875152": [
-    20.424578,
-    106.14892
+    20.424527,
+    106.148865
   ],
   "NDH_NDH_PSDT_KCN_HOA_XA_4": [
     20.416733,
@@ -251917,19 +251895,19 @@ const coordLookup = {
   ],
   "NDH_NDH_PSDT_KCN_HOA_XA_5": [
     20.420708,
-    106.13644
+    106.136437
   ],
   "240321": [
     20.420708,
-    106.13644
+    106.136437
   ],
   "NDH_NDH_PSDT_KCN_HOA_XA_6": [
     20.412147,
-    106.13932
+    106.139318
   ],
   "240027": [
     20.412147,
-    106.13932
+    106.139318
   ],
   "NDH_NDH_SO_XAY_DUNG": [
     20.44062,
@@ -251940,52 +251918,52 @@ const coordLookup = {
     106.17805
   ],
   "NDH_NDH_TAY_NAM_DINH": [
-    20.41282,
-    106.16561
+    20.412888,
+    106.16551
   ],
   "240017": [
-    20.41282,
-    106.16561
+    20.412888,
+    106.16551
   ],
   "NDH_NDH_TC_DAY_NGHE": [
-    20.426726,
-    106.17009
+    20.4267,
+    106.1702
   ],
   "240037": [
-    20.426726,
-    106.17009
+    20.4267,
+    106.1702
   ],
   "NDH_NDH_TO_HIEN_THANH": [
-    20.418719,
-    106.15408
+    20.4187,
+    106.154131
   ],
   "240018": [
-    20.418719,
-    106.15408
+    20.4187,
+    106.154131
   ],
   "NDH_NDH_TRAN_NHAN_TONG_3": [
-    20.43381,
-    106.18789
+    20.43393,
+    106.1878
   ],
   "240111": [
-    20.43381,
-    106.18789
+    20.43393,
+    106.1878
   ],
   "NDH_NDH_TRAN_NHAN_TONG_4": [
-    20.42144,
-    106.17894
+    20.421475,
+    106.178924
   ],
   "240522": [
-    20.42144,
-    106.17894
+    20.421475,
+    106.178924
   ],
   "NDH_NDH_TRAN_QUANG_KHAI_2": [
-    20.41005,
-    106.16697
+    20.41004,
+    106.166914
   ],
   "240364": [
-    20.41005,
-    106.16697
+    20.41004,
+    106.166914
   ],
   "NDH_NDH_TRAN_TE_XUONG_2": [
     20.43788,
@@ -252000,12 +251978,12 @@ const coordLookup = {
     106.18886
   ],
   "NDH_NDH_TRAN_THAI_TONG": [
-    20.443008,
-    106.17354
+    20.44301,
+    106.17355
   ],
   "240226": [
-    20.443008,
-    106.17354
+    20.44301,
+    106.17355
   ],
   "NDH_NDH_TRUONG_THI": [
     20.41854,
@@ -252024,12 +252002,12 @@ const coordLookup = {
     106.15945
   ],
   "NDH_NDH_VAN_MIEU": [
-    20.41659,
-    106.14961
+    20.41658,
+    106.1496
   ],
   "240367": [
-    20.41659,
-    106.14961
+    20.41658,
+    106.1496
   ],
   "NDH_NDH_VU_TRONG_PHUNG": [
     20.44953,
@@ -252040,140 +252018,140 @@ const coordLookup = {
     106.17628
   ],
   "NDH_NHG_NGHIA_MINH": [
-    20.25953,
-    106.12036
+    20.2596,
+    106.120327
   ],
   "240240": [
-    20.25953,
-    106.12036
+    20.2596,
+    106.120327
   ],
   "NDH_NTC_NAM_GIANG_2": [
-    20.33774,
-    106.17654
+    20.33767,
+    106.1764
   ],
   "240131": [
-    20.33774,
-    106.17654
+    20.33767,
+    106.1764
   ],
   "NDH_NTC_NAM_TRUC": [
-    20.331539,
-    106.17635
+    20.33157,
+    106.17615
   ],
   "240042": [
-    20.331539,
-    106.17635
+    20.33157,
+    106.17615
   ],
   "NDH_TNH_CAU_VO_TINH": [
-    20.30095,
-    106.27993
+    20.301014,
+    106.280432
   ],
   "240032": [
-    20.30095,
-    106.27993
+    20.301014,
+    106.280432
   ],
   "NDH_TNH_TRUC_DAI_2": [
-    20.2068,
-    106.24117
+    20.20684,
+    106.24114
   ],
   "875106": [
-    20.2068,
-    106.24117
+    20.20684,
+    106.24114
   ],
   "NDH_TNH_TRUC_PHU": [
     20.19902,
-    106.20685
+    106.2068
   ],
   "240144": [
     20.19902,
-    106.20685
+    106.2068
   ],
   "NDH_VBN_KCN_BAO_MINH": [
-    20.34843,
-    106.10746
+    20.34821,
+    106.10755
   ],
   "240151": [
-    20.34843,
-    106.10746
+    20.34821,
+    106.10755
   ],
   "NDH_VBN_KCN_BAO_MINH_4": [
-    20.353789,
-    106.11419
+    20.35364,
+    106.114494
   ],
   "240396": [
-    20.353789,
-    106.11419
+    20.35364,
+    106.114494
   ],
   "NDH_VBN_LIEN_BAO": [
-    20.36135,
-    106.11013
+    20.361389,
+    106.110085
   ],
   "240286": [
-    20.36135,
-    106.11013
+    20.361389,
+    106.110085
   ],
   "NDH_VBN_PSDT_KCN_BAO_MINH_5": [
-    20.34799,
-    106.0999
+    20.347904,
+    106.099833
   ],
   "240177": [
-    20.34799,
-    106.0999
+    20.347904,
+    106.099833
   ],
   "NDH_XTG_THO_NGHIEP": [
-    20.29716,
-    106.38249
+    20.29701,
+    106.3824
   ],
   "240043": [
-    20.29716,
-    106.38249
+    20.29701,
+    106.3824
   ],
   "NDH_XTG_XUAN_PHUONG": [
-    20.30039,
-    106.36586
+    20.30052,
+    106.3657
   ],
   "240047": [
-    20.30039,
-    106.36586
+    20.30052,
+    106.3657
   ],
   "NDH_XTG_XUAN_TIEN": [
-    20.2678,
-    106.33907
+    20.267917,
+    106.33913
   ],
   "240048": [
-    20.2678,
-    106.33907
+    20.267917,
+    106.33913
   ],
   "NDH_YYN_TT_LAM": [
-    20.32665,
-    106.01346
+    20.326685,
+    106.013561
   ],
   "240165": [
-    20.32665,
-    106.01346
+    20.326685,
+    106.013561
   ],
   "NDH_YYN_YEN_DUONG": [
-    20.35617,
-    106.04422
+    20.356511,
+    106.046269
   ],
   "240172": [
-    20.35617,
-    106.04422
+    20.356511,
+    106.046269
   ],
   "PT_LTO_CD_HOA_CHAT": [
-    21.39037,
-    105.2975
+    21.39016,
+    105.29836
   ],
   "874116": [
-    21.39037,
-    105.2975
+    21.39016,
+    105.29836
   ],
   "PT_LTO_LAM_THAO": [
-    21.31958,
-    105.2848
+    21.32079,
+    105.2837
   ],
   "260031": [
-    21.31958,
-    105.2848
+    21.32079,
+    105.2837
   ],
   "PT_DHG_PHUONG_HUNG_CRAN": [
     21.659817,
@@ -252184,52 +252162,52 @@ const coordLookup = {
     105.207335
   ],
   "PT_PNH_BAI_BANG": [
-    21.40673,
-    105.3141
+    21.404837,
+    105.3144
   ],
   "260035": [
-    21.40673,
-    105.3141
+    21.404837,
+    105.3144
   ],
   "PT_PNH_BEN_THEN": [
-    21.412345,
-    105.38432
+    21.412267,
+    105.384249
   ],
   "260037": [
-    21.412345,
-    105.38432
+    21.412267,
+    105.384249
   ],
   "PT_PNH_DONG_LANG": [
-    21.38345,
-    105.33976
+    21.38344,
+    105.34
   ],
   "260099": [
-    21.38345,
-    105.33976
+    21.38344,
+    105.34
   ],
   "PT_PTO_HA_LOC_2": [
-    21.416124,
-    105.23843
+    21.41614,
+    105.2388
   ],
   "260047": [
-    21.416124,
-    105.23843
+    21.41614,
+    105.2388
   ],
   "PT_PTO_HA_LOC_3": [
-    21.426639,
-    105.24111
+    21.42664,
+    105.24112
   ],
   "260379": [
-    21.419325,
-    105.24223
+    21.41903,
+    105.2422
   ],
   "PT_PTO_HA_THACH_4": [
-    21.414639,
-    105.25285
+    21.41492,
+    105.25312
   ],
   "260325": [
-    21.414639,
-    105.25285
+    21.41492,
+    105.25312
   ],
   "PT_TSN_THUONG_CUU": [
     20.98178,
@@ -252240,40 +252218,40 @@ const coordLookup = {
     105.1276
   ],
   "PT_PTO_KCN_PHU_HA": [
-    21.419325,
-    105.24223
+    21.41903,
+    105.2422
   ],
   "PT_PTO_PHU_HO": [
-    21.454271,
-    105.24327
+    21.45241,
+    105.24316
   ],
   "260048": [
-    21.454271,
-    105.24327
+    21.45241,
+    105.24316
   ],
   "PT_PTO_PHU_HO_2": [
-    21.428399,
-    105.25613
+    21.428264,
+    105.257122
   ],
   "260049": [
-    21.428399,
-    105.25613
+    21.428264,
+    105.257122
   ],
   "PT_PTO_PHU_HO_3": [
-    21.446,
-    105.235
+    21.44586,
+    105.23417
   ],
   "260050": [
-    21.446,
-    105.235
+    21.44586,
+    105.23417
   ],
   "PT_PTO_THANH_VINH": [
-    21.39956,
-    105.1874
+    21.39954,
+    105.18744
   ],
   "260052": [
-    21.39956,
-    105.1874
+    21.39954,
+    105.18744
   ],
   "PT_CKE_SONG_THAO": [
     21.42216,
@@ -252284,20 +252262,20 @@ const coordLookup = {
     105.1323
   ],
   "PT_PTO_TRUONG_THINH_2": [
-    21.39248,
-    105.21162
+    21.3925,
+    105.21178
   ],
   "260053": [
-    21.39248,
-    105.21162
+    21.3925,
+    105.21178
   ],
   "PT_VTI_BA_HA": [
-    21.30177,
-    105.44767
+    21.30184,
+    105.4475
   ],
   "260152": [
-    21.30177,
-    105.44767
+    21.30184,
+    105.4475
   ],
   "PT_TTY_WYNDHAM_THANH_THUY": [
     21.154519,
@@ -252324,36 +252302,36 @@ const coordLookup = {
     105.4323
   ],
   "PT_VTI_CHU_HOA": [
-    21.34262,
-    105.3044
+    21.34265,
+    105.30447
   ],
   "260075": [
-    21.34262,
-    105.3044
+    21.34265,
+    105.30447
   ],
   "PT_VTI_CN_PHU_NINH": [
-    21.359291,
-    105.35136
+    21.359492,
+    105.351875
   ],
   "260000": [
-    21.359291,
-    105.35136
+    21.359492,
+    105.351875
   ],
   "PT_VTI_CN_THUY_VAN": [
-    21.3192,
-    105.349
+    21.31964,
+    105.3486
   ],
   "260076": [
-    21.3192,
-    105.349
+    21.31964,
+    105.3486
   ],
   "PT_VTI_CONG_QUAN": [
-    21.36447,
-    105.3208
+    21.363719,
+    105.316422
   ],
   "260174": [
-    21.36447,
-    105.3208
+    21.363719,
+    105.316422
   ],
   "PT_VTI_DEN_HUNG": [
     21.34369,
@@ -252364,52 +252342,52 @@ const coordLookup = {
     105.3623
   ],
   "PT_VTI_DEN_HUNG_2": [
-    21.35087,
-    105.35787
+    21.350816,
+    105.357906
   ],
   "260077": [
-    21.35087,
-    105.35787
+    21.350816,
+    105.357906
   ],
   "PT_VTI_DEN_HUNG_PT": [
-    21.36866,
-    105.3446
+    21.36862,
+    105.345
   ],
   "260002": [
-    21.36866,
-    105.3446
+    21.36862,
+    105.345
   ],
   "PT_VTI_DEN_HUNG_PT_CRAN": [
-    21.378041,
-    105.33355
+    21.377832,
+    105.334394
   ],
   "260341": [
-    21.378041,
-    105.33355
+    21.377832,
+    105.334394
   ],
   "PT_VTI_DET_VIET_TRI": [
-    21.330879,
-    105.37916
+    21.3308791,
+    105.379158
   ],
   "874125": [
-    21.330879,
-    105.37916
+    21.3308791,
+    105.379158
   ],
   "PT_VTI_DH_HUNG_VUONG": [
-    21.337718,
-    105.38244
+    21.3377181,
+    105.382439
   ],
   "874230": [
-    21.337718,
-    105.38244
+    21.3377181,
+    105.382439
   ],
   "PT_VTI_DINH_TIEN_HOANG": [
-    21.327505,
-    105.38147
+    21.3275053,
+    105.381474
   ],
   "260342": [
-    21.327505,
-    105.38147
+    21.3275053,
+    105.381474
   ],
   "PT_VTI_DUU_LAU": [
     21.33953,
@@ -252436,12 +252414,12 @@ const coordLookup = {
     105.3912
   ],
   "PT_VTI_GIA_CAM_3": [
-    21.323743,
-    105.38319
+    21.3237425,
+    105.383186
   ],
   "260007": [
-    21.323743,
-    105.38319
+    21.3237425,
+    105.383186
   ],
   "PT_VTI_HOA_PHONG": [
     21.32823,
@@ -252452,20 +252430,20 @@ const coordLookup = {
     105.38721
   ],
   "PT_VTI_KIM_DUC": [
-    21.37376,
-    105.36759
+    21.37373,
+    105.3676
   ],
   "260079": [
-    21.37376,
-    105.36759
+    21.37373,
+    105.3676
   ],
   "PT_VTI_KIM_DUC_3": [
-    21.388661,
-    105.36418
+    21.38863,
+    105.3642
   ],
   "260418": [
-    21.388661,
-    105.36418
+    21.38863,
+    105.3642
   ],
   "PT_VTI_LAC_LONG_QUAN": [
     21.30609,
@@ -252492,48 +252470,48 @@ const coordLookup = {
     105.4255
   ],
   "PT_VTI_PHUONG_LAU": [
-    21.360409,
-    105.38236
+    21.36039,
+    105.3825
   ],
   "260176": [
-    21.360409,
-    105.38236
+    21.36039,
+    105.3825
   ],
   "PT_VTI_PSDT_KCN_THUY_VAN_1": [
     21.340744,
-    105.33493
+    105.334934
   ],
   "260400": [
     21.339213,
-    105.34009
+    105.340094
   ],
   "PT_VTI_PSDT_KCN_THUY_VAN_3": [
     21.339213,
-    105.34009
+    105.340094
   ],
   "PT_VTI_PSDT_KCN_THUY_VAN_4": [
     21.342561,
-    105.35213
+    105.352132
   ],
   "260401": [
     21.342561,
-    105.35213
+    105.352132
   ],
   "PT_VTI_SONG_LO_2": [
-    21.307298,
-    105.43
+    21.3072984,
+    105.430005
   ],
   "260177": [
-    21.307298,
-    105.43
+    21.3072984,
+    105.430005
   ],
   "PT_VTI_SONG_LO_3": [
-    21.3231,
-    105.4378
+    21.32193,
+    105.4395
   ],
   "260159": [
-    21.3231,
-    105.4378
+    21.32193,
+    105.4395
   ],
   "PT_VTI_TAN_DAN": [
     21.32358,
@@ -252564,20 +252542,20 @@ const coordLookup = {
     105.42249
   ],
   "PT_VTI_THI_DUA": [
-    21.314203,
-    105.40628
+    21.3142032,
+    105.406276
   ],
   "260179": [
-    21.314203,
-    105.40628
+    21.3142032,
+    105.406276
   ],
   "PT_VTI_THO_SON": [
-    21.30416,
-    105.41398
+    21.30428,
+    105.414
   ],
   "260013": [
-    21.30416,
-    105.41398
+    21.30428,
+    105.414
   ],
   "PT_VTI_DEN_GIENG": [
     21.36655,
@@ -252609,19 +252587,19 @@ const coordLookup = {
   ],
   "PT_VTI_TOA_AN_TINH": [
     21.323808,
-    105.39434
+    105.394343
   ],
   "260355": [
     21.323808,
-    105.39434
+    105.394343
   ],
   "PT_VTI_TOA_NHA_MOBIFONE": [
-    21.312334,
-    105.41605
+    21.31228,
+    105.416
   ],
   "874129": [
-    21.312334,
-    105.41605
+    21.31228,
+    105.416
   ],
   "PT_VTI_TRAM_SAO": [
     21.32713,
@@ -252637,19 +252615,19 @@ const coordLookup = {
   ],
   "PT_VTI_VAN_CO_4": [
     21.342185,
-    105.37737
+    105.377373
   ],
   "874232": [
     21.342185,
-    105.37737
+    105.377373
   ],
   "PT_VTI_VIET_TRI_3": [
-    21.320626,
-    105.40626
+    21.320212,
+    105.406327
   ],
   "260019": [
-    21.320626,
-    105.40626
+    21.320212,
+    105.406327
   ],
   "QB_BTH_CU_NAM_2": [
     17.6219,
@@ -252700,20 +252678,20 @@ const coordLookup = {
     106.337
   ],
   "QB_BTH_HUNG_TRACH_4": [
-    17.623637,
-    106.34325
+    17.6236374,
+    106.343246
   ],
   "450083": [
-    17.623637,
-    106.34325
+    17.6236374,
+    106.343246
   ],
   "QB_BTH_LAM_TRACH_2": [
-    17.686937,
-    106.33338
+    17.6869366,
+    106.333377
   ],
   "450200": [
-    17.686937,
-    106.33338
+    17.6869366,
+    106.333377
   ],
   "QB_BTH_LY_TRACH_2": [
     17.52012,
@@ -252725,19 +252703,19 @@ const coordLookup = {
   ],
   "QB_BTH_NT_VIET_TRUNG_4": [
     17.469613,
-    106.51073
+    106.510732
   ],
   "450089": [
     17.469613,
-    106.51073
+    106.510732
   ],
   "QB_BTH_NT_VIET_TRUNG_6": [
     17.482893,
-    106.50968
+    106.509679
   ],
   "450312": [
     17.482893,
-    106.50968
+    106.509679
   ],
   "QB_BTH_PHONG_NHA_3": [
     17.60018,
@@ -252748,20 +252726,20 @@ const coordLookup = {
     106.29616
   ],
   "QB_BTH_PHU_DINH": [
-    17.58437,
-    106.43477
+    17.5843696,
+    106.434767
   ],
   "450090": [
-    17.58437,
-    106.43477
+    17.5843696,
+    106.434767
   ],
   "QB_BTH_PHU_DINH_2": [
     17.598027,
-    106.41838
+    106.418382
   ],
   "870152": [
     17.598027,
-    106.41838
+    106.418382
   ],
   "QB_BTH_PHUC_TRACH": [
     17.648109,
@@ -252773,19 +252751,19 @@ const coordLookup = {
   ],
   "QB_BTH_PHUC_TRACH_4": [
     17.649077,
-    106.27831
+    106.278313
   ],
   "450316": [
     17.649077,
-    106.27831
+    106.278313
   ],
   "QB_BTH_PHUC_TRACH_6": [
-    17.64707,
-    106.31419
+    17.6470696,
+    106.314189
   ],
   "450401": [
-    17.64707,
-    106.31419
+    17.6470696,
+    106.314189
   ],
   "QB_BTH_SON_TRACH": [
     17.61143,
@@ -252812,28 +252790,28 @@ const coordLookup = {
     106.48574
   ],
   "QB_BTH_TAY_TRACH_2": [
-    17.640518,
-    106.30683
+    17.6405177,
+    106.306832
   ],
   "450095": [
-    17.640518,
-    106.30683
+    17.6405177,
+    106.306832
   ],
   "QB_BTH_XUAN_TRACH_2": [
-    17.663715,
-    106.25222
+    17.6637146,
+    106.252221
   ],
   "450100": [
-    17.663715,
-    106.25222
+    17.6637146,
+    106.252221
   ],
   "QB_DHI_BAC_LY": [
     17.473213,
-    106.59152
+    106.591523
   ],
   "450000": [
     17.473213,
-    106.59152
+    106.591523
   ],
   "QB_DHI_BAC_LY_2_01R": [
     17.48352,
@@ -252885,11 +252863,11 @@ const coordLookup = {
   ],
   "QB_DHI_DONG_HAI_2": [
     17.474887,
-    106.62289
+    106.622885
   ],
   "450402": [
     17.474887,
-    106.62289
+    106.622885
   ],
   "QB_DHI_DONG_PHU_2": [
     17.4704,
@@ -252952,20 +252930,20 @@ const coordLookup = {
     106.60268
   ],
   "450219": [
-    17.47369,
-    106.59966
+    17.473689,
+    106.599661
   ],
   "QB_DHI_HUU_NGHI_3": [
-    17.474741,
-    106.601
+    17.474218,
+    106.601261
   ],
   "450017": [
     17.47672,
     106.59859
   ],
   "QB_DHI_HUU_NGHI_4": [
-    17.47369,
-    106.59966
+    17.473689,
+    106.599661
   ],
   "QB_DHI_KCN_TAY_BAC_2": [
     17.48437,
@@ -252988,12 +252966,12 @@ const coordLookup = {
     106.62679
   ],
   "QB_DHI_LOC_NINH_2": [
-    17.503892,
-    106.58642
+    17.5038917,
+    106.586419
   ],
   "450014": [
-    17.503892,
-    106.58642
+    17.5038917,
+    106.586419
   ],
   "QB_DHI_LY_THUONG_KIET": [
     17.4813,
@@ -253057,11 +253035,11 @@ const coordLookup = {
   ],
   "QB_DHI_TRAI_GIAM_DONG_SON": [
     17.441902,
-    106.56252
+    106.562519
   ],
   "450590": [
     17.441902,
-    106.56252
+    106.562519
   ],
   "QB_DHI_VO_NGUYEN_GIAP_2": [
     17.47126,
@@ -253073,11 +253051,11 @@ const coordLookup = {
   ],
   "QB_DHI_VOV_DONG_HOI": [
     17.468511,
-    106.61243
+    106.612432
   ],
   "450518": [
     17.468511,
-    106.61243
+    106.612432
   ],
   "QB_LTY_CAM_THUY": [
     17.24806,
@@ -253096,12 +253074,12 @@ const coordLookup = {
     106.82589
   ],
   "QB_LTY_DUONG_THUY_2": [
-    17.165493,
-    106.84684
+    17.1654932,
+    106.846839
   ],
   "870157": [
-    17.165493,
-    106.84684
+    17.1654932,
+    106.846839
   ],
   "QB_LTY_HO_XUAN_HUONG_2": [
     17.22121,
@@ -253120,12 +253098,12 @@ const coordLookup = {
     106.75798
   ],
   "QB_QTH_QUANG_DONG_3": [
-    17.96057,
-    106.49734
+    17.96058,
+    106.497652
   ],
   "450163": [
-    17.96057,
-    106.49734
+    17.96058,
+    106.497652
   ],
   "QB_LTY_HUNG_THUY": [
     17.21464,
@@ -253145,11 +253123,11 @@ const coordLookup = {
   ],
   "QB_LTY_HUNG_THUY_3": [
     17.227685,
-    106.84451
+    106.844514
   ],
   "450337": [
     17.227685,
-    106.84451
+    106.844514
   ],
   "QB_LTY_KIEN_GIANG": [
     17.22355,
@@ -253192,28 +253170,28 @@ const coordLookup = {
     106.78275
   ],
   "QB_LTY_PHU_THUY_2": [
-    17.199764,
-    106.71966
+    17.1997636,
+    106.719662
   ],
   "450123": [
-    17.199764,
-    106.71966
+    17.1997636,
+    106.719662
   ],
   "QB_LTY_SEN_THUY_2": [
-    17.144964,
-    106.93962
+    17.1449639,
+    106.939623
   ],
   "450125": [
-    17.144964,
-    106.93962
+    17.1449639,
+    106.939623
   ],
   "QB_LTY_SEN_THUY_5": [
     17.161887,
-    106.93023
+    106.930233
   ],
   "450230": [
     17.161887,
-    106.93023
+    106.930233
   ],
   "QB_LTY_TAN_THUY": [
     17.18686,
@@ -253224,12 +253202,12 @@ const coordLookup = {
     106.85318
   ],
   "QB_LTY_TAN_THUY_3": [
-    17.202767,
-    106.84288
+    17.2027668,
+    106.842882
   ],
   "870162": [
-    17.202767,
-    106.84288
+    17.2027668,
+    106.842882
   ],
   "QB_LTY_THAI_THUY": [
     17.1503,
@@ -253240,12 +253218,12 @@ const coordLookup = {
     106.859
   ],
   "QB_LTY_THAI_THUY_2": [
-    17.136996,
-    106.86682
+    17.1369961,
+    106.866819
   ],
   "450349": [
-    17.136996,
-    106.86682
+    17.1369961,
+    106.866819
   ],
   "QB_MHA_QUY_DAT": [
     17.80759,
@@ -253265,35 +253243,35 @@ const coordLookup = {
   ],
   "SL_SLA_CA_TINH": [
     21.272694,
-    103.98118
+    103.981176
   ],
   "270400": [
     21.272694,
-    103.98118
+    103.981176
   ],
   "SL_SLA_CHIENG_AN": [
-    21.34921,
-    103.91717
+    21.3492102,
+    103.917166
   ],
   "270021": [
-    21.350613,
-    103.9115
+    21.3506125,
+    103.911499
   ],
   "SL_SLA_CHIENG_COI": [
     21.316359,
-    103.91635
+    103.916346
   ],
   "270031": [
-    21.322131,
-    103.9199
+    21.3221307,
+    103.919895
   ],
   "SL_SLA_CHIENG_LE": [
-    21.34454,
-    103.91019
+    21.3445397,
+    103.910195
   ],
   "270012": [
-    21.34454,
-    103.91019
+    21.3445397,
+    103.910195
   ],
   "SL_SLA_CHIENG_NGAN": [
     21.286254,
@@ -253317,7 +253295,7 @@ const coordLookup = {
   ],
   "270022": [
     21.300436,
-    103.95062
+    103.950624
   ],
   "SL_SLA_DH_TAY_BAC": [
     21.30519,
@@ -253329,51 +253307,51 @@ const coordLookup = {
   ],
   "SL_SLA_DH_TAY_BAC_2": [
     21.314246,
-    103.9448
+    103.944796
   ],
   "270019": [
     21.314246,
-    103.9448
+    103.944796
   ],
   "SL_SLA_DH_TAY_BAC_3": [
     21.308774,
-    103.94055
+    103.940554
   ],
   "270020": [
     21.308774,
-    103.94055
+    103.940554
   ],
   "SL_SLA_HUOI_HIN": [
-    21.327515,
-    103.92512
+    21.3275146,
+    103.925122
   ],
   "270062": [
-    21.327515,
-    103.92512
+    21.3275146,
+    103.925122
   ],
   "SL_SLA_LO_VAN_GIA": [
-    21.350613,
-    103.9115
+    21.3506125,
+    103.911499
   ],
   "SL_SLA_NA_CAN": [
     21.300436,
-    103.95062
+    103.950624
   ],
   "SL_SLA_NGA_3_MAI_SON": [
     21.268021,
-    103.9784
+    103.978398
   ],
   "874255": [
     21.268021,
-    103.9784
+    103.978398
   ],
   "SL_SLA_SON_LA": [
-    21.327131,
-    103.9121
+    21.3271311,
+    103.912101
   ],
   "270025": [
-    21.327131,
-    103.9121
+    21.3271311,
+    103.912101
   ],
   "SL_SLA_SON_LA_2": [
     21.29326,
@@ -253384,308 +253362,308 @@ const coordLookup = {
     103.95811
   ],
   "SL_SLA_TRAN_DANG_NINH": [
-    21.322131,
-    103.9199
+    21.3221307,
+    103.919895
   ],
   "TBH_DHG_CAU_NGUYEN": [
-    20.56758,
-    106.3535
+    20.56505,
+    106.3534
   ],
   "400157": [
-    20.56758,
-    106.3535
+    20.56505,
+    106.3534
   ],
   "TBH_DHG_DONG_DONG": [
-    20.53381,
-    106.3646
+    20.53382,
+    106.36471
   ],
   "400020": [
-    20.519819,
-    106.36574
+    20.51982,
+    106.36578
   ],
   "TBH_DHG_DONG_HUNG": [
-    20.55839,
-    106.3543
+    20.5583,
+    106.3544
   ],
   "400021": [
-    20.55839,
-    106.3543
+    20.5583,
+    106.3544
   ],
   "TBH_DHG_DONG_HUNG_2": [
-    20.549911,
-    106.35477
+    20.54931,
+    106.35478
   ],
   "400579": [
-    20.549911,
-    106.35477
+    20.54931,
+    106.35478
   ],
   "TBH_DHG_DONG_PHUONG": [
-    20.581791,
-    106.39667
+    20.58188,
+    106.39659
   ],
   "400110": [
-    20.581791,
-    106.39667
+    20.58188,
+    106.39659
   ],
   "TBH_DHG_DONG_XUAN": [
-    20.51136,
-    106.3629
+    20.511393,
+    106.362857
   ],
   "400022": [
-    20.51136,
-    106.3629
+    20.511393,
+    106.362857
   ],
   "TBH_DHG_KCN_DONG_XUAN": [
-    20.519819,
-    106.36574
+    20.51982,
+    106.36578
   ],
   "TBH_DHG_THUY_THANH": [
-    20.495984,
-    106.3609
+    20.496387,
+    106.360789
   ],
   "400043": [
-    20.495984,
-    106.3609
+    20.496387,
+    106.360789
   ],
   "TBH_HHA_HUNG_HA": [
-    20.5899,
-    106.226
+    20.589944,
+    106.225507
   ],
   "400056": [
-    20.5899,
-    106.226
+    20.589944,
+    106.225507
   ],
   "TBH_HHA_HUNG_HA_4": [
-    20.58578,
-    106.2317
+    20.58695,
+    106.22916
   ],
   "400057": [
-    20.58578,
-    106.2317
+    20.58695,
+    106.22916
   ],
   "TBH_HHA_HUNG_NHAN": [
-    20.61821,
-    106.1508
+    20.61835,
+    106.15095
   ],
   "877218": [
-    20.61821,
-    106.1508
+    20.61835,
+    106.15095
   ],
   "TBH_HHA_HUNG_NHAN_2": [
-    20.6168,
-    106.1456
+    20.61686,
+    106.14567
   ],
   "400059": [
-    20.6168,
-    106.1456
+    20.61686,
+    106.14567
   ],
   "TBH_HHA_HUNG_NHAN_3": [
-    20.63804,
-    106.1427
+    20.63805,
+    106.14266
   ],
   "400650": [
-    20.63804,
-    106.1427
+    20.63805,
+    106.14266
   ],
   "TBH_HHA_MINH_KHAI_2": [
-    20.5965,
-    106.23784
+    20.5966,
+    106.23799
   ],
   "400583": [
-    20.5965,
-    106.23784
+    20.5966,
+    106.23799
   ],
   "TBH_HHA_TIEN_DUC": [
-    20.59624,
-    106.1543
+    20.596289,
+    106.154342
   ],
   "400452": [
-    20.59624,
-    106.1543
+    20.596289,
+    106.154342
   ],
   "TBH_HHA_TIEN_DUOC_2": [
-    20.58981,
-    106.14
+    20.58984,
+    106.13995
   ],
   "400167": [
-    20.58981,
-    106.14
+    20.58984,
+    106.13995
   ],
   "TBH_KXG_KIEN_XUONG": [
-    20.38821,
-    106.43966
+    20.388433,
+    106.439776
   ],
   "400023": [
-    20.38821,
-    106.43966
+    20.388433,
+    106.439776
   ],
   "TBH_KXG_KIEN_XUONG_MOI": [
-    20.391365,
-    106.44674
+    20.391056,
+    106.446821
   ],
   "400024": [
-    20.391365,
-    106.44674
+    20.391056,
+    106.446821
   ],
   "TBH_KXG_VU_DONG": [
-    20.47061,
-    106.3785
+    20.47071,
+    106.37873
   ],
   "400135": [
-    20.47061,
-    106.3785
+    20.47071,
+    106.37873
   ],
   "TBH_KXG_VU_NINH": [
-    20.4144,
-    106.3775
+    20.414405,
+    106.377498
   ],
   "400136": [
-    20.4144,
-    106.3775
+    20.414405,
+    106.377498
   ],
   "TBH_QPU_AN_NINH": [
-    20.66084,
+    20.66081,
     106.4146
   ],
   "400065": [
-    20.66084,
+    20.66081,
     106.4146
   ],
   "TBH_QPU_DONG_HAI_2": [
-    20.580626,
-    106.37883
+    20.58045,
+    106.37873
   ],
   "400140": [
-    20.580626,
-    106.37883
+    20.58045,
+    106.37873
   ],
   "TBH_QPU_QUYNH_COI": [
-    20.64755,
-    106.32711
+    20.64749,
+    106.327
   ],
   "400069": [
-    20.64755,
-    106.32711
+    20.64749,
+    106.327
   ],
   "TBH_QPU_QUYNH_GIAO": [
-    20.68163,
-    106.3059
+    20.681574,
+    106.305966
   ],
   "400141": [
-    20.68163,
-    106.3059
+    20.681574,
+    106.305966
   ],
   "TBH_QPU_QUYNH_HAI_2": [
-    20.664988,
-    106.34285
+    20.665404,
+    106.343397
   ],
   "400570": [
-    20.664988,
-    106.34285
+    20.665404,
+    106.343397
   ],
   "TBH_QPU_QUYNH_HOI": [
-    20.65243,
-    106.3527
+    20.652078,
+    106.353525
   ],
   "400474": [
-    20.65243,
-    106.3527
+    20.652078,
+    106.353525
   ],
   "TBH_QPU_QUYNH_MY": [
-    20.643084,
-    106.31465
+    20.642742,
+    106.314759
   ],
   "877057": [
-    20.643084,
-    106.31465
+    20.642742,
+    106.314759
   ],
   "TBH_QPU_QUYNH_PHU": [
-    20.66029,
-    106.3269
+    20.66027,
+    106.32686
   ],
   "400076": [
-    20.66029,
-    106.3269
+    20.66027,
+    106.32686
   ],
   "TBH_QPU_QUYNH_PHU_2": [
-    20.66975,
-    106.3231
+    20.66965,
+    106.32303
   ],
   "400173": [
-    20.66975,
-    106.3231
+    20.66965,
+    106.32303
   ],
   "TBH_QPU_TT_QUYNH_COI": [
-    20.65594,
-    106.3235
+    20.65617,
+    106.3233
   ],
   "400013": [
-    20.65594,
-    106.3235
+    20.65617,
+    106.3233
   ],
   "TBH_QPU_TU_MOI": [
-    20.648848,
-    106.42431
+    20.648799,
+    106.424129
   ],
   "400077": [
-    20.648848,
-    106.42431
+    20.648799,
+    106.424129
   ],
   "TBH_TBH_BV_DIEU_DUONG": [
-    20.44538,
-    106.3519
+    20.44531,
+    106.35192
   ],
   "400000": [
-    20.44538,
-    106.3519
+    20.44531,
+    106.35192
   ],
   "TBH_TBH_BV_THAI_BINH": [
-    20.4412,
-    106.3391
+    20.441232,
+    106.339099
   ],
   "400001": [
-    20.4412,
-    106.3391
+    20.441232,
+    106.339099
   ],
   "TBH_TBH_BX_HOANG_HA": [
-    20.45123,
-    106.3338
+    20.45115,
+    106.33401
   ],
   "400002": [
-    20.45123,
-    106.3338
+    20.45115,
+    106.33401
   ],
   "TBH_TBH_CAU_KIM": [
-    20.4302,
-    106.3669
+    20.43048,
+    106.36515
   ],
   "400078": [
-    20.4302,
-    106.3669
+    20.43048,
+    106.36515
   ],
   "TBH_TBH_DONG_HOA": [
-    20.48451,
-    106.34901
+    20.48455,
+    106.34853
   ],
   "400432": [
-    20.48451,
-    106.34901
+    20.48455,
+    106.34853
   ],
   "TBH_TBH_HOANG_DIEU": [
-    20.471234,
-    106.35292
+    20.47136,
+    106.35256
   ],
   "877155": [
-    20.471234,
-    106.35292
+    20.47136,
+    106.35256
   ],
   "TBH_TBH_KCN_PHUC_KHANH": [
-    20.43952,
-    106.3035
+    20.437845,
+    106.304798
   ],
   "400028": [
-    20.43952,
-    106.3035
+    20.437845,
+    106.304798
   ],
   "TBH_TBH_KY_BA_2": [
     20.437617,
@@ -253696,20 +253674,20 @@ const coordLookup = {
     106.3392
   ],
   "TBH_TBH_KY_BA_3": [
-    20.439878,
-    106.34774
+    20.44102,
+    106.34797
   ],
   "400511": [
-    20.439878,
-    106.34774
+    20.44102,
+    106.34797
   ],
   "TBH_TBH_KY_BA_4": [
     20.442503,
-    106.34244
+    106.342439
   ],
   "400006": [
     20.442503,
-    106.34244
+    106.342439
   ],
   "TBH_TBH_LE_QUY_DON": [
     20.44606,
@@ -253720,20 +253698,20 @@ const coordLookup = {
     106.3448
   ],
   "TBH_TBH_PHAN_BA_VANH_2": [
-    20.43486,
-    106.3265
+    20.43295,
+    106.32683
   ],
   "400031": [
-    20.43486,
-    106.3265
+    20.43295,
+    106.32683
   ],
   "TBH_TBH_PHU_XUAN_6": [
-    20.44718,
-    106.29639
+    20.44729,
+    106.2964
   ],
   "400081": [
-    20.44718,
-    106.29639
+    20.44729,
+    106.2964
   ],
   "TBH_TBH_PHUONG_DE_THAM": [
     20.44781,
@@ -253744,20 +253722,20 @@ const coordLookup = {
     106.3416
   ],
   "TBH_TBH_PSDT_NGUYEN_DUC_CANH_1": [
-    20.44326,
-    106.31999
+    20.443381,
+    106.320063
   ],
   "400711": [
-    20.44326,
-    106.31999
+    20.443381,
+    106.320063
   ],
   "TBH_TBH_PSDT_NGUYEN_DUC_CANH_2": [
-    20.447529,
-    106.32154
+    20.4475288,
+    106.321541
   ],
   "400712": [
-    20.447529,
-    106.32154
+    20.4475288,
+    106.321541
   ],
   "TBH_TBH_QUANG_TRUNG_4": [
     20.438539,
@@ -253792,28 +253770,28 @@ const coordLookup = {
     106.3318
   ],
   "TBH_TBH_TIEN_PHONG_5": [
-    20.4624,
-    106.325
+    20.46235,
+    106.3247
   ],
   "400177": [
-    20.4624,
-    106.325
+    20.46235,
+    106.3247
   ],
   "TBH_TBH_TRAN_HUNG_DAO": [
-    20.451064,
-    106.34276
+    20.45084,
+    106.34256
   ],
   "400015": [
-    20.451064,
-    106.34276
+    20.45084,
+    106.34256
   ],
   "TBH_TBH_TRAN_LAM_2": [
-    20.439281,
-    106.35149
+    20.43943,
+    106.35136
   ],
   "877060": [
-    20.439281,
-    106.35149
+    20.43943,
+    106.35136
   ],
   "TBH_TBH_TRAN_THI_DUNG": [
     20.43878,
@@ -253824,224 +253802,224 @@ const coordLookup = {
     106.3208
   ],
   "TBH_TBH_UBND_TRAN_HUNG_DAO": [
-    20.44457,
-    106.3283
+    20.44459,
+    106.32828
   ],
   "400017": [
-    20.44457,
-    106.3283
+    20.44459,
+    106.32828
   ],
   "TBH_TBH_VO_NGUYEN_GIAP": [
-    20.46622,
-    106.35905
+    20.46629,
+    106.35912
   ],
   "400665": [
-    20.46622,
-    106.35905
+    20.46629,
+    106.35912
   ],
   "TBH_TBH_VU_CHINH_1": [
-    20.42115,
-    106.3449
+    20.421059,
+    106.344929
   ],
   "400018": [
-    20.42115,
-    106.3449
+    20.421059,
+    106.344929
   ],
   "TBH_THI_AN_NINH_2": [
-    20.39942,
-    106.47961
+    20.399428,
+    106.479629
   ],
   "400666": [
-    20.39942,
-    106.47961
+    20.399428,
+    106.479629
   ],
   "TBH_THI_CAU_TRA_LY": [
-    20.4414,
-    106.5187
+    20.441492,
+    106.518561
   ],
   "400035": [
-    20.4414,
-    106.5187
+    20.441492,
+    106.518561
   ],
   "TBH_THI_CN_TRAM_BOM_TN": [
-    20.401563,
-    106.49125
+    20.401737,
+    106.491263
   ],
   "400036": [
-    20.401563,
-    106.49125
+    20.401737,
+    106.491263
   ],
   "TBH_THI_DONG_CHAU": [
-    20.39291,
-    106.5776
+    20.3957,
+    106.57663
   ],
   "400037": [
-    20.39291,
-    106.5776
+    20.3957,
+    106.57663
   ],
   "TBH_THI_DONG_CO": [
-    20.39176,
-    106.52748
+    20.39173,
+    106.52752
   ],
   "400038": [
-    20.38896,
-    106.53726
+    20.3892,
+    106.5371
   ],
   "TBH_THI_DONG_PHONG": [
-    20.41983,
+    20.41984,
     106.5414
   ],
   "400145": [
-    20.41983,
+    20.41984,
     106.5414
   ],
   "TBH_THI_KCN_TIEN_HAI": [
-    20.38659,
-    106.5163
+    20.38636,
+    106.5165
   ],
   "400087": [
-    20.38659,
-    106.5163
+    20.38636,
+    106.5165
   ],
   "TBH_THI_KCN_TIEN_HAI_2": [
-    20.38896,
-    106.53726
+    20.3892,
+    106.5371
   ],
   "TBH_THI_NAM_THANH": [
-    20.34527,
+    20.345,
     106.5494
   ],
   "400042": [
-    20.34527,
+    20.345,
     106.5494
   ],
   "TBH_THI_TAY_GIANG": [
-    20.38993,
-    106.4949
+    20.39005,
+    106.4946
   ],
   "400083": [
-    20.38993,
-    106.4949
+    20.39005,
+    106.4946
   ],
   "TBH_THI_TAY_LUONG": [
-    20.42008,
-    106.5068
+    20.42017,
+    106.50662
   ],
   "400499": [
-    20.42008,
-    106.5068
+    20.42017,
+    106.50662
   ],
   "TBH_THI_TAY_SON": [
-    20.394041,
-    106.50907
+    20.39403,
+    106.5091
   ],
   "400703": [
-    20.394041,
-    106.50907
+    20.39403,
+    106.5091
   ],
   "TBH_THI_TIEN_HAI": [
-    20.40849,
-    106.501
+    20.40858,
+    106.50096
   ],
   "400092": [
-    20.40849,
-    106.501
+    20.40858,
+    106.50096
   ],
   "TBH_THI_TIEN_HAI_3": [
-    20.395362,
-    106.501
+    20.39532,
+    106.5009
   ],
   "400181": [
-    20.395362,
-    106.501
+    20.39532,
+    106.5009
   ],
   "TBH_THI_TIEN_HAI_II": [
-    20.4044,
-    106.5034
+    20.40444,
+    106.50346
   ],
   "400093": [
-    20.4044,
-    106.5034
+    20.40444,
+    106.50346
   ],
   "TBH_TTY_DIEM_DIEN_2": [
-    20.566123,
-    106.56417
+    20.566345,
+    106.56391
   ],
   "400707": [
-    20.566123,
-    106.56417
+    20.566345,
+    106.56391
   ],
   "TBH_TTY_DIEM_DIEN_BD": [
-    20.562636,
-    106.57761
+    20.561487,
+    106.577752
   ],
   "877068": [
-    20.562636,
-    106.57761
+    20.561487,
+    106.577752
   ],
   "TBH_TTY_THAI_THUY_PT": [
-    20.56075,
-    106.567
+    20.56067,
+    106.56693
   ],
   "400026": [
-    20.56075,
-    106.567
+    20.56067,
+    106.56693
   ],
   "TBH_TTY_THUY_HA": [
-    20.556803,
-    106.55596
+    20.55667,
+    106.55591
   ],
   "400097": [
-    20.556803,
-    106.55596
+    20.55667,
+    106.55591
   ],
   "TBH_TTY_THUY_LIEN": [
-    20.55722,
-    106.5322
+    20.55724,
+    106.53219
   ],
   "877074": [
-    20.55722,
-    106.5322
+    20.55724,
+    106.53219
   ],
   "TBH_TTY_THUY_LIEN_2": [
-    20.548524,
-    106.51662
+    20.548552,
+    106.516788
   ],
   "877073": [
-    20.548524,
-    106.51662
+    20.548552,
+    106.516788
   ],
   "TBH_VTU_TAN_BINH": [
-    20.479049,
-    106.32181
+    20.4791,
+    106.32195
   ],
   "400049": [
-    20.479049,
-    106.32181
+    20.4791,
+    106.32195
   ],
   "TBH_VTU_TAN_BINH_2": [
-    20.47236,
-    106.3194
+    20.47251,
+    106.31944
   ],
   "400100": [
-    20.47236,
-    106.3194
+    20.47251,
+    106.31944
   ],
   "TBH_VTU_VU_THU": [
-    20.43727,
-    106.2894
+    20.4373,
+    106.28938
   ],
   "400029": [
-    20.43727,
-    106.2894
+    20.4373,
+    106.28938
   ],
   "TBH_VTU_VU_THU_II": [
-    20.43282,
-    106.2837
+    20.43288,
+    106.28371
   ],
   "877082": [
-    20.43282,
-    106.2837
+    20.43288,
+    106.28371
   ],
   "TH_BSN_BA_DINH": [
     20.09884,
@@ -254053,11 +254031,11 @@ const coordLookup = {
   ],
   "TH_BSN_BAC_SON": [
     20.101064,
-    105.85264
+    105.852637
   ],
   "460723": [
     20.101064,
-    105.85264
+    105.852637
   ],
   "TH_BSN_BIM_SON": [
     20.0815,
@@ -254069,11 +254047,11 @@ const coordLookup = {
   ],
   "TH_BSN_BIM_SON_2": [
     20.111015,
-    105.8739
+    105.873895
   ],
   "460472": [
     20.111015,
-    105.8739
+    105.873895
   ],
   "TH_BSN_CN_BIM_SON": [
     20.11201,
@@ -254100,20 +254078,20 @@ const coordLookup = {
     105.857
   ],
   "TH_BSN_LE_THANH_TONG": [
-    20.065095,
-    105.85243
+    20.0650949,
+    105.852433
   ],
   "870175": [
-    20.065095,
-    105.85243
+    20.0650949,
+    105.852433
   ],
   "TH_BSN_NGOC_TRAO_2": [
     20.08109,
-    105.85188
+    105.851883
   ],
   "460477": [
     20.08109,
-    105.85188
+    105.851883
   ],
   "TH_CTY_CAM_THUY": [
     20.21425,
@@ -254124,60 +254102,60 @@ const coordLookup = {
     105.476
   ],
   "TH_DSN_DONG_HOA": [
-    19.79725,
-    105.6813
+    19.797848,
+    105.68121
   ],
   "460154": [
-    19.79725,
-    105.6813
+    19.797848,
+    105.68121
   ],
   "TH_DSN_DONG_KHE": [
-    19.82747,
-    105.682
+    19.830543,
+    105.680396
   ],
   "460079": [
-    19.82747,
-    105.682
+    19.830543,
+    105.680396
   ],
   "TH_DSN_DONG_SON": [
-    19.816667,
-    105.72944
+    19.816676,
+    105.729435
   ],
   "460080": [
-    19.816667,
-    105.72944
+    19.816676,
+    105.729435
   ],
   "TH_DSN_DONG_THANH": [
-    19.844,
-    105.701
+    19.843896,
+    105.70087
   ],
   "460157": [
-    19.844,
-    105.701
+    19.843896,
+    105.70087
   ],
   "TH_DSN_DONG_THINH": [
-    19.808346,
-    105.72345
+    19.808745,
+    105.723606
   ],
   "460669": [
-    19.808346,
-    105.72345
+    19.808745,
+    105.723606
   ],
   "TH_DSN_DONG_TIEN": [
-    19.82917,
-    105.71941
+    19.79442,
+    105.705494
   ],
   "460158": [
-    19.82917,
-    105.71941
+    19.79442,
+    105.705494
   ],
   "TH_DSN_DONG_YEN": [
     19.793662,
-    105.70505
+    105.705046
   ],
   "460159": [
     19.793662,
-    105.70505
+    105.705046
   ],
   "TH_HHA_B_H_RONG": [
     19.92744,
@@ -254197,11 +254175,11 @@ const coordLookup = {
   ],
   "TH_HHA_CHO_VUC": [
     19.845155,
-    105.9094
+    105.909402
   ],
   "460160": [
     19.845155,
-    105.9094
+    105.909402
   ],
   "TH_HHA_HOANG_DAO": [
     19.85236,
@@ -254325,27 +254303,27 @@ const coordLookup = {
   ],
   "TH_HHA_HOANG_PHU_3": [
     19.81206,
-    105.91665
+    105.916649
   ],
   "460596": [
     19.81206,
-    105.91665
+    105.916649
   ],
   "TH_HHA_HOANG_QUY": [
     19.896246,
-    105.79977
+    105.799772
   ],
   "460351": [
     19.896246,
-    105.79977
+    105.799772
   ],
   "TH_HHA_HOANG_QUY_2": [
     19.875102,
-    105.80778
+    105.807776
   ],
   "460352": [
     19.875102,
-    105.80778
+    105.807776
   ],
   "TH_HHA_HOANG_TAN": [
     19.7852,
@@ -254420,12 +254398,12 @@ const coordLookup = {
     105.883
   ],
   "TH_HLC_HAU_LOC_2": [
-    19.921263,
-    105.88911
+    19.9212627,
+    105.889106
   ],
   "460169": [
-    19.921263,
-    105.88911
+    19.9212627,
+    105.889106
   ],
   "TH_HLC_HOA_LOC": [
     19.93379,
@@ -254436,12 +254414,12 @@ const coordLookup = {
     105.9157
   ],
   "TH_HLC_PHU_LOC": [
-    19.91497,
-    105.91895
+    19.9149696,
+    105.918954
   ],
   "460760": [
-    19.91497,
-    105.91895
+    19.9149696,
+    105.918954
   ],
   "TH_HLC_THUAN_LOC": [
     19.88908,
@@ -254476,20 +254454,20 @@ const coordLookup = {
     105.85
   ],
   "TH_HTG_HA_TRUNG": [
-    19.984636,
-    105.84533
+    19.9846358,
+    105.845326
   ],
   "870356": [
-    19.984636,
-    105.84533
+    19.9846358,
+    105.845326
   ],
   "TH_NCG_CAU_QUAN": [
-    19.701685,
-    105.68144
+    19.7016847,
+    105.681441
   ],
   "460183": [
-    19.701685,
-    105.68144
+    19.7016847,
+    105.681441
   ],
   "TH_NCG_CONG_LIEM": [
     19.56456,
@@ -254573,19 +254551,19 @@ const coordLookup = {
   ],
   "TH_NSN_NGA_PHU_2": [
     20.062022,
-    106.04371
+    106.043706
   ],
   "460733": [
     20.062022,
-    106.04371
+    106.043706
   ],
   "TH_NSN_NGA_SON": [
-    20.006101,
-    105.97036
+    20.0061011,
+    105.970363
   ],
   "460212": [
-    20.006101,
-    105.97036
+    20.0061011,
+    105.970363
   ],
   "TH_NSN_NGA_THAI": [
     20.01855,
@@ -254605,11 +254583,11 @@ const coordLookup = {
   ],
   "TH_NSN_NGA_THANG_2": [
     19.99787,
-    105.94775
+    105.947746
   ],
   "460762": [
     19.99787,
-    105.94775
+    105.947746
   ],
   "TH_NSN_NGA_THIEN": [
     20.03482,
@@ -254652,12 +254630,12 @@ const coordLookup = {
     105.9768
   ],
   "TH_NTH_HAI_LONG": [
-    19.648763,
-    105.55602
+    19.6487627,
+    105.556024
   ],
   "460222": [
-    19.648763,
-    105.55602
+    19.6487627,
+    105.556024
   ],
   "TH_NTH_NHU_THANH": [
     19.63295,
@@ -254676,20 +254654,20 @@ const coordLookup = {
     105.4365
   ],
   "TH_NXN_XUAN_BINH": [
-    19.472688,
-    105.44972
+    19.4726881,
+    105.449718
   ],
   "460230": [
-    19.472688,
-    105.44972
+    19.4726881,
+    105.449718
   ],
   "TH_QXG_QUANG_BINH": [
-    19.675722,
-    105.79131
+    19.6757222,
+    105.791312
   ],
   "460094": [
-    19.675722,
-    105.79131
+    19.6757222,
+    105.791312
   ],
   "TH_QXG_QUANG_GIAO": [
     19.71448,
@@ -254749,11 +254727,11 @@ const coordLookup = {
   ],
   "TH_SSN_CHO_BAC_SON": [
     19.734894,
-    105.89451
+    105.894507
   ],
   "461027": [
     19.734894,
-    105.89451
+    105.894507
   ],
   "TH_SSN_HO_XUAN_HUONG": [
     19.7347,
@@ -254772,28 +254750,28 @@ const coordLookup = {
     105.88699
   ],
   "TH_SSN_QUANG_VINH": [
-    19.727469,
-    105.86651
+    19.7274691,
+    105.866507
   ],
   "460252": [
-    19.727469,
-    105.86651
+    19.7274691,
+    105.866507
   ],
   "TH_SSN_SON_TRANG": [
     19.747988,
-    105.90771
+    105.907714
   ],
   "460103": [
     19.747988,
-    105.90771
+    105.907714
   ],
   "TH_TGA_BV_TINH_GIA": [
     19.457282,
-    105.78289
+    105.782885
   ],
   "460106": [
     19.457282,
-    105.78289
+    105.782885
   ],
   "TH_TGA_CANG_NGHI_SON_2": [
     19.311233,
@@ -254828,12 +254806,12 @@ const coordLookup = {
     105.7782
   ],
   "TH_TGA_HAI_HA": [
-    19.315423,
-    105.80348
+    19.3154231,
+    105.803485
   ],
   "870209": [
-    19.315423,
-    105.80348
+    19.3154231,
+    105.803485
   ],
   "TH_TGA_HAI_HOA": [
     19.45141,
@@ -254853,11 +254831,11 @@ const coordLookup = {
   ],
   "TH_TGA_HAI_NHAN_2": [
     19.468097,
-    105.79024
+    105.790236
   ],
   "870210": [
     19.468097,
-    105.79024
+    105.790236
   ],
   "TH_TGA_HAI_THUONG": [
     19.32621,
@@ -254868,28 +254846,28 @@ const coordLookup = {
     105.80164
   ],
   "TH_TGA_HAI_THUONG_2": [
-    19.349595,
-    105.75657
+    19.3495945,
+    105.756573
   ],
   "460257": [
-    19.349595,
-    105.75657
+    19.3495945,
+    105.756573
   ],
   "TH_TGA_HAI_THUONG_3": [
     19.323887,
-    105.82096
+    105.820963
   ],
   "870211": [
     19.323887,
-    105.82096
+    105.820963
   ],
   "TH_TGA_HAI_THUONG_4": [
     19.3218,
-    105.80754
+    105.807539
   ],
   "460414": [
     19.3218,
-    105.80754
+    105.807539
   ],
   "TH_TGA_HAI_THUONG_5": [
     19.3315,
@@ -254901,11 +254879,11 @@ const coordLookup = {
   ],
   "TH_TGA_HAI_YEN": [
     19.353564,
-    105.79138
+    105.791378
   ],
   "460060": [
     19.353564,
-    105.79138
+    105.791378
   ],
   "TH_TGA_KCN_NGHI_SON_PSDT_3": [
     19.3605,
@@ -254917,27 +254895,27 @@ const coordLookup = {
   ],
   "TH_TGA_LOC_DAU_NGHI_SON": [
     19.349244,
-    105.74422
+    105.744215
   ],
   "460061": [
     19.349244,
-    105.74422
+    105.744215
   ],
   "TH_TGA_MAI_LAM_2": [
     19.37564,
-    105.75733
+    105.757329
   ],
   "870216": [
     19.37564,
-    105.75733
+    105.757329
   ],
   "TH_TGA_MAI_LAM_4": [
     19.351864,
-    105.75199
+    105.751986
   ],
   "460064": [
     19.351864,
-    105.75199
+    105.751986
   ],
   "TH_TGA_NGUYEN_BINH": [
     19.4407,
@@ -254972,20 +254950,20 @@ const coordLookup = {
     105.75965
   ],
   "TH_TGA_TAN_TRUONG": [
-    19.36243,
+    19.3624296,
     105.69218
   ],
   "460118": [
-    19.36243,
+    19.3624296,
     105.69218
   ],
   "TH_TGA_THANH_SON": [
-    19.51917,
-    105.79177
+    19.5191698,
+    105.791774
   ],
   "460262": [
-    19.51917,
-    105.79177
+    19.5191698,
+    105.791774
   ],
   "TH_TGA_THEP_NGHI_SON": [
     19.32956,
@@ -255012,12 +254990,12 @@ const coordLookup = {
     105.7789
   ],
   "TH_TGA_TINH_HAI_2": [
-    19.407485,
-    105.77968
+    19.4074853,
+    105.779679
   ],
   "870218": [
-    19.407485,
-    105.77968
+    19.4074853,
+    105.779679
   ],
   "TH_TGA_TRUC_LAM": [
     19.39903,
@@ -255061,19 +255039,19 @@ const coordLookup = {
   ],
   "TH_TGA_XUAN_LAM": [
     19.408876,
-    105.75283
+    105.752832
   ],
   "460125": [
     19.408876,
-    105.75283
+    105.752832
   ],
   "TH_TGA_XUAN_LAM_2": [
     19.418629,
-    105.77715
+    105.777154
   ],
   "460421": [
     19.418629,
-    105.77715
+    105.777154
   ],
   "TH_TGX_THUONG_XUAN": [
     19.9032,
@@ -255109,11 +255087,11 @@ const coordLookup = {
   ],
   "TH_THA_BAO_NGOAI": [
     19.800151,
-    105.79212
+    105.792115
   ],
   "870380": [
     19.800151,
-    105.79212
+    105.792115
   ],
   "TH_THA_BINH_MINH": [
     19.80793,
@@ -255132,12 +255110,12 @@ const coordLookup = {
     105.77014
   ],
   "TH_THA_BV_TINH_2": [
-    19.7751,
-    105.76974
+    19.774731,
+    105.76959
   ],
   "460057": [
-    19.772359,
-    105.76711
+    19.7723585,
+    105.767111
   ],
   "TH_THA_CANH_SAT_PCCC": [
     19.79443,
@@ -255156,20 +255134,20 @@ const coordLookup = {
     105.7996
   ],
   "TH_THA_CONG_AN_TINH": [
-    19.806263,
-    105.77275
+    19.8062629,
+    105.772754
   ],
   "461071": [
-    19.806263,
-    105.77275
+    19.8062629,
+    105.772754
   ],
   "TH_THA_DH_HONG_DUC_2": [
-    19.766014,
-    105.77787
+    19.76608,
+    105.77763
   ],
   "460709": [
-    19.766014,
-    105.77787
+    19.76608,
+    105.77763
   ],
   "TH_THA_DINH_HUONG": [
     19.83465,
@@ -255221,11 +255199,11 @@ const coordLookup = {
   ],
   "TH_THA_DONG_VE_6": [
     19.788135,
-    105.78004
+    105.780035
   ],
   "460791": [
     19.788135,
-    105.78004
+    105.780035
   ],
   "TH_THA_DTM_CAU_CAO": [
     19.80336,
@@ -255236,12 +255214,12 @@ const coordLookup = {
     105.75386
   ],
   "TH_THA_GA_THANH_HOA": [
-    19.803667,
-    105.76738
+    19.8036667,
+    105.767375
   ],
   "460021": [
-    19.803667,
-    105.76738
+    19.8036667,
+    105.767375
   ],
   "TH_THA_GIA_BINH": [
     19.79377,
@@ -255305,11 +255283,11 @@ const coordLookup = {
   ],
   "TH_THA_LAC_LONG_QUAN": [
     19.795261,
-    105.78269
+    105.782694
   ],
   "460332": [
     19.795261,
-    105.78269
+    105.782694
   ],
   "TH_THA_LAN_ONG": [
     19.77913,
@@ -255369,11 +255347,11 @@ const coordLookup = {
   ],
   "TH_THA_NGOC_MAI": [
     19.773206,
-    105.78699
+    105.786988
   ],
   "460040": [
     19.773206,
-    105.78699
+    105.786988
   ],
   "TH_THA_NGOC_TRAO": [
     19.79528,
@@ -255425,11 +255403,11 @@ const coordLookup = {
   ],
   "TH_THA_QUANG_TAM_2": [
     19.748748,
-    105.85597
+    105.855968
   ],
   "870384": [
     19.748748,
-    105.85597
+    105.855968
   ],
   "TH_THA_QUANG_THANG": [
     19.78481,
@@ -255513,11 +255491,11 @@ const coordLookup = {
   ],
   "TH_THA_TAY_BAC_GA_PSDT_2": [
     19.831147,
-    105.76642
+    105.766417
   ],
   "461018": [
     19.831147,
-    105.76642
+    105.766417
   ],
   "TH_THA_THANH_HOA": [
     19.80789,
@@ -255581,11 +255559,11 @@ const coordLookup = {
   ],
   "TH_THA_THO_HAC": [
     19.821068,
-    105.76604
+    105.766043
   ],
   "870385": [
     19.821068,
-    105.76604
+    105.766043
   ],
   "TH_THA_TO_VINH_DIEN": [
     19.813055,
@@ -255604,24 +255582,24 @@ const coordLookup = {
     105.7484
   ],
   "TH_THA_VIEN_TAM_THAN": [
-    19.772359,
-    105.76711
+    19.7723585,
+    105.767111
   ],
   "TH_THA_VINHOME": [
     19.810438,
-    105.8048
+    105.804804
   ],
   "460484": [
     19.810438,
-    105.8048
+    105.804804
   ],
   "TH_THA_Y_LAN": [
     19.822139,
-    105.77266
+    105.772659
   ],
   "460007": [
     19.822139,
-    105.77266
+    105.772659
   ],
   "TH_TSN_AN_NONG": [
     19.80456,
@@ -255632,8 +255610,8 @@ const coordLookup = {
     105.6091
   ],
   "TH_TSN_BV_TRIEU_SON": [
-    19.818583,
-    105.58795
+    19.81766,
+    105.58807
   ],
   "460133": [
     19.8198,
@@ -255664,20 +255642,20 @@ const coordLookup = {
     105.6645
   ],
   "TH_TSN_DONG_TIEN": [
-    19.779898,
-    105.67906
+    19.7798975,
+    105.679056
   ],
   "460276": [
-    19.779898,
-    105.67906
+    19.7798975,
+    105.679056
   ],
   "TH_TSN_DONG_VINH": [
     19.763726,
-    105.68525
+    105.685247
   ],
   "460540": [
     19.763726,
-    105.68525
+    105.685247
   ],
   "TH_TSN_HOP_LY": [
     19.82221,
@@ -255688,12 +255666,12 @@ const coordLookup = {
     105.5334
   ],
   "TH_TSN_HOP_THANH": [
-    19.804804,
-    105.55179
+    19.8048035,
+    105.551789
   ],
   "460278": [
-    19.804804,
-    105.55179
+    19.8048035,
+    105.551789
   ],
   "TH_TSN_KHUYEN_NONG_3": [
     19.77463,
@@ -255713,11 +255691,11 @@ const coordLookup = {
   ],
   "TH_TSN_MINH_SON_2": [
     19.828568,
-    105.58186
+    105.581862
   ],
   "460863": [
     19.828568,
-    105.58186
+    105.581862
   ],
   "TH_TSN_NUA": [
     19.74787,
@@ -255761,11 +255739,11 @@ const coordLookup = {
   ],
   "TH_TSN_THAI_HOA_2": [
     19.783586,
-    105.63138
+    105.631382
   ],
   "460794": [
     19.783586,
-    105.63138
+    105.631382
   ],
   "TH_TSN_THO_NGOC_2": [
     19.8673,
@@ -255784,12 +255762,12 @@ const coordLookup = {
     105.53577
   ],
   "TH_TSN_THO_SON": [
-    19.851418,
-    105.48813
+    19.8514176,
+    105.488133
   ],
   "460287": [
-    19.851418,
-    105.48813
+    19.8514176,
+    105.488133
   ],
   "TH_TSN_THO_TIEN": [
     19.83602,
@@ -255844,28 +255822,28 @@ const coordLookup = {
     105.598
   ],
   "TH_TSN_XUAN_LOC": [
-    19.877977,
+    19.8779768,
     105.55524
   ],
   "870230": [
-    19.877977,
+    19.8779768,
     105.55524
   ],
   "TH_TSN_XUAN_THO": [
-    19.845127,
-    105.53237
+    19.8451273,
+    105.532373
   ],
   "460294": [
-    19.845127,
-    105.53237
+    19.8451273,
+    105.532373
   ],
   "TH_TTH_THACH_THANH_2": [
     20.129206,
-    105.67787
+    105.677865
   ],
   "460726": [
     20.129206,
-    105.67787
+    105.677865
   ],
   "TH_TTH_THANH_TAM": [
     20.1229,
@@ -255884,12 +255862,12 @@ const coordLookup = {
     105.6768
   ],
   "TH_TUH_THIEU_GIAO": [
-    19.851221,
-    105.73234
+    19.8512211,
+    105.732338
   ],
   "460299": [
-    19.851221,
-    105.73234
+    19.8512211,
+    105.732338
   ],
   "TH_TUH_THIEU_HOA": [
     19.88787,
@@ -255909,11 +255887,11 @@ const coordLookup = {
   ],
   "TH_TUH_TT_THIEU_HOA_2": [
     19.883106,
-    105.67691
+    105.676905
   ],
   "460986": [
     19.883106,
-    105.67691
+    105.676905
   ],
   "TH_TXN_BAC_LUONG": [
     19.91778,
@@ -255941,11 +255919,11 @@ const coordLookup = {
   ],
   "TH_TXN_NAM_TRUONG": [
     19.91911,
-    105.52907
+    105.529072
   ],
   "460307": [
     19.91911,
-    105.52907
+    105.529072
   ],
   "TH_TXN_NMD_LAM_SON": [
     19.89333,
@@ -255981,15 +255959,15 @@ const coordLookup = {
   ],
   "TH_TXN_SAO_VANG_2": [
     19.890849,
-    105.47102
+    105.471018
   ],
   "460309": [
     19.890849,
-    105.47102
+    105.471018
   ],
   "TH_TXN_THO_HAI": [
     19.942195,
-    105.4755
+    105.475495
   ],
   "460313": [
     19.9552,
@@ -256021,11 +255999,11 @@ const coordLookup = {
   ],
   "TH_TXN_THO_TRUONG": [
     19.932814,
-    105.57335
+    105.573349
   ],
   "460454": [
     19.932814,
-    105.57335
+    105.573349
   ],
   "TH_TXN_THO_XUAN": [
     19.92806,
@@ -256045,11 +256023,11 @@ const coordLookup = {
   ],
   "TH_TXN_XUAN_BAI": [
     19.901813,
-    105.39364
+    105.393636
   ],
   "460558": [
     19.901813,
-    105.39364
+    105.393636
   ],
   "TH_TXN_XUAN_BAI_2": [
     19.90214,
@@ -256080,12 +256058,12 @@ const coordLookup = {
     105.4922
   ],
   "TH_TXN_XUAN_HOA_2": [
-    19.940844,
-    105.5034
+    19.9408436,
+    105.503398
   ],
   "870387": [
-    19.940844,
-    105.5034
+    19.9408436,
+    105.503398
   ],
   "TH_TXN_XUAN_HUNG": [
     19.91776,
@@ -256096,20 +256074,20 @@ const coordLookup = {
     105.47691
   ],
   "TH_TXN_XUAN_KHANH_2": [
-    19.916367,
-    105.5835
+    19.9163673,
+    105.583502
   ],
   "460795": [
-    19.916367,
-    105.5835
+    19.9163673,
+    105.583502
   ],
   "TH_TXN_XUAN_LAI": [
     19.954463,
-    105.53992
+    105.539916
   ],
   "460458": [
     19.954463,
-    105.53992
+    105.539916
   ],
   "TH_TXN_XUAN_LAP": [
     19.96962,
@@ -256128,11 +256106,11 @@ const coordLookup = {
     105.5524
   ],
   "TH_TXN_XUAN_PHONG": [
-    19.90184,
+    19.9018399,
     105.57159
   ],
   "460316": [
-    19.90184,
+    19.9018399,
     105.57159
   ],
   "TH_TXN_XUAN_THANG": [
@@ -256145,11 +256123,11 @@ const coordLookup = {
   ],
   "TH_TXN_XUAN_THANH": [
     19.936337,
-    105.54054
+    105.540538
   ],
   "460319": [
     19.936337,
-    105.54054
+    105.540538
   ],
   "TH_TXN_XUAN_THIEN": [
     19.93869,
@@ -256161,11 +256139,11 @@ const coordLookup = {
   ],
   "TH_TXN_XUAN_TIN": [
     19.965572,
-    105.49592
+    105.495921
   ],
   "460321": [
     19.965572,
-    105.49592
+    105.495921
   ],
   "TH_TXN_XUAN_VINH": [
     19.95163,
@@ -256176,12 +256154,12 @@ const coordLookup = {
     105.5789
   ],
   "TH_TXN_XUAN_YEN": [
-    19.943193,
-    105.52417
+    19.9431928,
+    105.524174
   ],
   "460459": [
-    19.943193,
-    105.52417
+    19.9431928,
+    105.524174
   ],
   "TH_VLC_VINH_LOC": [
     20.05653,
@@ -256224,464 +256202,464 @@ const coordLookup = {
     105.5991
   ],
   "TNN_DHA_ATK": [
-    21.787766,
-    105.51054
+    21.78673,
+    105.5114
   ],
   "410076": [
-    21.787766,
-    105.51054
+    21.78673,
+    105.5114
   ],
   "TNN_DHY_DONG_BAM_2": [
-    21.62118,
-    105.83859
+    21.621255,
+    105.838654
   ],
   "410022": [
-    21.62118,
-    105.83859
+    21.621255,
+    105.838654
   ],
   "TNN_DHY_HOA_THUONG_2": [
-    21.630383,
+    21.6303834,
     105.83416
   ],
   "410156": [
-    21.630383,
+    21.6303834,
     105.83416
   ],
   "TNN_DHY_NUI_VOI": [
-    21.64132,
-    105.81863
+    21.640715,
+    105.818096
   ],
   "410024": [
-    21.64132,
-    105.81863
+    21.640715,
+    105.818096
   ],
   "TNN_DTU_DAI_TU": [
-    21.63136,
-    105.64059
+    21.63129,
+    105.64055
   ],
   "410025": [
-    21.61371,
-    105.66887
+    21.61322,
+    105.66881
   ],
   "TNN_DTU_KY_PHU_2": [
-    21.5531,
-    105.64698
+    21.55308,
+    105.64696
   ],
   "410166": [
-    21.5531,
-    105.64698
+    21.55308,
+    105.64696
   ],
   "TNN_DTU_NUI_COC": [
-    21.595198,
-    105.68233
+    21.59524,
+    105.68227
   ],
   "872396": [
-    21.595198,
-    105.68233
+    21.59524,
+    105.68227
   ],
   "TNN_DTU_TAN_THAI": [
-    21.61371,
-    105.66887
+    21.61322,
+    105.66881
   ],
   "TNN_DTU_TAN_THAI_2": [
-    21.585495,
-    105.70776
+    21.58579,
+    105.7074
   ],
   "872413": [
-    21.593836,
-    105.72676
+    21.593876,
+    105.727205
   ],
   "TNN_PBH_DIEM_THUY": [
-    21.472,
-    105.92133
+    21.47197,
+    105.92121
   ],
   "410026": [
-    21.472,
-    105.92133
+    21.47197,
+    105.92121
   ],
   "TNN_PBH_DIEM_THUY_3": [
-    21.47297,
-    105.93729
+    21.47315,
+    105.93727
   ],
   "410095": [
-    21.47297,
-    105.93729
+    21.47315,
+    105.93727
   ],
   "TNN_PBH_KCN_DIEM_THUY_2": [
-    21.45911,
-    105.89815
+    21.459086,
+    105.898331
   ],
   "410311": [
-    21.45911,
-    105.89815
+    21.459086,
+    105.898331
   ],
   "TNN_PBH_PHU_BINH_2": [
-    21.46301,
-    105.97774
+    21.463009,
+    105.977785
   ],
   "410181": [
-    21.46301,
-    105.97774
+    21.463009,
+    105.977785
   ],
   "TNN_PBH_THUONG_DINH_2": [
-    21.497639,
-    105.89654
+    21.49812,
+    105.89637
   ],
   "872226": [
-    21.497639,
-    105.89654
+    21.49812,
+    105.89637
   ],
   "TNN_PLG_BO_DAU": [
-    21.639449,
-    105.77269
+    21.63962,
+    105.77254
   ],
   "410099": [
-    21.639449,
-    105.77269
+    21.63962,
+    105.77254
   ],
   "TNN_PLG_PHU_LUONG": [
-    21.727929,
-    105.70844
+    21.726555,
+    105.709322
   ],
   "410029": [
-    21.727929,
-    105.70844
+    21.726555,
+    105.709322
   ],
   "TNN_PLG_PHU_LUONG_2": [
-    21.737838,
-    105.70792
+    21.737871,
+    105.707941
   ],
   "410100": [
-    21.737838,
-    105.70792
+    21.737871,
+    105.707941
   ],
   "TNN_PLG_YEN_DO": [
-    21.792055,
-    105.70725
+    21.792084,
+    105.707342
   ],
   "410196": [
-    21.792055,
-    105.70725
+    21.792084,
+    105.707342
   ],
   "TNN_PLG_YEN_DO_3": [
-    21.802093,
-    105.73868
+    21.800184,
+    105.736912
   ],
   "410103": [
-    21.802093,
-    105.73868
+    21.800184,
+    105.736912
   ],
   "TNN_PYN_AN_THAI": [
-    21.424169,
-    105.90705
+    21.424099,
+    105.907191
   ],
   "872405": [
-    21.424169,
-    105.90705
+    21.424099,
+    105.907191
   ],
   "TNN_PYN_BAC_SON": [
-    21.45309,
-    105.77286
+    21.452825,
+    105.772859
   ],
   "410030": [
-    21.45309,
-    105.77286
+    21.452825,
+    105.772859
   ],
   "TNN_PYN_BV_QUAN_Y_91": [
-    21.41116,
-    105.86527
+    21.41095,
+    105.865222
   ],
   "872459": [
-    21.41116,
-    105.86527
+    21.41095,
+    105.865222
   ],
   "TNN_PYN_DONG_CAO": [
     21.37096,
-    105.90034
+    105.9003
   ],
   "410032": [
     21.37096,
-    105.90034
+    105.9003
   ],
   "TNN_PYN_DONG_TIEN": [
-    21.420019,
-    105.89622
+    21.42058,
+    105.8969
   ],
   "410236": [
-    21.420019,
-    105.89622
+    21.42058,
+    105.8969
   ],
   "TNN_PYN_HONG_TIEN": [
-    21.448006,
-    105.89575
+    21.447984,
+    105.895755
   ],
   "410033": [
-    21.448006,
-    105.89575
+    21.447984,
+    105.895755
   ],
   "TNN_PYN_HONG_TIEN_3": [
-    21.46069,
-    105.88185
+    21.46104,
+    105.8817
   ],
   "410035": [
-    21.46069,
-    105.88185
+    21.46104,
+    105.8817
   ],
   "TNN_PYN_HONG_TIEN_4": [
-    21.470534,
-    105.87012
+    21.4709,
+    105.87015
   ],
   "410204": [
-    21.470534,
-    105.87012
+    21.4709,
+    105.87015
   ],
   "TNN_PYN_HONG_TIEN_5": [
-    21.471597,
-    105.88732
+    21.47163,
+    105.88728
   ],
   "410331": [
-    21.471597,
-    105.88732
+    21.47163,
+    105.88728
   ],
   "TNN_PYN_KCN_DIEM_THUY_3": [
-    21.455227,
-    105.89183
+    21.45535,
+    105.89176
   ],
   "410256": [
-    21.455227,
-    105.89183
+    21.45535,
+    105.89176
   ],
   "TNN_PYN_KCN_SAM_SUNG_1": [
-    21.417864,
-    105.88656
+    21.417234,
+    105.887322
   ],
   "410000": [
-    21.417864,
-    105.88656
+    21.417234,
+    105.887322
   ],
   "TNN_PYN_KCN_SAM_SUNG_10": [
-    21.439465,
-    105.88547
+    21.43882,
+    105.8857
   ],
   "410273": [
-    21.439465,
-    105.88547
+    21.43882,
+    105.8857
   ],
   "TNN_PYN_KCN_SAM_SUNG_2": [
-    21.43164,
-    105.88713
+    21.43147,
+    105.8872
   ],
   "410001": [
-    21.43164,
-    105.88713
+    21.43147,
+    105.8872
   ],
   "TNN_PYN_KCN_SAM_SUNG_4": [
     21.424889,
-    105.89252
+    105.892522
   ],
   "410002": [
     21.424889,
-    105.89252
+    105.892522
   ],
   "TNN_PYN_KCN_SAM_SUNG_7": [
     21.422379,
-    105.89486
+    105.894857
   ],
   "410003": [
     21.422379,
-    105.89486
+    105.894857
   ],
   "TNN_PYN_KCN_SAM_SUNG_8": [
     21.432052,
-    105.89437
+    105.894367
   ],
   "410251": [
     21.432052,
-    105.89437
+    105.894367
   ],
   "TNN_PYN_KCN_SAM_SUNG_9": [
-    21.436914,
+    21.4369137,
     105.89803
   ],
   "410240": [
-    21.436914,
+    21.4369137,
     105.89803
   ],
   "TNN_PYN_NGA_BA_HANG": [
-    21.40354,
-    105.87458
+    21.40351,
+    105.874713
   ],
   "410036": [
-    21.40354,
-    105.87458
+    21.40351,
+    105.874713
   ],
   "TNN_PYN_SAM_SUNG_6": [
     21.426496,
-    105.89683
+    105.896829
   ],
   "410008": [
     21.426496,
-    105.89683
+    105.896829
   ],
   "TNN_PYN_TAN_PHU_3": [
-    21.35836,
-    105.89426
+    21.354265,
+    105.894798
   ],
   "872152": [
-    21.35836,
-    105.89426
+    21.354265,
+    105.894798
   ],
   "TNN_PYN_TIEN_PHONG": [
-    21.3867,
-    105.931
+    21.386177,
+    105.927228
   ],
   "410114": [
-    21.3867,
-    105.931
+    21.386177,
+    105.927228
   ],
   "TNN_SCG_BINH_SON": [
-    21.50575,
-    105.80833
+    21.505753,
+    105.80832
   ],
   "410117": [
-    21.50575,
-    105.80833
+    21.505753,
+    105.80832
   ],
   "TNN_SCG_KCN_SONG_CONG": [
-    21.483643,
-    105.87684
+    21.483989,
+    105.876817
   ],
   "410118": [
-    21.483643,
-    105.87684
+    21.483989,
+    105.876817
   ],
   "TNN_SCG_NGA_3_PHO_CO": [
-    21.44402,
-    105.85777
+    21.44426,
+    105.8577
   ],
   "410043": [
-    21.44402,
-    105.85777
+    21.44426,
+    105.8577
   ],
   "TNN_SCG_PHO_CO": [
-    21.45586,
-    105.85184
+    21.45594,
+    105.8519
   ],
   "410044": [
-    21.45586,
-    105.85184
+    21.45594,
+    105.8519
   ],
   "TNN_SCG_PHO_CO_3": [
-    21.4581,
-    105.8661
+    21.45785,
+    105.866
   ],
   "410119": [
-    21.4581,
-    105.8661
+    21.45785,
+    105.866
   ],
   "TNN_SCG_SONG_CONG": [
-    21.47165,
-    105.84521
+    21.47027,
+    105.8458
   ],
   "410045": [
-    21.47165,
-    105.84521
+    21.47027,
+    105.8458
   ],
   "TNN_SCG_TAN_QUANG": [
-    21.48086,
+    21.481117,
     105.8561
   ],
   "410046": [
-    21.48086,
+    21.481117,
     105.8561
   ],
   "TNN_SCG_TAN_QUANG_2": [
-    21.518919,
-    105.83506
+    21.519019,
+    105.83504
   ],
   "872409": [
-    21.518919,
-    105.83506
+    21.519019,
+    105.83504
   ],
   "TNN_SCG_TAN_QUANG_3": [
-    21.507323,
-    105.8549
+    21.507269,
+    105.854796
   ],
   "410269": [
-    21.498991,
-    105.87483
+    21.49904,
+    105.875
   ],
   "TNN_SCG_VINH_SON": [
-    21.474206,
-    105.8184
+    21.474002,
+    105.818381
   ],
   "410120": [
-    21.474206,
-    105.8184
+    21.474002,
+    105.818381
   ],
   "TNN_TNN_BAC_KAN": [
-    21.59862,
-    105.83243
+    21.59856,
+    105.83244
   ],
   "410047": [
-    21.59862,
-    105.83243
+    21.59856,
+    105.83244
   ],
   "TNN_TNN_BD_LUU_XA": [
     21.547169,
-    105.87011
+    105.870105
   ],
   "410009": [
     21.547169,
-    105.87011
+    105.870105
   ],
   "TNN_TNN_CAU_VUOT_DAN": [
-    21.57663,
-    105.8105
+    21.57656,
+    105.81029
   ],
   "410051": [
-    21.57663,
-    105.8105
+    21.57656,
+    105.81029
   ],
   "TNN_TNN_CDKT_KY_THUAT_2": [
-    21.564886,
-    105.82075
+    21.564942,
+    105.820625
   ],
   "410073": [
-    21.564886,
-    105.82075
+    21.564942,
+    105.820625
   ],
   "TNN_TNN_DH_THAI_NGUYEN": [
-    21.588662,
+    21.5886621,
     105.81213
   ],
   "410054": [
-    21.588662,
+    21.5886621,
     105.81213
   ],
   "TNN_TNN_DHCN_THAI_NGUYEN_3": [
-    21.549708,
-    105.84649
+    21.5497081,
+    105.846494
   ],
   "410071": [
-    21.549708,
-    105.84649
+    21.5497081,
+    105.846494
   ],
   "TNN_TNN_DHCN_THAI_NGUYEN_4": [
-    21.5531,
-    105.841
+    21.55292,
+    105.840903
   ],
   "410235": [
-    21.5531,
-    105.841
+    21.55292,
+    105.840903
   ],
   "TNN_TNN_DONG_HY_2": [
-    21.64077,
-    105.84184
+    21.6407702,
+    105.841844
   ],
   "410079": [
-    21.64077,
-    105.84184
+    21.6407702,
+    105.841844
   ],
   "TNN_TNN_DONG_HY_3": [
     21.62033,
@@ -256692,36 +256670,36 @@ const coordLookup = {
     105.86176
   ],
   "TNN_TNN_DONG_QUANG": [
-    21.582968,
+    21.5829681,
     105.83097
   ],
   "410055": [
-    21.582968,
+    21.5829681,
     105.83097
   ],
   "TNN_TNN_DUONG_BAC_SON": [
-    21.593736,
-    105.82621
+    21.5937363,
+    105.826212
   ],
   "410340": [
-    21.593736,
-    105.82621
+    21.5937363,
+    105.826212
   ],
   "TNN_TNN_GIA_SANG_3": [
-    21.577576,
-    105.84283
+    21.5775764,
+    105.842833
   ],
   "410275": [
-    21.577576,
-    105.84283
+    21.5775764,
+    105.842833
   ],
   "TNN_TNN_GLONICS": [
     21.557716,
-    105.84307
+    105.843074
   ],
   "410142": [
     21.557716,
-    105.84307
+    105.843074
   ],
   "TNN_TNN_HOANG_VAN_THU": [
     21.592359,
@@ -256741,79 +256719,79 @@ const coordLookup = {
   ],
   "TNN_TNN_LINH_SON": [
     21.604611,
-    105.89189
+    105.891888
   ],
   "872410": [
     21.604611,
-    105.89189
+    105.891888
   ],
   "TNN_TNN_LUONG_NGOC_QUYEN": [
-    21.595759,
+    21.5957593,
     105.82489
   ],
   "410058": [
-    21.595759,
+    21.5957593,
     105.82489
   ],
   "TNN_TNN_MINH_CAU": [
     21.585756,
-    105.84044
+    105.840435
   ],
   "410014": [
     21.585756,
-    105.84044
+    105.840435
   ],
   "TNN_TNN_MO_BACH_2": [
-    21.5993,
-    105.81535
+    21.5992996,
+    105.815347
   ],
   "410061": [
-    21.5993,
-    105.81535
+    21.5992996,
+    105.815347
   ],
   "TNN_TNN_PHAN_DINH_PHUNG_5": [
-    21.591164,
-    105.8431
+    21.5911639,
+    105.843104
   ],
   "410370": [
-    21.591164,
-    105.8431
+    21.5911639,
+    105.843104
   ],
   "TNN_TNN_PHUC_HA": [
-    21.596566,
-    105.79253
+    21.5965664,
+    105.792527
   ],
   "410218": [
-    21.596566,
-    105.79253
+    21.5965664,
+    105.792527
   ],
   "TNN_TNN_PHUC_TRIU": [
     21.559,
-    105.78489
+    105.784888
   ],
   "872412": [
     21.559,
-    105.78489
+    105.784888
   ],
   "TNN_TNN_PHUC_XUAN_2": [
-    21.593836,
-    105.72676
+    21.593876,
+    105.727205
   ],
   "TNN_TNN_QUAN_TRIEU": [
     21.610777,
-    105.80853
+    105.808526
   ],
   "410063": [
     21.610777,
-    105.80853
+    105.808526
   ],
   "TNN_TNN_QUAN_TRIEU_2": [
-    21.602446,
-    105.8041
+    21.6024461,
+    105.804098
   ],
   "872411": [
-    21.602446,
-    105.8041
+    21.6024461,
+    105.804098
   ],
   "TNN_TNN_QUANG_TRUNG": [
     21.58674,
@@ -256824,20 +256802,20 @@ const coordLookup = {
     105.82298
   ],
   "TNN_TNN_QUANG_TRUNG_4": [
-    21.595249,
-    105.81773
+    21.59544,
+    105.8179
   ],
   "410278": [
-    21.595249,
-    105.81773
+    21.59544,
+    105.8179
   ],
   "TNN_TNN_QUANG_TRUNG_6": [
     21.591334,
-    105.81349
+    105.813491
   ],
   "410347": [
     21.591334,
-    105.81349
+    105.813491
   ],
   "TNN_TNN_QUANG_VINH_2": [
     21.6076,
@@ -256849,27 +256827,27 @@ const coordLookup = {
   ],
   "TNN_TNN_QUYET_THANG": [
     21.585472,
-    105.79314
+    105.793138
   ],
   "410066": [
     21.585472,
-    105.79314
+    105.793138
   ],
   "TNN_TNN_QUYET_THANG_2": [
-    21.590275,
-    105.80445
+    21.5902749,
+    105.804453
   ],
   "410017": [
-    21.590275,
-    105.80445
+    21.5902749,
+    105.804453
   ],
   "TNN_TNN_QUYET_THANG_3": [
-    21.591187,
-    105.79907
+    21.591208,
+    105.798916
   ],
   "872414": [
-    21.591187,
-    105.79907
+    21.591208,
+    105.798916
   ],
   "TNN_TNN_SON_CAM": [
     21.63293,
@@ -256881,47 +256859,47 @@ const coordLookup = {
   ],
   "TNN_TNN_TAN_CUONG": [
     21.54522,
-    105.77659
+    105.776592
   ],
   "872415": [
     21.54522,
-    105.77659
+    105.776592
   ],
   "TNN_TNN_TAN_CUONG_2": [
-    21.561115,
-    105.80226
+    21.56131,
+    105.8019
   ],
   "410129": [
-    21.561115,
-    105.80226
+    21.56131,
+    105.8019
   ],
   "TNN_TNN_TAN_LAP_5": [
     21.548226,
-    105.8288
+    105.828798
   ],
   "872417": [
     21.548226,
-    105.8288
+    105.828798
   ],
   "TNN_TNN_TAN_LONG": [
-    21.621359,
-    105.79243
+    21.61977,
+    105.793258
   ],
   "410069": [
-    21.621359,
-    105.79243
+    21.61977,
+    105.793258
   ],
   "TNN_TNN_TAN_THANH": [
-    21.498991,
-    105.87483
+    21.49904,
+    105.875
   ],
   "TNN_TNN_TAN_THINH_2": [
-    21.572494,
-    105.82202
+    21.5724939,
+    105.822019
   ],
   "410379": [
-    21.572494,
-    105.82202
+    21.5724939,
+    105.822019
   ],
   "TNN_TNN_TAN_THINH_4": [
     21.57923,
@@ -256932,12 +256910,12 @@ const coordLookup = {
     105.82354
   ],
   "TNN_TNN_TAN_THINH_6": [
-    21.582468,
-    105.82002
+    21.58293,
+    105.8207
   ],
   "410380": [
-    21.582468,
-    105.82002
+    21.58293,
+    105.8207
   ],
   "TNN_TNN_TAN_THINH_7": [
     21.57759,
@@ -256949,27 +256927,27 @@ const coordLookup = {
   ],
   "TNN_TNN_THAI_NGUYEN": [
     21.593546,
-    105.84007
+    105.840072
   ],
   "410018": [
     21.593546,
-    105.84007
+    105.840072
   ],
   "TNN_TNN_THINH_DAN_2": [
-    21.56692,
-    105.82687
+    21.566457,
+    105.826892
   ],
   "410357": [
-    21.56692,
-    105.82687
+    21.566457,
+    105.826892
   ],
   "TNN_TNN_THINH_DAN_3": [
-    21.55498,
-    105.8176
+    21.55954,
+    105.82329
   ],
   "410371": [
-    21.55498,
-    105.8176
+    21.55954,
+    105.82329
   ],
   "TNN_TNN_THINH_DUC_3": [
     21.5215,
@@ -256981,27 +256959,27 @@ const coordLookup = {
   ],
   "TNN_TNN_THONG_NHAT": [
     21.570532,
-    105.8371
+    105.837102
   ],
   "410228": [
     21.570532,
-    105.8371
+    105.837102
   ],
   "TNN_TNN_THUONG_MAI": [
-    21.56967,
-    105.82885
+    21.569694,
+    105.828811
   ],
   "410019": [
-    21.56967,
-    105.82885
+    21.569694,
+    105.828811
   ],
   "TNN_TNN_TICH_LUONG": [
     21.532411,
-    105.84153
+    105.841531
   ],
   "410421": [
     21.532411,
-    105.84153
+    105.841531
   ],
   "TNN_TNN_TICH_LUONG_6": [
     21.551466,
@@ -257013,19 +256991,19 @@ const coordLookup = {
   ],
   "TNN_TNN_TICH_LUONG_7": [
     21.544981,
-    105.83932
+    105.839319
   ],
   "410266": [
     21.544981,
-    105.83932
+    105.839319
   ],
   "TNN_TNN_TRUNG_THANH": [
-    21.53574,
-    105.86803
+    21.53592,
+    105.86811
   ],
   "410138": [
-    21.53574,
-    105.86803
+    21.53592,
+    105.86811
   ],
   "TNN_TNN_TRUNG_THANH_7": [
     21.54257,
@@ -257061,131 +257039,131 @@ const coordLookup = {
   ],
   "TQG_CHA_VINH_LOC": [
     22.142935,
-    105.26778
+    105.267775
   ],
   "420062": [
     22.142935,
-    105.26778
+    105.267775
   ],
   "TQG_CHA_YEN_NGUYEN": [
     22.068875,
-    105.17297
+    105.172971
   ],
   "872420": [
     22.068875,
-    105.17297
+    105.172971
   ],
   "TQG_CHA_YEN_NGUYEN_2": [
     22.078756,
-    105.17885
+    105.178845
   ],
   "420106": [
     22.078756,
-    105.17885
+    105.178845
   ],
   "TQG_SDG_SON_DUONG": [
     21.705962,
-    105.40213
+    105.402134
   ],
   "420003": [
     21.705962,
-    105.40213
+    105.402134
   ],
   "TQG_SDG_SON_DUONG_3": [
     21.700466,
-    105.40519
+    105.405187
   ],
   "872250": [
     21.700466,
-    105.40519
+    105.405187
   ],
   "TQG_TQG_AN_HOA_2": [
-    21.735851,
-    105.25206
+    21.73607,
+    105.25176
   ],
   "420030": [
-    21.735851,
-    105.25206
+    21.73607,
+    105.25176
   ],
   "TQG_TQG_AN_TUONG": [
-    21.783836,
-    105.21677
+    21.783919,
+    105.216782
   ],
   "420031": [
-    21.783836,
-    105.21677
+    21.783919,
+    105.216782
   ],
   "TQG_TQG_AN_TUONG_2": [
-    21.792838,
-    105.21254
+    21.79298,
+    105.21245
   ],
   "420032": [
-    21.792838,
-    105.21254
+    21.79298,
+    105.21245
   ],
   "TQG_TQG_AN_TUONG_3": [
-    21.774196,
-    105.22809
+    21.77417,
+    105.22824
   ],
   "420112": [
-    21.774196,
-    105.22809
+    21.77417,
+    105.22824
   ],
   "TQG_TQG_CONG_AN_TINH": [
-    21.787714,
-    105.20748
+    21.7877139,
+    105.207483
   ],
   "420295": [
-    21.787714,
-    105.20748
+    21.7877139,
+    105.207483
   ],
   "TQG_TQG_DAI_TRUYEN_HINH": [
     21.82222,
-    105.20768
+    105.207677
   ],
   "420005": [
     21.82222,
-    105.20768
+    105.207677
   ],
   "TQG_TQG_DH_TAN_TRAO": [
-    21.833016,
-    105.17179
+    21.83346,
+    105.17155
   ],
   "420006": [
-    21.833016,
-    105.17179
+    21.83346,
+    105.17155
   ],
   "TQG_TQG_HUNG_THANH": [
     21.799043,
-    105.20504
+    105.205042
   ],
   "420270": [
     21.799043,
-    105.20504
+    105.205042
   ],
   "TQG_TQG_HUNG_THANH_3": [
-    21.807802,
-    105.21042
+    21.8078017,
+    105.210416
   ],
   "420233": [
-    21.807802,
-    105.21042
+    21.8078017,
+    105.210416
   ],
   "TQG_TQG_LANG_QUAN": [
-    21.857044,
-    105.14987
+    21.85696,
+    105.14994
   ],
   "420033": [
-    21.857044,
-    105.14987
+    21.85696,
+    105.14994
   ],
   "TQG_TQG_LONG_BINH_AN": [
     21.727369,
-    105.23005
+    105.230045
   ],
   "420008": [
     21.727369,
-    105.23005
+    105.230045
   ],
   "TQG_TQG_LUONG_VUONG": [
     21.762843,
@@ -257197,27 +257175,27 @@ const coordLookup = {
   ],
   "TQG_TQG_MINH_XUAN": [
     21.824394,
-    105.21781
+    105.217808
   ],
   "420095": [
     21.824394,
-    105.21781
+    105.217808
   ],
   "TQG_TQG_MINH_XUAN_5": [
     21.829056,
-    105.21357
+    105.213572
   ],
   "420234": [
     21.829056,
-    105.21357
+    105.213572
   ],
   "TQG_TQG_MINH_XUAN_7": [
-    21.824372,
-    105.21034
+    21.8243717,
+    105.210338
   ],
   "420236": [
-    21.824372,
-    105.21034
+    21.8243717,
+    105.210338
   ],
   "TQG_TQG_NONG_TIEN": [
     21.813,
@@ -257229,11 +257207,11 @@ const coordLookup = {
   ],
   "TQG_TQG_NONG_TIEN_3": [
     21.8148,
-    105.22366
+    105.22372
   ],
   "420096": [
     21.8148,
-    105.22366
+    105.22372
   ],
   "TQG_TQG_PHAN_THIET_2": [
     21.82474,
@@ -257253,18 +257231,18 @@ const coordLookup = {
   ],
   "TQG_TQG_PHAN_THIET_4": [
     21.818992,
-    105.20075
+    105.200752
   ],
   "420237": [
     21.818992,
-    105.20075
+    105.200752
   ],
   "TQG_TQG_TAN_BINH": [
-    21.699537,
+    21.6995367,
     105.22388
   ],
   "420010": [
-    21.699537,
+    21.6995367,
     105.22388
   ],
   "TQG_TQG_TAN_BINH_2": [
@@ -257276,44 +257254,44 @@ const coordLookup = {
     105.22511
   ],
   "TQG_TQG_TAN_HA": [
-    21.83617,
-    105.19363
+    21.83616,
+    105.1937
   ],
   "420099": [
-    21.83617,
-    105.19363
+    21.83616,
+    105.1937
   ],
   "TQG_TQG_TAN_QUANG": [
-    21.81336,
-    105.2132
+    21.81329,
+    105.21324
   ],
   "420011": [
-    21.81336,
-    105.2132
+    21.81329,
+    105.21324
   ],
   "TQG_TQG_TAN_QUANG_3": [
-    21.81791,
-    105.21094
+    21.81741,
+    105.21108
   ],
   "420239": [
-    21.81791,
-    105.21094
+    21.81741,
+    105.21108
   ],
   "TQG_TQG_TAN_QUANG_4": [
-    21.816749,
-    105.20831
+    21.81667,
+    105.20828
   ],
   "420265": [
-    21.816749,
-    105.20831
+    21.81667,
+    105.20828
   ],
   "TQG_TQG_THAI_LONG": [
-    21.748462,
-    105.23056
+    21.7484616,
+    105.230556
   ],
   "872428": [
-    21.748462,
-    105.23056
+    21.7484616,
+    105.230556
   ],
   "TQG_TQG_TRUNG_MON": [
     21.84712,
@@ -257324,80 +257302,80 @@ const coordLookup = {
     105.1642
   ],
   "TQG_TQG_TRUONG_DANG": [
-    21.807353,
+    21.80738,
     105.17867
   ],
   "420076": [
-    21.811094,
-    105.18422
+    21.81084,
+    105.18452
   ],
   "TQG_TQG_TUYEN_QUANG_PT": [
     21.815236,
-    105.21578
+    105.215784
   ],
   "420012": [
     21.815236,
-    105.21578
+    105.215784
   ],
   "TQG_TQG_Y_LA_5": [
-    21.83206,
-    105.19695
+    21.83199,
+    105.197
   ],
   "420103": [
-    21.83206,
-    105.19695
+    21.83199,
+    105.197
   ],
   "TQG_TQG_Y_LA_8": [
     21.826262,
-    105.20183
+    105.201833
   ],
   "420267": [
     21.826262,
-    105.20183
+    105.201833
   ],
   "TQG_TQG_YEN_SON": [
     21.82548,
-    105.17842
+    105.178421
   ],
   "420039": [
     21.82548,
-    105.17842
+    105.178421
   ],
   "TQG_TQG_YEN_SON_2": [
-    21.811094,
-    105.18422
+    21.81084,
+    105.18452
   ],
   "TQG_YSN_DOI_BINH_2": [
     21.6611,
-    105.22847
+    105.22848
   ],
   "420081": [
     21.6611,
-    105.22847
+    105.22848
   ],
   "TQG_YSN_KIM_PHU_2": [
-    21.786899,
-    105.16336
+    21.79215,
+    105.17362
   ],
   "872255": [
-    21.786899,
-    105.16336
+    21.79215,
+    105.17362
   ],
   "TQG_YSN_MY_LAM": [
-    21.763006,
-    105.11856
+    21.76295,
+    105.11859
   ],
   "420007": [
-    21.763006,
-    105.11856
+    21.76295,
+    105.11859
   ],
   "TQG_YSN_PHU_LAM": [
-    21.769931,
-    105.13864
+    21.76992,
+    105.13861
   ],
   "420085": [
-    21.769931,
-    105.13864
+    21.76992,
+    105.13861
   ],
   "VP_BXN_BA_HIEN": [
     21.3105,
@@ -257408,20 +257386,20 @@ const coordLookup = {
     105.69176
   ],
   "VP_BXN_BA_HIEN_3": [
-    21.3057,
-    105.67392
+    21.30567,
+    105.67395
   ],
   "280301": [
-    21.3057,
-    105.67392
+    21.30567,
+    105.67395
   ],
   "VP_BXN_BA_THIEN": [
-    21.326147,
-    105.68637
+    21.32597,
+    105.68632
   ],
   "280031": [
-    21.326147,
-    105.68637
+    21.32597,
+    105.68632
   ],
   "VP_BXN_CN_BINH_XUYEN": [
     21.25769,
@@ -257440,20 +257418,20 @@ const coordLookup = {
     105.67079
   ],
   "VP_BXN_GIA_KHANH": [
-    21.352876,
-    105.63616
+    21.3528759,
+    105.636155
   ],
   "874269": [
-    21.352876,
-    105.63616
+    21.3528759,
+    105.636155
   ],
   "VP_BXN_GOLF_THANH_LANH": [
-    21.398523,
-    105.68314
+    21.39847,
+    105.68312
   ],
   "280262": [
-    21.398523,
-    105.68314
+    21.39847,
+    105.68312
   ],
   "VP_BXN_GOM_SU_HUONG_CANH": [
     21.28667,
@@ -257465,19 +257443,19 @@ const coordLookup = {
   ],
   "VP_BXN_HUONG_CANH": [
     21.279419,
-    105.65106
+    105.651061
   ],
   "874172": [
     21.279419,
-    105.65106
+    105.651061
   ],
   "VP_BXN_HUONG_CANH_3": [
-    21.28778,
-    105.65646
+    21.28852,
+    105.65671
   ],
   "280181": [
-    21.28778,
-    105.65646
+    21.28852,
+    105.65671
   ],
   "VP_BXN_HUONG_CANH_4": [
     21.26952,
@@ -257488,56 +257466,56 @@ const coordLookup = {
     105.64986
   ],
   "VP_BXN_HUONG_SON": [
-    21.321911,
-    105.64511
+    21.32145,
+    105.64523
   ],
   "280017": [
-    21.321911,
-    105.64511
+    21.32145,
+    105.64523
   ],
   "VP_BXN_HUONG_SON_2": [
-    21.3409,
-    105.62571
+    21.34109,
+    105.62554
   ],
   "280032": [
-    21.3409,
-    105.62571
+    21.34109,
+    105.62554
   ],
   "VP_BXN_HUONG_SON_3": [
-    21.319893,
-    105.66832
+    21.31992,
+    105.66827
   ],
   "280033": [
-    21.319893,
-    105.66832
+    21.31992,
+    105.66827
   ],
   "VP_BXN_PSDT_BINH_XUYEN_1": [
-    21.263531,
-    105.66333
+    21.26354,
+    105.6633
   ],
   "874291": [
-    21.263531,
-    105.66333
+    21.26354,
+    105.6633
   ],
   "VP_BXN_PSDT_BINH_XUYEN_2": [
-    21.260028,
-    105.67474
+    21.25373,
+    105.67611
   ],
   "280259": [
-    21.260028,
-    105.67474
+    21.2601,
+    105.67457
   ],
   "VP_BXN_PSDT_BINH_XUYEN_3": [
-    21.260028,
-    105.67474
+    21.2601,
+    105.67457
   ],
   "VP_BXN_PSDT_BINH_XUYEN_4": [
-    21.262609,
-    105.66646
+    21.2705,
+    105.67175
   ],
   "280261": [
-    21.262609,
-    105.66646
+    21.2705,
+    105.67175
   ],
   "VP_BXN_PSDT_KCN_BA_THIEN_1_1": [
     21.322074,
@@ -257556,31 +257534,31 @@ const coordLookup = {
     105.68299
   ],
   "874173": [
-    21.315355,
-    105.68299
+    21.31547,
+    105.68244
   ],
   "VP_BXN_PSDT_KCN_BA_THIEN_1_4": [
-    21.315355,
-    105.68299
+    21.31547,
+    105.68244
   ],
   "VP_BXN_PSDT_KCN_BA_THIEN_2_1": [
-    21.345593,
-    105.66682
+    21.3455926,
+    105.666817
   ],
   "874182": [
-    21.342512,
-    105.67859
+    21.3425119,
+    105.678594
   ],
   "VP_BXN_PSDT_KCN_BA_THIEN_2_2": [
     21.3393,
     105.6743
   ],
   "VP_BXN_PSDT_KCN_BA_THIEN_2_3": [
-    21.342512,
-    105.67859
+    21.3425119,
+    105.678594
   ],
   "VP_BXN_PSDT_KCN_BA_THIEN_2_4": [
-    21.347787,
+    21.3477873,
     105.6749
   ],
   "280240": [
@@ -257604,12 +257582,12 @@ const coordLookup = {
     105.59177
   ],
   "VP_BXN_TAM_HOP": [
-    21.297758,
-    105.66925
+    21.29762,
+    105.6692
   ],
   "280100": [
-    21.297758,
-    105.66925
+    21.29762,
+    105.6692
   ],
   "VP_BXN_TAM_HOP_2": [
     21.30141,
@@ -257620,11 +257598,11 @@ const coordLookup = {
     105.64776
   ],
   "VP_BXN_THIEN_KE": [
-    21.336694,
+    21.3366944,
     105.664
   ],
   "280036": [
-    21.336694,
+    21.3366944,
     105.664
   ],
   "VP_PYN_GOLF_DAI_LAI": [
@@ -257636,20 +257614,20 @@ const coordLookup = {
     105.725521
   ],
   "VP_BXN_TRUNG_MY": [
-    21.35201,
-    105.68337
+    21.3520095,
+    105.683373
   ],
   "280193": [
-    21.35201,
-    105.68337
+    21.3520095,
+    105.683373
   ],
   "VP_LTH_LAP_THACH": [
     21.414233,
-    105.46402
+    105.464017
   ],
   "280038": [
     21.414233,
-    105.46402
+    105.464017
   ],
   "VP_SLO_HAI_LUU": [
     21.461817,
@@ -257657,11 +257635,11 @@ const coordLookup = {
   ],
   "VP_LTH_TRIEU_DE": [
     21.333737,
-    105.4715
+    105.471496
   ],
   "874293": [
     21.333737,
-    105.4715
+    105.471496
   ],
   "VP_PYN_CAO_DANG_SP_2": [
     21.28569,
@@ -257672,60 +257650,60 @@ const coordLookup = {
     105.72126
   ],
   "VP_PYN_HONDA_VN": [
-    21.237203,
-    105.71977
+    21.2372034,
+    105.719771
   ],
   "280049": [
-    21.237203,
-    105.71977
+    21.2372034,
+    105.719771
   ],
   "VP_PYN_PHUC_THANG": [
     21.231309,
-    105.70896
+    105.708959
   ],
   "280021": [
     21.231309,
-    105.70896
+    105.708959
   ],
   "VP_PYN_PHUC_THANG_2": [
     21.235609,
-    105.72621
+    105.726207
   ],
   "280051": [
     21.235609,
-    105.72621
+    105.726207
   ],
   "VP_PYN_PHUC_THANG_3": [
     21.23308,
-    105.71631
+    105.716308
   ],
   "874175": [
     21.23308,
-    105.71631
+    105.716308
   ],
   "VP_PYN_PHUC_YEN": [
     21.233426,
-    105.7052
+    105.705197
   ],
   "280052": [
     21.233426,
-    105.7052
+    105.705197
   ],
   "VP_PYN_PHUC_YEN_3": [
     21.241763,
-    105.70144
+    105.701441
   ],
   "280022": [
     21.241763,
-    105.70144
+    105.701441
   ],
   "VP_PYN_TIEN_CHAU": [
-    21.256996,
-    105.68961
+    21.2569959,
+    105.689615
   ],
   "280053": [
-    21.256996,
-    105.68961
+    21.2569959,
+    105.689615
   ],
   "VP_PYN_TRUNG_TRAC": [
     21.239898,
@@ -257744,16 +257722,16 @@ const coordLookup = {
     105.72893
   ],
   "VP_PYN_XUAN_HOA_2": [
-    21.27984,
-    105.72319
+    21.27843,
+    105.7226
   ],
   "280316": [
-    21.27984,
-    105.72319
+    21.27843,
+    105.7226
   ],
   "VP_TDO_DAI_DINH_2": [
     21.4596248,
-    105.5797339
+    105.579734
   ],
   "VP_TDG_HOP_THINH": [
     21.293355,
@@ -257773,11 +257751,11 @@ const coordLookup = {
   ],
   "VP_TDO_TAM_DAO": [
     21.456542,
-    105.6456
+    105.645595
   ],
   "280025": [
     21.456542,
-    105.6456
+    105.645595
   ],
   "VP_TDO_TAM_DAO_RESORT": [
     21.45596,
@@ -257796,52 +257774,52 @@ const coordLookup = {
     105.64105
   ],
   "VP_VYN_BAO_SON": [
-    21.31919,
-    105.61293
+    21.31916,
+    105.61288
   ],
   "280076": [
-    21.31919,
-    105.61293
+    21.31916,
+    105.61288
   ],
   "VP_VYN_BV_DA_KHOA": [
-    21.319459,
-    105.60437
+    21.31772,
+    105.6044
   ],
   "874276": [
-    21.319459,
-    105.60437
+    21.31772,
+    105.6044
   ],
   "VP_VYN_CA_TINH": [
-    21.312637,
-    105.61203
+    21.3127,
+    105.61214
   ],
   "280402": [
-    21.312637,
-    105.61203
+    21.3127,
+    105.61214
   ],
   "VP_VYN_CN_KHAI_QUANG": [
-    21.298583,
-    105.62775
+    21.29865,
+    105.6277
   ],
   "280077": [
-    21.298583,
-    105.62775
+    21.29865,
+    105.6277
   ],
   "VP_VYN_CN_KHAI_QUANG_2": [
-    21.30445,
-    105.62444
+    21.30462,
+    105.6243
   ],
   "280026": [
-    21.30445,
-    105.62444
+    21.30462,
+    105.6243
   ],
   "VP_VYN_DINH_TRUNG": [
-    21.315722,
-    105.58253
+    21.3157222,
+    105.582528
   ],
   "874277": [
-    21.315722,
-    105.58253
+    21.3157222,
+    105.582528
   ],
   "VP_VYN_DINH_TRUNG_2": [
     21.32613,
@@ -257853,11 +257831,11 @@ const coordLookup = {
   ],
   "VP_VYN_DINH_TRUNG_3": [
     21.335925,
-    105.602
+    105.601998
   ],
   "280080": [
     21.335925,
-    105.602
+    105.601998
   ],
   "VP_VYN_DINH_TRUNG_7": [
     21.3285,
@@ -257884,12 +257862,12 @@ const coordLookup = {
     105.5681
   ],
   "VP_VYN_DONG_TAM": [
-    21.29595,
-    105.57977
+    21.29599,
+    105.5798
   ],
   "280082": [
-    21.29595,
-    105.57977
+    21.29599,
+    105.5798
   ],
   "VP_VYN_DONG_TAM_2": [
     21.30359,
@@ -257900,12 +257878,12 @@ const coordLookup = {
     105.57418
   ],
   "VP_VYN_DONG_TAM_4": [
-    21.29247,
-    105.58845
+    21.2925,
+    105.5884
   ],
   "280084": [
-    21.29247,
-    105.58845
+    21.2925,
+    105.5884
   ],
   "VP_VYN_DUONG_ME_LINH": [
     21.30429,
@@ -257920,12 +257898,12 @@ const coordLookup = {
     105.5604
   ],
   "VP_VYN_LIEN_BAO_2": [
-    21.312156,
-    105.60157
+    21.31203,
+    105.60177
   ],
   "280006": [
-    21.312156,
-    105.60157
+    21.31203,
+    105.60177
   ],
   "VP_VYN_LIEN_BAO_5": [
     21.31758,
@@ -257936,12 +257914,12 @@ const coordLookup = {
     105.60059
   ],
   "VP_VYN_MAU_LAM": [
-    21.29932,
-    105.62283
+    21.29941,
+    105.62278
   ],
   "280163": [
-    21.29932,
-    105.62283
+    21.29941,
+    105.62278
   ],
   "VP_VYN_ME_LINH": [
     21.31555,
@@ -257952,12 +257930,12 @@ const coordLookup = {
     105.60708
   ],
   "VP_VYN_MINH_QUYET": [
-    21.324611,
-    105.61783
+    21.3246111,
+    105.617833
   ],
   "280164": [
-    21.324611,
-    105.61783
+    21.3246111,
+    105.617833
   ],
   "VP_VTG_VINH_TUONG": [
     21.218464,
@@ -257969,35 +257947,35 @@ const coordLookup = {
   ],
   "VP_VYN_PSDT_KHAI_QUANG_3": [
     21.305273,
-    105.62902
+    105.629023
   ],
   "280254": [
     21.305273,
-    105.62902
+    105.629023
   ],
   "VP_VYN_PSDT_KHAI_QUANG_4": [
     21.305273,
-    105.62902
+    105.629023
   ],
   "VP_VYN_PSDT_KHAI_QUANG_5": [
-    21.297233,
-    105.63265
+    21.2972333,
+    105.632647
   ],
   "280282": [
-    21.297233,
-    105.63265
+    21.2972333,
+    105.632647
   ],
   "VP_VYN_PSDT_KHAI_QUANG_6": [
-    21.297233,
-    105.63265
+    21.2972333,
+    105.632647
   ],
   "VP_VYN_THANH_GIA": [
-    21.31086,
-    105.6265
+    21.3108595,
+    105.626495
   ],
   "280027": [
-    21.31086,
-    105.6265
+    21.3108595,
+    105.626495
   ],
   "VP_VYN_THANH_TRU": [
     21.282894,
@@ -258009,19 +257987,19 @@ const coordLookup = {
   ],
   "VP_VYN_TICH_SON_2": [
     21.30674,
-    105.57234
+    105.572338
   ],
   "874181": [
     21.30674,
-    105.57234
+    105.572338
   ],
   "VP_VYN_TICH_SON_3": [
-    21.29973,
-    105.58585
+    21.29977,
+    105.58583
   ],
   "874279": [
-    21.29973,
-    105.58585
+    21.29977,
+    105.58583
   ],
   "VP_VYN_TICH_SON_4": [
     21.30988,
@@ -258040,20 +258018,20 @@ const coordLookup = {
     105.62061
   ],
   "VP_VYN_TON_DUC_THANG_2": [
-    21.31671,
-    105.63074
+    21.31673,
+    105.63069
   ],
   "280085": [
-    21.31671,
-    105.63074
+    21.31673,
+    105.63069
   ],
   "VP_VYN_VINH_YEN_2": [
-    21.299723,
-    105.56444
+    21.2997235,
+    105.564442
   ],
   "280013": [
-    21.299723,
-    105.56444
+    21.2997235,
+    105.564442
   ],
   "VP_VYN_VINH_YEN_3": [
     21.31573,
@@ -258065,11 +258043,11 @@ const coordLookup = {
   ],
   "VP_VYN_XUAN_MAI": [
     21.322401,
-    105.59997
+    105.599969
   ],
   "280028": [
     21.322401,
-    105.59997
+    105.599969
   ],
   "YB_NLO_NGHIA_AN_01R": [
     21.5977,
@@ -258080,35 +258058,35 @@ const coordLookup = {
     104.4989
   ],
   "YB_TYN_HOP_MINH": [
-    21.700633,
-    104.84074
+    21.7006327,
+    104.840736
   ],
   "290044": [
-    21.700633,
-    104.84074
+    21.7006327,
+    104.840736
   ],
   "YB_VYN_CHAU_QUE_2": [
-    22.010925,
-    104.53271
+    22.0109253,
+    104.532713
   ],
   "874140": [
-    22.010925,
-    104.53271
+    22.0109253,
+    104.532713
   ],
   "YB_VYN_CHAU_QUE_4": [
-    22.050096,
-    104.47408
+    22.0500959,
+    104.474084
   ],
   "290056": [
-    22.050096,
-    104.47408
+    22.0500959,
+    104.474084
   ],
   "YB_VYN_DONG_CUONG": [
-    21.934049,
+    21.9340494,
     104.60867
   ],
   "290003": [
-    21.934049,
+    21.9340494,
     104.60867
   ],
   "YB_VYN_MAU_A": [
@@ -258120,20 +258098,20 @@ const coordLookup = {
     104.71194
   ],
   "YB_VYN_VAN_YEN": [
-    21.881805,
-    104.6885
+    21.8818045,
+    104.688502
   ],
   "290005": [
-    21.881805,
-    104.6885
+    21.8818045,
+    104.688502
   ],
   "YB_YBI_AU_LAU": [
     21.704014,
-    104.8692
+    104.869198
   ],
   "874103": [
     21.704014,
-    104.8692
+    104.869198
   ],
   "YB_YBI_BV_YEN_BAI": [
     21.71437,
@@ -258144,12 +258122,12 @@ const coordLookup = {
     104.88
   ],
   "YB_YBI_CN_DAM_HONG": [
-    21.694936,
-    104.92084
+    21.6949362,
+    104.920838
   ],
   "290010": [
-    21.694936,
-    104.92084
+    21.6949362,
+    104.920838
   ],
   "YB_YBI_CN_VAN_PHU": [
     21.68456,
@@ -258184,68 +258162,68 @@ const coordLookup = {
     104.9227
   ],
   "YB_YBI_GA_YEN_BAI": [
-    21.703424,
-    104.88065
+    21.7034239,
+    104.880652
   ],
   "290016": [
-    21.703424,
-    104.88065
+    21.7034239,
+    104.880652
   ],
   "YB_YBI_HOA_BINH": [
-    21.707164,
+    21.7071639,
     104.87637
   ],
   "290017": [
-    21.707164,
+    21.7071639,
     104.87637
   ],
   "YB_YBI_KCN_AU_LAU": [
     21.704014,
-    104.8692
+    104.869198
   ],
   "874282": [
     21.704014,
-    104.8692
+    104.869198
   ],
   "YB_YBI_MINH_BAO": [
-    21.739356,
-    104.91431
+    21.7393562,
+    104.914314
   ],
   "290019": [
-    21.739356,
-    104.91431
+    21.7393562,
+    104.914314
   ],
   "YB_YBI_MINH_TAN": [
     21.717036,
-    104.89621
+    104.896208
   ],
   "290021": [
     21.717036,
-    104.89621
+    104.896208
   ],
   "YB_YBI_MINH_TAN_3": [
     21.72496,
     104.89038
   ],
   "290280": [
-    21.72496,
-    104.89038
+    21.72477,
+    104.8903
   ],
   "YB_YBI_NAM_CUONG": [
-    21.719952,
-    104.88501
+    21.7199521,
+    104.885012
   ],
   "290023": [
-    21.719952,
-    104.88501
+    21.7199521,
+    104.885012
   ],
   "YB_YBI_NAM_CUONG_3": [
-    21.725842,
-    104.8746
+    21.7258423,
+    104.874598
   ],
   "874299": [
-    21.725842,
-    104.8746
+    21.7258423,
+    104.874598
   ],
   "YB_YBI_NGUYEN_THAI_HOC": [
     21.71548,
@@ -258257,35 +258235,35 @@ const coordLookup = {
   ],
   "YB_YBI_PHUC_LOC_2": [
     21.682186,
-    104.90302
+    104.903019
   ],
   "290224": [
     21.682186,
-    104.90302
+    104.903019
   ],
   "YB_YBI_TAN_THINH": [
-    21.723072,
-    104.92645
+    21.7230719,
+    104.926455
   ],
   "874108": [
-    21.723072,
-    104.92645
+    21.7230719,
+    104.926455
   ],
   "YB_YBI_TAN_THINH_2": [
-    21.724722,
-    104.94139
+    21.7247222,
+    104.941389
   ],
   "290025": [
-    21.724722,
-    104.94139
+    21.7247222,
+    104.941389
   ],
   "YB_YBI_TUY_LOC": [
-    21.730514,
-    104.8465
+    21.7305137,
+    104.846502
   ],
   "290028": [
-    21.730514,
-    104.8465
+    21.7305137,
+    104.846502
   ],
   "YB_YBI_UB_DAN_TOC": [
     21.70979,
@@ -258296,16 +258274,16 @@ const coordLookup = {
     104.88614
   ],
   "YB_YBI_YEN_NINH": [
-    21.72496,
-    104.89038
+    21.72477,
+    104.8903
   ],
   "YB_YBI_YEN_THINH": [
-    21.732677,
-    104.92929
+    21.7326771,
+    104.929295
   ],
   "290035": [
-    21.732677,
-    104.92929
+    21.7326771,
+    104.929295
   ],
   "H2_BVI_AO_VUA": [
     21.10554,
@@ -258984,12 +258962,12 @@ const coordLookup = {
     105.58829
   ],
   "H2_CMY_BIEN_GIANG_2": [
-    20.92211,
-    105.7238
+    20.92215,
+    105.72376
   ],
   "101218": [
-    20.92211,
-    105.7238
+    20.92215,
+    105.72376
   ],
   "H2_CMY_BIEN_GIANG_3": [
     20.92587,
@@ -259092,12 +259070,12 @@ const coordLookup = {
     105.57711
   ],
   "H2_CMY_DAI_TU": [
-    20.886615,
-    105.73792
+    20.88652,
+    105.73791
   ],
   "105003": [
-    20.886615,
-    105.73792
+    20.88652,
+    105.73791
   ],
   "H2_CMY_DAI_YEN": [
     20.90255,
@@ -259148,20 +259126,20 @@ const coordLookup = {
     105.71026
   ],
   "H2_CMY_DOAN_KET": [
-    20.886701,
-    105.70189
+    20.8865,
+    105.70222
   ],
   "102925": [
-    20.886701,
-    105.70189
+    20.8865,
+    105.70222
   ],
   "H2_CMY_DONG_LAC": [
-    20.82275,
-    105.6851
+    20.82299,
+    105.68497
   ],
   "101746": [
-    20.82275,
-    105.6851
+    20.82299,
+    105.68497
   ],
   "H2_CMY_DONG_LAC_3": [
     20.819482,
@@ -259173,7 +259151,7 @@ const coordLookup = {
   ],
   "H2_CMY_DONG_PHU": [
     20.83146,
-    105.7118
+    105.71188
   ],
   "102107": [
     20.82527,
@@ -259224,12 +259202,12 @@ const coordLookup = {
     105.62804
   ],
   "H2_CMY_DUONG_KE": [
-    20.82668,
-    105.6759
+    20.82664,
+    105.67593
   ],
   "104817": [
-    20.82668,
-    105.6759
+    20.82664,
+    105.67593
   ],
   "H2_CMY_HO_XUAN_MAI": [
     20.913461,
@@ -259248,20 +259226,20 @@ const coordLookup = {
     105.7257
   ],
   "H2_CMY_HOANG_DIEU": [
-    20.877367,
-    105.73373
+    20.87715,
+    105.7336
   ],
   "101224": [
-    20.877367,
-    105.73373
+    20.87715,
+    105.7336
   ],
   "H2_CMY_HOANG_VAN_THU": [
-    20.86101,
-    105.62578
+    20.86102,
+    105.6258
   ],
   "102928": [
-    20.86101,
-    105.62578
+    20.86102,
+    105.6258
   ],
   "H2_CMY_HOANG_VAN_THU_01R": [
     20.863036,
@@ -259280,16 +259258,16 @@ const coordLookup = {
     105.70303
   ],
   "H2_CMY_HOP_DONG": [
-    20.87811,
-    105.6984
+    20.87862,
+    105.6974
   ],
   "101225": [
-    20.87811,
-    105.6984
+    20.87862,
+    105.6974
   ],
   "H2_CMY_HUU_VAN": [
-    20.868605,
-    105.65905
+    20.86259,
+    105.65506
   ],
   "102113": [
     20.849771,
@@ -259336,12 +259314,12 @@ const coordLookup = {
     105.72482
   ],
   "H2_CMY_MIEU_MON": [
-    20.82211,
-    105.64436
+    20.8221,
+    105.64433
   ],
   "102114": [
-    20.82211,
-    105.64436
+    20.8221,
+    105.64433
   ],
   "H2_CMY_MY_LUONG": [
     20.8598,
@@ -259424,11 +259402,11 @@ const coordLookup = {
     105.71656
   ],
   "H2_CMY_QUANG_BI": [
-    20.86422,
+    20.86418,
     105.6981
   ],
   "102119": [
-    20.86422,
+    20.86418,
     105.6981
   ],
   "H2_CMY_TAN_TIEN": [
@@ -259484,12 +259462,12 @@ const coordLookup = {
     105.73002
   ],
   "H2_CMY_THANH_OAI_2": [
-    20.850799,
-    105.75253
+    20.85071,
+    105.75256
   ],
   "101229": [
-    20.850799,
-    105.75253
+    20.85071,
+    105.75256
   ],
   "H2_CMY_THON_VAN_LA": [
     20.834251,
@@ -259512,7 +259490,7 @@ const coordLookup = {
     105.7209
   ],
   "H2_CMY_THUY_HUONG": [
-    20.90487,
+    20.90482,
     105.7178
   ],
   "101231": [
@@ -259524,12 +259502,12 @@ const coordLookup = {
     105.72877
   ],
   "H2_CMY_THUY_HUONG_3": [
-    20.9103,
-    105.73314
+    20.9101,
+    105.73305
   ],
   "103349": [
-    20.9103,
-    105.73314
+    20.9101,
+    105.73305
   ],
   "H2_CMY_THUY_HUONG_4": [
     20.9123,
@@ -259604,12 +259582,12 @@ const coordLookup = {
     105.6623
   ],
   "H2_CMY_TRAN_PHU": [
-    20.83309,
-    105.6704
+    20.83315,
+    105.6703
   ],
   "101235": [
-    20.83309,
-    105.6704
+    20.83315,
+    105.6703
   ],
   "H2_CMY_TRUNG_HOA": [
     20.90758,
@@ -259620,8 +259598,8 @@ const coordLookup = {
     105.6538
   ],
   "H2_CMY_TRUONG_BAN_MIEU_MON": [
-    20.81473,
-    105.6453
+    20.81482,
+    105.6454
   ],
   "102938": [
     20.799817,
@@ -260220,11 +260198,11 @@ const coordLookup = {
     105.71372
   ],
   "H2_MDC_CHUA_HUONG": [
-    20.61538,
+    20.6153,
     105.78696
   ],
   "100039": [
-    20.61538,
+    20.6153,
     105.78696
   ],
   "H2_MDC_CHUA_HUONG_01R": [
@@ -260268,20 +260246,20 @@ const coordLookup = {
     105.78395
   ],
   "H2_MDC_DONG_HUONG_TICH": [
-    20.61297,
-    105.7351
+    20.61307,
+    105.73537
   ],
   "101803": [
-    20.61297,
-    105.7351
+    20.61307,
+    105.73537
   ],
   "H2_MDC_DONG_TAM": [
-    20.80123,
-    105.67637
+    20.8012,
+    105.67638
   ],
   "101522": [
-    20.80123,
-    105.67637
+    20.8012,
+    105.67638
   ],
   "H2_MDC_HO_QUAN_SON": [
     20.70865,
@@ -260296,12 +260274,12 @@ const coordLookup = {
     105.69415
   ],
   "H2_MDC_HONG_SON": [
-    20.73436,
-    105.70239
+    20.73434,
+    105.70238
   ],
   "103074": [
-    20.73436,
-    105.70239
+    20.73434,
+    105.70238
   ],
   "H2_MDC_HOP_THANH": [
     20.654443,
@@ -260356,8 +260334,8 @@ const coordLookup = {
     105.80556
   ],
   "H2_MDC_KENH_DAO": [
-    20.75427,
-    105.6982
+    20.75429,
+    105.69812
   ],
   "103079": [
     20.7587,
@@ -260384,24 +260362,24 @@ const coordLookup = {
     105.74439
   ],
   "101081": [
-    20.685551,
-    105.73959
+    20.68538,
+    105.73952
   ],
   "H2_MDC_MY_DUC_01R": [
     20.67113,
     105.74663
   ],
   "H2_MDC_MY_DUC_02R": [
-    20.685551,
-    105.73959
+    20.68538,
+    105.73952
   ],
   "H2_MDC_MY_DUC_2": [
-    20.69871,
-    105.74735
+    20.69867,
+    105.74734
   ],
   "102409": [
-    20.69871,
-    105.74735
+    20.69867,
+    105.74734
   ],
   "H2_MDC_MY_DUC_3": [
     20.6915,
@@ -260476,12 +260454,12 @@ const coordLookup = {
     105.75506
   ],
   "H2_MDC_THIEN_TRU": [
-    20.62002,
-    105.74579
+    20.61959,
+    105.74608
   ],
   "101801": [
-    20.62002,
-    105.74579
+    20.61959,
+    105.74608
   ],
   "H2_MDC_THUONG_LAM": [
     20.78771,
@@ -260508,8 +260486,8 @@ const coordLookup = {
     105.6782
   ],
   "H2_MDC_TUY_LAI_2": [
-    20.782052,
-    105.68139
+    20.78144,
+    105.68317
   ],
   "103085": [
     20.785291,
@@ -260524,8 +260502,8 @@ const coordLookup = {
     105.68
   ],
   "H2_MDC_VAN_KIM": [
-    20.65051,
-    105.78363
+    20.65044,
+    105.78365
   ],
   "103086": [
     20.64203,
@@ -260656,23 +260634,23 @@ const coordLookup = {
     105.74317
   ],
   "H2_MLH_LIEN_MAC": [
-    21.19166,
-    105.65558
+    21.191658,
+    105.655583
   ],
   "101511": [
-    21.19485,
-    105.64733
+    21.194847,
+    105.647325
   ],
   "H2_MLH_LIEN_MAC_01R": [
-    21.19485,
-    105.64733
+    21.194847,
+    105.647325
   ],
   "H2_MLH_ME_LINH": [
     21.1787,
     105.72817
   ],
   "102395": [
-    21.16217,
+    21.162167,
     105.71345
   ],
   "H2_MLH_ME_LINH_2": [
@@ -260712,8 +260690,8 @@ const coordLookup = {
     105.7584
   ],
   "H2_MLH_PHO_YEN_CRAN": [
-    21.1532,
-    105.76006
+    21.153203,
+    105.760058
   ],
   "100933": [
     21.157,
@@ -260757,11 +260735,11 @@ const coordLookup = {
   ],
   "H2_MLH_TAM_DONG": [
     21.2046,
-    105.68557
+    105.685572
   ],
   "102398": [
     21.2046,
-    105.68557
+    105.685572
   ],
   "H2_MLH_THACH_DA": [
     21.1724,
@@ -260832,12 +260810,12 @@ const coordLookup = {
     105.77089
   ],
   "H2_MLH_TIEN_PHONG_3": [
-    21.16138,
-    105.76601
+    21.161383,
+    105.766011
   ],
   "104996": [
-    21.16138,
-    105.76601
+    21.161383,
+    105.766011
   ],
   "H2_MLH_TIEN_THANG": [
     21.22752,
@@ -260900,7 +260878,7 @@ const coordLookup = {
     105.64025
   ],
   "H2_MLH_VAN_KHE": [
-    21.16217,
+    21.162167,
     105.71345
   ],
   "H2_MLH_VAN_YEN": [
@@ -261168,36 +261146,36 @@ const coordLookup = {
     105.57027
   ],
   "H2_PXN_BACH_HA": [
-    20.70144,
-    105.9361
+    20.70149,
+    105.93603
   ],
   "102453": [
-    20.70144,
-    105.9361
+    20.70149,
+    105.93603
   ],
   "H2_PXN_BACH_HA_2": [
-    20.69329,
-    105.95301
+    20.69327,
+    105.95313
   ],
   "103109": [
     20.69877,
     105.95612
   ],
   "H2_PXN_CHAU_CAN": [
-    20.67883,
-    105.90133
+    20.67889,
+    105.90141
   ],
   "103111": [
-    20.67883,
-    105.90133
+    20.67889,
+    105.90141
   ],
   "H2_PXN_DAI_XUYEN": [
-    20.6819,
-    105.9341
+    20.68198,
+    105.93404
   ],
   "101546": [
-    20.6819,
-    105.9341
+    20.68198,
+    105.93404
   ],
   "H2_PXN_KHAI_THAI_2": [
     20.707055,
@@ -261216,12 +261194,12 @@ const coordLookup = {
     105.91064
   ],
   "H2_PXN_MINH_TAN": [
-    20.67503,
-    105.97137
+    20.67508,
+    105.97136
   ],
   "102456": [
-    20.67503,
-    105.97137
+    20.67508,
+    105.97136
   ],
   "H2_PXN_MINH_TAN_2": [
     20.68181,
@@ -261260,12 +261238,12 @@ const coordLookup = {
     105.95612
   ],
   "H2_PXN_TRI_THUY_2": [
-    20.68991,
-    105.96301
+    20.68986,
+    105.9631
   ],
   "103132": [
-    20.68991,
-    105.96301
+    20.68986,
+    105.9631
   ],
   "H2_QOI_CAN_HUU": [
     20.954444,
@@ -262076,12 +262054,12 @@ const coordLookup = {
     105.7566
   ],
   "H2_TOI_CAO_VIEN_2": [
-    20.89453,
-    105.7462
+    20.89477,
+    105.74628
   ],
   "102535": [
-    20.89453,
-    105.7462
+    20.89477,
+    105.74628
   ],
   "H2_TOI_CAO_VIEN_3": [
     20.888913,
@@ -262104,12 +262082,12 @@ const coordLookup = {
     105.79467
   ],
   "H2_TOI_DAN_HOA_2": [
-    20.80562,
-    105.78196
+    20.80568,
+    105.782
   ],
   "103096": [
-    20.80562,
-    105.78196
+    20.80568,
+    105.782
   ],
   "H2_TOI_HONG_DUONG": [
     20.79676,
@@ -262120,12 +262098,12 @@ const coordLookup = {
     105.7775
   ],
   "H2_TOI_KIM_AN": [
-    20.84005,
-    105.7354
+    20.84002,
+    105.73547
   ],
   "103205": [
-    20.84005,
-    105.7354
+    20.84002,
+    105.73547
   ],
   "H2_TOI_KIM_BAI": [
     20.851646,
@@ -262136,16 +262114,16 @@ const coordLookup = {
     105.75794
   ],
   "H2_TOI_KIM_BAI_2": [
-    20.86672,
-    105.73816
+    20.86598,
+    105.7395
   ],
   "102538": [
-    20.86672,
-    105.73816
+    20.86598,
+    105.7395
   ],
   "H2_TOI_PHO_VAC": [
-    20.81256,
-    105.7794
+    20.80867,
+    105.772
   ],
   "H2_TOI_PHO_VAC_01R": [
     20.82755,
@@ -262204,20 +262182,20 @@ const coordLookup = {
     105.73748
   ],
   "H2_TOI_VIEN_AN": [
-    20.789902,
-    105.71461
+    20.78997,
+    105.7146
   ],
   "102546": [
-    20.789902,
-    105.71461
+    20.78997,
+    105.7146
   ],
   "H2_TOI_XUAN_DUONG": [
-    20.80178,
-    105.7445
+    20.80176,
+    105.74456
   ],
   "102547": [
-    20.80178,
-    105.7445
+    20.80176,
+    105.74456
   ],
   "H2_TTT_BINH_PHU": [
     21.02289,
@@ -262772,12 +262750,12 @@ const coordLookup = {
     105.77201
   ],
   "H2_UHA_DAI_CUONG": [
-    20.6472,
-    105.86328
+    20.64714,
+    105.86333
   ],
   "103233": [
-    20.6472,
-    105.86328
+    20.64714,
+    105.86333
   ],
   "H2_UHA_DAI_HUNG": [
     20.66623,
@@ -262788,19 +262766,19 @@ const coordLookup = {
     105.82622
   ],
   "H2_UHA_DAI_HUNG_2": [
-    20.65847,
+    20.65849,
     105.81808
   ],
   "103234": [
-    20.65847,
+    20.65849,
     105.81808
   ],
   "H2_UHA_DAI_HUNG_3": [
-    20.66222,
+    20.6623,
     105.84155
   ],
   "103235": [
-    20.66222,
+    20.6623,
     105.84155
   ],
   "H2_UHA_DOI_BINH": [
@@ -262820,12 +262798,12 @@ const coordLookup = {
     105.88966
   ],
   "H2_UHA_DONG_TIEN": [
-    20.7381,
-    105.7425
+    20.73827,
+    105.74239
   ],
   "102636": [
-    20.7381,
-    105.7425
+    20.73827,
+    105.74239
   ],
   "H2_UHA_HOA_DUONG": [
     20.7597,
@@ -262844,28 +262822,28 @@ const coordLookup = {
     105.76603
   ],
   "H2_UHA_HOA_PHU": [
-    20.66626,
-    105.78298
+    20.66623,
+    105.78295
   ],
   "101709": [
-    20.66626,
-    105.78298
+    20.66623,
+    105.78295
   ],
   "H2_UHA_HOA_PHU_2": [
-    20.6721,
-    105.77792
+    20.671918,
+    105.777929
   ],
   "103361": [
-    20.6721,
-    105.77792
+    20.671918,
+    105.777929
   ],
   "H2_UHA_HOA_SON": [
-    20.77619,
-    105.75187
+    20.77617,
+    105.75185
   ],
   "102265": [
-    20.77619,
-    105.75187
+    20.77617,
+    105.75185
   ],
   "H2_UHA_HOA_VU": [
     20.763291,
@@ -262884,44 +262862,44 @@ const coordLookup = {
     105.75225
   ],
   "H2_UHA_HONG_QUANG": [
-    20.62237,
-    105.7905
+    20.62251,
+    105.79056
   ],
   "103243": [
-    20.62237,
-    105.7905
+    20.62251,
+    105.79056
   ],
   "H2_UHA_HONG_SON_2": [
-    20.74034,
+    20.74029,
     105.72124
   ],
   "103244": [
-    20.74034,
+    20.74029,
     105.72124
   ],
   "H2_UHA_KIM_DUONG": [
-    20.66997,
-    105.86634
+    20.66993,
+    105.86637
   ],
   "103245": [
-    20.66997,
-    105.86634
+    20.66993,
+    105.86637
   ],
   "H2_UHA_LIEN_BAT": [
-    20.75965,
-    105.77506
+    20.75964,
+    105.77509
   ],
   "103246": [
-    20.75965,
-    105.77506
+    20.75964,
+    105.77509
   ],
   "H2_UHA_LIEN_BAT_2": [
-    20.74537,
-    105.77051
+    20.74531,
+    105.7706
   ],
   "102639": [
-    20.74537,
-    105.77051
+    20.74531,
+    105.7706
   ],
   "H2_UHA_LUU_HOANG": [
     20.64468,
@@ -262948,12 +262926,12 @@ const coordLookup = {
     105.79425
   ],
   "H2_UHA_PHUONG_TU": [
-    20.7281,
-    105.7967
+    20.72801,
+    105.79675
   ],
   "102640": [
-    20.7281,
-    105.7967
+    20.72801,
+    105.79675
   ],
   "H2_UHA_QUANG_PHU_CAU": [
     20.77902,
@@ -262968,12 +262946,12 @@ const coordLookup = {
     105.77618
   ],
   "H2_UHA_SON_CONG": [
-    20.75468,
-    105.7176
+    20.755,
+    105.718
   ],
   "103381": [
-    20.75468,
-    105.7176
+    20.755,
+    105.718
   ],
   "H2_UHA_TAO_DUONG": [
     20.78981,
@@ -263008,16 +262986,16 @@ const coordLookup = {
     105.75015
   ],
   "H2_UHA_TRUONG_THINH": [
-    20.76277,
-    105.73364
+    20.75979,
+    105.73404
   ],
   "103255": [
-    20.76277,
-    105.73364
+    20.75979,
+    105.73404
   ],
   "H2_UHA_UNG_HOA": [
-    20.73214,
-    105.77119
+    20.73209,
+    105.77133
   ],
   "102643": [
     20.7375,
@@ -276292,8 +276270,8 @@ const coordLookup = {
     105.88459
   ],
   "HN_DAH_ASAHI_PHASE_1": [
-    21.111807,
-    105.78215
+    21.1123,
+    105.7824
   ],
   "104201": [
     21.112197,
@@ -276368,8 +276346,8 @@ const coordLookup = {
     105.78867
   ],
   "100604": [
-    21.1172,
-    105.78335
+    21.11762,
+    105.78345
   ],
   "HN_DAH_CHO_KIM_SOUT": [
     21.17878,
@@ -276392,8 +276370,8 @@ const coordLookup = {
     105.84708
   ],
   "HN_DAH_CN_THANG_LONG": [
-    21.1172,
-    105.78335
+    21.11762,
+    105.78345
   ],
   "HN_DAH_CN_THANG_LONG_2": [
     21.11486,
@@ -276428,12 +276406,12 @@ const coordLookup = {
     105.78098
   ],
   "HN_DAH_CN_THANG_LONG_8": [
-    21.124042,
-    105.77929
+    21.12405,
+    105.7793
   ],
   "105014": [
-    21.124042,
-    105.77929
+    21.12405,
+    105.7793
   ],
   "HN_DAH_CO_DIEN": [
     21.10737,
@@ -276444,12 +276422,12 @@ const coordLookup = {
     105.78911
   ],
   "HN_DAH_CO_DUONG": [
-    21.153297,
-    105.83266
+    21.15196,
+    105.8334
   ],
   "101250": [
-    21.153297,
-    105.83266
+    21.15196,
+    105.8334
   ],
   "HN_DAH_CO_LOA": [
     21.10155,
@@ -276476,8 +276454,8 @@ const coordLookup = {
     105.8736
   ],
   "101255": [
-    21.14111,
-    105.86851
+    21.141091,
+    105.86852
   ],
   "HN_DAH_CO_LOA_3_CRAN": [
     21.115689,
@@ -276552,24 +276530,24 @@ const coordLookup = {
     105.9131
   ],
   "HN_DAH_DONG_ANH": [
-    21.141605,
-    105.84663
+    21.14161,
+    105.8465
   ],
   "100609": [
-    21.141605,
-    105.84663
+    21.14161,
+    105.8465
   ],
   "HN_DAH_DONG_ANH_2": [
     21.15496,
     105.8462
   ],
   "HN_DAH_DONG_ANH_3": [
-    21.127149,
-    105.8441
+    21.12725,
+    105.84415
   ],
   "101253": [
-    21.127149,
-    105.8441
+    21.12725,
+    105.84415
   ],
   "HN_DAH_DONG_ANH_4": [
     21.13694,
@@ -276593,7 +276571,7 @@ const coordLookup = {
   ],
   "102948": [
     21.16188,
-    105.8542
+    105.85418
   ],
   "HN_DAH_DONG_TRU": [
     21.07696,
@@ -276656,12 +276634,12 @@ const coordLookup = {
     105.81591
   ],
   "HN_DAH_HAI_BOI_3": [
-    21.120528,
-    105.78909
+    21.12062,
+    105.78876
   ],
   "100613": [
-    21.120528,
-    105.78909
+    21.12062,
+    105.78876
   ],
   "HN_DAH_HAI_BOI_5": [
     21.11096,
@@ -276673,7 +276651,7 @@ const coordLookup = {
   ],
   "HN_DAH_HAI_BOI_CRAN": [
     21.10505,
-    105.7975
+    105.79754
   ],
   "HN_DAH_HAU_DUONG": [
     21.1252,
@@ -276800,8 +276778,8 @@ const coordLookup = {
     105.88233
   ],
   "HN_DAH_MEIKO_IBC": [
-    21.118148,
-    105.77624
+    21.110881,
+    105.78257
   ],
   "103682": [
     21.11081,
@@ -276937,7 +276915,7 @@ const coordLookup = {
   ],
   "HN_DAH_PHO_UY_NO": [
     21.16188,
-    105.8542
+    105.85418
   ],
   "HN_DAH_PHUONG_TRACH_2": [
     21.12196,
@@ -276980,24 +276958,24 @@ const coordLookup = {
     105.9131
   ],
   "HN_DAH_THON_BAU": [
-    21.12797,
-    105.78315
+    21.127908,
+    105.783164
   ],
   "100623": [
-    21.12797,
-    105.78315
+    21.127908,
+    105.783164
   ],
   "HN_DAH_THON_CAU_CA": [
     21.119794,
     105.845681
   ],
   "HN_DAH_THON_DOAI": [
-    21.11092,
-    105.84041
+    21.11106,
+    105.84029
   ],
   "100624": [
-    21.11092,
-    105.84041
+    21.11106,
+    105.84029
   ],
   "HN_DAH_THON_THUONG_PHUC_CRAN": [
     21.1683,
@@ -277040,8 +277018,8 @@ const coordLookup = {
     105.86684
   ],
   "HN_DAH_TIEN_HOI_01R": [
-    21.10466,
-    105.8563
+    21.10462,
+    105.8562
   ],
   "HN_DAH_TT_TRIEN_LAM_QUOC_GIA_IBC": [
     21.088066,
@@ -277128,8 +277106,8 @@ const coordLookup = {
     105.86486
   ],
   "HN_DAH_VIET_HUNG_2": [
-    21.14111,
-    105.86851
+    21.141091,
+    105.86852
   ],
   "HN_DAH_VIET_HUNG_3": [
     21.1263,
@@ -277248,20 +277226,20 @@ const coordLookup = {
     105.93818
   ],
   "HN_GLM_BAO_DAP": [
-    20.966713,
-    105.94957
+    20.96801,
+    105.94894
   ],
   "101313": [
     20.96846,
     105.95421
   ],
   "HN_GLM_BAT_TRANG": [
-    20.981347,
-    105.91738
+    20.98124,
+    105.91802
   ],
   "101314": [
-    20.981347,
-    105.91738
+    20.98124,
+    105.91802
   ],
   "HN_GLM_BAT_TRANG_2": [
     20.997376,
@@ -277316,7 +277294,7 @@ const coordLookup = {
     105.9117
   ],
   "100633": [
-    21.09032,
+    21.090315,
     105.90513
   ],
   "HN_GLM_CHO_BAT_TRANG": [
@@ -277388,12 +277366,12 @@ const coordLookup = {
     105.94611
   ],
   "HN_GLM_CO_BI_3": [
-    21.033734,
-    105.94898
+    21.0337,
+    105.94873
   ],
   "103331": [
-    21.033734,
-    105.94898
+    21.0337,
+    105.94873
   ],
   "HN_GLM_CONG_THON": [
     21.08463,
@@ -277408,12 +277386,12 @@ const coordLookup = {
     105.94083
   ],
   "102961": [
-    21.01433,
-    105.93593
+    21.014592,
+    105.936206
   ],
   "HN_GLM_DA_TON": [
-    20.986177,
-    105.93017
+    20.98588,
+    105.93002
   ],
   "101322": [
     20.98036,
@@ -277456,12 +277434,12 @@ const coordLookup = {
     105.93477
   ],
   "100931": [
-    21.07884,
-    105.93806
+    21.078839,
+    105.938064
   ],
   "HN_GLM_DINH_XUYEN_2": [
-    21.07884,
-    105.93806
+    21.078839,
+    105.938064
   ],
   "HN_GLM_DINH_XUYEN_3": [
     21.08774,
@@ -277508,12 +277486,12 @@ const coordLookup = {
     105.92991
   ],
   "HN_GLM_DUONG_QUANG": [
-    21.006258,
-    105.99741
+    21.00646,
+    105.99745
   ],
   "101327": [
-    21.006258,
-    105.99741
+    21.00646,
+    105.99745
   ],
   "HN_GLM_DUONG_XA": [
     21.00558,
@@ -277568,8 +277546,8 @@ const coordLookup = {
     105.95367
   ],
   "HN_GLM_KIEU_KY": [
-    20.975842,
-    105.95801
+    20.9784,
+    105.9585
   ],
   "101329": [
     20.984428,
@@ -277584,8 +277562,8 @@ const coordLookup = {
     105.95705
   ],
   "HN_GLM_KIM_LAN": [
-    20.95937,
-    105.90257
+    20.95942,
+    105.9026
   ],
   "101330": [
     20.96371,
@@ -277596,16 +277574,16 @@ const coordLookup = {
     105.9048
   ],
   "HN_GLM_KIM_SON": [
-    21.02511,
-    105.98768
+    21.02512,
+    105.98769
   ],
   "101331": [
-    21.02511,
-    105.98768
+    21.02512,
+    105.98769
   ],
   "HN_GLM_L1_OCEAN_PARK_IBC": [
-    21.00074,
-    105.94343
+    21.00006,
+    105.9435
   ],
   "HN_GLM_L2_OCEAN_PARK_IBC": [
     21.00169,
@@ -277636,11 +277614,11 @@ const coordLookup = {
     105.99673
   ],
   "HN_GLM_LE_CHI_3": [
-    21.04948,
+    21.04943,
     106.00816
   ],
   "102197": [
-    21.04948,
+    21.04943,
     106.00816
   ],
   "HN_GLM_NGA_4_NINH_HIEP": [
@@ -277716,20 +277694,20 @@ const coordLookup = {
     105.93764
   ],
   "HN_GLM_P10P17_VINHOMES_OCEANPARK_IBC": [
-    20.991778,
-    105.9434
+    20.99173,
+    105.94256
   ],
   "103264": [
-    20.991778,
-    105.9434
+    20.99173,
+    105.94256
   ],
   "HN_GLM_P18P19_VINHOMES_OCEANPARK_IBC": [
     20.989928,
     105.94252
   ],
   "HN_GLM_P1P5_VINHOMES_OCEANPARK_IBC": [
-    20.990947,
-    105.94087
+    20.99192,
+    105.94
   ],
   "103265": [
     20.994015,
@@ -277808,32 +277786,32 @@ const coordLookup = {
     105.94327
   ],
   "HN_GLM_TRAU_QUY_2": [
-    21.01433,
-    105.93593
+    21.014592,
+    105.936206
   ],
   "HN_GLM_TRAU_QUY_3": [
-    21.0066,
-    105.95
+    21.0067,
+    105.94996
   ],
   "104862": [
-    21.0066,
-    105.95
+    21.0067,
+    105.94996
   ],
   "HN_GLM_TRAU_QUY_4": [
-    21.0098,
-    105.9402
+    21.009606,
+    105.940039
   ],
   "104863": [
-    21.0098,
-    105.9402
+    21.009606,
+    105.940039
   ],
   "HN_GLM_TRAU_QUY_5": [
-    21.002,
-    105.93716
+    21.00202,
+    105.93719
   ],
   "101341": [
-    21.002,
-    105.93716
+    21.00202,
+    105.93719
   ],
   "HN_GLM_TRUNG_MAU": [
     21.05467,
@@ -277864,8 +277842,8 @@ const coordLookup = {
     105.95601
   ],
   "HN_GLM_VIN_GIA_LAM_10": [
-    20.987467,
-    105.95304
+    20.98773,
+    105.95256
   ],
   "102969": [
     20.986223,
@@ -277880,12 +277858,12 @@ const coordLookup = {
     105.94667
   ],
   "HN_GLM_VIN_GIA_LAM_12": [
-    20.99077,
-    105.9567
+    20.99084,
+    105.95668
   ],
   "105018": [
-    20.99077,
-    105.9567
+    20.99084,
+    105.95668
   ],
   "HN_GLM_VIN_GIA_LAM_13": [
     20.99486,
@@ -277912,12 +277890,12 @@ const coordLookup = {
     105.9459
   ],
   "HN_GLM_VIN_GIA_LAM_16": [
-    20.99055,
-    105.9603
+    20.99059,
+    105.96024
   ],
   "105022": [
-    20.99055,
-    105.9603
+    20.99059,
+    105.96024
   ],
   "HN_GLM_VIN_GIA_LAM_2": [
     20.99705,
@@ -277960,19 +277938,19 @@ const coordLookup = {
     105.94831
   ],
   "HN_GLM_VINFAST_OFFICE_IBC": [
-    20.988938,
-    105.94201
+    20.989,
+    105.94158
   ],
   "103455": [
-    20.988938,
-    105.94201
+    20.989,
+    105.94158
   ],
   "HN_GLM_XOM_1_THON_VANG_CRAN": [
     21.03288,
     105.93771
   ],
   "HN_GLM_XUAN_DUC": [
-    21.09032,
+    21.090315,
     105.90513
   ],
   "HN_GLM_YEN_THUONG": [
@@ -277988,12 +277966,12 @@ const coordLookup = {
     105.9168
   ],
   "HN_GLM_YEN_VIEN_2": [
-    21.08422,
-    105.92189
+    21.084217,
+    105.921892
   ],
   "104864": [
-    21.08422,
-    105.92189
+    21.084217,
+    105.921892
   ],
   "HN_LBN_142_NGO_THONG_NHAT_CRAN": [
     21.01531,
@@ -278212,12 +278190,12 @@ const coordLookup = {
     105.86287
   ],
   "HN_LBN_DOAN_KHUE": [
-    21.04913,
-    105.90835
+    21.049129,
+    105.908354
   ],
   "102380": [
-    21.04913,
-    105.90835
+    21.049129,
+    105.908354
   ],
   "HN_LBN_DTM_NGOC_THUY": [
     21.05173,
@@ -278265,11 +278243,11 @@ const coordLookup = {
   ],
   "HN_LBN_DUC_HOA": [
     21.07022,
-    105.88484
+    105.8848
   ],
   "101484": [
     21.07022,
-    105.88484
+    105.8848
   ],
   "HN_LBN_DUONG_5_KEO_DAI": [
     21.06245,
@@ -278328,12 +278306,12 @@ const coordLookup = {
     105.86666
   ],
   "HN_LBN_GIA_THUONG_2": [
-    21.07286,
-    105.8884
+    21.07322,
+    105.8881
   ],
   "101486": [
-    21.07286,
-    105.8884
+    21.07322,
+    105.8881
   ],
   "HN_LBN_GIA_THUY": [
     21.03512,
@@ -278452,12 +278430,12 @@ const coordLookup = {
     105.87528
   ],
   "HN_LBN_KCN_DAI_TU": [
-    21.029846,
-    105.92383
+    21.02865,
+    105.9236
   ],
   "100671": [
-    21.029846,
-    105.92383
+    21.02865,
+    105.9236
   ],
   "HN_LBN_KDT_SAI_DONG_2": [
     21.04008,
@@ -278484,12 +278462,12 @@ const coordLookup = {
     105.89702
   ],
   "HN_LBN_LAM_DU": [
-    21.038365,
-    105.88229
+    21.038337,
+    105.882153
   ],
   "100696": [
-    21.038365,
-    105.88229
+    21.038337,
+    105.882153
   ],
   "HN_LBN_LAM_DU_01R": [
     21.036938,
@@ -278516,12 +278494,12 @@ const coordLookup = {
     105.89745
   ],
   "HN_LBN_LONG_BIEN": [
-    21.035586,
-    105.90789
+    21.0356,
+    105.9078
   ],
   "103048": [
-    21.035586,
-    105.90789
+    21.0356,
+    105.9078
   ],
   "HN_LBN_LU_DOAN_918": [
     21.03815,
@@ -278652,12 +278630,12 @@ const coordLookup = {
     105.866
   ],
   "HN_LBN_NGOC_THUY_10": [
-    21.0569,
-    105.8642
+    21.05692,
+    105.86407
   ],
   "104866": [
-    21.0569,
-    105.8642
+    21.05692,
+    105.86407
   ],
   "HN_LBN_NGOC_THUY_3": [
     21.06837,
@@ -278796,15 +278774,15 @@ const coordLookup = {
     105.87371
   ],
   "HN_LBN_PCCC_01": [
-    21.0566,
-    105.8883
+    21.05654,
+    105.88831
   ],
   "101100": [
-    21.0566,
-    105.8883
+    21.05654,
+    105.88831
   ],
   "HN_LBN_PHU_VIEN": [
-    21.032512,
+    21.03252,
     105.8703
   ],
   "100690": [
@@ -278860,32 +278838,32 @@ const coordLookup = {
     105.92799
   ],
   "HN_LBN_PHUC_LOI_2": [
-    21.05316,
-    105.92253
+    21.05322,
+    105.9224
   ],
   "101498": [
-    21.04842,
-    105.92458
+    21.04868,
+    105.9245
   ],
   "HN_LBN_PHUC_LOI_3": [
-    21.03463,
-    105.93447
+    21.03459,
+    105.93446
   ],
   "101499": [
-    21.03463,
-    105.93447
+    21.03459,
+    105.93446
   ],
   "HN_LBN_PHUC_LOI_4": [
-    21.04842,
-    105.92458
+    21.04868,
+    105.9245
   ],
   "HN_LBN_PHUC_LOI_6": [
-    21.0392,
-    105.9349
+    21.03917,
+    105.9348
   ],
   "104868": [
-    21.0392,
-    105.9349
+    21.03917,
+    105.9348
   ],
   "HN_LBN_PLASCHEM_IBC": [
     21.04932,
@@ -278952,12 +278930,12 @@ const coordLookup = {
     105.8941
   ],
   "102384": [
-    21.05064,
-    105.89427
+    21.05035,
+    105.89441
   ],
   "HN_LBN_SAVICO_IBC": [
-    21.05064,
-    105.89427
+    21.05035,
+    105.89441
   ],
   "HN_LBN_SILVER_WINGS": [
     21.042944,
@@ -279000,20 +278978,20 @@ const coordLookup = {
     105.90802
   ],
   "HN_LBN_THACH_BAN_5": [
-    21.0215,
-    105.913
+    21.0209,
+    105.91283
   ],
   "104869": [
-    21.0215,
-    105.913
+    21.0209,
+    105.91283
   ],
   "HN_LBN_THACH_BAN_6": [
-    21.016466,
-    105.9052
+    21.0163,
+    105.9051
   ],
   "104960": [
-    21.016466,
-    105.9052
+    21.0163,
+    105.9051
   ],
   "HN_LBN_THACH_BAN_CRAN": [
     21.019505,
@@ -279032,12 +279010,12 @@ const coordLookup = {
     105.903
   ],
   "HN_LBN_THON_NHA_2": [
-    21.02161,
-    105.89762
+    21.02358,
+    105.89911
   ],
   "105126": [
-    21.02161,
-    105.89762
+    21.02358,
+    105.89911
   ],
   "HN_LBN_THON_THACH_CAU": [
     21.02549,
@@ -279204,12 +279182,12 @@ const coordLookup = {
     105.903
   ],
   "HN_LBN_VIET_HUNG_MRT4": [
-    21.054,
-    105.91
+    21.05409,
+    105.91018
   ],
   "876080": [
-    21.054,
-    105.91
+    21.05409,
+    105.91018
   ],
   "HN_LBN_VIN_HARMONY": [
     21.04294,
@@ -279764,12 +279742,12 @@ const coordLookup = {
     105.79411
   ],
   "HN_SSN_PHU_CUONG_3": [
-    21.21549,
-    105.78025
+    21.21492,
+    105.78059
   ],
   "100720": [
-    21.21549,
-    105.78025
+    21.21492,
+    105.78059
   ],
   "HN_SSN_PHU_CUONG_4": [
     21.21063,
@@ -280092,12 +280070,12 @@ const coordLookup = {
     105.74284
   ],
   "HN_SSN_THANG_TRI_2": [
-    21.25189,
-    105.75031
+    21.251888,
+    105.750313
   ],
   "101613": [
-    21.25189,
-    105.75031
+    21.251888,
+    105.750313
   ],
   "HN_SSN_THANH_XUAN": [
     21.2288,
@@ -281952,28 +281930,28 @@ const coordLookup = {
     105.76874
   ],
   "HPX001": [
-    20.73879,
-    105.91351
+    20.73888,
+    105.91366
   ],
   "100055": [
-    20.73879,
-    105.91351
+    20.73888,
+    105.91366
   ],
   "HPX002": [
-    20.7242539,
-    105.92322
+    20.72417,
+    105.92315
   ],
   "100054": [
-    20.7242539,
-    105.92322
+    20.72417,
+    105.92315
   ],
   "HPX003": [
-    20.72556,
-    105.9061
+    20.72552,
+    105.90614
   ],
   "103133": [
-    20.72556,
-    105.9061
+    20.72552,
+    105.90614
   ],
   "HPX004": [
     20.6921,
@@ -281984,19 +281962,19 @@ const coordLookup = {
     105.9007
   ],
   "HPX005": [
-    20.73779,
-    105.86971
+    20.73783,
+    105.86974
   ],
   "103112": [
-    20.730917,
-    105.87682
+    20.73096,
+    105.8768
   ],
   "HPX006": [
-    20.71748,
+    20.71764,
     105.864
   ],
   "103113": [
-    20.71748,
+    20.71764,
     105.864
   ],
   "HPX007": [
@@ -282008,12 +281986,12 @@ const coordLookup = {
     105.8851
   ],
   "HPX008": [
-    20.77457,
-    105.88293
+    20.77456,
+    105.883
   ],
   "103115": [
-    20.77457,
-    105.88293
+    20.77456,
+    105.883
   ],
   "HPX009": [
     20.7165,
@@ -282024,20 +282002,20 @@ const coordLookup = {
     105.8954
   ],
   "HPX010": [
-    20.69704,
-    105.91453
+    20.6971,
+    105.91457
   ],
   "100051": [
-    20.69704,
-    105.91453
+    20.6971,
+    105.91457
   ],
   "HPX011": [
-    20.71077,
-    105.91113
+    20.71084,
+    105.9111
   ],
   "101547": [
-    20.71077,
-    105.91113
+    20.71084,
+    105.9111
   ],
   "HPX012": [
     20.79596,
@@ -282048,12 +282026,12 @@ const coordLookup = {
     105.83955
   ],
   "HPX013": [
-    20.75211,
-    105.8331
+    20.752123,
+    105.833188
   ],
   "102454": [
-    20.7552,
-    105.8324
+    20.755027,
+    105.832288
   ],
   "HPX014": [
     20.79278,
@@ -282064,12 +282042,12 @@ const coordLookup = {
     105.82409
   ],
   "HPX015": [
-    20.74743,
-    105.9604
+    20.7474,
+    105.96044
   ],
   "102455": [
-    20.74743,
-    105.9604
+    20.7474,
+    105.96044
   ],
   "HPX016": [
     20.80459,
@@ -282080,104 +282058,104 @@ const coordLookup = {
     105.81757
   ],
   "HPX017": [
-    20.76429,
-    105.90663
+    20.76424,
+    105.90662
   ],
   "101548": [
-    20.76429,
-    105.90663
+    20.76424,
+    105.90662
   ],
   "HPX018": [
-    20.730735,
-    105.9125
+    20.729125,
+    105.912733
   ],
   "102457": [
-    20.730735,
-    105.9125
+    20.729125,
+    105.912733
   ],
   "HPX019": [
-    20.74956,
-    105.93134
+    20.74954,
+    105.93132
   ],
   "102458": [
-    20.74956,
-    105.93134
+    20.74954,
+    105.93132
   ],
   "HPX01R": [
     20.74373,
     105.90229
   ],
   "102459": [
-    20.746755,
-    105.912129
+    20.746847,
+    105.912227
   ],
   "HPX020": [
-    20.7834217,
-    105.926371
+    20.78223,
+    105.92642
   ],
   "103122": [
-    20.7834217,
-    105.926371
+    20.78223,
+    105.92642
   ],
   "HPX021": [
-    20.77772,
-    105.90712
+    20.77719,
+    105.90695
   ],
   "101549": [
-    20.77772,
-    105.90712
+    20.77719,
+    105.90695
   ],
   "HPX022": [
-    20.780228,
-    105.914783
+    20.78022,
+    105.91483
   ],
   "103123": [
-    20.780228,
-    105.914783
+    20.78022,
+    105.91483
   ],
   "HPX023": [
-    20.75678,
-    105.90822
+    20.75688,
+    105.908321
   ],
   "100053": [
-    20.75678,
-    105.90822
+    20.75688,
+    105.908321
   ],
   "HPX024": [
-    20.746755,
-    105.912129
+    20.746847,
+    105.912227
   ],
   "HPX025": [
-    20.779915,
-    105.805048
+    20.78018,
+    105.8052
   ],
   "103124": [
-    20.779915,
-    105.805048
+    20.78018,
+    105.8052
   ],
   "HPX026": [
-    20.76171,
-    105.8072
+    20.76176,
+    105.807193
   ],
   "102460": [
-    20.76171,
-    105.8072
+    20.76176,
+    105.807193
   ],
   "HPX027": [
-    20.7146328,
-    105.929434
+    20.71457,
+    105.9292
   ],
   "102461": [
-    20.7146328,
-    105.929434
+    20.71457,
+    105.9292
   ],
   "HPX028": [
-    20.7204,
-    105.915744
+    20.72041,
+    105.91576
   ],
   "102462": [
-    20.7204,
-    105.915744
+    20.72041,
+    105.91576
   ],
   "HPX029": [
     20.80069,
@@ -282208,12 +282186,12 @@ const coordLookup = {
     105.8915
   ],
   "HPX032": [
-    20.74205,
-    105.890413
+    20.74209,
+    105.89038
   ],
   "103127": [
-    20.74205,
-    105.890413
+    20.74209,
+    105.89038
   ],
   "HPX033": [
     20.74735,
@@ -282224,36 +282202,36 @@ const coordLookup = {
     105.85244
   ],
   "HPX034": [
-    20.7814,
+    20.78144,
     105.8699
   ],
   "103129": [
-    20.7814,
+    20.78144,
     105.8699
   ],
   "HPX035": [
-    20.7974694,
-    105.912411
+    20.796314,
+    105.913218
   ],
   "103130": [
-    20.7974694,
-    105.912411
+    20.796314,
+    105.913218
   ],
   "HPX036": [
-    20.77683,
-    105.9445
+    20.77672,
+    105.94448
   ],
   "102465": [
-    20.77683,
-    105.9445
+    20.77672,
+    105.94448
   ],
   "HPX037": [
-    20.77691,
-    105.82877
+    20.7771,
+    105.82714
   ],
   "102516": [
-    20.77691,
-    105.82877
+    20.7771,
+    105.82714
   ],
   "HPX038": [
     20.79401,
@@ -282264,84 +282242,84 @@ const coordLookup = {
     105.89257
   ],
   "HPX039": [
-    20.7704,
-    105.85
+    20.7702,
+    105.8495
   ],
   "102467": [
-    20.7704,
-    105.85
+    20.7702,
+    105.8495
   ],
   "HPX03R": [
-    20.7552,
-    105.8324
+    20.755027,
+    105.832288
   ],
   "HPX040": [
-    20.76466,
-    105.92535
+    20.76584,
+    105.92285
   ],
   "103429": [
-    20.76466,
-    105.92535
+    20.76584,
+    105.92285
   ],
   "HPX041": [
-    20.77209,
-    105.92069
+    20.772141,
+    105.920687
   ],
   "103136": [
-    20.77209,
-    105.92069
+    20.772141,
+    105.920687
   ],
   "HPX042": [
-    20.72558,
-    105.956
+    20.72485,
+    105.95776
   ],
   "103118": [
-    20.72558,
-    105.956
+    20.72485,
+    105.95776
   ],
   "HPX043": [
-    20.730917,
-    105.87682
+    20.73096,
+    105.8768
   ],
   "HPX044": [
-    20.721933,
-    105.930793
+    20.72181,
+    105.9311
   ],
   "104973": [
-    20.721933,
-    105.930793
+    20.72181,
+    105.9311
   ],
   "HPX045": [
-    20.772347,
-    105.956314
+    20.77247,
+    105.95637
   ],
   "104972": [
-    20.772347,
-    105.956314
+    20.77247,
+    105.95637
   ],
   "HPX046": [
-    20.779121,
-    105.841176
+    20.77901,
+    105.84102
   ],
   "104971": [
-    20.779121,
-    105.841176
+    20.77901,
+    105.84102
   ],
   "HPX047": [
-    20.7675,
-    105.8335
+    20.769737,
+    105.832185
   ],
   "105043": [
-    20.7675,
-    105.8335
+    20.769737,
+    105.832185
   ],
   "HPX048": [
-    20.6907,
-    105.9224
+    20.69081,
+    105.92245
   ],
   "105054": [
-    20.6907,
-    105.9224
+    20.69081,
+    105.92245
   ],
   "HPX38R": [
     20.78238,
@@ -284484,12 +284462,12 @@ const coordLookup = {
     105.8455
   ],
   "HTN033": [
-    20.77573,
-    105.89971
+    20.77569,
+    105.8997
   ],
   "100077": [
-    20.77573,
-    105.89971
+    20.77569,
+    105.8997
   ],
   "HTN034": [
     20.896,
@@ -284520,12 +284498,12 @@ const coordLookup = {
     105.88737
   ],
   "HTN038": [
-    20.78226,
-    105.91151
+    20.78227,
+    105.91153
   ],
   "100078": [
-    20.78676,
-    105.91106
+    20.78678,
+    105.9111
   ],
   "HTN039": [
     20.89498,
@@ -284636,12 +284614,12 @@ const coordLookup = {
     105.9157
   ],
   "HTN053": [
-    20.79194,
-    105.89254
+    20.79193,
+    105.89256
   ],
   "100085": [
-    20.79194,
-    105.89254
+    20.79193,
+    105.89256
   ],
   "HTN054": [
     20.86865,
@@ -284716,12 +284694,12 @@ const coordLookup = {
     105.87774
   ],
   "HTN064": [
-    20.768892,
-    105.90241
+    20.76934,
+    105.90235
   ],
   "104970": [
-    20.768892,
-    105.90241
+    20.76934,
+    105.90235
   ],
   "HTN066": [
     20.903187,
@@ -284816,8 +284794,8 @@ const coordLookup = {
     105.89201
   ],
   "HTN38R": [
-    20.78676,
-    105.91106
+    20.78678,
+    105.9111
   ],
   "HTN39R": [
     20.8918,
@@ -286500,28 +286478,28 @@ const coordLookup = {
     105.79818
   ],
   "HUG001": [
-    20.71853,
-    105.8339
+    20.718603,
+    105.834028
   ],
   "102633": [
-    20.71853,
-    105.8339
+    20.718603,
+    105.834028
   ],
   "HUG002": [
-    20.70863,
-    105.8417
+    20.70866,
+    105.84171
   ],
   "103237": [
-    20.70863,
-    105.8417
+    20.70866,
+    105.84171
   ],
   "HUG003": [
-    20.70639,
-    105.8138
+    20.70482,
+    105.81513
   ],
   "103239": [
-    20.70639,
-    105.8138
+    20.70482,
+    105.81513
   ],
   "HUG004": [
     20.69151,
@@ -286604,8 +286582,8 @@ const coordLookup = {
     105.85071
   ],
   "HN_SSN_THACH_LOI": [
-    21.22056,
-    105.77085
+    21.220558,
+    105.770853
   ],
   "HBD103": [
     21.02967,
@@ -286724,24 +286702,24 @@ const coordLookup = {
     105.8123
   ],
   "HPG_HBG_TRAI_CHUOI_2": [
-    20.855929,
-    106.6613171
+    20.85575,
+    106.66138
   ],
   "HPG_HBG_SO_DAU_2_01R": [
-    20.864252,
-    106.660578
+    20.86427,
+    106.66055
   ],
   "TH_THA_DAI_LO_DONG_TAY": [
     19.7731,
     105.7766
   ],
   "HM_BLC_DINH_XA_3": [
-    20.5421182,
-    105.9662505
+    20.541988,
+    105.966048
   ],
   "200033": [
-    20.5421182,
-    105.9662505
+    20.541988,
+    105.966048
   ],
   "NB_HLU_BEN_TRANG_AN": [
     20.25268,
@@ -286752,31 +286730,31 @@ const coordLookup = {
     105.91987
   ],
   "HM_PLY_NAM_CHAU_GIANG": [
-    20.53791,
-    105.92318
+    20.537898,
+    105.923132
   ],
   "200070": [
-    20.53791,
-    105.92318
+    20.537898,
+    105.923132
   ],
   "HM_PLY_PHU_LY_TV": [
-    20.535011,
-    105.917406
+    20.535004,
+    105.91735
   ],
   "HM_DTN_DONG_VAN_3": [
-    20.635557,
-    105.921148
+    20.635606,
+    105.921144
   ],
   "HM_DTN_DONG_VAN_7": [
-    20.644785,
-    105.926055
+    20.644756,
+    105.926446
   ],
   "HPG_TNN_CAO_NHAN_2": [
     20.95078,
     106.62066
   ],
   "HPG_DSN_LY_THANH_TONG_2": [
-    20.71427946,
+    20.7142795,
     106.782145
   ],
   "HPG_ALO_AN_THANG_2": [
@@ -286796,8 +286774,8 @@ const coordLookup = {
     106.73254
   ],
   "HDG_HDG_TH_HAI_DUONG": [
-    20.93518,
-    106.33123
+    20.935098,
+    106.331192
   ],
   "HDG_HDG_DO_LUONG": [
     20.93643,
@@ -286848,36 +286826,36 @@ const coordLookup = {
     106.672114
   ],
   "HPG_TNN_VU_YEN_1": [
-    20.84601,
-    106.70685
+    20.8827914,
+    106.731364
   ],
   "HPG_DSN_QUY_KIM": [
-    20.74908,
-    106.7503
+    20.749509,
+    106.749621
   ],
   "HPG_DSN_VAN_LE": [
     20.70668,
     106.7786
   ],
   "HPG_KTY_DOAN_XA": [
-    20.71568,
-    106.6704
+    20.71566,
+    106.67039
   ],
   "HPG_TNN_TT_HANH_CHINH_6": [
-    20.88044,
-    106.6809
+    20.880436,
+    106.680887
   ],
   "HPG_LCN_AEON_MALL_IBC": [
-    20.832113,
-    106.681809
+    20.8324551,
+    106.682404
   ],
   "HPG_DKH_MOBIFONE": [
-    20.818274,
-    106.697777
+    20.818361,
+    106.697851
   ],
   "360019": [
-    20.818274,
-    106.697777
+    20.818361,
+    106.697851
   ],
   "HPG_TNN_TT_HANH_CHINH_3": [
     20.884213,
@@ -286892,8 +286870,8 @@ const coordLookup = {
     106.6093
   ],
   "HPG_TLG_NAM_TRONG_01R": [
-    20.662055,
-    106.6813881
+    20.6624,
+    106.68129
   ],
   "HPG_TLG_DONG_HUNG_2": [
     20.6581,
@@ -286904,36 +286882,36 @@ const coordLookup = {
     106.6644
   ],
   "HDG_BGG_VINH_HONG": [
-    20.9009,
-    106.17596
+    20.898841,
+    106.179309
   ],
   "HDG_BGG_NHAN_QUYEN": [
-    20.853163,
-    106.20564
+    20.85362,
+    106.21323
   ],
   "HDG_NSH_DONG_LAC_3": [
-    20.979452,
-    106.353501
+    20.97671,
+    106.34357
   ],
   "HDG_NSH_NAM_SACH_3": [
-    20.9851,
-    106.342
+    20.986615,
+    106.340791
   ],
   "HDG_NSH_NAM_SACH": [
-    20.991202,
-    106.340237
+    21.0022803,
+    106.335752
   ],
   "HDG_BGG_KE_SAT": [
-    20.909493,
-    106.153231
+    20.90852,
+    106.14849
   ],
   "HDG_NSH_NAM_SACH_2": [
-    20.94605,
-    106.32417
+    20.9901219,
+    106.3344
   ],
   "HDG_HDG_BUI_THI_XUAN": [
-    20.92957,
-    106.33304
+    20.9296866,
+    106.336961
   ],
   "QB_BDN_BA_DON": [
     17.75628,
@@ -286973,7 +286951,7 @@ const coordLookup = {
   ],
   "QB_BTH_PHUC_TRACH_2": [
     17.6178869,
-    106.2675035
+    106.267504
   ],
   "QB_BTH_THANH_TRACH": [
     17.69464,
@@ -286988,16 +286966,16 @@ const coordLookup = {
     106.64461
   ],
   "QB_DHI_LOC_NINH_3": [
-    17.5038,
-    106.59832
+    17.50379,
+    106.5983
   ],
   "QB_LTY_HO_XUAN_HUONG": [
-    17.21639,
-    106.79183
+    17.21643,
+    106.79182
   ],
   "QB_MHA_HONG_HOA_2": [
-    17.89619,
-    105.9152
+    17.896409,
+    105.914488
   ],
   "QB_MHA_HONG_HOA_3": [
     17.86835,
@@ -287037,7 +287015,7 @@ const coordLookup = {
   ],
   "QB_QTH_QUANG_CHAU_3": [
     17.8702692,
-    106.4041335
+    106.404134
   ],
   "QB_QTH_QUANG_LIEN": [
     17.77673,
@@ -287049,7 +287027,7 @@ const coordLookup = {
   ],
   "QB_QTH_QUANG_PHUONG": [
     17.776787,
-    106.3815727
+    106.381573
   ],
   "QB_THA_CAO_QUANG": [
     17.77373,
@@ -287069,7 +287047,7 @@ const coordLookup = {
   ],
   "QB_THA_THACH_HOA": [
     17.852412,
-    106.1149455
+    106.114946
   ],
   "HBL704": [
     21.043044,
@@ -287080,8 +287058,8 @@ const coordLookup = {
     105.85419
   ],
   "HN_GLM_DANG_XA_2": [
-    21.0134,
-    105.953
+    21.013996,
+    105.95185
   ],
   "DNCL05": [
     16.01608,
@@ -300480,8 +300458,8 @@ const coordLookup = {
     105.4341
   ],
   "AGLX71": [
-    10.3597,
-    105.445
+    10.359635,
+    105.445111
   ],
   "AGLX73": [
     10.39027,
@@ -300508,12 +300486,12 @@ const coordLookup = {
     105.4446
   ],
   "AGLX84": [
-    10.4161,
-    105.4224
+    10.416107,
+    105.422419
   ],
   "613526": [
-    10.4161,
-    105.4224
+    10.416107,
+    105.422419
   ],
   "AGLXP1": [
     10.36928,
@@ -301612,12 +301590,12 @@ const coordLookup = {
     106.622828
   ],
   "BTBI12": [
-    10.0916,
-    106.6264
+    10.09158,
+    106.626365
   ],
   "635901": [
-    10.0916,
-    106.6264
+    10.09158,
+    106.626365
   ],
   "BTBI14": [
     10.019061,
@@ -302120,12 +302098,12 @@ const coordLookup = {
     106.384038
   ],
   "BTCT08": [
-    10.3086,
-    106.2742
+    10.30862,
+    106.274255
   ],
   "635817": [
-    10.3086,
-    106.2742
+    10.30862,
+    106.274255
   ],
   "BTCT09": [
     10.27272,
@@ -305009,11 +304987,11 @@ const coordLookup = {
   ],
   "CTOM63": [
     10.11008,
-    105.61919
+    105.61917
   ],
   "651487": [
     10.11008,
-    105.61919
+    105.61917
   ],
   "CTOM64": [
     10.13767,
@@ -306312,8 +306290,8 @@ const coordLookup = {
     105.629129
   ],
   "662307": [
-    10.4499,
-    105.634
+    10.4500082,
+    105.6342479
   ],
   "DTCL03": [
     10.5016,
@@ -306480,16 +306458,16 @@ const coordLookup = {
     105.6496
   ],
   "DTCL43": [
-    10.4499,
-    105.634
+    10.4500082,
+    105.6342479
   ],
   "DTCL45": [
-    10.4278,
-    105.6368
+    10.4277567,
+    105.636825
   ],
   "662309": [
-    10.4278,
-    105.6368
+    10.4277567,
+    105.636825
   ],
   "DTCL46": [
     10.4734,
@@ -306512,12 +306490,12 @@ const coordLookup = {
     105.6219
   ],
   "DTCL52": [
-    10.4682,
-    105.6279
+    10.4681005,
+    105.6282045
   ],
   "662394": [
-    10.4682,
-    105.6279
+    10.4681005,
+    105.6282045
   ],
   "DTCL53": [
     10.4733,
@@ -306528,12 +306506,12 @@ const coordLookup = {
     105.6119
   ],
   "DTCL56": [
-    10.4179,
-    105.6468
+    10.4179283,
+    105.6467076
   ],
   "662405": [
-    10.4179,
-    105.6468
+    10.4179283,
+    105.6467076
   ],
   "DTCL58": [
     10.4614,
@@ -306548,12 +306526,12 @@ const coordLookup = {
     105.6439
   ],
   "DTCL72": [
-    10.4543,
-    105.6397
+    10.454345,
+    105.6398283
   ],
   "665028": [
-    10.4543,
-    105.6397
+    10.454345,
+    105.6398283
   ],
   "DTCL77": [
     10.4658,
@@ -306856,12 +306834,12 @@ const coordLookup = {
     105.237174
   ],
   "DTHU08": [
-    10.8043,
-    105.3544
+    10.80453,
+    105.354656
   ],
   "662189": [
-    10.8043,
-    105.3544
+    10.80453,
+    105.354656
   ],
   "DTHU09": [
     10.7733,
@@ -307640,12 +307618,12 @@ const coordLookup = {
     105.749276
   ],
   "DTSD29": [
-    10.2862,
-    105.7543
+    10.28656,
+    105.754247
   ],
   "662395": [
-    10.2862,
-    105.7543
+    10.28656,
+    105.754247
   ],
   "DTSD37": [
     10.3500594,
@@ -308152,12 +308130,12 @@ const coordLookup = {
     105.719988
   ],
   "HGCA45": [
-    9.966,
-    105.7318
+    9.9659,
+    105.7317
   ],
   "671992": [
-    9.966,
-    105.7318
+    9.9659,
+    105.7317
   ],
   "HGCA46": [
     9.9509,
@@ -308472,8 +308450,8 @@ const coordLookup = {
     105.572
   ],
   "HGLY02": [
-    9.6808,
-    105.5719
+    9.6807,
+    105.5718
   ],
   "HGLY03": [
     9.623793,
@@ -308537,7 +308515,7 @@ const coordLookup = {
   ],
   "HGLY17": [
     9.7264,
-    105.6154
+    105.6153
   ],
   "671798": [
     9.7459,
@@ -308553,11 +308531,11 @@ const coordLookup = {
   ],
   "HGLY19": [
     9.6717,
-    105.6378
+    105.6377
   ],
   "671854": [
     9.6717,
-    105.6378
+    105.6377
   ],
   "HGLY20": [
     9.6667,
@@ -308581,11 +308559,11 @@ const coordLookup = {
   ],
   "HGLY30": [
     9.6736,
-    105.555
+    105.5549
   ],
   "671872": [
     9.6736,
-    105.555
+    105.5549
   ],
   "HGLY31": [
     9.6839,
@@ -308596,12 +308574,12 @@ const coordLookup = {
     105.5698
   ],
   "HGLY34": [
-    9.6468,
-    105.6192
+    9.64684,
+    105.61918
   ],
   "671886": [
-    9.6468,
-    105.6192
+    9.64684,
+    105.61918
   ],
   "HGLY36": [
     9.7126,
@@ -309144,12 +309122,12 @@ const coordLookup = {
     105.4189
   ],
   "HGVT11": [
-    9.7262,
-    105.4583
+    9.726166,
+    105.458372
   ],
   "671717": [
-    9.7262,
-    105.4583
+    9.726166,
+    105.458372
   ],
   "HGVT14": [
     9.7385,
@@ -309160,12 +309138,12 @@ const coordLookup = {
     105.4349
   ],
   "HGVT15": [
-    9.6921,
-    105.3374
+    9.6919,
+    105.3373
   ],
   "671866": [
-    9.6921,
-    105.3374
+    9.6919,
+    105.3373
   ],
   "HGVT16": [
     9.8009,
@@ -309600,20 +309578,20 @@ const coordLookup = {
     105.360491
   ],
   "KGGQ06": [
-    9.74417,
-    105.22111
+    9.744349,
+    105.221102
   ],
   "684626": [
-    9.74417,
-    105.22111
+    9.744349,
+    105.221102
   ],
   "KGGQ08": [
-    9.79051,
-    105.37382
+    9.790468,
+    105.373793
   ],
   "684628": [
-    9.79051,
-    105.37382
+    9.790468,
+    105.373793
   ],
   "KGGQ09": [
     9.7443,
@@ -309656,12 +309634,12 @@ const coordLookup = {
     105.36005
   ],
   "KGGQ19": [
-    9.77535,
-    105.29052
+    9.775392,
+    105.290517
   ],
   "684554": [
-    9.77535,
-    105.29052
+    9.775392,
+    105.290517
   ],
   "KGGQ24": [
     9.7332,
@@ -309700,8 +309678,8 @@ const coordLookup = {
     105.402878
   ],
   "KGGR05": [
-    9.91945,
-    105.23741
+    9.919443,
+    105.237562
   ],
   "KGGR08": [
     9.835108,
@@ -310160,8 +310138,8 @@ const coordLookup = {
     104.4834
   ],
   "KGHT06": [
-    10.35595,
-    105.45812
+    10.383,
+    104.445479
   ],
   "KGHT10": [
     10.31694,
@@ -312784,12 +312762,12 @@ const coordLookup = {
     105.9744
   ],
   "TGCB07": [
-    10.39729,
-    106.00919
+    10.3974,
+    106.0095
   ],
   "702607": [
-    10.39729,
-    106.00919
+    10.3974,
+    106.0095
   ],
   "TGCB08": [
     10.2947,
@@ -312840,8 +312818,8 @@ const coordLookup = {
     105.937393
   ],
   "TGCB14": [
-    10.40564,
-    105.91194
+    10.405512,
+    105.911973
   ],
   "702849": [
     10.39767,
@@ -312852,8 +312830,8 @@ const coordLookup = {
     105.838
   ],
   "702696": [
-    10.3688,
-    105.8261
+    10.368848,
+    105.826066
   ],
   "TGCB16": [
     10.50669,
@@ -313228,8 +313206,8 @@ const coordLookup = {
     105.92711
   ],
   "TGCB75": [
-    10.3688,
-    105.8261
+    10.368848,
+    105.826066
   ],
   "TGCB76": [
     10.33599,
@@ -316252,12 +316230,12 @@ const coordLookup = {
     106.322916
   ],
   "TGMT56": [
-    10.38516,
-    106.36092
+    10.38508,
+    106.360904
   ],
   "702887": [
-    10.38516,
-    106.36092
+    10.38508,
+    106.360904
   ],
   "TGMT57": [
     10.37094,
@@ -316552,8 +316530,8 @@ const coordLookup = {
     106.73917
   ],
   "TGTD15": [
-    10.25556,
-    106.6405
+    10.25256,
+    106.63923
   ],
   "TGTD16": [
     10.29524,
@@ -317480,12 +317458,12 @@ const coordLookup = {
     106.30856
   ],
   "TVDH02": [
-    9.6087,
-    106.4403
+    9.608711,
+    106.440174
   ],
   "713821": [
-    9.6087,
-    106.4403
+    9.608711,
+    106.440174
   ],
   "TVDH05": [
     9.568739,
@@ -317512,12 +317490,12 @@ const coordLookup = {
     106.466469
   ],
   "TVDH30": [
-    9.6471,
-    106.3493
+    9.64703,
+    106.34934
   ],
   "897327": [
-    9.6471,
-    106.3493
+    9.64703,
+    106.34934
   ],
   "TVDI01": [
     9.628854,
@@ -317552,12 +317530,12 @@ const coordLookup = {
     106.5136
   ],
   "TVDI08": [
-    9.6388,
-    106.5021
+    9.638763,
+    106.502129
   ],
   "713548": [
-    9.6388,
-    106.5021
+    9.638763,
+    106.502129
   ],
   "TVDI10": [
     9.636058,
@@ -317736,12 +317714,12 @@ const coordLookup = {
     106.146582
   ],
   "TVTC32": [
-    9.7552,
-    106.1419
+    9.755256,
+    106.141933
   ],
   "897337": [
-    9.7552,
-    106.1419
+    9.755256,
+    106.141933
   ],
   "TVTC35": [
     9.844528,
@@ -318148,8 +318126,8 @@ const coordLookup = {
     105.827665
   ],
   "VLBM34": [
-    10.0636,
-    105.7979
+    10.06362,
+    105.79789
   ],
   "VLBM35": [
     10.044104,
@@ -318332,8 +318310,8 @@ const coordLookup = {
     105.701
   ],
   "VLBT24": [
-    10.1195,
-    105.7481
+    10.11951,
+    105.74815
   ],
   "VLBT25": [
     10.14791,
@@ -318500,8 +318478,8 @@ const coordLookup = {
     105.932398
   ],
   "723029": [
-    10.16644,
-    105.93374
+    10.177845,
+    105.937247
   ],
   "VLLH16": [
     10.28537,
@@ -318608,8 +318586,8 @@ const coordLookup = {
     106.019622
   ],
   "VLLH41": [
-    10.1474,
-    106.12296
+    10.147509,
+    105.923312
   ],
   "723023": [
     9.97482,
@@ -318808,20 +318786,16 @@ const coordLookup = {
     105.936733
   ],
   "VLLHX4": [
-    10.17782,
-    105.93721
-  ],
-  "VLLHX5": [
-    10.16644,
-    105.93374
+    10.177845,
+    105.937247
   ],
   "VLMT01": [
     10.241359,
     106.049502
   ],
   "723043": [
-    10.2136,
-    106.0504
+    10.2134,
+    106.050398
   ],
   "VLMT02": [
     10.237504,
@@ -318840,8 +318814,8 @@ const coordLookup = {
     106.15529
   ],
   "723010": [
-    10.174,
-    106.1365
+    10.174021,
+    106.136497
   ],
   "VLMT06": [
     10.205498,
@@ -318856,36 +318830,36 @@ const coordLookup = {
     106.08275
   ],
   "723052": [
-    10.2196,
-    106.1008
+    10.219558,
+    106.100813
   ],
   "VLMT10": [
-    10.2196,
-    106.1008
+    10.219558,
+    106.100813
   ],
   "VLMT11": [
     10.165445,
     106.07873
   ],
   "723078": [
-    10.1431,
-    106.075
+    10.143095,
+    106.075042
   ],
   "VLMT12": [
-    10.1821,
-    106.0437
+    10.182008,
+    106.043632
   ],
   "723141": [
-    10.1821,
-    106.0437
+    10.182008,
+    106.043632
   ],
   "VLMT13": [
-    10.2026,
-    106.0222
+    10.202573,
+    106.022168
   ],
   "723144": [
-    10.2026,
-    106.0222
+    10.202573,
+    106.022168
   ],
   "VLMT15": [
     10.18673,
@@ -318896,28 +318870,28 @@ const coordLookup = {
     106.15237
   ],
   "VLMT16": [
-    10.1913,
-    106.1265
+    10.19122,
+    106.126395
   ],
   "723150": [
-    10.1913,
-    106.1265
+    10.19122,
+    106.126395
   ],
   "VLMT17": [
-    10.193,
-    106.0979
+    10.193033,
+    106.097776
   ],
   "723152": [
-    10.193,
-    106.0979
+    10.193033,
+    106.097776
   ],
   "VLMT18": [
-    10.1758,
-    106.10622
+    10.175848,
+    106.106185
   ],
   "723153": [
-    10.1758,
-    106.10622
+    10.175848,
+    106.106185
   ],
   "VLMT20": [
     10.220987,
@@ -318932,24 +318906,24 @@ const coordLookup = {
     106.061451
   ],
   "VLMT22": [
-    10.2179,
-    106.1203
+    10.217787,
+    106.12036
   ],
   "723157": [
-    10.2179,
-    106.1203
+    10.217787,
+    106.12036
   ],
   "VLMT23": [
-    10.1865,
-    106.072
+    10.186531,
+    106.071996
   ],
   "723175": [
-    10.1865,
-    106.072
+    10.186531,
+    106.071996
   ],
   "VLMT26": [
-    10.174,
-    106.1365
+    10.174021,
+    106.136497
   ],
   "VLMT27": [
     10.243932,
@@ -318968,28 +318942,28 @@ const coordLookup = {
     106.0754
   ],
   "VLMT29": [
-    10.2011,
-    106.0378
+    10.201014,
+    106.037752
   ],
   "723237": [
-    10.2011,
-    106.0378
+    10.201014,
+    106.037752
   ],
   "VLMT30": [
-    10.2045,
+    10.204531,
     106.1121
   ],
   "723238": [
-    10.2045,
+    10.204531,
     106.1121
   ],
   "VLMT31": [
-    10.1726,
-    106.0593
+    10.172613,
+    106.059263
   ],
   "723239": [
-    10.1726,
-    106.0593
+    10.172613,
+    106.059263
   ],
   "VLMT32": [
     10.199166,
@@ -319008,16 +318982,16 @@ const coordLookup = {
     106.023763
   ],
   "VLMT34": [
-    10.2266,
-    106.022
+    10.226653,
+    106.021988
   ],
   "723042": [
-    10.2266,
-    106.022
+    10.226653,
+    106.021988
   ],
   "VLMT35": [
-    10.1431,
-    106.075
+    10.143095,
+    106.075042
   ],
   "VLMT40": [
     10.212678,
@@ -319028,8 +319002,8 @@ const coordLookup = {
     106.088443
   ],
   "VLMT42": [
-    10.2136,
-    106.0504
+    10.2134,
+    106.050398
   ],
   "VLTB01": [
     10.111286,
@@ -319040,12 +319014,12 @@ const coordLookup = {
     105.892967
   ],
   "VLTB02": [
-    10.1023,
-    105.9319
+    10.102286,
+    105.93195
   ],
   "723069": [
-    10.1023,
-    105.9319
+    10.102286,
+    105.93195
   ],
   "VLTB05": [
     10.080057,
@@ -319056,12 +319030,12 @@ const coordLookup = {
     105.909663
   ],
   "VLTB06": [
-    10.057,
-    105.9567
+    10.056988,
+    105.956639
   ],
   "723049": [
-    10.057,
-    105.9567
+    10.056988,
+    105.956639
   ],
   "VLTB07": [
     10.149943,
@@ -319080,8 +319054,8 @@ const coordLookup = {
     105.982192
   ],
   "VLTB10": [
-    10.1118,
-    105.9668
+    10.111711,
+    105.966787
   ],
   "723192": [
     10.130512,
@@ -319092,8 +319066,8 @@ const coordLookup = {
     105.955762
   ],
   "723037": [
-    10.0381,
-    105.9843
+    10.03811,
+    105.984362
   ],
   "VLTB12": [
     10.01295,
@@ -319116,8 +319090,8 @@ const coordLookup = {
     105.902944
   ],
   "723185": [
-    9.9777,
-    105.9185
+    9.97766,
+    105.918415
   ],
   "VLTB17": [
     10.0973,
@@ -319140,12 +319114,12 @@ const coordLookup = {
     105.883932
   ],
   "VLTB21": [
-    10.134,
-    105.994
+    10.134027,
+    105.99398
   ],
   "723246": [
-    10.10913,
-    105.99244
+    10.109113,
+    105.992409
   ],
   "VLTB28": [
     10.057764,
@@ -319156,20 +319130,20 @@ const coordLookup = {
     105.964814
   ],
   "VLTB30": [
-    10.0888,
-    105.8911
+    10.088796,
+    105.891145
   ],
   "723164": [
-    10.0888,
-    105.8911
+    10.088796,
+    105.891145
   ],
   "VLTB33": [
-    9.9841,
-    105.9321
+    9.984078,
+    105.931985
   ],
   "723241": [
-    9.9992,
-    105.9368
+    9.999264,
+    105.936758
   ],
   "VLTB35": [
     10.015835,
@@ -319180,20 +319154,20 @@ const coordLookup = {
     105.9769
   ],
   "VLTB38": [
-    10.10913,
-    105.99244
+    10.109113,
+    105.992409
   ],
   "VLTB40": [
-    10.1319,
-    105.8888
+    10.131885,
+    105.888719
   ],
   "723248": [
-    10.1319,
-    105.8888
+    10.131885,
+    105.888719
   ],
   "VLTB42": [
-    10.0833,
-    105.8626
+    10.083403,
+    105.862603
   ],
   "VLTB43": [
     10.122619,
@@ -319204,48 +319178,48 @@ const coordLookup = {
     106.020581
   ],
   "VLTB45": [
-    10.0942,
-    105.9531
+    10.094317,
+    105.953089
   ],
   "723244": [
-    10.0942,
-    105.9531
+    10.094317,
+    105.953089
   ],
   "VLTB46": [
-    9.9988,
-    105.9526
+    9.999004,
+    105.952545
   ],
   "VLTB48": [
-    10.1048,
-    106.0358
+    10.104626,
+    106.035622
   ],
   "723332": [
-    10.1048,
-    106.0358
+    10.104626,
+    106.035622
   ],
   "VLTB52": [
-    10.1467,
-    105.9122
+    10.146627,
+    105.912236
   ],
   "723124": [
-    10.1467,
-    105.9122
+    10.146627,
+    105.912236
   ],
   "VLTB56": [
-    9.9777,
-    105.9185
+    9.97766,
+    105.918415
   ],
   "VLTB57": [
-    10.0381,
-    105.9843
+    10.03811,
+    105.984362
   ],
   "VLTB58": [
-    9.9992,
-    105.9368
+    9.999264,
+    105.936758
   ],
   "VLTB65": [
-    10.04488,
-    105.98673
+    10.044889,
+    105.986737
   ],
   "VLTO01": [
     9.965625,
@@ -319272,12 +319246,12 @@ const coordLookup = {
     106.043835
   ],
   "VLTO09": [
-    10.0754,
-    106.0499
+    10.075388,
+    106.049811
   ],
   "723119": [
-    10.0754,
-    106.0499
+    10.075388,
+    106.049811
   ],
   "VLTO13": [
     9.944744,
@@ -319296,12 +319270,12 @@ const coordLookup = {
     105.879416
   ],
   "VLTO17": [
-    9.9501,
-    105.9109
+    9.950072,
+    105.910706
   ],
   "723165": [
-    9.9501,
-    105.9109
+    9.950072,
+    105.910706
   ],
   "VLTO20": [
     10.0082,
@@ -319312,12 +319286,12 @@ const coordLookup = {
     106.01
   ],
   "VLTO21": [
-    9.9313,
-    105.992
+    9.931282,
+    105.992047
   ],
   "723211": [
-    9.9313,
-    105.992
+    9.931282,
+    105.992047
   ],
   "VLTO22": [
     9.963087,
@@ -321519,6 +321493,10 @@ const coordLookup = {
     NaN,
     NaN
   ],
+  "VLLHX5": [
+    NaN,
+    NaN
+  ],
   "VLMT07": [
     NaN,
     NaN
@@ -322915,10 +322893,6 @@ const coordLookup = {
     NaN,
     NaN
   ],
-  "NB_HLU_PHU_LANG": [
-    NaN,
-    NaN
-  ],
   "NB_KSN_LAI_THANH": [
     NaN,
     NaN
@@ -322939,19 +322913,7 @@ const coordLookup = {
     NaN,
     NaN
   ],
-  "PT_VTI_THO_SON_2": [
-    NaN,
-    NaN
-  ],
   "MBF_TAY_HA_NOI": [
-    NaN,
-    NaN
-  ],
-  "HT_HTH_NAM_HA": [
-    NaN,
-    NaN
-  ],
-  "HT_HTH_NGUYEN_DU_2": [
     NaN,
     NaN
   ],

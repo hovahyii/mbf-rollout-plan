@@ -3775,10 +3775,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -3907,10 +3907,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4127,10 +4127,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4171,10 +4171,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4237,10 +4237,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4325,10 +4325,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4457,10 +4457,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4479,10 +4479,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4501,10 +4501,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4523,10 +4523,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4655,10 +4655,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4787,10 +4787,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4809,10 +4809,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -4831,10 +4831,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6371,10 +6371,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6393,10 +6393,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-24",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6459,10 +6459,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "RFI Ready",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "2026-04-22 00:00:00",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6481,10 +6481,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6503,10 +6503,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6569,10 +6569,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6657,10 +6657,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-18",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6679,10 +6679,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-20",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6701,10 +6701,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6789,10 +6789,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6833,10 +6833,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6877,10 +6877,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "RFI Ready",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "2026-04-22 00:00:00",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6987,10 +6987,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -7471,10 +7471,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -7779,10 +7779,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -7801,10 +7801,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -7889,10 +7889,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -7911,10 +7911,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -7977,10 +7977,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -8021,10 +8021,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -8065,10 +8065,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -8087,10 +8087,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -8109,10 +8109,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -8131,10 +8131,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -8967,10 +8967,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -9099,10 +9099,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -9451,10 +9451,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -9473,10 +9473,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -9495,10 +9495,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -9605,10 +9605,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -9671,10 +9671,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -9693,10 +9693,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -9781,10 +9781,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -9913,10 +9913,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -9935,10 +9935,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -10397,10 +10397,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -10529,10 +10529,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -10683,10 +10683,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-02",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -10859,10 +10859,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -10991,10 +10991,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11013,10 +11013,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11035,10 +11035,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11057,10 +11057,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11497,10 +11497,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11519,10 +11519,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11563,10 +11563,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11607,10 +11607,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-08",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11761,10 +11761,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11805,10 +11805,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11827,10 +11827,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11915,10 +11915,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -11981,10 +11981,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -12003,10 +12003,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -12025,10 +12025,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -12047,10 +12047,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -12377,10 +12377,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -12443,10 +12443,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-03",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -12531,10 +12531,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -12553,10 +12553,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -12773,10 +12773,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -13037,10 +13037,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -13059,10 +13059,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -13301,10 +13301,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -13829,10 +13829,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -14423,10 +14423,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -14731,10 +14731,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -14775,10 +14775,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -14797,10 +14797,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-16",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -15017,10 +15017,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -15237,10 +15237,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -15259,10 +15259,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -15281,10 +15281,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -15369,10 +15369,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-03",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -15545,10 +15545,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -15567,10 +15567,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -15809,10 +15809,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -15875,10 +15875,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -15897,10 +15897,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -16073,10 +16073,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -16139,10 +16139,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -16161,10 +16161,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -16601,10 +16601,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -16667,10 +16667,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -16865,10 +16865,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -17393,10 +17393,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -17415,10 +17415,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -17459,10 +17459,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -17503,10 +17503,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -17657,10 +17657,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -17723,10 +17723,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -17767,10 +17767,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-18",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -17789,10 +17789,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -17833,10 +17833,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -17899,10 +17899,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -17921,10 +17921,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -17943,10 +17943,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -18119,10 +18119,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -18273,10 +18273,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -18383,10 +18383,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -18449,10 +18449,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -18647,10 +18647,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -18735,10 +18735,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -18779,10 +18779,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -18801,10 +18801,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -18823,10 +18823,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -19087,10 +19087,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -19505,10 +19505,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -19615,10 +19615,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -19703,10 +19703,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-07",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -19901,10 +19901,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -23707,10 +23707,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -23729,10 +23729,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -23817,10 +23817,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -23883,10 +23883,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -24301,10 +24301,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -24565,10 +24565,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -24631,10 +24631,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -28129,10 +28129,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-18",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -28151,10 +28151,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-20",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -28173,10 +28173,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -28327,10 +28327,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -28349,10 +28349,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -28503,10 +28503,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -28569,10 +28569,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -28943,10 +28943,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29009,10 +29009,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29251,10 +29251,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29405,10 +29405,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29427,10 +29427,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29449,10 +29449,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29471,10 +29471,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29493,10 +29493,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29515,10 +29515,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29537,10 +29537,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29581,10 +29581,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29603,10 +29603,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29625,10 +29625,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29647,10 +29647,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29757,10 +29757,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29823,10 +29823,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29845,10 +29845,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29889,10 +29889,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29911,10 +29911,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29955,10 +29955,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30021,10 +30021,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30065,10 +30065,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30087,10 +30087,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30109,10 +30109,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30120,23 +30120,23 @@ const rolloutData = [
   {
     "region": "North",
     "po": "PO1.1",
-    "site_name": "NDH_HHU_HAI_XUAN",
+    "site_name": "NDH_HHU_HAI_NINH",
     "province": "Ninh Binh",
     "district": "Hai Hau",
-    "enodeb_id": "240195",
-    "lat": 20.10332,
-    "lon": 106.26974,
+    "enodeb_id": "-",
+    "lat": 20.1135724,
+    "lon": 106.217051,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
-    "site_type": "Macro",
+    "site_type": "-",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "5G",
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "New BBU",
+    "bbu_solution": "-",
     "timeline": "-"
   },
   {
@@ -30153,10 +30153,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30175,10 +30175,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30197,10 +30197,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30219,10 +30219,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30318,23 +30318,23 @@ const rolloutData = [
   {
     "region": "North",
     "po": "PO1.1",
-    "site_name": "NDH_NDH_BV_TINH_THUONG",
+    "site_name": "NDH_NDH_HAN_THUYEN_2",
     "province": "Ninh Binh",
-    "district": "Nam Dinh",
-    "enodeb_id": "240373",
-    "lat": 20.445956,
-    "lon": 106.199606,
+    "district": "Hai Hau",
+    "enodeb_id": "-",
+    "lat": 20.438859,
+    "lon": 106.186002,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
-    "site_type": "CRAN-M",
+    "site_type": "-",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "5G",
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "New BBU",
+    "bbu_solution": "-",
     "timeline": "-"
   },
   {
@@ -30395,10 +30395,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30417,10 +30417,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30461,10 +30461,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30505,10 +30505,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30527,10 +30527,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30637,10 +30637,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30703,10 +30703,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30769,10 +30769,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30791,10 +30791,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30901,10 +30901,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -31022,23 +31022,23 @@ const rolloutData = [
   {
     "region": "North",
     "po": "PO1.1",
-    "site_name": "NDH_NDH_NGUYEN_VAN_TROI",
+    "site_name": "NDH_NDH_PHU_NGHIA",
     "province": "Ninh Binh",
     "district": "Nam Dinh",
-    "enodeb_id": "240036",
-    "lat": 20.4174,
-    "lon": 106.17065,
+    "enodeb_id": "-",
+    "lat": 20.441715,
+    "lon": 106.184935,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
-    "site_type": "Macro",
+    "site_type": "-",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "5G",
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "New BBU",
+    "bbu_solution": "-",
     "timeline": "-"
   },
   {
@@ -31132,23 +31132,23 @@ const rolloutData = [
   {
     "region": "North",
     "po": "PO1.1",
-    "site_name": "NDH_NDH_SO_XAY_DUNG",
+    "site_name": "NDH_NDH_NAM_DINH_4",
     "province": "Ninh Binh",
     "district": "Nam Dinh",
-    "enodeb_id": "240362",
-    "lat": 20.44062,
-    "lon": 106.17805,
+    "enodeb_id": "-",
+    "lat": 20.40646,
+    "lon": 106.19495,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
-    "site_type": "CRAN-M",
+    "site_type": "-",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "5G",
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "New BBU",
+    "bbu_solution": "-",
     "timeline": "-"
   },
   {
@@ -31187,10 +31187,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -31275,10 +31275,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-02",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -31561,10 +31561,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -31583,10 +31583,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -31605,10 +31605,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -31627,10 +31627,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -31649,10 +31649,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -31759,10 +31759,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -32265,10 +32265,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35301,10 +35301,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35345,10 +35345,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35367,10 +35367,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35389,10 +35389,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-17",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35411,10 +35411,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35433,10 +35433,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35477,10 +35477,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35499,10 +35499,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35521,10 +35521,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35565,10 +35565,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35609,10 +35609,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35697,10 +35697,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35741,10 +35741,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35763,10 +35763,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35785,10 +35785,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35807,10 +35807,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35895,10 +35895,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-30",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -35983,10 +35983,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -36005,10 +36005,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -36885,10 +36885,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -36951,10 +36951,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -39624,23 +39624,23 @@ const rolloutData = [
   {
     "region": "North",
     "po": "PO1.2",
-    "site_name": "TH_TGA_NM_LOC_DAU",
+    "site_name": "TH_THA_DONG_VE",
     "province": "Thanh Hoa",
-    "district": "Tinh Gia",
-    "enodeb_id": "461102",
-    "lat": 19.35065,
-    "lon": 105.75965,
+    "district": "Thanh Hoa",
+    "enodeb_id": "-",
+    "lat": 19.780851,
+    "lon": 105.79339,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
-    "site_type": "Macro",
+    "site_type": "-",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "5G",
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "New BBU",
+    "bbu_solution": "-",
     "timeline": "-"
   },
   {
@@ -43287,10 +43287,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -43331,10 +43331,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -43353,10 +43353,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-20",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -43419,10 +43419,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-02",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -43573,10 +43573,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -43617,10 +43617,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "RFI Ready",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "2026-05-07 00:00:00",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-01",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -43661,10 +43661,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -43837,10 +43837,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-23",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -43991,10 +43991,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-28",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -44079,10 +44079,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "RFI Ready",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "2026-05-07 00:00:00",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -44101,10 +44101,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -44123,10 +44123,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "RFI Ready",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "2026-05-07 00:00:00",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -45289,10 +45289,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-31",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -51711,14 +51711,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "CRAN-R",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "H2_CMY_TRUONG_YEN_4",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -51960,7 +51960,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -52026,7 +52026,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "H2_CMY_HUU_VAN",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_CMY_HUU_VAN",
     "timeline": "-"
   },
   {
@@ -52641,8 +52641,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "-",
-    "bbu_solution": "New BBU",
+    "bbu_location": "H2_CMY_VAN_VO",
+    "bbu_solution": "Combine BBU H2_CMY_VAN_VO",
     "timeline": "-"
   },
   {
@@ -52833,7 +52833,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN_R",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -52899,7 +52899,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "CRAN-M",
+    "site_type": "Macro",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -52950,7 +52950,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -53081,8 +53081,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "H2_CMY_TRUONG_YEN_4",
-    "bbu_solution": "Combine",
+    "bbu_location": "H2_CMY_DONG_PHUONG_YEN",
+    "bbu_solution": "Combine BBU H2_CMY_DONG_PHUONG_YEN",
     "timeline": "-"
   },
   {
@@ -53119,7 +53119,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "CRAN-M",
+    "site_type": "Macro",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -53207,14 +53207,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "CRAN-R",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "H2_CMY_THON_VAN_LA",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -55722,7 +55722,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_MDC_PHUNG_XA_2",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_MDC_PHUNG_XA_2",
     "timeline": "-"
   },
   {
@@ -55744,7 +55744,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_MDC_PHUNG_XA_2",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_MDC_PHUNG_XA_2",
     "timeline": "-"
   },
   {
@@ -55920,7 +55920,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_MDC_TUY_LAI_2",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_MDC_TUY_LAI_2",
     "timeline": "-"
   },
   {
@@ -56091,10 +56091,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56157,10 +56157,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56267,10 +56267,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56311,10 +56311,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56333,10 +56333,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56355,10 +56355,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "H2_MLH_LIEN_MAC",
     "bbu_solution": "Combine BBU H2_MLH_LIEN_MAC",
     "timeline": "-"
@@ -56399,10 +56399,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56421,10 +56421,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "H2_MLH_CHU_PHAN",
     "bbu_solution": "Combine BBU H2_MLH_CHU_PHAN",
     "timeline": "-"
@@ -56641,10 +56641,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56663,10 +56663,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56685,10 +56685,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "H2_MLH_THACH_DA",
     "bbu_solution": "Combine BBU H2_MLH_THACH_DA",
     "timeline": "-"
@@ -56707,10 +56707,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "H2_MLH_THACH_DA",
     "bbu_solution": "Combine BBU H2_MLH_THACH_DA",
     "timeline": "-"
@@ -56729,10 +56729,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "5G:",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56751,10 +56751,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56773,10 +56773,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "1",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56905,10 +56905,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -56927,10 +56927,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-22",
     "bbu_location": "H2_MLH_TIEN_THANG",
     "bbu_solution": "Combine BBU H2_MLH_TIEN_THANG",
     "timeline": "-"
@@ -56949,10 +56949,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -57037,10 +57037,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -57059,10 +57059,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "H2_MLH_TU_LAP",
     "bbu_solution": "Combine BBU H2_MLH_TU_LAP",
     "timeline": "-"
@@ -57081,10 +57081,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -57125,10 +57125,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-21",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -57255,14 +57255,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -60870,7 +60870,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "H2_TOI_PHO_VAC",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_TOI_PHO_VAC",
     "timeline": "-"
   },
   {
@@ -61024,7 +61024,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HHD236",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -61156,7 +61156,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_TOI_THANH_OAI",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_TOI_THANH_OAI",
     "timeline": "-"
   },
   {
@@ -61699,14 +61699,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "CRAN-R",
+    "site_type": "Macro",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "H2_TTT_HOA_LAC_9",
-    "bbu_solution": "-",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -63246,7 +63246,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -107377,8 +107377,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "HN_DAH_DONG_ANH_4",
-    "bbu_solution": "-",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -107466,7 +107466,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HN_DAH_LIEN_HA",
-    "bbu_solution": "Combine BBU HN_DAH_LIEN_HA_2",
+    "bbu_solution": "Combine BBU HN_DAH_LIEN_HA",
     "timeline": "-"
   },
   {
@@ -109397,10 +109397,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-15",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -109529,10 +109529,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-06",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -109551,10 +109551,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-11",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -109683,10 +109683,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-15",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -109881,10 +109881,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-15",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -109903,10 +109903,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "5G_2",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -109991,10 +109991,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-15",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -110013,10 +110013,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-15",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -110145,10 +110145,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-15",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -110409,10 +110409,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-15",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -110497,10 +110497,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-15",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -110673,10 +110673,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-15",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -110695,10 +110695,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-11",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -111619,10 +111619,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -111641,10 +111641,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-15",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -111663,10 +111663,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-15",
     "bbu_location": "HN_GLM_YEN_THUONG",
     "bbu_solution": "Combine BBU HN_GLM_YEN_THUONG",
     "timeline": "-"
@@ -115909,10 +115909,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -115931,10 +115931,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -115953,10 +115953,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -115975,10 +115975,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -115997,10 +115997,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116019,10 +116019,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116041,10 +116041,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "HN_SSN_BAC_SON",
     "bbu_solution": "Combine BBU HN_BAC_SON",
     "timeline": "-"
@@ -116063,10 +116063,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116085,10 +116085,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "HN_SSN_DA_BAC",
     "bbu_solution": "Combine BBU HN_SSN_DA_BAC",
     "timeline": "-"
@@ -116129,10 +116129,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116261,10 +116261,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116283,10 +116283,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "HN_SSN_DA_BAC",
     "bbu_solution": "Combine BBU HN_SSN_DA_BAC",
     "timeline": "-"
@@ -116349,10 +116349,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116371,10 +116371,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116415,10 +116415,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "HN_SSN_DONG_DO_4_CRAN",
     "bbu_solution": "Combine BBU HN_SSN_DONG_DO_4_CRAN",
     "timeline": "-"
@@ -116437,10 +116437,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116459,10 +116459,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "HN_SSN_DA_BAC",
     "bbu_solution": "Combine BBU HN_SSN_DA_BAC",
     "timeline": "-"
@@ -116635,10 +116635,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "1",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116657,10 +116657,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116679,10 +116679,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "1",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116745,10 +116745,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116899,10 +116899,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116921,10 +116921,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116943,10 +116943,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "HN_SSN_MINH_PHU_2",
     "bbu_solution": "Combine BBU HN_SSN_MINH_PHU_2",
     "timeline": "-"
@@ -116965,10 +116965,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -116987,10 +116987,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "HN_SSN_MINH_PHU_3",
     "bbu_solution": "Combine BBU HN_SSN_MINH_PHU_3",
     "timeline": "-"
@@ -117009,10 +117009,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "gnb",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -117075,10 +117075,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -117097,10 +117097,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "HN_SSN_NAM_SON",
     "bbu_solution": "Combine HN_SSN_NAM_SON",
     "timeline": "-"
@@ -117119,10 +117119,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -117141,10 +117141,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -117229,10 +117229,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -117251,10 +117251,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "1",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -117405,10 +117405,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -117449,10 +117449,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "HN_SSN_PHU_LINH",
     "bbu_solution": "Combine BBU HN_SSN_PHU_LINH",
     "timeline": "-"
@@ -117669,10 +117669,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -118043,10 +118043,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -118065,10 +118065,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-25",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -118087,10 +118087,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK,AAU",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -118109,10 +118109,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -118153,10 +118153,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -118175,10 +118175,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -118197,10 +118197,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-26",
     "bbu_location": "HN_SSN_TAN_LAP",
     "bbu_solution": "Combine BBU HN_SSN_TAN_LAP",
     "timeline": "-"
@@ -118329,10 +118329,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-29",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -118351,10 +118351,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOT",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -118373,10 +118373,10 @@ const rolloutData = [
     "scenario": "Swap 4G only",
     "site_type": "CRAN-R",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-05-27",
     "bbu_location": "HN_SSN_MINH_PHU_3",
     "bbu_solution": "Combine BBU HN_SSN_MINH_PHU_3",
     "timeline": "-"
@@ -118395,10 +118395,10 @@ const rolloutData = [
     "scenario": "Swap 4G + New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "4G+5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "NOK",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -124560,7 +124560,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -132282,7 +132282,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HTN049",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HTN049",
     "timeline": "-"
   },
   {
@@ -132297,14 +132297,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -132502,7 +132502,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -132722,7 +132722,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -133001,14 +133001,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "CRAN-R",
+    "site_type": "Macro",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "H2_TTN_VAN_PHU",
-    "bbu_solution": "-",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -133030,7 +133030,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -133045,7 +133045,7 @@ const rolloutData = [
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "CRAN-M",
+    "site_type": "Macro",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -133089,14 +133089,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -133184,7 +133184,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HTN014",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HTN014",
     "timeline": "-"
   },
   {
@@ -133359,8 +133359,8 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "HTN056",
-    "bbu_solution": "Combine",
+    "bbu_location": "HTN036",
+    "bbu_solution": "Combine BBU HTN036",
     "timeline": "-"
   },
   {
@@ -133403,8 +133403,8 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "HTN057",
-    "bbu_solution": "Combine",
+    "bbu_location": "HTN055",
+    "bbu_solution": "Combine BBU HTN055",
     "timeline": "-"
   },
   {
@@ -133998,7 +133998,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -134064,7 +134064,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HTO013",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HTO013",
     "timeline": "-"
   },
   {
@@ -139344,7 +139344,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -139410,7 +139410,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -142077,20 +142077,20 @@ const rolloutData = [
   },
   {
     "region": "Ha Noi",
-    "po": "-",
+    "po": "PO1.2",
     "site_name": "HNIYHA90",
     "province": "Ha Noi",
-    "district": "-",
+    "district": "Nam Tu Liem",
     "enodeb_id": "-",
     "lat": 21.01399,
     "lon": 105.786356,
-    "vip": "VIP",
+    "vip": "SVIP",
     "is_vip": true,
-    "scenario": "New build 4G on 3G only",
+    "scenario": "New build 4G + New build 5G IBC",
     "site_type": "-",
     "detailed_type": "-",
     "status": "Pending",
-    "rat": "4G",
+    "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
@@ -169037,7 +169037,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "5G - New",
-    "site_type": "CRAN+IBC",
+    "site_type": "CRAN-IBC",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -176231,7 +176231,7 @@ const rolloutData = [
     "vip": "VIP",
     "is_vip": true,
     "scenario": "5G - New",
-    "site_type": "CRAN+IBC",
+    "site_type": "CRAN-IBC",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -176358,8 +176358,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "AnPhú",
     "enodeb_id": "614380",
-    "lat": 10.8137,
-    "lon": 105.0928,
+    "lat": 10.813777,
+    "lon": 105.092731,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -176512,8 +176512,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "AnPhú",
     "enodeb_id": "614380",
-    "lat": 10.8053,
-    "lon": 105.0845,
+    "lat": 10.805342,
+    "lon": 105.084598,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -177634,8 +177634,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "ChợMới",
     "enodeb_id": "894323",
-    "lat": 10.5002,
-    "lon": 105.484,
+    "lat": 10.5000981,
+    "lon": 105.4840465,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -178448,8 +178448,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "ChâuThành",
     "enodeb_id": "614000",
-    "lat": 10.4472,
-    "lon": 105.3657,
+    "lat": 10.447225,
+    "lon": 105.365833,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -178514,8 +178514,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "ChâuThành",
     "enodeb_id": "614035",
-    "lat": 10.4424,
-    "lon": 105.171,
+    "lat": 10.442456,
+    "lon": 105.170784,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -179152,8 +179152,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "LongXuyên",
     "enodeb_id": "614074",
-    "lat": 10.3448,
-    "lon": 105.4662,
+    "lat": 10.344678,
+    "lon": 105.466263,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -179262,8 +179262,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "LongXuyên",
     "enodeb_id": "614081",
-    "lat": 10.3888,
-    "lon": 105.4391,
+    "lat": 10.388852,
+    "lon": 105.439026,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -179680,8 +179680,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "LongXuyên",
     "enodeb_id": "614059",
-    "lat": 10.4026,
-    "lon": 105.4181,
+    "lat": 10.402693,
+    "lon": 105.417973,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -179702,8 +179702,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "LongXuyên",
     "enodeb_id": "614306",
-    "lat": 10.3094,
-    "lon": 105.4358,
+    "lat": 10.309413,
+    "lon": 105.435415,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -180384,8 +180384,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "PhúTân",
     "enodeb_id": "614364",
-    "lat": 10.715,
-    "lon": 105.3447,
+    "lat": 10.714827,
+    "lon": 105.34463,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -180516,8 +180516,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "PhúTân",
     "enodeb_id": "614437",
-    "lat": 10.5972,
-    "lon": 105.3524,
+    "lat": 10.597105,
+    "lon": 105.352433,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -180868,8 +180868,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "TânChâu",
     "enodeb_id": "614124",
-    "lat": 10.8956,
-    "lon": 105.1812,
+    "lat": 10.893909,
+    "lon": 105.180647,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -181990,8 +181990,8 @@ const rolloutData = [
     "province": "Ca Mau",
     "district": "BạcLiêu",
     "enodeb_id": "625758",
-    "lat": 9.29476,
-    "lon": 105.7346,
+    "lat": 9.294763,
+    "lon": 105.734607,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -182518,8 +182518,8 @@ const rolloutData = [
     "province": "Ca Mau",
     "district": "GiáRai",
     "enodeb_id": "625568",
-    "lat": 9.21063,
-    "lon": 105.36422,
+    "lat": 9.210729,
+    "lon": 105.364196,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -182562,8 +182562,8 @@ const rolloutData = [
     "province": "Ca Mau",
     "district": "GiáRai",
     "enodeb_id": "625720",
-    "lat": 9.33312,
-    "lon": 105.41166,
+    "lat": 9.33308,
+    "lon": 105.41174,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -182694,8 +182694,8 @@ const rolloutData = [
     "province": "Ca Mau",
     "district": "GiáRai",
     "enodeb_id": "625723",
-    "lat": 9.23186,
-    "lon": 105.42798,
+    "lat": 9.232036,
+    "lon": 105.427871,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -182760,8 +182760,8 @@ const rolloutData = [
     "province": "Ca Mau",
     "district": "GiáRai",
     "enodeb_id": "625771",
-    "lat": 9.22492,
-    "lon": 105.39836,
+    "lat": 9.224908,
+    "lon": 105.398329,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -182804,8 +182804,8 @@ const rolloutData = [
     "province": "Ca Mau",
     "district": "GiáRai",
     "enodeb_id": "625568",
-    "lat": 9.2053,
-    "lon": 105.3512,
+    "lat": 9.205389,
+    "lon": 105.351126,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -183134,8 +183134,8 @@ const rolloutData = [
     "province": "Ca Mau",
     "district": "PhướcLong",
     "enodeb_id": "625518",
-    "lat": 9.39282,
-    "lon": 105.49285,
+    "lat": 9.392766,
+    "lon": 105.492867,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -183222,8 +183222,8 @@ const rolloutData = [
     "province": "Ca Mau",
     "district": "VĩnhLợi",
     "enodeb_id": "625529",
-    "lat": 9.38793,
-    "lon": 105.60065,
+    "lat": 9.387861,
+    "lon": 105.60073,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -204716,8 +204716,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "ChâuThành",
     "enodeb_id": "671787",
-    "lat": 9.9135,
-    "lon": 105.7881,
+    "lat": 9.9136,
+    "lon": 105.788,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206102,8 +206102,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "NgãBảy",
     "enodeb_id": "671830",
-    "lat": 9.8645,
-    "lon": 105.8009,
+    "lat": 9.8644,
+    "lon": 105.80091,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206124,8 +206124,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671713",
-    "lat": 9.769,
-    "lon": 105.6151,
+    "lat": 9.769373,
+    "lon": 105.614878,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -206406,28 +206406,6 @@ const rolloutData = [
   {
     "region": "South",
     "po": "PO1.3",
-    "site_name": "HGPH18",
-    "province": "Can Tho",
-    "district": "PhụngHiệp",
-    "enodeb_id": "671821",
-    "lat": 9.8719,
-    "lon": 105.7711,
-    "vip": "NO",
-    "is_vip": false,
-    "scenario": "Upgrade 5G",
-    "site_type": "Macro",
-    "detailed_type": "-",
-    "status": "Pending",
-    "rat": "5G",
-    "rfi_date": "-",
-    "on_air_date": "-",
-    "bbu_location": "-",
-    "bbu_solution": "Reuse BBU",
-    "timeline": "W17"
-  },
-  {
-    "region": "South",
-    "po": "PO1.3",
     "site_name": "HGPH19",
     "province": "Can Tho",
     "district": "PhụngHiệp",
@@ -206586,8 +206564,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671808",
-    "lat": 9.9062,
-    "lon": 105.7247,
+    "lat": 9.906092,
+    "lon": 105.72457,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206696,8 +206674,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671833",
-    "lat": 9.8761,
-    "lon": 105.7389,
+    "lat": 9.876138,
+    "lon": 105.73888,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206762,8 +206740,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671714",
-    "lat": 9.831,
-    "lon": 105.6488,
+    "lat": 9.8309,
+    "lon": 105.6487,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206784,8 +206762,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671900",
-    "lat": 9.891,
-    "lon": 105.6374,
+    "lat": 9.891071,
+    "lon": 105.637378,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206938,8 +206916,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671938",
-    "lat": 9.8468,
-    "lon": 105.6491,
+    "lat": 9.8467,
+    "lon": 105.649,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206960,8 +206938,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671937",
-    "lat": 9.668,
-    "lon": 105.7071,
+    "lat": 9.667942,
+    "lon": 105.707044,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -207114,8 +207092,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671810",
-    "lat": 9.7629,
-    "lon": 105.69,
+    "lat": 9.763195,
+    "lon": 105.689829,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -217454,8 +217432,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "SócTrăng",
     "enodeb_id": "696112",
-    "lat": 9.60059,
-    "lon": 105.97839,
+    "lat": 9.600615,
+    "lon": 105.978435,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -219346,8 +219324,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Cái Bè",
     "enodeb_id": "702695",
-    "lat": 10.51099,
-    "lon": 105.94253,
+    "lat": 10.5109,
+    "lon": 105.9425,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -219412,8 +219390,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Cái Bè",
     "enodeb_id": "702762",
-    "lat": 10.35412,
-    "lon": 105.90445,
+    "lat": 10.354,
+    "lon": 105.9043,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -219522,8 +219500,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Cái Bè",
     "enodeb_id": "702703",
-    "lat": 10.37993,
-    "lon": 105.87029,
+    "lat": 10.380537,
+    "lon": 105.869798,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -221568,8 +221546,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Chợ Gạo",
     "enodeb_id": "702745",
-    "lat": 10.46412,
-    "lon": 106.41563,
+    "lat": 10.464002,
+    "lon": 106.415682,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
@@ -224384,8 +224362,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Châu Thành",
     "enodeb_id": "702753",
-    "lat": 10.42764,
-    "lon": 106.32158,
+    "lat": 10.4276,
+    "lon": 106.3215,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -225330,8 +225308,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Cai Lậy (Thị xã)",
     "enodeb_id": "702618",
-    "lat": 10.49259,
-    "lon": 106.09642,
+    "lat": 10.4926,
+    "lon": 106.0963,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -229026,8 +229004,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Mỹ Tho",
     "enodeb_id": "702500",
-    "lat": 10.36462,
-    "lon": 106.35734,
+    "lat": 10.364609,
+    "lon": 106.357368,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -231886,8 +231864,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Tân Phước",
     "enodeb_id": "702918",
-    "lat": 10.47667,
-    "lon": 106.30814,
+    "lat": 10.476603,
+    "lon": 106.30819,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + Swap 5G",
@@ -231908,8 +231886,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Tân Phước",
     "enodeb_id": "702932",
-    "lat": 10.4712,
-    "lon": 106.3087,
+    "lat": 10.471111,
+    "lon": 106.308315,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -232436,8 +232414,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "CầuKè",
     "enodeb_id": "713609",
-    "lat": 9.8725,
-    "lon": 106.0561,
+    "lat": 9.872567,
+    "lon": 106.056049,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -232656,8 +232634,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "CầuKè",
     "enodeb_id": "713583",
-    "lat": 9.8712,
-    "lon": 106.0621,
+    "lat": 9.87121,
+    "lon": 106.06209,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -233272,8 +233250,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "CàngLong",
     "enodeb_id": "713627",
-    "lat": 10.027,
-    "lon": 106.2948,
+    "lat": 10.02702,
+    "lon": 106.29477,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -233514,8 +233492,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "CàngLong",
     "enodeb_id": "897312",
-    "lat": 9.9957,
-    "lon": 106.2722,
+    "lat": 9.99568,
+    "lon": 106.27223,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -235714,8 +235692,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "VĩnhLong",
     "enodeb_id": "723186",
-    "lat": 10.2540262,
-    "lon": 105.949555,
+    "lat": 10.254191,
+    "lon": 105.949656,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -237452,8 +237430,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "LongHồ",
     "enodeb_id": "723029",
-    "lat": 10.16882,
-    "lon": 105.9346,
+    "lat": 10.168812,
+    "lon": 105.93456,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -237980,8 +237958,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "LongHồ",
     "enodeb_id": "723029",
-    "lat": 10.16644,
-    "lon": 105.93374,
+    "lat": 10.166415,
+    "lon": 105.93377,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -240400,8 +240378,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "VĩnhLong",
     "enodeb_id": "723456",
-    "lat": 10.25553,
-    "lon": 105.9697,
+    "lat": 10.255488,
+    "lon": 105.96954,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -240620,8 +240598,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "LongHồ",
     "enodeb_id": "723079",
-    "lat": 10.1688,
-    "lon": 105.9421,
+    "lat": 10.168809,
+    "lon": 105.942205,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -251585,13 +251563,9 @@ const coordLookup = {
     20.230336,
     106.329264
   ],
-  "NDH_HHU_HAI_XUAN": [
-    20.10332,
-    106.26974
-  ],
-  "240195": [
-    20.10332,
-    106.26974
+  "NDH_HHU_HAI_NINH": [
+    20.1135724,
+    106.217051
   ],
   "NDH_HHU_THINH_LONG": [
     20.02495,
@@ -251657,13 +251631,9 @@ const coordLookup = {
     20.448048,
     106.184633
   ],
-  "NDH_NDH_BV_TINH_THUONG": [
-    20.445956,
-    106.199606
-  ],
-  "240373": [
-    20.445956,
-    106.199606
+  "NDH_NDH_HAN_THUYEN_2": [
+    20.438859,
+    106.186002
   ],
   "NDH_NDH_CA_THANH_PHO_NAM_DINH": [
     20.438968,
@@ -251913,13 +251883,9 @@ const coordLookup = {
     20.423218,
     106.161146
   ],
-  "NDH_NDH_NGUYEN_VAN_TROI": [
-    20.4174,
-    106.17065
-  ],
-  "240036": [
-    20.4174,
-    106.17065
+  "NDH_NDH_PHU_NGHIA": [
+    20.441715,
+    106.184935
   ],
   "NDH_NDH_PHAM_NGU_LAO": [
     20.424527,
@@ -251953,13 +251919,9 @@ const coordLookup = {
     20.412147,
     106.139318
   ],
-  "NDH_NDH_SO_XAY_DUNG": [
-    20.44062,
-    106.17805
-  ],
-  "240362": [
-    20.44062,
-    106.17805
+  "NDH_NDH_NAM_DINH_4": [
+    20.40646,
+    106.19495
   ],
   "NDH_NDH_TAY_NAM_DINH": [
     20.412888,
@@ -254985,13 +254947,9 @@ const coordLookup = {
     19.42343,
     105.76978
   ],
-  "TH_TGA_NM_LOC_DAU": [
-    19.35065,
-    105.75965
-  ],
-  "461102": [
-    19.35065,
-    105.75965
+  "TH_THA_DONG_VE": [
+    19.780851,
+    105.79339
   ],
   "TH_TGA_TAN_TRUONG": [
     19.3624296,
@@ -299310,12 +299268,12 @@ const coordLookup = {
     107.84745
   ],
   "AGAP01": [
-    10.8137,
-    105.0928
+    10.813777,
+    105.092731
   ],
   "614380": [
-    10.8053,
-    105.0845
+    10.805342,
+    105.084598
   ],
   "AGAP05": [
     10.89562,
@@ -299366,8 +299324,8 @@ const coordLookup = {
     105.106119
   ],
   "AGAP16": [
-    10.8053,
-    105.0845
+    10.805342,
+    105.084598
   ],
   "AGAP21": [
     10.72887,
@@ -299566,8 +299524,8 @@ const coordLookup = {
     105.4908443
   ],
   "894323": [
-    10.5002,
-    105.484
+    10.5000981,
+    105.4840465
   ],
   "AGCM05": [
     10.509213,
@@ -299714,8 +299672,8 @@ const coordLookup = {
     105.410123
   ],
   "AGCM38": [
-    10.5002,
-    105.484
+    10.5000981,
+    105.4840465
   ],
   "AGCM39": [
     10.45137,
@@ -299954,8 +299912,8 @@ const coordLookup = {
     105.135013
   ],
   "AGCT01": [
-    10.4472,
-    105.3657
+    10.447225,
+    105.365833
   ],
   "614000": [
     10.448224,
@@ -299978,12 +299936,12 @@ const coordLookup = {
     105.347977
   ],
   "AGCT06": [
-    10.4424,
-    105.171
+    10.442456,
+    105.170784
   ],
   "614035": [
-    10.4424,
-    105.171
+    10.442456,
+    105.170784
   ],
   "AGCT08": [
     10.418533,
@@ -300170,12 +300128,12 @@ const coordLookup = {
     105.445365
   ],
   "AGLX11": [
-    10.3448,
-    105.4662
+    10.344678,
+    105.466263
   ],
   "614074": [
-    10.3448,
-    105.4662
+    10.344678,
+    105.466263
   ],
   "AGLX12": [
     10.37853,
@@ -300206,8 +300164,8 @@ const coordLookup = {
     105.4328
   ],
   "AGLX17": [
-    10.3888,
-    105.4391
+    10.388852,
+    105.439026
   ],
   "614081": [
     10.386,
@@ -300354,20 +300312,20 @@ const coordLookup = {
     105.430758
   ],
   "AGLX37": [
-    10.4026,
-    105.4181
+    10.402693,
+    105.417973
   ],
   "614059": [
     10.4052,
     105.4148
   ],
   "AGLX38": [
-    10.3094,
-    105.4358
+    10.309413,
+    105.435415
   ],
   "614306": [
-    10.3094,
-    105.4358
+    10.309413,
+    105.435415
   ],
   "AGLX39": [
     10.401604,
@@ -300554,12 +300512,12 @@ const coordLookup = {
     105.439344
   ],
   "AGPT01": [
-    10.715,
-    105.3447
+    10.714827,
+    105.34463
   ],
   "614364": [
-    10.715,
-    105.3447
+    10.714827,
+    105.34463
   ],
   "AGPT02": [
     10.5785,
@@ -300602,8 +300560,8 @@ const coordLookup = {
     105.216254
   ],
   "AGPT19": [
-    10.5972,
-    105.3524
+    10.597105,
+    105.352433
   ],
   "614437": [
     10.5858,
@@ -300718,12 +300676,12 @@ const coordLookup = {
     105.0234
   ],
   "AGTC04": [
-    10.8956,
-    105.1812
+    10.893909,
+    105.180647
   ],
   "614124": [
-    10.8956,
-    105.1812
+    10.893909,
+    105.180647
   ],
   "AGTC11": [
     10.8428,
@@ -301098,12 +301056,12 @@ const coordLookup = {
     105.733402
   ],
   "BLBL34": [
-    9.29476,
-    105.7346
+    9.294763,
+    105.734607
   ],
   "625758": [
-    9.29476,
-    105.7346
+    9.294763,
+    105.734607
   ],
   "BLBL36": [
     9.28778,
@@ -301266,12 +301224,12 @@ const coordLookup = {
     105.47992
   ],
   "BLGR03": [
-    9.21063,
-    105.36422
+    9.210729,
+    105.364196
   ],
   "625568": [
-    9.2053,
-    105.3512
+    9.205389,
+    105.351126
   ],
   "BLGR11": [
     9.26047,
@@ -301282,12 +301240,12 @@ const coordLookup = {
     105.44836
   ],
   "BLGR12": [
-    9.33312,
-    105.41166
+    9.33308,
+    105.41174
   ],
   "625720": [
-    9.33312,
-    105.41166
+    9.33308,
+    105.41174
   ],
   "BLGR15": [
     9.22753,
@@ -301330,12 +301288,12 @@ const coordLookup = {
     105.40908
   ],
   "BLGR25": [
-    9.23186,
-    105.42798
+    9.232036,
+    105.427871
   ],
   "625723": [
-    9.23186,
-    105.42798
+    9.232036,
+    105.427871
   ],
   "BLGR27": [
     9.23121,
@@ -301354,12 +301312,12 @@ const coordLookup = {
     105.29184
   ],
   "BLGR30": [
-    9.22492,
-    105.39836
+    9.224908,
+    105.398329
   ],
   "625771": [
-    9.22492,
-    105.39836
+    9.224908,
+    105.398329
   ],
   "BLGR31": [
     9.25483,
@@ -301370,8 +301328,8 @@ const coordLookup = {
     105.52567
   ],
   "BLGR32": [
-    9.2053,
-    105.3512
+    9.205389,
+    105.351126
   ],
   "BLGR40": [
     9.22231,
@@ -301478,12 +301436,12 @@ const coordLookup = {
     105.44306
   ],
   "BLPL10": [
-    9.39282,
-    105.49285
+    9.392766,
+    105.492867
   ],
   "625518": [
-    9.39282,
-    105.49285
+    9.392766,
+    105.492867
   ],
   "BLPL37": [
     9.42885,
@@ -301510,12 +301468,12 @@ const coordLookup = {
     105.74794
   ],
   "BLVL04": [
-    9.38793,
-    105.60065
+    9.387861,
+    105.60073
   ],
   "625529": [
-    9.38793,
-    105.60065
+    9.387861,
+    105.60073
   ],
   "BLVL12": [
     9.34729,
@@ -307938,8 +307896,8 @@ const coordLookup = {
     105.7258
   ],
   "671808": [
-    9.9062,
-    105.7247
+    9.906092,
+    105.72457
   ],
   "HGCA04": [
     9.9216,
@@ -308314,12 +308272,12 @@ const coordLookup = {
     105.8625
   ],
   "HGCT17": [
-    9.9135,
-    105.7881
+    9.9136,
+    105.788
   ],
   "671787": [
-    9.9135,
-    105.7881
+    9.9136,
+    105.788
   ],
   "HGCT19": [
     9.910512,
@@ -308754,28 +308712,28 @@ const coordLookup = {
     105.8057
   ],
   "HGNB24": [
-    9.8645,
-    105.8009
+    9.8644,
+    105.80091
   ],
   "671830": [
-    9.8645,
-    105.8009
+    9.8644,
+    105.80091
   ],
   "HGPH03": [
-    9.769,
-    105.6151
+    9.769373,
+    105.614878
   ],
   "671713": [
-    9.769,
-    105.6151
+    9.769373,
+    105.614878
   ],
   "HGPH04": [
     9.776419,
     105.684201
   ],
   "671810": [
-    9.7629,
-    105.69
+    9.763195,
+    105.689829
   ],
   "HGPH05": [
     9.7135,
@@ -308857,14 +308815,6 @@ const coordLookup = {
     9.909404,
     105.752808
   ],
-  "HGPH18": [
-    9.8719,
-    105.7711
-  ],
-  "671821": [
-    9.8719,
-    105.7711
-  ],
   "HGPH19": [
     9.895406,
     105.695447
@@ -308922,8 +308872,8 @@ const coordLookup = {
     105.650395
   ],
   "HGPH28": [
-    9.9062,
-    105.7247
+    9.906092,
+    105.72457
   ],
   "HGPH29": [
     9.782625,
@@ -308958,12 +308908,12 @@ const coordLookup = {
     105.6075
   ],
   "HGPH39": [
-    9.8761,
-    105.7389
+    9.876138,
+    105.73888
   ],
   "671833": [
-    9.8761,
-    105.7389
+    9.876138,
+    105.73888
   ],
   "HGPH40": [
     9.753996,
@@ -308978,20 +308928,20 @@ const coordLookup = {
     105.7898
   ],
   "HGPH42": [
-    9.831,
-    105.6488
+    9.8309,
+    105.6487
   ],
   "671714": [
-    9.831,
-    105.6488
+    9.8309,
+    105.6487
   ],
   "HGPH49": [
-    9.891,
-    105.6374
+    9.891071,
+    105.637378
   ],
   "671900": [
-    9.891,
-    105.6374
+    9.891071,
+    105.637378
   ],
   "HGPH52": [
     9.7912,
@@ -309038,20 +308988,20 @@ const coordLookup = {
     105.756
   ],
   "HGPH61": [
-    9.8468,
-    105.6491
+    9.8467,
+    105.649
   ],
   "671938": [
-    9.8468,
-    105.6491
+    9.8467,
+    105.649
   ],
   "HGPH62": [
-    9.668,
-    105.7071
+    9.667942,
+    105.707044
   ],
   "671937": [
-    9.668,
-    105.7071
+    9.667942,
+    105.707044
   ],
   "HGPH64": [
     9.8494,
@@ -309082,8 +309032,8 @@ const coordLookup = {
     105.6807
   ],
   "HGPH73": [
-    9.7629,
-    105.69
+    9.763195,
+    105.689829
   ],
   "HGPH74": [
     9.7181,
@@ -312366,8 +312316,8 @@ const coordLookup = {
     105.95442
   ],
   "STST16": [
-    9.60059,
-    105.97839
+    9.600615,
+    105.978435
   ],
   "696112": [
     9.4298,
@@ -312938,8 +312888,8 @@ const coordLookup = {
     105.8798
   ],
   "702703": [
-    10.37993,
-    105.87029
+    10.380537,
+    105.869798
   ],
   "TGCB25": [
     10.41689,
@@ -313010,8 +312960,8 @@ const coordLookup = {
     105.895466
   ],
   "TGCB34": [
-    10.51099,
-    105.94253
+    10.5109,
+    105.9425
   ],
   "TGCB35": [
     10.3511,
@@ -313030,12 +312980,12 @@ const coordLookup = {
     105.8495
   ],
   "TGCB37": [
-    10.35412,
-    105.90445
+    10.354,
+    105.9043
   ],
   "702762": [
-    10.35412,
-    105.90445
+    10.354,
+    105.9043
   ],
   "TGCB38": [
     10.338308,
@@ -313062,8 +313012,8 @@ const coordLookup = {
     105.911923
   ],
   "TGCB42": [
-    10.37993,
-    105.87029
+    10.380537,
+    105.869798
   ],
   "TGCB43": [
     10.5325,
@@ -313670,8 +313620,8 @@ const coordLookup = {
     106.488325
   ],
   "TGCG44": [
-    10.46412,
-    106.41563
+    10.464002,
+    106.415682
   ],
   "TGCG45": [
     10.355397,
@@ -314402,8 +314352,8 @@ const coordLookup = {
     106.3302
   ],
   "702753": [
-    10.42764,
-    106.32158
+    10.4276,
+    106.3215
   ],
   "TGCT28": [
     10.4192,
@@ -314546,8 +314496,8 @@ const coordLookup = {
     106.3036
   ],
   "TGCT52": [
-    10.42764,
-    106.32158
+    10.4276,
+    106.3215
   ],
   "TGCT53": [
     10.4342,
@@ -314810,12 +314760,12 @@ const coordLookup = {
     106.0953
   ],
   "TGCY04": [
-    10.49259,
-    106.09642
+    10.4926,
+    106.0963
   ],
   "702618": [
-    10.49259,
-    106.09642
+    10.4926,
+    106.0963
   ],
   "TGCY05": [
     10.403301,
@@ -315906,12 +315856,12 @@ const coordLookup = {
     106.36764
   ],
   "TGMT02": [
-    10.36462,
-    106.35734
+    10.364609,
+    106.357368
   ],
   "702500": [
-    10.36462,
-    106.35734
+    10.364609,
+    106.357368
   ],
   "TGMT03": [
     10.360365,
@@ -316778,16 +316728,16 @@ const coordLookup = {
     106.217198
   ],
   "TGTP24": [
-    10.47667,
-    106.30814
+    10.476603,
+    106.30819
   ],
   "702918": [
     10.4786,
     106.3144
   ],
   "TGTP27": [
-    10.4712,
-    106.3087
+    10.471111,
+    106.308315
   ],
   "702932": [
     10.466943,
@@ -316946,12 +316896,12 @@ const coordLookup = {
     106.3144
   ],
   "TVCK01": [
-    9.8725,
-    106.0561
+    9.872567,
+    106.056049
   ],
   "713609": [
-    9.8725,
-    106.0561
+    9.872567,
+    106.056049
   ],
   "TVCK03": [
     9.87864,
@@ -317026,12 +316976,12 @@ const coordLookup = {
     106.073897
   ],
   "TVCK18": [
-    9.8712,
-    106.0621
+    9.87121,
+    106.06209
   ],
   "713583": [
-    9.8712,
-    106.0621
+    9.87121,
+    106.06209
   ],
   "TVCK19": [
     9.907093,
@@ -317242,12 +317192,12 @@ const coordLookup = {
     106.25659
   ],
   "TVCL23": [
-    10.027,
-    106.2948
+    10.02702,
+    106.29477
   ],
   "713627": [
-    10.027,
-    106.2948
+    10.02702,
+    106.29477
   ],
   "TVCL24": [
     9.96632,
@@ -317330,12 +317280,12 @@ const coordLookup = {
     106.22597
   ],
   "TVCL37": [
-    9.9957,
-    106.2722
+    9.99568,
+    106.27223
   ],
   "897312": [
-    9.9957,
-    106.2722
+    9.99568,
+    106.27223
   ],
   "TVCN01": [
     9.79541,
@@ -318094,8 +318044,8 @@ const coordLookup = {
     105.862045
   ],
   "VLVL70": [
-    10.2540262,
-    105.949555
+    10.254191,
+    105.949656
   ],
   "723186": [
     10.014053,
@@ -318526,8 +318476,8 @@ const coordLookup = {
     105.932398
   ],
   "723029": [
-    10.16644,
-    105.93374
+    10.166415,
+    105.93377
   ],
   "VLLH16": [
     10.28537,
@@ -318674,8 +318624,8 @@ const coordLookup = {
     105.9711
   ],
   "VLLH49": [
-    10.16882,
-    105.9346
+    10.168812,
+    105.93456
   ],
   "VLLH50": [
     10.17536,
@@ -318838,8 +318788,8 @@ const coordLookup = {
     105.937247
   ],
   "VLLHX5": [
-    10.16644,
-    105.93374
+    10.166415,
+    105.93377
   ],
   "VLMT01": [
     10.241359,
@@ -319626,12 +319576,12 @@ const coordLookup = {
     105.922002
   ],
   "VLVL65": [
-    10.25553,
-    105.9697
+    10.255488,
+    105.96954
   ],
   "723456": [
-    10.25553,
-    105.9697
+    10.255488,
+    105.96954
   ],
   "VLVL68": [
     10.235376,
@@ -319690,12 +319640,12 @@ const coordLookup = {
     106.141955
   ],
   "VLLH55": [
-    10.1688,
-    105.9421
+    10.168809,
+    105.942205
   ],
   "723079": [
-    10.1688,
-    105.9421
+    10.168809,
+    105.942205
   ],
   "VLVM11": [
     9.9915,
@@ -322933,10 +322883,6 @@ const coordLookup = {
     NaN,
     NaN
   ],
-  "HN_LBN_TU_DINH_2": [
-    NaN,
-    NaN
-  ],
   "HM_TLM_KCN_THANH_LIEM": [
     NaN,
     NaN
@@ -322957,7 +322903,31 @@ const coordLookup = {
     NaN,
     NaN
   ],
+  "NDH_HHU_HAI_XUAN": [
+    NaN,
+    NaN
+  ],
+  "NDH_NDH_BV_TINH_THUONG": [
+    NaN,
+    NaN
+  ],
   "NA_HNN_HUNG_TAY": [
+    NaN,
+    NaN
+  ],
+  "TH_TGA_NM_LOC_DAU": [
+    NaN,
+    NaN
+  ],
+  "NDH_NDH_NGUYEN_VAN_TROI": [
+    NaN,
+    NaN
+  ],
+  "NDH_NDH_SO_XAY_DUNG": [
+    NaN,
+    NaN
+  ],
+  "HGPH18": [
     NaN,
     NaN
   ],

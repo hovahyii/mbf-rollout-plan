@@ -155,7 +155,7 @@ const rolloutData = [
   },
   {
     "region": "North",
-    "po": "PO1.2",
+    "po": "PO1.3",
     "site_name": "BGG_BGG_CA_TINH",
     "province": "Bac Ninh",
     "district": "Bac Giang",
@@ -6745,10 +6745,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -6899,10 +6899,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -7339,10 +7339,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -7603,10 +7603,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -8395,10 +8395,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "RFI Ready",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "2026-04-28 00:00:00",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -8461,10 +8461,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "RFI Ready",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "2026-04-28 00:00:00",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -10001,10 +10001,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -13873,10 +13873,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -14841,10 +14841,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -16755,10 +16755,10 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
     "timeline": "-"
@@ -17987,10 +17987,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -18537,10 +18537,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -19527,10 +19527,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -19571,10 +19571,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -28481,10 +28481,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "RFI Ready",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "2026-04-22 00:00:00",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29669,10 +29669,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -29801,10 +29801,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30043,10 +30043,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -30439,10 +30439,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -32045,10 +32045,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -32287,10 +32287,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -36489,10 +36489,10 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "Macro",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "On-Air",
     "rat": "5G",
     "rfi_date": "-",
-    "on_air_date": "-",
+    "on_air_date": "2026-06-04",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
@@ -51146,7 +51146,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_CMY_BIEN_GIANG_3",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_CMY_BIEN_GIANG_3",
     "timeline": "-"
   },
   {
@@ -51322,7 +51322,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_CMY_CHUC_SON_4",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_CMY_CHUC_SON_4",
     "timeline": "-"
   },
   {
@@ -51410,7 +51410,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_CMY_CN_XUAN_MAI",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_CMY_CN_XUAN_MAI",
     "timeline": "-"
   },
   {
@@ -51696,7 +51696,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_CMY_DONG_PHU",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_CMY_DONG_PHU",
     "timeline": "-"
   },
   {
@@ -52048,7 +52048,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "H2_CMY_PHU_NGHIA_2",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_CMY_PHU_NGHIA_2",
     "timeline": "-"
   },
   {
@@ -52136,7 +52136,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "H2_CMY_LAM_DIEN",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_CMY_LAM_DIEN",
     "timeline": "-"
   },
   {
@@ -52283,7 +52283,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G",
@@ -52466,7 +52466,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_CMY_TAN_TIEN",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_CMY_TAN_TIEN",
     "timeline": "-"
   },
   {
@@ -52686,7 +52686,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_CMY_THUONG_VUC",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_CMY_THUONG_VUC",
     "timeline": "-"
   },
   {
@@ -52855,14 +52855,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "CRAN-R",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "H2_CMY_TIEN_PHUONG_4",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -53060,7 +53060,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_CMY_TRUONG_BAN_MIEU_MON",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_CMY_TRUONG_BAN_MIEU_MON",
     "timeline": "-"
   },
   {
@@ -53324,7 +53324,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_CMY_XUAN_MAI_5",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_CMY_XUAN_MAI_5",
     "timeline": "-"
   },
   {
@@ -58560,7 +58560,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "H2_QOI_TAN_PHU",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_QOI_TAN_PHU",
     "timeline": "-"
   },
   {
@@ -58692,7 +58692,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "H2_QOI_DONG_YEN",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_QOI_DONG_YEN",
     "timeline": "-"
   },
   {
@@ -58714,7 +58714,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "H2_QOI_DONG_YEN",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_QOI_DONG_YEN",
     "timeline": "-"
   },
   {
@@ -60848,7 +60848,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "H2_TOI_CAO_VIEN",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_TOI_CAO_VIEN",
     "timeline": "-"
   },
   {
@@ -61023,7 +61023,7 @@ const rolloutData = [
     "rat": "4G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "HHD236",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -63510,7 +63510,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "H2_UHA_QUANG_PHU_CAU",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_UHA_QUANG_PHU_CAU",
     "timeline": "-"
   },
   {
@@ -63686,7 +63686,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "H2_UHA_UNG_HOA",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU H2_UHA_UNG_HOA",
     "timeline": "-"
   },
   {
@@ -90761,7 +90761,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "IBC",
+    "site_type": "CRAN-IBC",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G",
@@ -106733,7 +106733,7 @@ const rolloutData = [
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -109329,7 +109329,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -110627,7 +110627,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "CRAN-M",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G",
@@ -111815,7 +111815,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -111888,7 +111888,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HN_LBN_BAC_CAU",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine with HN_LBN_BAC_CAU",
     "timeline": "-"
   },
   {
@@ -111910,7 +111910,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HN_LBN_NGOC_THUY",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HN_LBN_NGOC_THUY",
     "timeline": "-"
   },
   {
@@ -112013,7 +112013,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -113318,7 +113318,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HN_LBN_LE_MAT_3",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HN_LBN_LE_MAT_3",
     "timeline": "-"
   },
   {
@@ -113509,7 +113509,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -113824,7 +113824,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HN_LBN_NGOC_THUY_5",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HN_LBN_NGOC_THUY_5",
     "timeline": "-"
   },
   {
@@ -114037,7 +114037,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -115188,7 +115188,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HN_LBN_CHO_O_CACH",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HN_LBN_CHO_O_CACH",
     "timeline": "-"
   },
   {
@@ -117739,7 +117739,7 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HN_SSN_T1_NOI_BAI_NEW_IBC",
+    "bbu_location": "-",
     "bbu_solution": "New BBU",
     "timeline": "-"
   },
@@ -117761,8 +117761,8 @@ const rolloutData = [
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "HN_SSN_T1_NOI_BAI_NEW_IBC",
-    "bbu_solution": "Combine BBU HN_SSN_T1_NOI_BAI_NEW_IBC",
+    "bbu_location": "HN_SSN_SAN_BAY_NOI_BAI_T1_IBC",
+    "bbu_solution": "Combine BBU HN_SSN_SAN_BAY_NOI_BAI_T1_IBC",
     "timeline": "-"
   },
   {
@@ -127127,7 +127127,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -128916,7 +128916,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HTI002",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HTI002",
     "timeline": "-"
   },
   {
@@ -128975,14 +128975,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -129019,14 +129019,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -131226,7 +131226,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HTI002",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HTI002",
     "timeline": "-"
   },
   {
@@ -132407,14 +132407,14 @@ const rolloutData = [
     "vip": "HOT VIP_UT1",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -132473,7 +132473,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -132678,7 +132678,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HTN003",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HTN003",
     "timeline": "-"
   },
   {
@@ -133140,7 +133140,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HTN005",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HTN005",
     "timeline": "-"
   },
   {
@@ -133492,7 +133492,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HTN017",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HTN017",
     "timeline": "-"
   },
   {
@@ -133668,7 +133668,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HTN039",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HTN039",
     "timeline": "-"
   },
   {
@@ -133690,7 +133690,7 @@ const rolloutData = [
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
     "bbu_location": "HTN048",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU HTN048",
     "timeline": "-"
   },
   {
@@ -133771,14 +133771,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "CRAN-R",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
     "rfi_date": "2026-05-12 00:00:00",
     "on_air_date": "-",
-    "bbu_location": "HTO701",
-    "bbu_solution": "Combine",
+    "bbu_location": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -133822,7 +133822,7 @@ const rolloutData = [
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "HTO703",
-    "bbu_solution": "Combine",
+    "bbu_solution": "Combine BBU",
     "timeline": "-"
   },
   {
@@ -133859,14 +133859,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-R",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
     "bbu_location": "-",
-    "bbu_solution": "-",
+    "bbu_solution": "New BBU",
     "timeline": "-"
   },
   {
@@ -134299,14 +134299,14 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G only",
-    "site_type": "IBC",
+    "site_type": "CRAN-IBC",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "-",
-    "bbu_solution": "New BBU",
+    "bbu_location": "HTO004",
+    "bbu_solution": "Combine BBU HTO004",
     "timeline": "-"
   },
   {
@@ -142131,7 +142131,7 @@ const rolloutData = [
     "vip": "VIP",
     "is_vip": true,
     "scenario": "Swap 4G + Swap 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -142417,7 +142417,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -144133,7 +144133,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -144199,7 +144199,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -144331,7 +144331,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -144661,7 +144661,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -145079,7 +145079,7 @@ const rolloutData = [
     "vip": "VIP",
     "is_vip": true,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -145101,7 +145101,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -145189,7 +145189,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -145255,7 +145255,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -147543,7 +147543,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -147565,7 +147565,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -147587,7 +147587,7 @@ const rolloutData = [
     "vip": "VIP",
     "is_vip": true,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -147609,7 +147609,7 @@ const rolloutData = [
     "vip": "VIP",
     "is_vip": true,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -148225,7 +148225,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -148291,7 +148291,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -148577,7 +148577,7 @@ const rolloutData = [
     "vip": "VIP",
     "is_vip": true,
     "scenario": "Swap 4G + New 5G",
-    "site_type": "Macro + IBC",
+    "site_type": "CRAN-M + IBC",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
@@ -165979,13 +165979,13 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "5G - New",
-    "site_type": "CRAN-R",
+    "site_type": "Macro",
     "detailed_type": "-",
     "status": "Pending",
     "rat": "4G+5G",
     "rfi_date": "-",
     "on_air_date": "-",
-    "bbu_location": "DNNH52-DNNH21",
+    "bbu_location": "-",
     "bbu_solution": "Separate",
     "timeline": "WK22"
   },
@@ -176143,7 +176143,7 @@ const rolloutData = [
     "vip": "NO",
     "is_vip": false,
     "scenario": "5G - New",
-    "site_type": "Macro",
+    "site_type": "CRAN-M",
     "detailed_type": "-",
     "status": "RFI Ready",
     "rat": "4G+5G",
@@ -176446,8 +176446,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "AnPhú",
     "enodeb_id": "614328",
-    "lat": 10.794,
-    "lon": 105.0676,
+    "lat": 10.794076,
+    "lon": 105.067725,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -176644,8 +176644,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "AnPhú",
     "enodeb_id": "614109",
-    "lat": 10.9557,
-    "lon": 105.116,
+    "lat": 10.95571,
+    "lon": 105.115484,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -178558,8 +178558,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "ChâuThành",
     "enodeb_id": "614012",
-    "lat": 10.4027,
-    "lon": 105.3072,
+    "lat": 10.402627,
+    "lon": 105.307176,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -178580,8 +178580,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "ChâuThành",
     "enodeb_id": "614000",
-    "lat": 10.4448,
-    "lon": 105.3885,
+    "lat": 10.444832,
+    "lon": 105.38847,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -178602,8 +178602,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "ChâuThành",
     "enodeb_id": "614010",
-    "lat": 10.4897,
-    "lon": 105.3337,
+    "lat": 10.489582,
+    "lon": 105.333504,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -178801,7 +178801,7 @@ const rolloutData = [
     "district": "ChâuThành",
     "enodeb_id": "614000",
     "lat": 10.4466,
-    "lon": 105.3516,
+    "lon": 105.351562,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -178866,8 +178866,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "ChâuThành",
     "enodeb_id": "614040",
-    "lat": 10.45848,
-    "lon": 105.33186,
+    "lat": 10.458525,
+    "lon": 105.331928,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -178932,8 +178932,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "ChâuThành",
     "enodeb_id": "614010",
-    "lat": 10.4806,
-    "lon": 105.3375,
+    "lat": 10.480606,
+    "lon": 105.337535,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -179614,8 +179614,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "LongXuyên",
     "enodeb_id": "614065",
-    "lat": 10.3975,
-    "lon": 105.4034,
+    "lat": 10.398013,
+    "lon": 105.403556,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -179812,8 +179812,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "LongXuyên",
     "enodeb_id": "614083",
-    "lat": 10.3748,
-    "lon": 105.4467,
+    "lat": 10.374693,
+    "lon": 105.446625,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -179878,8 +179878,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "LongXuyên",
     "enodeb_id": "614086",
-    "lat": 10.3377,
-    "lon": 105.4639,
+    "lat": 10.337789,
+    "lon": 105.463875,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -179922,8 +179922,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "LongXuyên",
     "enodeb_id": "614305",
-    "lat": 10.327,
-    "lon": 105.4882,
+    "lat": 10.326946,
+    "lon": 105.488053,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -179944,8 +179944,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "LongXuyên",
     "enodeb_id": "614372",
-    "lat": 10.3161,
-    "lon": 105.469,
+    "lat": 10.315993,
+    "lon": 105.468941,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -180648,8 +180648,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "TịnhBiên",
     "enodeb_id": "614107",
-    "lat": 10.5301,
-    "lon": 105.0288,
+    "lat": 10.530117,
+    "lon": 105.028765,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -180670,8 +180670,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "TịnhBiên",
     "enodeb_id": "614125",
-    "lat": 10.6021,
-    "lon": 104.9496,
+    "lat": 10.602151,
+    "lon": 104.949519,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -180736,8 +180736,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "TịnhBiên",
     "enodeb_id": "614350",
-    "lat": 10.6396,
-    "lon": 104.9925,
+    "lat": 10.639513,
+    "lon": 104.992559,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -180758,8 +180758,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "TịnhBiên",
     "enodeb_id": "614192",
-    "lat": 10.5007,
-    "lon": 104.9812,
+    "lat": 10.500721,
+    "lon": 104.981212,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -180780,8 +180780,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "TịnhBiên",
     "enodeb_id": "614370",
-    "lat": 10.5248,
-    "lon": 105.0306,
+    "lat": 10.524814,
+    "lon": 105.03067,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -180802,8 +180802,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "TịnhBiên",
     "enodeb_id": "614236",
-    "lat": 10.5109,
-    "lon": 105.0424,
+    "lat": 10.510914,
+    "lon": 105.042408,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -180978,8 +180978,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "TânChâu",
     "enodeb_id": "614166",
-    "lat": 10.90559,
-    "lon": 105.17867,
+    "lat": 10.905548,
+    "lon": 105.178708,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -181022,8 +181022,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "ThoạiSơn",
     "enodeb_id": "614016",
-    "lat": 10.3602,
-    "lon": 105.3768,
+    "lat": 10.360161,
+    "lon": 105.376827,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -181264,8 +181264,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "ThoạiSơn",
     "enodeb_id": "614253",
-    "lat": 10.2335,
-    "lon": 105.2432,
+    "lat": 10.2334283,
+    "lon": 105.2433467,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -181286,8 +181286,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "ThoạiSơn",
     "enodeb_id": "614445",
-    "lat": 10.3063,
-    "lon": 105.2809,
+    "lat": 10.306409,
+    "lon": 105.28092,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -182474,8 +182474,8 @@ const rolloutData = [
     "province": "Ca Mau",
     "district": "ĐôngHải",
     "enodeb_id": "625503",
-    "lat": 9.11417,
-    "lon": 105.49116,
+    "lat": 9.114108,
+    "lon": 105.491171,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -182628,8 +182628,8 @@ const rolloutData = [
     "province": "Ca Mau",
     "district": "GiáRai",
     "enodeb_id": "625647",
-    "lat": 9.26917,
-    "lon": 105.36449,
+    "lat": 9.269059,
+    "lon": 105.364515,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -182716,8 +182716,8 @@ const rolloutData = [
     "province": "Ca Mau",
     "district": "GiáRai",
     "enodeb_id": "625713",
-    "lat": 9.23121,
-    "lon": 105.45912,
+    "lat": 9.231227,
+    "lon": 105.45913,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -183420,8 +183420,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "BìnhĐại",
     "enodeb_id": "635833",
-    "lat": 10.2207,
-    "lon": 106.5828,
+    "lat": 10.220613,
+    "lon": 106.582768,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -183552,8 +183552,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "BaTri",
     "enodeb_id": "635821",
-    "lat": 10.189258,
-    "lon": 106.69188,
+    "lat": 10.043496,
+    "lon": 106.591248,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -185774,8 +185774,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "ChâuThành",
     "enodeb_id": "630179",
-    "lat": 10.2648,
-    "lon": 106.2375,
+    "lat": 10.265023,
+    "lon": 106.237514,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -185928,7 +185928,7 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "GiồngTrôm",
     "enodeb_id": "635854",
-    "lat": 10.1643,
+    "lat": 10.164315,
     "lon": 106.4971,
     "vip": "NO",
     "is_vip": false,
@@ -190857,7 +190857,7 @@ const rolloutData = [
     "district": "CáiRăng",
     "enodeb_id": "651402",
     "lat": 9.99772,
-    "lon": 105.75999,
+    "lon": 105.76001,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -200998,8 +200998,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "LấpVò",
     "enodeb_id": "662214",
-    "lat": 10.4081,
-    "lon": 105.6494,
+    "lat": 10.408353,
+    "lon": 105.649286,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -201020,8 +201020,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "LấpVò",
     "enodeb_id": "662206",
-    "lat": 10.3277,
-    "lon": 105.6282,
+    "lat": 10.32767,
+    "lon": 105.628042,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -205948,8 +205948,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "NgãBảy",
     "enodeb_id": "671724",
-    "lat": 9.8094,
-    "lon": 105.8209,
+    "lat": 9.809248,
+    "lon": 105.820932,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Upgrade 5G",
@@ -206080,8 +206080,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "NgãBảy",
     "enodeb_id": "671724",
-    "lat": 9.8143,
-    "lon": 105.8057,
+    "lat": 9.814272,
+    "lon": 105.805665,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206406,6 +206406,28 @@ const rolloutData = [
   {
     "region": "South",
     "po": "PO1.3",
+    "site_name": "HGPH18",
+    "province": "Can Tho",
+    "district": "PhụngHiệp",
+    "enodeb_id": "671821",
+    "lat": 9.872076,
+    "lon": 105.7711,
+    "vip": "NO",
+    "is_vip": false,
+    "scenario": "Upgrade 5G",
+    "site_type": "Macro",
+    "detailed_type": "-",
+    "status": "Pending",
+    "rat": "5G",
+    "rfi_date": "-",
+    "on_air_date": "-",
+    "bbu_location": "-",
+    "bbu_solution": "Reuse BBU",
+    "timeline": "W17"
+  },
+  {
+    "region": "South",
+    "po": "PO1.3",
     "site_name": "HGPH19",
     "province": "Can Tho",
     "district": "PhụngHiệp",
@@ -206520,8 +206542,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671722",
-    "lat": 9.8091,
-    "lon": 105.647,
+    "lat": 9.800119,
+    "lon": 105.643056,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206784,8 +206806,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671814",
-    "lat": 9.7912,
-    "lon": 105.6075,
+    "lat": 9.791243,
+    "lon": 105.60745,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206806,8 +206828,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "896114",
-    "lat": 9.7047,
-    "lon": 105.7333,
+    "lat": 9.7046,
+    "lon": 105.7332,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206828,8 +206850,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671905",
-    "lat": 9.83189,
-    "lon": 105.67082,
+    "lat": 9.8318,
+    "lon": 105.6706,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206850,8 +206872,8 @@ const rolloutData = [
     "province": "Can Tho",
     "district": "PhụngHiệp",
     "enodeb_id": "671933",
-    "lat": 9.8589,
-    "lon": 105.7603,
+    "lat": 9.858957,
+    "lon": 105.760375,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -206873,7 +206895,7 @@ const rolloutData = [
     "district": "PhụngHiệp",
     "enodeb_id": "671880",
     "lat": 9.8071,
-    "lon": 105.6877,
+    "lon": 105.6875,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -215408,8 +215430,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "RạchGiá",
     "enodeb_id": "680171",
-    "lat": 9.97896,
-    "lon": 105.13115,
+    "lat": 9.954722,
+    "lon": 105.101962,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -215496,8 +215518,8 @@ const rolloutData = [
     "province": "An Giang",
     "district": "RạchGiá",
     "enodeb_id": "684684",
-    "lat": 10.15201,
-    "lon": 105.18435,
+    "lat": 9.978734,
+    "lon": 105.131038,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -217285,9 +217307,9 @@ const rolloutData = [
     "scenario": "New 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "RFI Ready",
     "rat": "5G",
-    "rfi_date": "-",
+    "rfi_date": "2026-04-28 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
     "bbu_solution": "New BBU",
@@ -224582,8 +224604,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Châu Thành",
     "enodeb_id": "705504",
-    "lat": 10.46886,
-    "lon": 106.34549,
+    "lat": 10.468188,
+    "lon": 106.345759,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -224626,8 +224648,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Châu Thành",
     "enodeb_id": "705517",
-    "lat": 10.49594,
-    "lon": 106.35854,
+    "lat": 10.496954,
+    "lon": 106.357755,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -232128,8 +232150,8 @@ const rolloutData = [
     "province": "Dong Thap",
     "district": "Tân Phước",
     "enodeb_id": "705543",
-    "lat": 10.46227,
-    "lon": 106.30339,
+    "lat": 10.46238,
+    "lon": 106.301922,
     "vip": "NO",
     "is_vip": false,
     "scenario": "Swap 4G + New 5G",
@@ -232898,8 +232920,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "CàngLong",
     "enodeb_id": "713606",
-    "lat": 9.9601,
-    "lon": 106.2389,
+    "lat": 9.96005,
+    "lon": 106.23894,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -233162,8 +233184,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "CàngLong",
     "enodeb_id": "713665",
-    "lat": 10.0215,
-    "lon": 106.1741,
+    "lat": 10.02158,
+    "lon": 106.17398,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -235567,9 +235589,9 @@ const rolloutData = [
     "scenario": "Upgrade 5G",
     "site_type": "CRAN-M",
     "detailed_type": "-",
-    "status": "Pending",
+    "status": "RFI Ready",
     "rat": "5G",
-    "rfi_date": "-",
+    "rfi_date": "2026-05-08 00:00:00",
     "on_air_date": "-",
     "bbu_location": "-",
     "bbu_solution": "Reuse BBU",
@@ -237650,8 +237672,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "LongHồ",
     "enodeb_id": "723029",
-    "lat": 10.1807,
-    "lon": 105.9474,
+    "lat": 10.180743,
+    "lon": 105.94744,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -238882,8 +238904,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "LongHồ",
     "enodeb_id": "723188",
-    "lat": 10.0973,
-    "lon": 105.88,
+    "lat": 10.097416,
+    "lon": 105.879979,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -239080,8 +239102,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "TamBình",
     "enodeb_id": "723204",
-    "lat": 10.0475,
-    "lon": 105.9769,
+    "lat": 10.047459,
+    "lon": 105.976903,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -240884,8 +240906,8 @@ const rolloutData = [
     "province": "Vinh Long",
     "district": "VũngLiêm",
     "enodeb_id": "723197",
-    "lat": 10.1152,
-    "lon": 106.1326,
+    "lat": 10.1153,
+    "lon": 106.1325,
     "vip": "NO",
     "is_vip": false,
     "scenario": "New 5G",
@@ -299296,16 +299318,16 @@ const coordLookup = {
     105.11298
   ],
   "614109": [
-    10.9557,
-    105.116
+    10.95571,
+    105.115484
   ],
   "AGAP13": [
-    10.794,
-    105.0676
+    10.794076,
+    105.067725
   ],
   "614328": [
-    10.794,
-    105.0676
+    10.794076,
+    105.067725
   ],
   "AGAP14": [
     10.93328,
@@ -299364,8 +299386,8 @@ const coordLookup = {
     105.1054
   ],
   "AGAPX1": [
-    10.9557,
-    105.116
+    10.95571,
+    105.115484
   ],
   "AGCD04": [
     10.6815,
@@ -299952,24 +299974,24 @@ const coordLookup = {
     105.362527
   ],
   "AGCT10": [
-    10.4027,
-    105.3072
+    10.402627,
+    105.307176
   ],
   "614012": [
-    10.4027,
-    105.3072
+    10.402627,
+    105.307176
   ],
   "AGCT12": [
-    10.4448,
-    105.3885
+    10.444832,
+    105.38847
   ],
   "AGCT14": [
-    10.4897,
-    105.3337
+    10.489582,
+    105.333504
   ],
   "614010": [
-    10.4806,
-    105.3375
+    10.480606,
+    105.337535
   ],
   "AGCT17": [
     10.4983,
@@ -300025,7 +300047,7 @@ const coordLookup = {
   ],
   "AGCT35": [
     10.4466,
-    105.3516
+    105.351562
   ],
   "AGCT36": [
     10.425792,
@@ -300040,8 +300062,8 @@ const coordLookup = {
     105.351483
   ],
   "AGCT47": [
-    10.45848,
-    105.33186
+    10.458525,
+    105.331928
   ],
   "AGCTX0": [
     10.45358,
@@ -300052,8 +300074,8 @@ const coordLookup = {
     105.343533
   ],
   "AGCTX2": [
-    10.4806,
-    105.3375
+    10.480606,
+    105.337535
   ],
   "AGLX01": [
     10.3921,
@@ -300268,8 +300290,8 @@ const coordLookup = {
     105.4414
   ],
   "614083": [
-    10.3748,
-    105.4467
+    10.374693,
+    105.446625
   ],
   "AGLX32": [
     10.2233419,
@@ -300288,12 +300310,12 @@ const coordLookup = {
     105.4306
   ],
   "AGLX34": [
-    10.3975,
-    105.4034
+    10.398013,
+    105.403556
   ],
   "614065": [
-    10.3975,
-    105.4034
+    10.398013,
+    105.403556
   ],
   "AGLX35": [
     10.3951,
@@ -300356,8 +300378,8 @@ const coordLookup = {
     105.4407
   ],
   "AGLX44": [
-    10.3748,
-    105.4467
+    10.374693,
+    105.446625
   ],
   "AGLX45": [
     10.370785,
@@ -300376,32 +300398,32 @@ const coordLookup = {
     105.45124
   ],
   "AGLX52": [
-    10.3377,
-    105.4639
+    10.337789,
+    105.463875
   ],
   "614086": [
-    10.3377,
-    105.4639
+    10.337789,
+    105.463875
   ],
   "AGLX53": [
     10.376403,
     105.441556
   ],
   "AGLX54": [
-    10.327,
-    105.4882
+    10.326946,
+    105.488053
   ],
   "614305": [
-    10.327,
-    105.4882
+    10.326946,
+    105.488053
   ],
   "AGLX56": [
-    10.3161,
-    105.469
+    10.315993,
+    105.468941
   ],
   "614372": [
-    10.3161,
-    105.469
+    10.315993,
+    105.468941
   ],
   "AGLX57": [
     10.374246,
@@ -300604,16 +300626,16 @@ const coordLookup = {
     105.223371
   ],
   "AGTB03": [
-    10.5301,
-    105.0288
+    10.530117,
+    105.028765
   ],
   "614107": [
-    10.5301,
-    105.0288
+    10.530117,
+    105.028765
   ],
   "AGTB04": [
-    10.6021,
-    104.9496
+    10.602151,
+    104.949519
   ],
   "614125": [
     10.5983,
@@ -300632,36 +300654,36 @@ const coordLookup = {
     105.012937
   ],
   "614350": [
-    10.6396,
-    104.9925
+    10.639513,
+    104.992559
   ],
   "AGTB11": [
-    10.6396,
-    104.9925
+    10.639513,
+    104.992559
   ],
   "AGTB13": [
-    10.5007,
-    104.9812
+    10.500721,
+    104.981212
   ],
   "614192": [
-    10.5007,
-    104.9812
+    10.500721,
+    104.981212
   ],
   "AGTB16": [
-    10.5248,
-    105.0306
+    10.524814,
+    105.03067
   ],
   "614370": [
-    10.5248,
-    105.0306
+    10.524814,
+    105.03067
   ],
   "AGTB19": [
-    10.5109,
-    105.0424
+    10.510914,
+    105.042408
   ],
   "614236": [
-    10.5109,
-    105.0424
+    10.510914,
+    105.042408
   ],
   "AGTB21": [
     10.5983,
@@ -300712,12 +300734,12 @@ const coordLookup = {
     105.1688
   ],
   "614166": [
-    10.90559,
-    105.17867
+    10.905548,
+    105.178708
   ],
   "AGTC38": [
-    10.90559,
-    105.17867
+    10.905548,
+    105.178708
   ],
   "AGTS02": [
     10.2604,
@@ -300728,12 +300750,12 @@ const coordLookup = {
     105.2668
   ],
   "AGTS03": [
-    10.3602,
-    105.3768
+    10.360161,
+    105.376827
   ],
   "614016": [
-    10.3602,
-    105.3768
+    10.360161,
+    105.376827
   ],
   "AGTS04": [
     10.255,
@@ -300816,16 +300838,16 @@ const coordLookup = {
     105.2944
   ],
   "AGTS27": [
-    10.2335,
-    105.2432
+    10.2334283,
+    105.2433467
   ],
   "614253": [
-    10.2335,
-    105.2432
+    10.2334283,
+    105.2433467
   ],
   "AGTS28": [
-    10.3063,
-    105.2809
+    10.306409,
+    105.28092
   ],
   "614445": [
     10.2884,
@@ -301208,12 +301230,12 @@ const coordLookup = {
     105.30078
   ],
   "BLDH13": [
-    9.11417,
-    105.49116
+    9.114108,
+    105.491171
   ],
   "625503": [
-    9.11417,
-    105.49116
+    9.114108,
+    105.491171
   ],
   "BLGR02": [
     9.23947,
@@ -301264,12 +301286,12 @@ const coordLookup = {
     105.42616
   ],
   "BLGR19": [
-    9.26917,
-    105.36449
+    9.269059,
+    105.364515
   ],
   "625647": [
-    9.26917,
-    105.36449
+    9.269059,
+    105.364515
   ],
   "BLGR23": [
     9.23865,
@@ -301296,12 +301318,12 @@ const coordLookup = {
     105.427871
   ],
   "BLGR27": [
-    9.23121,
-    105.45912
+    9.231227,
+    105.45913
   ],
   "625713": [
-    9.23121,
-    105.45912
+    9.231227,
+    105.45913
   ],
   "BLGR28": [
     9.24258,
@@ -301528,12 +301550,12 @@ const coordLookup = {
     106.69188
   ],
   "BTBD04": [
-    10.2207,
-    106.5828
+    10.220613,
+    106.582768
   ],
   "635833": [
-    10.2207,
-    106.5828
+    10.220613,
+    106.582768
   ],
   "BTBD05": [
     10.274687,
@@ -301572,12 +301594,12 @@ const coordLookup = {
     106.690056
   ],
   "BTBI01": [
-    10.189258,
-    106.69188
+    10.043496,
+    106.591248
   ],
   "635821": [
-    10.189258,
-    106.69188
+    10.043496,
+    106.591248
   ],
   "BTBI05": [
     10.1304,
@@ -302332,12 +302354,12 @@ const coordLookup = {
     106.37513
   ],
   "BTCT61": [
-    10.2648,
-    106.2375
+    10.265023,
+    106.237514
   ],
   "630179": [
-    10.2648,
-    106.2375
+    10.265023,
+    106.237514
   ],
   "BTCT62": [
     10.321681,
@@ -302368,11 +302390,11 @@ const coordLookup = {
     106.476184
   ],
   "BTGT06": [
-    10.1643,
+    10.164315,
     106.4971
   ],
   "635854": [
-    10.1643,
+    10.164315,
     106.4971
   ],
   "BTGT07": [
@@ -303985,11 +304007,11 @@ const coordLookup = {
   ],
   "CTCR41": [
     9.99772,
-    105.75999
+    105.76001
   ],
   "651402": [
     9.99772,
-    105.75999
+    105.76001
   ],
   "CTCR42": [
     10.00272,
@@ -307128,12 +307150,12 @@ const coordLookup = {
     105.690145
   ],
   "DTLO54": [
-    10.4081,
-    105.6494
+    10.408353,
+    105.649286
   ],
   "DTLO55": [
-    10.3277,
-    105.6282
+    10.32767,
+    105.628042
   ],
   "662206": [
     10.319298,
@@ -308636,8 +308658,8 @@ const coordLookup = {
     105.817335
   ],
   "671724": [
-    9.8143,
-    105.8057
+    9.814272,
+    105.805665
   ],
   "HGNB06": [
     9.7981,
@@ -308672,8 +308694,8 @@ const coordLookup = {
     105.8092
   ],
   "HGNB12": [
-    9.8094,
-    105.8209
+    9.809248,
+    105.820932
   ],
   "HGNB13": [
     9.835916,
@@ -308708,8 +308730,8 @@ const coordLookup = {
     105.795922
   ],
   "HGNB23": [
-    9.8143,
-    105.8057
+    9.814272,
+    105.805665
   ],
   "HGNB24": [
     9.8644,
@@ -308815,6 +308837,14 @@ const coordLookup = {
     9.909404,
     105.752808
   ],
+  "HGPH18": [
+    9.872076,
+    105.7711
+  ],
+  "671821": [
+    9.872076,
+    105.7711
+  ],
   "HGPH19": [
     9.895406,
     105.695447
@@ -308856,12 +308886,12 @@ const coordLookup = {
     105.7898
   ],
   "HGPH25": [
-    9.8091,
-    105.647
+    9.800119,
+    105.643056
   ],
   "671722": [
-    9.8091,
-    105.647
+    9.800119,
+    105.643056
   ],
   "HGPH27": [
     9.862038,
@@ -308904,8 +308934,8 @@ const coordLookup = {
     105.6193
   ],
   "671814": [
-    9.7912,
-    105.6075
+    9.791243,
+    105.60745
   ],
   "HGPH39": [
     9.876138,
@@ -308944,40 +308974,40 @@ const coordLookup = {
     105.637378
   ],
   "HGPH52": [
-    9.7912,
-    105.6075
+    9.791243,
+    105.60745
   ],
   "HGPH53": [
-    9.7047,
-    105.7333
+    9.7046,
+    105.7332
   ],
   "896114": [
-    9.7047,
-    105.7333
+    9.7046,
+    105.7332
   ],
   "HGPH54": [
-    9.83189,
-    105.67082
+    9.8318,
+    105.6706
   ],
   "671905": [
     9.8532,
     105.6665
   ],
   "HGPH58": [
-    9.8589,
-    105.7603
+    9.858957,
+    105.760375
   ],
   "671933": [
-    9.8589,
-    105.7603
+    9.858957,
+    105.760375
   ],
   "HGPH59": [
     9.8071,
-    105.6877
+    105.6875
   ],
   "671880": [
     9.8071,
-    105.6877
+    105.6875
   ],
   "HGPH60": [
     9.8987,
@@ -311632,12 +311662,12 @@ const coordLookup = {
     105.078979
   ],
   "KGRG81": [
-    9.97896,
-    105.13115
+    9.954722,
+    105.101962
   ],
   "680171": [
-    9.97896,
-    105.13115
+    9.954722,
+    105.101962
   ],
   "KGRG82": [
     9.94209,
@@ -311656,8 +311686,8 @@ const coordLookup = {
     105.072261
   ],
   "KGRGX2": [
-    10.15201,
-    105.18435
+    9.978734,
+    105.131038
   ],
   "684684": [
     10.05796,
@@ -314556,12 +314586,12 @@ const coordLookup = {
     106.335978
   ],
   "TGCT62": [
-    10.46886,
-    106.34549
+    10.468188,
+    106.345759
   ],
   "705504": [
-    10.46886,
-    106.34549
+    10.468188,
+    106.345759
   ],
   "TGCT63": [
     10.36391,
@@ -314572,12 +314602,12 @@ const coordLookup = {
     106.20872
   ],
   "TGCT64": [
-    10.49594,
-    106.35854
+    10.496954,
+    106.357755
   ],
   "705517": [
-    10.49594,
-    106.35854
+    10.496954,
+    106.357755
   ],
   "TGCT65": [
     10.478411,
@@ -316816,12 +316846,12 @@ const coordLookup = {
     106.317963
   ],
   "TGTP38": [
-    10.46227,
-    106.30339
+    10.46238,
+    106.301922
   ],
   "705543": [
-    10.46227,
-    106.30339
+    10.46238,
+    106.301922
   ],
   "TGTP39": [
     10.463167,
@@ -317068,12 +317098,12 @@ const coordLookup = {
     106.20889
   ],
   "TVCL03": [
-    9.9601,
-    106.2389
+    9.96005,
+    106.23894
   ],
   "713606": [
-    9.9601,
-    106.2389
+    9.96005,
+    106.23894
   ],
   "TVCL04": [
     9.90988,
@@ -317160,12 +317190,12 @@ const coordLookup = {
     106.29398
   ],
   "TVCL19": [
-    10.0215,
-    106.1741
+    10.02158,
+    106.17398
   ],
   "713665": [
-    10.0215,
-    106.1741
+    10.02158,
+    106.17398
   ],
   "TVCL20": [
     9.98656,
@@ -318696,8 +318726,8 @@ const coordLookup = {
     106.001607
   ],
   "VLLH61": [
-    10.1807,
-    105.9474
+    10.180743,
+    105.94744
   ],
   "VLLH72": [
     10.292703,
@@ -319084,8 +319114,8 @@ const coordLookup = {
     106.011319
   ],
   "723204": [
-    10.0475,
-    105.9769
+    10.047459,
+    105.976903
   ],
   "VLTB16": [
     9.978728,
@@ -319096,12 +319126,12 @@ const coordLookup = {
     105.918415
   ],
   "VLTB17": [
-    10.0973,
-    105.88
+    10.097416,
+    105.879979
   ],
   "723188": [
-    10.0973,
-    105.88
+    10.097416,
+    105.879979
   ],
   "VLTB18": [
     10.077353,
@@ -319152,8 +319182,8 @@ const coordLookup = {
     105.931543
   ],
   "VLTB37": [
-    10.0475,
-    105.9769
+    10.047459,
+    105.976903
   ],
   "VLTB38": [
     10.109113,
@@ -319664,8 +319694,8 @@ const coordLookup = {
     106.115288
   ],
   "723197": [
-    10.1152,
-    106.1326
+    10.1153,
+    106.1325
   ],
   "VLVM20": [
     10.055958,
@@ -319728,8 +319758,8 @@ const coordLookup = {
     106.141955
   ],
   "VLVM08": [
-    10.1152,
-    106.1326
+    10.1153,
+    106.1325
   ],
   "VLVM45": [
     9.97482,
@@ -322924,10 +322954,6 @@ const coordLookup = {
     NaN
   ],
   "NDH_NDH_SO_XAY_DUNG": [
-    NaN,
-    NaN
-  ],
-  "HGPH18": [
     NaN,
     NaN
   ],

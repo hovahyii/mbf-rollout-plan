@@ -373,10 +373,12 @@
 
     <div id="whatsNewModal" class="modal-overlay" onclick="closeWhatsNewModal()">
         <div class="modal-content" onclick="event.stopPropagation()">
-            <div style="font-size: 22px; font-weight: 800; color: var(--mbf-blue); margin-bottom: 20px; font-family: 'Outfit';">What's New in V2.0.0</div>
+            <div style="font-size: 22px; font-weight: 800; color: var(--mbf-blue); margin-bottom: 20px; font-family: 'Outfit';">What's New in V2.1.0</div>
             <ul style="font-size: 13px; font-weight: 500; line-height: 1.6; padding-left: 20px; margin-bottom: 24px; color: var(--text-dim);">
-                <li><strong>Sleek Glassmorphism UI:</strong> Enjoy the modernized dark mode dashboard inspired by Mapcn analytics.</li>
-                <li><strong>Stable Leaflet Engine:</strong> Reverted back to the highly stable Canvas renderer to prevent WebGL compatibility issues.</li>
+                <li><strong>Cluster Mapping:</strong> Filter sites down to specific cluster groups with the new Cluster dropdown.</li>
+                <li><strong>Intelligent Polygons:</strong> Map polygons automatically infer and show their cluster name upon hover.</li>
+                <li><strong>Detailed On-Air Split:</strong> Separate tracking for 4G On-Air and 5G On-Air status right in the Status filter.</li>
+                <li><strong>Animated Loader:</strong> Swapped out the old CSS spinner for a clean animated GIF for a premium loading experience.</li>
             </ul>
             <button onclick="closeWhatsNewModal()" style="width: 100%; padding: 12px; border-radius: 12px; background: var(--mbf-blue); color: white; font-weight: 800; border: none; cursor: pointer;">AWESOME!</button>
         </div>
@@ -433,7 +435,15 @@
         function openModal() { document.getElementById('contributorsModal').style.display = 'flex'; }
         function closeModal() { document.getElementById('contributorsModal').style.display = 'none'; }
         function openWhatsNewModal() { document.getElementById('whatsNewModal').style.display = 'flex'; }
-        function closeWhatsNewModal() { document.getElementById('whatsNewModal').style.display = 'none'; localStorage.setItem('whatsNewSeen_1.1.0', 'true'); }
+        function closeWhatsNewModal() { document.getElementById('whatsNewModal').style.display = 'none'; localStorage.setItem('whatsNewSeen_2.1.0', 'true'); }
+        
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                if (!localStorage.getItem('whatsNewSeen_2.1.0')) {
+                    openWhatsNewModal();
+                }
+            }, 800);
+        });
         
         function toggleDarkMode() {
             document.documentElement.classList.toggle('dark');

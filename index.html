@@ -437,14 +437,6 @@
         function openWhatsNewModal() { document.getElementById('whatsNewModal').style.display = 'flex'; }
         function closeWhatsNewModal() { document.getElementById('whatsNewModal').style.display = 'none'; localStorage.setItem('whatsNewSeen_2.1.0', 'true'); }
         
-        window.addEventListener('load', () => {
-            setTimeout(() => {
-                if (!localStorage.getItem('whatsNewSeen_2.1.0')) {
-                    openWhatsNewModal();
-                }
-            }, 800);
-        });
-        
         function toggleDarkMode() {
             document.documentElement.classList.toggle('dark');
             const isDark = document.documentElement.classList.contains('dark');
@@ -469,7 +461,7 @@
                         loadOfficialPolygons();
                         forceHideLoading();
                         setTimeout(() => {
-                            if (!localStorage.getItem('whatsNewSeen_1.1.0')) {
+                            if (!localStorage.getItem('whatsNewSeen_2.1.0')) {
                                 openWhatsNewModal();
                             }
                         }, 800);

@@ -39,83 +39,103 @@ def get_geojson_from_shp(shp_folder):
         return None
 
 def get_on_air_info(tracker_path, target_sheets=None):
-    on_air_info = {} # site_name -> {'rat': rat_str, 'date': date_str}
+    on_air_info = {}
     try:
         xl = pd.ExcelFile(tracker_path)
         for s in xl.sheet_names:
             if 'Summary' in s: continue
             if target_sheets and s not in target_sheets: continue
             df = pd.read_excel(tracker_path, sheet_name=s, header=None)
-            # Find which row is the header (contains "Site Name")
+            
             header_idx = -1
             for r in range(min(5, len(df))):
                 row_vals = [str(x).strip() for x in df.iloc[r].tolist()]
-                if 'Site Name' in row_vals:
+                if 'Site Name' in row_vals or 'Physical Site Name' in row_vals:
                     header_idx = r
                     break
             
             if header_idx == -1: continue
             
             header = [str(x).strip() for x in df.iloc[header_idx].tolist()]
-            name_col = header.index('Site Name')
             
-            # Additional name columns to index by (e.g. for South region matching)
+            name_col = -1
+            if 'Site Name' in header:
+                name_col = header.index('Site Name')
+            elif 'Physical Site Name' in header:
+                name_col = header.index('Physical Site Name')
+            else:
+                continue
+            
+            # Additional names
             additional_name_cols = []
-            for col_name in ['NEname_Old_4G_NSN', 'NEName_New4G', 'NEName_New5G']:
+            for col_name in ['NEname_Old_4G_NSN', 'NEName_New4G', 'NEName_New5G', 'OMC Site name (Short)', 'OMC Site name']:
                 if col_name in header:
                     additional_name_cols.append(header.index(col_name))
             
-            # Find all 'On-air Day' indices
+            # 4G and 5G detection
             on_air_day_cols = [i for i, x in enumerate(header) if x == 'On-air Day']
-            # Fallback to hardcoded if not found
-            if not on_air_day_cols:
-                on_air_day_cols = [name_col + 5, name_col + 9]
-                
+            
+            # If the sheet name implies 5G only
+            is_5g_only_sheet = '5G' in s.upper() and 'SWAP' not in s.upper()
+            
             for idx, row in df.iloc[header_idx+1:].iterrows():
                 site_name = str(row[name_col]).strip()
-                if not site_name or site_name == 'nan' or site_name == 'None': continue
+                if not site_name or site_name.lower() in ['nan', 'none', '']: continue
                 
-                rats = []
-                latest_date = None
+                date_4g = None
+                date_5g = None
                 
-                # Check 4G (first On-air Day column)
-                try:
-                    c1 = on_air_day_cols[0]
-                    val1 = row[c1]
-                    if not pd.isna(val1) and str(val1).strip() not in ['nan', 'none', '']:
-                        rats.append("4G")
-                        latest_date = val1
-                except: pass
-
-                # Check 5G (second On-air Day column)
-                if len(on_air_day_cols) > 1:
-                    try:
-                        c2 = on_air_day_cols[1]
-                        val2 = row[c2]
-                        if not pd.isna(val2) and str(val2).strip() not in ['nan', 'none', '']:
-                            rats.append("5G")
-                            latest_date = val2
-                    except: pass
+                # Check based on on-air day presence
+                if is_5g_only_sheet:
+                    # Treat first On-air Day column as 5G
+                    if len(on_air_day_cols) > 0:
+                        val = row[on_air_day_cols[0]]
+                        if not pd.isna(val) and str(val).strip().lower() not in ['nan', 'none', '']:
+                            date_5g = val
+                    if len(on_air_day_cols) > 1 and not date_5g:
+                        val = row[on_air_day_cols[1]]
+                        if not pd.isna(val) and str(val).strip().lower() not in ['nan', 'none', '']:
+                            date_5g = val
+                else:
+                    # Treat first as 4G, second as 5G
+                    if len(on_air_day_cols) > 0:
+                        val = row[on_air_day_cols[0]]
+                        if not pd.isna(val) and str(val).strip().lower() not in ['nan', 'none', '']:
+                            date_4g = val
+                    if len(on_air_day_cols) > 1:
+                        val = row[on_air_day_cols[1]]
+                        if not pd.isna(val) and str(val).strip().lower() not in ['nan', 'none', '']:
+                            date_5g = val
+                            
+                # Fallback: check Site Status column
+                site_status_col = header.index('Site Status') if 'Site Status' in header else -1
+                if site_status_col != -1:
+                    status_val = str(row[site_status_col]).strip().lower()
+                    if status_val == 'on air':
+                        if is_5g_only_sheet:
+                            if not date_5g: date_5g = 'On-Air'
+                        else:
+                            if not date_4g: date_4g = 'On-Air'
                 
-                # The old fallback check (name_col + 3 / + 6) is removed because it now conflicts with the 'VIP Site' column in the South sheet, leading to false positives.
-                
-                if rats:
-                    date_str = "-"
-                    if hasattr(latest_date, 'strftime'):
-                        date_str = latest_date.strftime('%Y-%m-%d')
-                    elif latest_date:
-                        date_str = str(latest_date).split(' ')[0]
+                if date_4g or date_5g:
+                    def format_date(d):
+                        if not d: return "-"
+                        if d == 'On-Air': return 'On-Air'
+                        if hasattr(d, 'strftime'): return d.strftime('%Y-%m-%d')
+                        return str(d).split(' ')[0]
+                        
+                    date_4g_str = format_date(date_4g)
+                    date_5g_str = format_date(date_5g)
                         
                     entry = {
-                        'rat': "+".join(rats),
-                        'date': date_str
+                        'on_air_4g': date_4g_str,
+                        'on_air_5g': date_5g_str
                     }
-                    on_air_info[site_name] = entry
+                    on_air_info[site_name.upper()] = entry
                     
-                    # Also index by alternative names
                     for ac in additional_name_cols:
                         try:
-                            ac_name = str(row.iloc[ac]).strip()
+                            ac_name = str(row.iloc[ac]).strip().upper()
                             if ac_name and ac_name.lower() not in ['nan', 'none']:
                                 on_air_info[ac_name] = entry
                         except: pass
@@ -131,8 +151,8 @@ def get_rollout_details(file_path):
         
         # 108: Main Site Name (BBU Location)
         # Removed on_air_cols parsing as on-air status must strictly come from On Air Progress Tracker.xlsx
-        # User requested explicitly using Column V (index 21) for RFI Ready
-        rfi_cols = [21]
+        # User requested explicitly using Column MF (index 343) for RFI Ready
+        rfi_cols = [343]
         
         for idx, row in df.iterrows():
             try:
@@ -186,7 +206,14 @@ def generate_data():
         rollout_file = os.path.join(base_dir, '60086951_56A0US7_20260518214245.xlsm')
     rollout_details = get_rollout_details(rollout_file) if os.path.exists(rollout_file) else {}
 
+    ep_files = glob.glob(os.path.join(base_dir, 'EP_Existing_*.xlsx'))
+    
     on_air_path = os.path.join(base_dir, 'On Air Progress Tracker.xlsx')
+    on_air_sheet_mapping = {
+        'North': ['Ha Noi Progress', 'North 5G Progress'],
+        'Middle': ['Middle Swap Progress', 'Middle 5G Progress'],
+        'South': ['South Swap Progress', 'South 5G New Progress']
+    }
     
     file_pattern = os.path.join(base_dir, 'MBF RAN Project - Phase 1 PO - Master Site List*.xlsx')
     
@@ -199,19 +226,11 @@ def generate_data():
     
     sheets = {'North_Site': 'North', 'Middle_Site': 'Middle', 'South_Site': 'South'}
     
-    # Define which sheets correspond to which region in On Air Tracker
-    on_air_sheet_mapping = {
-        'North': ['Ha Noi Progress', 'North 5G Progress'],
-        'Middle': ['Middle Swap Progress ', 'Middle 5G Progress'],
-        'South': ['South Swap Progress ', 'South 5G  Progress']
-    }
-    
     all_sites = []
     
     for sheet_name, region_name in sheets.items():
         print(f"Processing {sheet_name}...")
         
-        # Get on air data for this specific region
         target_sheets = on_air_sheet_mapping.get(region_name, [])
         on_air_info = get_on_air_info(on_air_path, target_sheets)
         
@@ -255,14 +274,27 @@ def generate_data():
             site_detail = rollout_details.get(site_name_upper, {})
             rfi_date = site_detail.get('rfi_date', "-")
             
-            tracker_info_keys_upper = {k.upper(): v for k, v in on_air_info.items()}
-            is_on_air_in_tracker = site_name_upper in tracker_info_keys_upper
+            is_on_air_in_tracker = site_name_upper in on_air_info
             
             if is_on_air_in_tracker:
-                on_air_date = tracker_info_keys_upper[site_name_upper].get('date', '-')
-                status = "On-Air"
+                ep_entry = on_air_info[site_name_upper]
+                on_air_4g = ep_entry.get('on_air_4g', '-')
+                on_air_5g = ep_entry.get('on_air_5g', '-')
+                
+                if on_air_4g != '-' and on_air_5g != '-':
+                    status = "4G & 5G On-Air"
+                elif on_air_4g != '-':
+                    status = "4G On-Air"
+                elif on_air_5g != '-':
+                    status = "5G On-Air"
+                else:
+                    status = "Pending"
+                    
+                on_air_date = "On-Air"
             else:
                 on_air_date = "-"
+                on_air_4g = "-"
+                on_air_5g = "-"
                 if rfi_date != "-":
                     status = "RFI Ready"
                 else:
@@ -295,17 +327,24 @@ def generate_data():
             if final_region == 'North' and province_val.lower() in ['ha noi', 'hanoi']:
                 final_region = 'Ha Noi'
                 
+            try:
+                cluster_val = clean_val(row.iloc[54])
+            except IndexError:
+                cluster_val = "-"
+                
             site = {
                 'region': final_region, 'po': clean_val(row.get(col_map['po'])),
                 'site_name': site_name_raw,
                 'province': province_val,
                 'district': clean_val(row.get(col_map['district'])),
+                'cluster': cluster_val,
                 'enodeb_id': enodeb_id, 'lat': lat, 'lon': lon,
                 'vip': vip_val, 'is_vip': is_vip, 'scenario': clean_val(row.get(col_map['scenario'])),
                 'site_type': clean_val(row.get(col_map['site_type'])), 
                 'detailed_type': detailed_type,
                 'status': status, 'rat': rat_val,
                 'rfi_date': rfi_date, 'on_air_date': on_air_date,
+                'on_air_4g': on_air_4g, 'on_air_5g': on_air_5g,
                 'bbu_location': bbu_location,
                 'bbu_solution': bbu_solution
             }
@@ -336,6 +375,57 @@ def generate_data():
         if os.path.exists(path):
             polygons[region] = get_geojson_from_shp(path)
             if polygons[region]: print(f"Loaded official polygons for {region}")
+            
+    # Compute missing clusters using ray casting on polygons
+    def point_in_polygon(point, poly):
+        x, y = point
+        n = len(poly)
+        inside = False
+        p1x, p1y = poly[0]
+        for i in range(1, n + 1):
+            p2x, p2y = poly[i % n]
+            if y > min(p1y, p2y):
+                if y <= max(p1y, p2y):
+                    if x <= max(p1x, p2x):
+                        if p1y != p2y:
+                            xints = (y - p1y) * (p2x - p1x) / (p2y - p1y) + p1x
+                        if p1x == p2x or x <= xints:
+                            inside = not inside
+            p1x, p1y = p2x, p2y
+        return inside
+
+    def point_in_feature(point, feature):
+        geom = feature['geometry']
+        geom_type = geom['type']
+        if geom_type == 'Polygon':
+            return point_in_polygon(point, geom['coordinates'][0])
+        elif geom_type == 'MultiPolygon':
+            for poly in geom['coordinates']:
+                if point_in_polygon(point, poly[0]):
+                    return True
+        return False
+        
+    for reg, feature_collection in polygons.items():
+        if not feature_collection: continue
+        for feature in feature_collection['features']:
+            feature['properties']['computed_cluster'] = None
+            cluster_counts = {}
+            sites_in_poly = []
+            
+            for s in all_sites:
+                if s['lat'] and s['lon']:
+                    pt = (s['lon'], s['lat'])
+                    if point_in_feature(pt, feature):
+                        sites_in_poly.append(s)
+                        c = s.get('cluster', '-')
+                        if c != '-':
+                            cluster_counts[c] = cluster_counts.get(c, 0) + 1
+            
+            if cluster_counts:
+                best_cluster = max(cluster_counts.items(), key=lambda x: x[1])[0]
+                feature['properties']['computed_cluster'] = best_cluster
+                for s in sites_in_poly:
+                    s['cluster'] = best_cluster
     
     output_path = os.path.join(base_dir, 'rollout_data.js')
     with open(output_path, 'w', encoding='utf-8') as f:

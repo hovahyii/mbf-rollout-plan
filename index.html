@@ -266,8 +266,8 @@
 </head>
 <body class="dark">
 <div id="loadingOverlay" class="loading-overlay">
-        <div class="loader"></div>
-        <p style="margin-top: 24px; font-weight: 500; color: var(--text-main); font-family: 'Outfit';">Initializing Mapcn Analytics...</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Loading_2.gif" alt="Loading..." style="width: 50px; height: 50px; border-radius: 50%;">
+        <p style="margin-top: 24px; font-weight: 500; color: var(--text-main); font-family: 'Outfit';">Loading data...</p>
         <button onclick="forceHideLoading()" style="margin-top: 20px; font-size: 12px; opacity: 0.5; border: none; background: none; color: var(--text-dim); cursor: pointer;">Click to dismiss</button>
     </div>
 
@@ -303,7 +303,9 @@
                 <label>Status</label>
                 <select id="statusFilter">
                     <option value="All">All Statuses</option>
-                    <option value="On-Air">On-Air</option>
+                    <option value="4G & 5G On-Air">4G & 5G On-Air</option>
+                    <option value="4G On-Air">4G On-Air</option>
+                    <option value="5G On-Air">5G On-Air</option>
                     <option value="RFI Ready">RFI Ready</option>
                     <option value="Pending">Pending</option>
                 </select>
@@ -312,6 +314,7 @@
             <div class="filter-group"><label>Type</label><select id="typeFilter"><option value="All">All Types</option></select></div>
             <div class="filter-group"><label>VIP</label><select id="vipFilter"><option value="All">All VIP</option></select></div>
             <div class="filter-group"><label>RAT</label><select id="ratFilter"><option value="All">All RATs</option><option value="4G">4G</option><option value="5G">5G</option></select></div>
+            <div class="filter-group"><label>Cluster</label><select id="clusterFilter"><option value="All">All Clusters</option></select></div>
         </div>
         
         <label class="switch-container">
@@ -397,7 +400,8 @@
                 <div class="card-item"><div class="card-label">Type</div><div class="card-value" id="cardType">-</div></div>
                 <div class="card-item"><div class="card-label">Timeline</div><div class="card-value" id="cardTimeline">-</div></div>
                 <div class="card-item"><div class="card-label">RAT</div><div class="card-value" id="cardRat">-</div></div>
-                <div class="card-item"><div class="card-label">RFI / On-Air</div><div class="card-value"><span id="cardRfi"></span> &rarr; <span id="cardOnAir"></span></div></div>
+                <div class="card-item"><div class="card-label">Cluster</div><div class="card-value" id="cardCluster">-</div></div>
+                <div class="card-item"><div class="card-label">RFI / 4G / 5G On-Air</div><div class="card-value"><span id="cardRfi"></span> / <span id="cardOnAir4g"></span> / <span id="cardOnAir5g"></span></div></div>
                 <div class="card-item"><div class="card-label">BBU Location</div><div class="card-value" id="cardBbu">-</div></div>
                 <div class="card-item"><div class="card-label">VIP Status</div><div id="cardVip">-</div></div>
             </div>
@@ -450,6 +454,7 @@
                         populateWeekFilter();
                         populateTypeFilter();
                         populateVipFilter();
+                        populateClusterFilter();
                         updateMap();
                         loadOfficialPolygons();
                         forceHideLoading();
@@ -468,6 +473,7 @@
             document.getElementById('typeFilter').addEventListener('change', updateMap);
             document.getElementById('vipFilter').addEventListener('change', updateMap);
             document.getElementById('ratFilter').addEventListener('change', updateMap);
+            document.getElementById('clusterFilter').addEventListener('change', updateMap);
             document.getElementById('showCranLinks').addEventListener('change', updateMap);
             map && map.on('click', () => { 
                 if(!isMeasuring) {
@@ -482,7 +488,14 @@
                 const styles = { "North": "#0054A6", "Middle": "#FFD100", "South": "#ED1C24" };
                 for (const reg in polygonData) {
                     if (polygonData[reg]) {
-                        L.geoJSON(polygonData[reg], { style: { color: styles[reg] || '#4f46e5', weight: 1.5, fillOpacity: 0.08, dashArray: '5, 5' } }).addTo(map);
+                        L.geoJSON(polygonData[reg], { 
+                            style: { color: styles[reg] || '#4f46e5', weight: 1.5, fillOpacity: 0.08, dashArray: '5, 5' },
+                            onEachFeature: function(feature, layer) {
+                                if (feature.properties && feature.properties.computed_cluster) {
+                                    layer.bindTooltip(feature.properties.computed_cluster, {sticky: true, className: 'measure-tooltip'});
+                                }
+                            }
+                        }).addTo(map);
                     }
                 }
             }
@@ -521,6 +534,17 @@
             });
         }
 
+        function populateClusterFilter() {
+            const clusterSelect = document.getElementById('clusterFilter');
+            const clusters = [...new Set(allData.map(s => s.cluster))].filter(c => c && c !== '-').sort();
+            clusters.forEach(c => {
+                const opt = document.createElement('option');
+                opt.value = c;
+                opt.textContent = c;
+                clusterSelect.appendChild(opt);
+            });
+        }
+
         function updateMap() {
             try {
                 if (markers) map.removeLayer(markers);
@@ -532,6 +556,7 @@
                 const type = document.getElementById('typeFilter').value;
                 const vip = document.getElementById('vipFilter').value;
                 const rat = document.getElementById('ratFilter').value;
+                const cluster = document.getElementById('clusterFilter').value;
                 const showCran = document.getElementById('showCranLinks').checked;
 
                 let filtered = allData.filter(s => {
@@ -541,7 +566,8 @@
                     const typeMatch = type === 'All' || s.site_type === type;
                     const vipMatch = vip === 'All' || s.vip === vip;
                     const ratMatch = rat === 'All' || (s.rat && s.rat.includes(rat));
-                    return regionMatch && statusMatch && weekMatch && typeMatch && vipMatch && ratMatch;
+                    const clusterMatch = cluster === 'All' || s.cluster === cluster;
+                    return regionMatch && statusMatch && weekMatch && typeMatch && vipMatch && ratMatch && clusterMatch;
                 });
 
                 markers = L.markerClusterGroup({
@@ -557,7 +583,7 @@
 
                 filtered.forEach(s => {
                     const regionColor = s.region === 'North' ? '#0054A6' : (s.region === 'Ha Noi' ? '#8b5cf6' : (s.region === 'Middle' ? '#FFD100' : '#ED1C24'));
-                    const statusColor = s.status === 'On-Air' ? '#10b981' : (s.status === 'RFI Ready' ? '#3b82f6' : '#94a3b8');
+                    const statusColor = s.status.includes('On-Air') ? '#10b981' : (s.status === 'RFI Ready' ? '#3b82f6' : '#94a3b8');
                     
                     const marker = L.circleMarker([s.lat, s.lon], {
                         radius: s.is_vip ? 9 : 6, fillColor: statusColor, color: s.is_vip ? '#FFD100' : regionColor,
@@ -600,7 +626,7 @@
                 
                 map.addLayer(markers);
                 document.getElementById('totalSites').textContent = filtered.length;
-                document.getElementById('readySites').textContent = filtered.filter(s => s.status === 'On-Air').length;
+                document.getElementById('readySites').textContent = filtered.filter(s => s.status.includes('On-Air')).length;
             } catch (e) { console.error(e); }
         }
 
@@ -701,15 +727,17 @@
             document.getElementById('siteSubtitle').textContent = `eNodeB ID: ${clean(s.enodeb_id)}`;
             document.getElementById('cardPo').textContent = `${clean(s.po)} (${clean(s.region)})`;
             document.getElementById('cardStatusBadge').textContent = clean(s.status);
-            document.getElementById('cardStatusBadge').style.color = s.status === 'On-Air' ? '#10b981' : (s.status === 'RFI Ready' ? '#3b82f6' : '#94a3b8');
+            document.getElementById('cardStatusBadge').style.color = s.status.includes('On-Air') ? '#10b981' : (s.status === 'RFI Ready' ? '#3b82f6' : '#94a3b8');
             document.getElementById('cardLoc').textContent = `${clean(s.province)}, ${clean(s.district)}`;
             document.getElementById('cardCoords').textContent = `${parseFloat(s.lat).toFixed(5)}, ${parseFloat(s.lon).toFixed(5)}`;
             document.getElementById('cardScenario').textContent = clean(s.scenario);
             document.getElementById('cardType').textContent = clean(s.site_type);
             document.getElementById('cardTimeline').textContent = clean(s.timeline);
             document.getElementById('cardRat').textContent = clean(s.rat);
+            document.getElementById('cardCluster').textContent = clean(s.cluster);
             document.getElementById('cardRfi').textContent = clean(s.rfi_date);
-            document.getElementById('cardOnAir').textContent = clean(s.on_air_date);
+            document.getElementById('cardOnAir4g').textContent = clean(s.on_air_4g);
+            document.getElementById('cardOnAir5g').textContent = clean(s.on_air_5g);
             document.getElementById('cardBbu').textContent = clean(s.bbu_location);
             document.getElementById('cardVip').innerHTML = s.is_vip ? `<span class="vip-badge">${s.vip}</span>` : `<span style="font-size:12px; color:var(--text-dim)">NO</span>`;
             document.getElementById('infoCard').classList.add('active');

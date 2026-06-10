@@ -225,7 +225,34 @@
             transition: all 0.2s; 
         }
         .overlay-btn:hover { background: var(--bg-card); border-color: var(--border-focus); transform: scale(1.05);}
-        .overlay-btn.active { background: var(--text-main); color: var(--bg-body); }
+        
+          .overlay-btn::after {
+              content: attr(data-tooltip);
+              position: absolute;
+              right: 120%;
+              top: 50%;
+              transform: translateY(-50%);
+              background: var(--bg-card);
+              color: var(--text-main);
+              padding: 6px 12px;
+              border-radius: 6px;
+              font-size: 12px;
+              font-weight: 600;
+              white-space: nowrap;
+              opacity: 0;
+              visibility: hidden;
+              transition: opacity 0.2s, right 0.2s;
+              border: 1px solid var(--border-glass);
+              box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+              pointer-events: none;
+              z-index: 1001;
+          }
+          .overlay-btn:hover::after {
+              opacity: 1;
+              visibility: visible;
+              right: 115%;
+          }
+          .overlay-btn.active { background: var(--text-main); color: var(--bg-body); }
 
         .loading-overlay { position: fixed; inset: 0; background: var(--bg-body); z-index: 9999; display: flex; flex-direction: column; align-items: center; justify-content: center; }
         .loader { width: 40px; height: 40px; border: 3px solid var(--border-glass); border-top: 3px solid var(--mbf-blue); border-radius: 50%; animation: spin 1s linear infinite; }
@@ -413,15 +440,18 @@
         </div>
 
         <div class="map-overlay">
-            <div id="themeBtn" class="overlay-btn" title="Toggle Theme" onclick="L.DomEvent.stopPropagation(event); toggleDarkMode()">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
-            </div>
-            <div id="measureBtn" class="overlay-btn" title="Measure Distance" onclick="L.DomEvent.stopPropagation(event); toggleMeasureTool()">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"></path><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path></svg>
-            </div>
-            <div class="overlay-btn" title="Reset View" onclick="L.DomEvent.stopPropagation(event); resetMap()">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="3"></circle></svg>
-            </div>
+            <div id="themeBtn" class="overlay-btn" data-tooltip="Toggle Theme" onclick="L.DomEvent.stopPropagation(event); toggleDarkMode()">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+              </div>
+            <div id="measureBtn" class="overlay-btn" data-tooltip="Measure Distance" onclick="L.DomEvent.stopPropagation(event); toggleMeasureTool()">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"></path><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path></svg>
+              </div>
+              <div id="azimuthBtn" class="overlay-btn" data-tooltip="Measure Azimuth" onclick="L.DomEvent.stopPropagation(event); toggleAzimuthTool()">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon></svg>
+              </div>
+            <div class="overlay-btn" data-tooltip="Reset View" onclick="L.DomEvent.stopPropagation(event); resetMap()">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="3"></circle></svg>
+              </div>
         </div>
     </div>
 
@@ -436,7 +466,7 @@
     <script>
         let map, markers, allData = [], polygonLayers = [];
           let sectorsLayer = null;
-        let isMeasuring = false, currentPoints = [], currentLinePreview = null, currentTooltipPreview = null, completedMeasurements = [];
+        let isMeasuring = false, isAzimuthing = false, currentPoints = [], currentLinePreview = null, currentTooltipPreview = null, completedMeasurements = [];
 
         function forceHideLoading() { document.getElementById('loadingOverlay').style.display = 'none'; }
         function openModal() { document.getElementById('contributorsModal').style.display = 'flex'; }
@@ -766,12 +796,94 @@
             document.getElementById('infoCard').classList.add('active');
         }
 
-        function toggleMeasureTool() { isMeasuring = !isMeasuring; const btn = document.getElementById('measureBtn'); if (isMeasuring) { btn.classList.add('active'); document.getElementById('map').classList.add('crosshair-cursor'); map.on('click', onMeasureClick); map.on('contextmenu', clearAllMeasurements); } else { clearAllMeasurements(); } }
-        function clearAllMeasurements() { isMeasuring = false; document.getElementById('measureBtn').classList.remove('active'); document.getElementById('map').classList.remove('crosshair-cursor'); if (currentLinePreview) map.removeLayer(currentLinePreview); if (currentTooltipPreview) map.removeLayer(currentTooltipPreview); completedMeasurements.forEach(group => group.forEach(layer => map.removeLayer(layer))); currentPoints = []; completedMeasurements = []; map.off('click', onMeasureClick); map.off('mousemove', onMeasureMove); map.off('contextmenu', clearAllMeasurements); }
-        function onMeasureClick(e) { const latlng = e.latlng || e; if (currentPoints.length === 0) { currentPoints.push(latlng); const dot = L.circleMarker(latlng, { radius: 4, color: '#000', fillColor: '#fff', fillOpacity: 1 }).addTo(map); currentPoints._tempDot = dot; map.on('mousemove', onMeasureMove); } else if (currentPoints.length === 1) { finishLine(currentPoints[0], latlng, currentPoints._tempDot); currentPoints = []; if (currentLinePreview) map.removeLayer(currentLinePreview); if (currentTooltipPreview) map.removeLayer(currentTooltipPreview); map.off('mousemove', onMeasureMove); } }
-        function onMeasureMove(e) { if (currentPoints.length !== 1) return; const start = currentPoints[0], current = e.latlng; if (currentLinePreview) map.removeLayer(currentLinePreview); currentLinePreview = L.polyline([start, current], { color: '#0054A6', weight: 1.5, dashArray: '5, 10' }).addTo(map); const dist = start.distanceTo(current); const distText = dist > 1000 ? (dist/1000).toFixed(2) + ' km' : Math.round(dist) + ' m'; if (currentTooltipPreview) map.removeLayer(currentTooltipPreview); currentTooltipPreview = L.tooltip({ permanent: true, className: 'measure-tooltip' }).setLatLng(current).setContent(distText).addTo(map); }
-        function finishLine(start, end, startDot) { const layers = [startDot]; const endDot = L.circleMarker(end, { radius: 4, color: '#000', fillColor: '#fff', fillOpacity: 1 }).addTo(map); const line = L.polyline([start, end], { weight: 3, color: '#0054A6' }).addTo(map); const dist = start.distanceTo(end), distText = dist > 1000 ? (dist/1000).toFixed(2) + ' km' : Math.round(dist) + ' m'; const label = L.tooltip({ permanent: true, className: 'measure-tooltip' }).setLatLng(L.latLngBounds([start, end]).getCenter()).setContent(distText).addTo(map); layers.push(endDot, line, label); completedMeasurements.push(layers); }
-        
+        function toggleMeasureTool() { 
+            if (isAzimuthing) toggleAzimuthTool();
+            isMeasuring = !isMeasuring; 
+            const btn = document.getElementById('measureBtn'); 
+            if (isMeasuring) { 
+                btn.classList.add('active'); 
+                document.getElementById('map').classList.add('crosshair-cursor'); 
+                map.on('click', onMeasureClick); 
+                map.on('contextmenu', clearAllMeasurements); 
+            } else { clearAllMeasurements(); } 
+        }
+        function toggleAzimuthTool() { 
+            if (isMeasuring) toggleMeasureTool();
+            isAzimuthing = !isAzimuthing; 
+            const btn = document.getElementById('azimuthBtn'); 
+            if (isAzimuthing) { 
+                btn.classList.add('active'); 
+                document.getElementById('map').classList.add('crosshair-cursor'); 
+                map.on('click', onMeasureClick); 
+                map.on('contextmenu', clearAllMeasurements); 
+            } else { clearAllMeasurements(); } 
+        }
+        function clearAllMeasurements() { 
+            isMeasuring = false; 
+            isAzimuthing = false;
+            document.getElementById('measureBtn').classList.remove('active'); 
+            const azBtn = document.getElementById('azimuthBtn');
+            if(azBtn) azBtn.classList.remove('active'); 
+            document.getElementById('map').classList.remove('crosshair-cursor'); 
+            if (currentLinePreview) map.removeLayer(currentLinePreview); 
+            if (currentTooltipPreview) map.removeLayer(currentTooltipPreview); 
+            completedMeasurements.forEach(group => group.forEach(layer => map.removeLayer(layer))); 
+            currentPoints = []; 
+            completedMeasurements = []; 
+            map.off('click', onMeasureClick); 
+            map.off('mousemove', onMeasureMove); 
+            map.off('contextmenu', clearAllMeasurements); 
+        }
+        function onMeasureClick(e) { 
+            const latlng = e.latlng || e; 
+            if (currentPoints.length === 0) { 
+                currentPoints.push(latlng); 
+                const dot = L.circleMarker(latlng, { radius: 4, color: '#000', fillColor: '#fff', fillOpacity: 1 }).addTo(map); 
+                currentPoints._tempDot = dot; 
+                map.on('mousemove', onMeasureMove); 
+            } else if (currentPoints.length === 1) { 
+                finishLine(currentPoints[0], latlng, currentPoints._tempDot); 
+                currentPoints = []; 
+                if (currentLinePreview) map.removeLayer(currentLinePreview); 
+                if (currentTooltipPreview) map.removeLayer(currentTooltipPreview); 
+                map.off('mousemove', onMeasureMove); 
+            } 
+        }
+        function onMeasureMove(e) { 
+            if (currentPoints.length !== 1) return; 
+            const start = currentPoints[0], current = e.latlng; 
+            if (currentLinePreview) map.removeLayer(currentLinePreview); 
+            currentLinePreview = L.polyline([start, current], { color: isAzimuthing ? '#e11d48' : '#0054A6', weight: 1.5, dashArray: '5, 10' }).addTo(map); 
+            let content = '';
+            if (isMeasuring) {
+                const dist = start.distanceTo(current); 
+                content = dist > 1000 ? (dist/1000).toFixed(2) + ' km' : Math.round(dist) + ' m'; 
+            } else if (isAzimuthing) {
+                let bearing = turf.bearing(turf.point([start.lng, start.lat]), turf.point([current.lng, current.lat]));
+                if (bearing < 0) bearing += 360;
+                content = 'Az: ' + Math.round(bearing) + '&deg;';
+            }
+            if (currentTooltipPreview) map.removeLayer(currentTooltipPreview); 
+            currentTooltipPreview = L.tooltip({ permanent: true, className: 'measure-tooltip' }).setLatLng(current).setContent(content).addTo(map); 
+        }
+        function finishLine(start, end, startDot) { 
+            const layers = [startDot]; 
+            const endDot = L.circleMarker(end, { radius: 4, color: '#000', fillColor: '#fff', fillOpacity: 1 }).addTo(map); 
+            const line = L.polyline([start, end], { weight: 3, color: isAzimuthing ? '#e11d48' : '#0054A6' }).addTo(map); 
+            let content = '';
+            if (isMeasuring) {
+                const dist = start.distanceTo(end); 
+                content = dist > 1000 ? (dist/1000).toFixed(2) + ' km' : Math.round(dist) + ' m'; 
+            } else if (isAzimuthing) {
+                let bearing = turf.bearing(turf.point([start.lng, start.lat]), turf.point([end.lng, end.lat]));
+                if (bearing < 0) bearing += 360;
+                content = 'Az: ' + Math.round(bearing) + '&deg;';
+            }
+            const label = L.tooltip({ permanent: true, className: 'measure-tooltip' }).setLatLng(L.latLngBounds([start, end]).getCenter()).setContent(content).addTo(map); 
+            layers.push(endDot, line, label); 
+            completedMeasurements.push(layers); 
+        }
+          
         function handleSearch() {
             const val = document.getElementById('searchInput').value.toUpperCase();
             const site = allData.find(s => s.site_name.toUpperCase().includes(val) || (s.enodeb_id && s.enodeb_id.includes(val)));

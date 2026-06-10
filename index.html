@@ -262,7 +262,8 @@
         /* Modals (copied from old_index.html) */
         .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.4); backdrop-filter: blur(8px); display: none; align-items: center; justify-content: center; z-index: 10000; }
         .modal-content { background: var(--bg-panel); color: var(--text-main); width: 400px; padding: 32px; border-radius: 24px; box-shadow: 0 20px 50px rgba(0,0,0,0.2); position: relative; border: 1px solid var(--border-glass); }
-    </style>
+    .azimuth-tooltip { font-size: 11px; font-weight: bold; background: rgba(0,0,0,0.7); color: white; border: none; border-radius: 4px; padding: 2px 6px; }
+      </style>
 </head>
 <body class="dark">
 <div id="loadingOverlay" class="loading-overlay">
@@ -323,11 +324,7 @@
             <span style="font-size: 13px; font-weight: 500; color: var(--text-main);">Visualize CRAN Links</span>
         </label>
 
-        <label class="switch-container" style="margin-top: 10px;">
-            <input type="checkbox" id="showSectors" onchange="toggleSectors()">
-            <div class="switch"></div>
-            <span style="font-size: 13px; font-weight: 500; color: var(--text-main);">Visualize Sectors</span>
-        </label>
+        
 
         <div class="legend">
             <div class="legend-item"><span class="dot" style="background:#0054A6"></span> North</div>
@@ -379,7 +376,7 @@
 
     <div id="whatsNewModal" class="modal-overlay" onclick="closeWhatsNewModal()">
         <div class="modal-content" onclick="event.stopPropagation()">
-            <div style="font-size: 22px; font-weight: 800; color: var(--mbf-blue); margin-bottom: 20px; font-family: 'Outfit';">What's New in V2.1.0</div>
+            <div style="font-size: 22px; font-weight: 800; color: var(--mbf-blue); margin-bottom: 20px; font-family: 'Outfit';">What's New in V2.2.0</div>
             <ul style="font-size: 13px; font-weight: 500; line-height: 1.6; padding-left: 20px; margin-bottom: 24px; color: var(--text-dim);">
                 <li><strong>Cluster Mapping:</strong> Filter sites down to specific cluster groups with the new Cluster dropdown.</li>
                 <li><strong>Intelligent Polygons:</strong> Map polygons automatically infer and show their cluster name upon hover.</li>
@@ -438,13 +435,14 @@
 
     <script>
         let map, markers, allData = [], polygonLayers = [];
+          let sectorsLayer = null;
         let isMeasuring = false, currentPoints = [], currentLinePreview = null, currentTooltipPreview = null, completedMeasurements = [];
 
         function forceHideLoading() { document.getElementById('loadingOverlay').style.display = 'none'; }
         function openModal() { document.getElementById('contributorsModal').style.display = 'flex'; }
         function closeModal() { document.getElementById('contributorsModal').style.display = 'none'; }
         function openWhatsNewModal() { document.getElementById('whatsNewModal').style.display = 'flex'; }
-        function closeWhatsNewModal() { document.getElementById('whatsNewModal').style.display = 'none'; localStorage.setItem('whatsNewSeen_2.1.0', 'true'); }
+        function closeWhatsNewModal() { document.getElementById('whatsNewModal').style.display = 'none'; localStorage.setItem('whatsNewSeen_2.2.0', 'true'); }
         
         function toggleDarkMode() {
             document.documentElement.classList.toggle('dark');
@@ -470,7 +468,7 @@
                         loadOfficialPolygons();
                         forceHideLoading();
                         setTimeout(() => {
-                            if (!localStorage.getItem('whatsNewSeen_2.1.0')) {
+                            if (!localStorage.getItem('whatsNewSeen_2.2.0')) {
                                 openWhatsNewModal();
                             }
                         }, 800);
@@ -560,6 +558,9 @@
             try {
                 if (markers) map.removeLayer(markers);
                 if (window.cranLinksLayer) map.removeLayer(window.cranLinksLayer);
+                if (sectorsLayer) map.removeLayer(sectorsLayer);
+                window.cranLinksLayer = L.layerGroup().addTo(map);
+                sectorsLayer = L.layerGroup().addTo(map);
                 
                 const region = document.getElementById('regionFilter').value;
                 const status = document.getElementById('statusFilter').value;
@@ -628,7 +629,7 @@
                         }
                     });
                     
-                    if (document.getElementById('showSectors').checked && s.sectors) {
+                    if (s.sectors) {
                         s.sectors.forEach(sec => {
                             L.semiCircleMarker([s.lat, s.lon], {
                                 radius: s.is_vip ? 25 : 20,
@@ -638,7 +639,7 @@
                                 fillOpacity: 0.6,
                                 startAngle: sec.azimuth - 30,
                                 stopAngle: sec.azimuth + 30
-                            }).addTo(sectorsLayer);
+                            }).bindTooltip(sec.tech + ' Azimuth: ' + sec.azimuth + '&deg;', {className: 'azimuth-tooltip', direction: 'top'}).addTo(sectorsLayer);
                         });
                     }
 

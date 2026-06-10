@@ -41,43 +41,50 @@ def get_geojson_from_shp(shp_folder):
 def get_on_air_info(tracker_path, target_sheets=None):
     on_air_info = {}
     try:
+        import pandas as pd
         xl = pd.ExcelFile(tracker_path)
         for s in xl.sheet_names:
             if 'Summary' in s: continue
-            if target_sheets and s not in target_sheets: continue
+            
+            matched = False
+            if target_sheets:
+                for ts in target_sheets:
+                    if ts.strip().lower() == s.strip().lower():
+                        matched = True
+                        break
+            if target_sheets and not matched: continue
+            
             df = pd.read_excel(tracker_path, sheet_name=s, header=None)
             
             header_idx = -1
             for r in range(min(5, len(df))):
                 row_vals = [str(x).strip() for x in df.iloc[r].tolist()]
-                if 'Site Name' in row_vals or 'Physical Site Name' in row_vals:
+                if 'Physical Site Name' in row_vals or 'Site Name' in row_vals:
                     header_idx = r
                     break
             
             if header_idx == -1: continue
             
             header = [str(x).strip() for x in df.iloc[header_idx].tolist()]
+            name_col = header.index('Physical Site Name') if 'Physical Site Name' in header else header.index('Site Name')
             
-            name_col = -1
-            if 'Site Name' in header:
-                name_col = header.index('Site Name')
-            elif 'Physical Site Name' in header:
-                name_col = header.index('Physical Site Name')
-            else:
-                continue
-            
-            # Additional names
-            additional_name_cols = []
-            for col_name in ['NEname_Old_4G_NSN', 'NEName_New4G', 'NEName_New5G', 'OMC Site name (Short)', 'OMC Site name']:
-                if col_name in header:
-                    additional_name_cols.append(header.index(col_name))
-            
-            # 4G and 5G detection
             on_air_day_cols = [i for i, x in enumerate(header) if x == 'On-air Day']
+            site_status_col = header.index('Site Status') if 'Site Status' in header else -1
             
-            # If the sheet name implies 5G only
-            is_5g_only_sheet = '5G' in s.upper() and 'SWAP' not in s.upper()
+            is_swap_sheet = 'swap' in s.lower()
+            is_5g_only_sheet = '5g' in s.lower() and not is_swap_sheet
             
+            def is_past_date(val):
+                if not pd.notna(val) or str(val).strip().lower() in ['nan', 'none', '']:
+                    return False
+                try:
+                    d = pd.to_datetime(val)
+                    return d <= pd.Timestamp.now()
+                except:
+                    val_str = str(val).strip().lower()
+                    if 'on air' in val_str or 'ok' in val_str: return True
+                    return False
+
             for idx, row in df.iloc[header_idx+1:].iterrows():
                 site_name = str(row[name_col]).strip()
                 if not site_name or site_name.lower() in ['nan', 'none', '']: continue
@@ -85,37 +92,24 @@ def get_on_air_info(tracker_path, target_sheets=None):
                 date_4g = None
                 date_5g = None
                 
-                # Check based on on-air day presence
-                if is_5g_only_sheet:
-                    # Treat first On-air Day column as 5G
+                if is_swap_sheet:
                     if len(on_air_day_cols) > 0:
                         val = row[on_air_day_cols[0]]
-                        if not pd.isna(val) and str(val).strip().lower() not in ['nan', 'none', '']:
-                            date_5g = val
-                    if len(on_air_day_cols) > 1 and not date_5g:
-                        val = row[on_air_day_cols[1]]
-                        if not pd.isna(val) and str(val).strip().lower() not in ['nan', 'none', '']:
-                            date_5g = val
-                else:
-                    # Treat first as 4G, second as 5G
-                    if len(on_air_day_cols) > 0:
-                        val = row[on_air_day_cols[0]]
-                        if not pd.isna(val) and str(val).strip().lower() not in ['nan', 'none', '']:
-                            date_4g = val
+                        if is_past_date(val): date_4g = val
                     if len(on_air_day_cols) > 1:
                         val = row[on_air_day_cols[1]]
-                        if not pd.isna(val) and str(val).strip().lower() not in ['nan', 'none', '']:
+                        if is_past_date(val): date_5g = val
+                else:
+                    for c_idx in reversed(on_air_day_cols):
+                        val = row[c_idx]
+                        if is_past_date(val):
                             date_5g = val
-                            
-                # Fallback: check Site Status column
-                site_status_col = header.index('Site Status') if 'Site Status' in header else -1
-                if site_status_col != -1:
-                    status_val = str(row[site_status_col]).strip().lower()
-                    if status_val == 'on air':
-                        if is_5g_only_sheet:
-                            if not date_5g: date_5g = 'On-Air'
-                        else:
-                            if not date_4g: date_4g = 'On-Air'
+                            break
+                
+                if site_status_col != -1 and str(row[site_status_col]).strip().lower() in ['on air', 'ok']:
+                    if not date_4g and not date_5g:
+                        if is_5g_only_sheet: date_5g = 'On-Air'
+                        else: date_4g = 'On-Air'
                 
                 if date_4g or date_5g:
                     def format_date(d):
@@ -127,18 +121,10 @@ def get_on_air_info(tracker_path, target_sheets=None):
                     date_4g_str = format_date(date_4g)
                     date_5g_str = format_date(date_5g)
                         
-                    entry = {
+                    on_air_info[site_name.upper()] = {
                         'on_air_4g': date_4g_str,
                         'on_air_5g': date_5g_str
                     }
-                    on_air_info[site_name.upper()] = entry
-                    
-                    for ac in additional_name_cols:
-                        try:
-                            ac_name = str(row.iloc[ac]).strip().upper()
-                            if ac_name and ac_name.lower() not in ['nan', 'none']:
-                                on_air_info[ac_name] = entry
-                        except: pass
     except Exception as e:
         print(f"Error reading {tracker_path}: {e}")
     return on_air_info
@@ -194,6 +180,34 @@ def get_rollout_details(file_path):
         print(f"Error reading rollout details: {e}")
     return details
 
+def get_sector_info(ep_path):
+    print(f"Loading sector info from {ep_path}...")
+    sectors_map = {}
+    try:
+        df_lte = pd.read_excel(ep_path, sheet_name='LTE')
+        for idx, row in df_lte.iterrows():
+            site = str(row.get('SiteName-phy', '')).strip().upper()
+            if not site or site == 'NAN': continue
+            az = row.get('Azimuth')
+            if pd.notna(az):
+                if site not in sectors_map: sectors_map[site] = []
+                try: sectors_map[site].append({'tech': '4G', 'azimuth': float(az)})
+                except: pass
+        
+        df_nr = pd.read_excel(ep_path, sheet_name='NR')
+        for idx, row in df_nr.iterrows():
+            site = str(row.get('SiteName-phy', '')).strip().upper()
+            if not site or site == 'NAN': continue
+            az = row.get('Azimuth')
+            if pd.notna(az):
+                if site not in sectors_map: sectors_map[site] = []
+                try: sectors_map[site].append({'tech': '5G', 'azimuth': float(az)})
+                except: pass
+        print(f"Loaded sector info for {len(sectors_map)} sites.")
+    except Exception as e:
+        print(f"Error reading sector info: {e}")
+    return sectors_map
+
 def generate_data():
     base_dir = r'E:\MBF Rollout Dashboard'
     
@@ -207,6 +221,10 @@ def generate_data():
     rollout_details = get_rollout_details(rollout_file) if os.path.exists(rollout_file) else {}
 
     ep_files = glob.glob(os.path.join(base_dir, 'EP_Existing_*.xlsx'))
+    sector_info = {}
+    if ep_files:
+        latest_ep = sorted(ep_files)[-1]
+        sector_info = get_sector_info(latest_ep)
     
     on_air_path = os.path.join(base_dir, 'On Air Progress Tracker.xlsx')
     on_air_sheet_mapping = {
@@ -272,7 +290,12 @@ def generate_data():
             
             # Enrich with rollout details
             site_detail = rollout_details.get(site_name_upper, {})
-            rfi_date = site_detail.get('rfi_date', "-")
+            rfi_date = site_detail.get('rfi_date', '-')
+            
+            site_sectors = sector_info.get(site_name_upper, [])
+            site_id = clean_val(row.get(col_map['enodeb_id']))
+            if not site_sectors and site_id != '-':
+                site_sectors = sector_info.get(site_id.upper(), [])
             
             is_on_air_in_tracker = site_name_upper in on_air_info
             
@@ -346,7 +369,8 @@ def generate_data():
                 'rfi_date': rfi_date, 'on_air_date': on_air_date,
                 'on_air_4g': on_air_4g, 'on_air_5g': on_air_5g,
                 'bbu_location': bbu_location,
-                'bbu_solution': bbu_solution
+                'bbu_solution': bbu_solution,
+                'sectors': site_sectors
             }
             site['timeline'] = clean_val(row.get(col_map[f"timeline_{'north' if region_name=='North' else 'other'}"]))
             all_sites.append(site)

@@ -323,6 +323,12 @@
             <span style="font-size: 13px; font-weight: 500; color: var(--text-main);">Visualize CRAN Links</span>
         </label>
 
+        <label class="switch-container" style="margin-top: 10px;">
+            <input type="checkbox" id="showSectors" onchange="toggleSectors()">
+            <div class="switch"></div>
+            <span style="font-size: 13px; font-weight: 500; color: var(--text-main);">Visualize Sectors</span>
+        </label>
+
         <div class="legend">
             <div class="legend-item"><span class="dot" style="background:#0054A6"></span> North</div>
             <div class="legend-item"><span class="dot" style="background:#10b981"></span> On-Air</div>
@@ -422,8 +428,11 @@
         </div>
     </div>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <!-- Leaflet CSS & JS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-semicircle@2.0.4/Semicircle.min.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
     <script src="rollout_data.js"></script>
 
@@ -576,12 +585,9 @@
                     chunkedLoading: true,
                     maxClusterRadius: 40,
                     spiderfyOnMaxZoom: true,
-                    disableClusteringAtZoom: 14 // Uncluster most at high zoom, leaving only exact overlaps to spiderfy
+                    disableClusteringAtZoom: 14
                 });
                 siteMarkers = {};
-                
-                if (window.cranLinksLayer) map.removeLayer(window.cranLinksLayer);
-                window.cranLinksLayer = L.layerGroup().addTo(map);
 
                 filtered.forEach(s => {
                     const regionColor = s.region === 'North' ? '#0054A6' : (s.region === 'Ha Noi' ? '#8b5cf6' : (s.region === 'Middle' ? '#FFD100' : '#ED1C24'));
@@ -606,7 +612,7 @@
                             if (!marker.isHighlighted) {
                                 marker.setStyle(marker.originalStyle);
                                 if (window.activeCranLink) {
-                                    window.cranLinksLayer.removeLayer(window.activeCranLink);
+                                    cranLayer.removeLayer(window.activeCranLink);
                                     window.activeCranLink = null;
                                 }
                             }
@@ -621,9 +627,23 @@
                             showFloatingCard(s); 
                         }
                     });
+                    
+                    if (document.getElementById('showSectors').checked && s.sectors) {
+                        s.sectors.forEach(sec => {
+                            L.semiCircleMarker([s.lat, s.lon], {
+                                radius: s.is_vip ? 25 : 20,
+                                fillColor: sec.tech === '5G' ? '#8b5cf6' : '#3b82f6',
+                                color: sec.tech === '5G' ? '#7c3aed' : '#2563eb',
+                                weight: 1,
+                                fillOpacity: 0.6,
+                                startAngle: sec.azimuth - 30,
+                                stopAngle: sec.azimuth + 30
+                            }).addTo(sectorsLayer);
+                        });
+                    }
+
                     markers.addLayer(marker);
                     siteMarkers[s.site_name] = marker;
-
                 });
                 
                 map.addLayer(markers);
